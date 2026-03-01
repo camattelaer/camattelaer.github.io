@@ -3,4 +3,4 @@ layout: home
 author_profile: true
 ---
 
-Welcome to my research website.
+Welcome to my personal website.
