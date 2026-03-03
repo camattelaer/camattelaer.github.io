@@ -10,3 +10,20 @@ plugins:
 
 markdown: kramdown
 highlighter: rouge
+
+atom_feed:
+ hide: true
+
+footer:
+ links:
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linked.com/in/camattelaer"
+
+  - label: "ORCID"
+    icon: "fab fa-orcid"
+    url: "https://orcid.org/0000-0002-8801-062X"
+
+  - label: "Google Scholar"
+    icon: "fas fa-graduation-cap"
+    url: "https://scholar.google.com/citations?user=C1_8_scAAAAJ"
