@@ -35,3 +35,16 @@ collections:
   sysadmin:
     output: true
     permalink: /sysadmin/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: computational-chemistry
+    values:
+      layout: single
+
+  - scope:
+      path: ""
+      type: sysadmin
+    values:
+      layout: single
