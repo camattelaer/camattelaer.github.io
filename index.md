@@ -5,20 +5,17 @@ author_profile: true
 
 ## Latest Posts
 
-## Latest Posts
-
-{% assign latest_compchem = site["computational-chemistry"] | sort: "date" | reverse | first %}
-{% assign latest_sysadmin = site.sysadmin | sort: "date" | reverse | first %}
-
-{% if latest_compchem %}
 ### Computational Chemistry
-{% include archive-single.html post=latest_compchem type="list" %}
-{% endif %}
+{% assign compchem_sorted = site["computational-chemistry"] | sort: "date" | reverse %}
+{% for post in compchem_sorted limit:1 %}
+  {% include archive-single.html type="list" %}
+{% endfor %}
 
-{% if latest_sysadmin %}
 ### Sysadmin
-{% include archive-single.html post=latest_sysadmin type="list" %}
-{% endif %}
+{% assign sysadmin_sorted = site.sysadmin | sort: "date" | reverse %}
+{% for post in sysadmin_sorted limit:1 %}
+  {% include archive-single.html type="list" %}
+{% endfor %}
 
 Welcome to my personal website.
 
