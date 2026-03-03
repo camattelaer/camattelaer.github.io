@@ -36,6 +36,8 @@ collections:
     output: true
     permalink: /sysadmin/:path/
 
+show_excerpts: true
+
 defaults:
   - scope:
       path: ""
@@ -48,3 +50,10 @@ defaults:
       type: sysadmin
     values:
       layout: single
+
+paginate: 5
+paginate_path: /page:num/
+
+include:
+ - _computational-chemistry
+ - _sysadmin
