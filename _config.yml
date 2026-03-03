@@ -27,3 +27,11 @@ footer:
   - label: "Google Scholar"
     icon: "fas fa-graduation-cap"
     url: "https://scholar.google.com/citations?user=C1_8_scAAAAJ"
+
+collections:
+  computational-chemistry:
+    output: true
+    permalink: /computational-chemistry/:path/
+  sysadmin:
+    output: true
+    permalink: /sysadmin/:path/
