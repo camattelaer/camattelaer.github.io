@@ -22,3 +22,36 @@
 .author__urls-wrapper .btn {
   display: none !important;
 }
+
+/* Homepage featured posts layout */
+
+.homepage-featured {
+  display: flex;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.featured-box {
+  flex: 1;
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.featured-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.featured-box h3 {
+  margin-top: 0;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .homepage-featured {
+    flex-direction: column;
+  }
+}
