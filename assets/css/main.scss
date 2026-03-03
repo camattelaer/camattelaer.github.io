@@ -1,9 +1,20 @@
-.page__footer-follow ul {
-  display: flex;
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+/* Custom footer layout */
+.page__footer-follow .social-icons {
+  display: flex !important;
   justify-content: space-evenly;
+  align-items: center;
   width: 100%;
+  padding: 0;
 }
 
-.page__footer-follow li {
-  margin: 0;
+.page__footer-follow .social-icons li {
+  margin: 0 !important;
+  flex: 1;
+  text-align: center;
 }
