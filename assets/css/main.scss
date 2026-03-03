@@ -27,14 +27,15 @@
 
 .homepage-featured {
   display: flex;
-  gap: 2rem;
+  gap: 1.5rem;
   margin-top: 1.5rem;
 }
 
 .featured-box {
-  flex: 1;
+  flex: 1 1 0;
+  min-width: 0; /* prevents overflow issues */
   background: #ffffff;
-  padding: 1.5rem;
+  padding: 1.25rem;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -47,11 +48,5 @@
 
 .featured-box h3 {
   margin-top: 0;
-}
-
-/* Mobile responsive */
-@media (max-width: 768px) {
-  .homepage-featured {
-    flex-direction: column;
-  }
+  font-size: 1.1rem;
 }
