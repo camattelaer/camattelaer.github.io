@@ -1,0 +1,6 @@
+main:
+  - title: "CompChem"
+    url: /computational-chemistry/
+
+  - title: "Sysadmin"
+    url: /sysadmin/
