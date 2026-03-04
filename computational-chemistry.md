@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: "Computational chemistry"
 collection: computational-chemistry
 permalink: /computational-chemistry/
