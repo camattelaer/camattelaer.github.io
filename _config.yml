@@ -5,7 +5,7 @@ baseurl: ""
 
 author:
   name: Charles-Alexandre Mattelaer
-  avatar: /assets/images/bio.png
+  avatar: /assets/images/bio.jpg
   bio: I need to write this
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -23,7 +23,7 @@ footer:
  links:
   - label: "LinkedIn"
     icon: "fab fa-linkedin"
-    url: "https://www.linked.com/in/camattelaer"
+    url: "https://www.linked.com/in/camattelaer&utm_content=profile"
 
   - label: "ORCID"
     icon: "fab fa-orcid"
