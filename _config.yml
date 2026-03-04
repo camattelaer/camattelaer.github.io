@@ -3,6 +3,11 @@ description: Computational (bio)chemist
 url: "https://camattelaer.github.io"
 baseurl: ""
 
+author:
+  name: Charles-Alexandre Mattelaer
+  avatar: /assets/images/bio.png
+  bio: I need to write this
+
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
@@ -39,6 +44,10 @@ collections:
 show_excerpts: true
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      classes: wide
   - scope:
       path: ""
       type: computational-chemistry
