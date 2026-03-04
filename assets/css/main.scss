@@ -50,3 +50,13 @@
   margin-top: 0;
   font-size: 1.1rem;
 }
+
+/* Remove sidebar space on collection pages */
+
+.layout--collection .sidebar {
+  display: none;
+}
+
+.layout--collection .page__content{
+  width: 100%
+}

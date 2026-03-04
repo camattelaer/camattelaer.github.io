@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: collection
 title: "Sysadmin"
 collection: sysadmin
 permalink: /sysadmin/
