@@ -51,12 +51,31 @@
   font-size: 1.1rem;
 }
 
-/* Remove sidebar space on collection pages */
+/* collection post cards */
 
-.layout--collection .sidebar {
-  display: none;
+.layout--collection .archive__item {
+  background: #ffffff;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 12px
+  border: 1 px solid #e6e6e6;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.layout--collection .page__content{
-  width: 100%
+.layout--collection .archive__item:hover {
+  translate: translateY(-3px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* remove blue link style from collection titles */
+
+.layout--collection .archive__item-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.layout--collection .archive__item-title a:hover {
+  text_decoration: none;
+  color: inherit;
 }
