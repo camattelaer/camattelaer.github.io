@@ -23,7 +23,7 @@ footer:
  links:
   - label: "LinkedIn"
     icon: "fab fa-linkedin"
-    url: "www.linked.com/in/camattelaer"
+    url: "https://www.linked.com/in/camattelaer"
 
   - label: "ORCID"
     icon: "fab fa-orcid"
