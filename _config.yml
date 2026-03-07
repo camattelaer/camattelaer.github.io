@@ -33,8 +33,10 @@ footer:
     icon: "fas fa-graduation-cap"
     url: "https://scholar.google.com/citations?user=C1_8_scAAAAJ"
 
+archive:
+    show_date: true
+    
 collections:
-  show_date: true
   computational-chemistry:
     output: true
     permalink: /computational-chemistry/:path/
