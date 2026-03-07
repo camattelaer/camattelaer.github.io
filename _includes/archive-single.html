@@ -1,10 +1,14 @@
 <article class="archive__item">
 
-  {% if post.header.teaser %}
+{% if post.header.teaser %}
     <div class="archive__item-teaser">
-      <img src="{{ post.header.teaser | relative_url }}" alt="">
-    </div>
-  {% endif %}
+        <img
+            src="{{ post.header.teaser | relative_url }}"
+            alt=""
+            class="archive__item-teaser-img"
+        >
+  </div>
+{% endif %}
 
   <div class="archive__item-body">
 
