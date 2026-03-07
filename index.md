@@ -14,7 +14,7 @@ I started this website for two reasons.
 
 2) On a more personal note, I was on the lookout for hobbies that would only require several minutes of time for some sense of achievement. Maintaining a website, gathering info for a post on said website or actually writing that post seemed like an excellent way of spending just a few minutes doing things I enjoy.
 
-# Latest Posts
+## Latest Posts
 
 <div class="homepage-featured">
 
