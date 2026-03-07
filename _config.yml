@@ -34,6 +34,7 @@ footer:
     url: "https://scholar.google.com/citations?user=C1_8_scAAAAJ"
 
 collections:
+  show_date: true
   computational-chemistry:
     output: true
     permalink: /computational-chemistry/:path/
