@@ -4,5 +4,6 @@ title: "Sysadmin"
 collection: sysadmin
 permalink: /sysadmin/
 entries_layout: grid
-show_date: true
+sort_by: date
+sort_order: reverse
 ---
