@@ -85,3 +85,16 @@
   color: #777;
   margin: 0 0 0.25rem 0;
 }
+
+.archive__item-teaser {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+}
+
+.archive__item-teaser img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
