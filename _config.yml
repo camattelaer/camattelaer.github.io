@@ -6,7 +6,7 @@ baseurl: ""
 author:
   name: Charles-Alexandre Mattelaer
   avatar: /assets/images/bio.jpg
-  bio: I need to write this
+  bio: "Pharmacist by study, Computational Chemist by training and hardware aficionado"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
