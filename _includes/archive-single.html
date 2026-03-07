@@ -21,7 +21,8 @@
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.date %}
         <p class="archive__item-date">
-        {{ post.date | date: "%Y-%m-%d" }}
+          <i class="far fa-calendar-alt" aria-hidden="true"></i>
+          {{ post.date | date: "%Y-%m-%d" }}
         </p>
       {% endif %}
       {% if post.link %}
