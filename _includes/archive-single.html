@@ -1,19 +1,31 @@
 <article class="archive__item">
-  <h2 class="archive__item-title">
-    <a href="{{ post.url | relative_url }}" rel="permalink">
-      {{ post.title }}
-    </a>
-  </h2>
 
-  {% if post.date %}
-    <p class="archive__item-date">
-      {{ post.date | date: site.date_format | default: "%B %-d, %Y" }}
-    </p>
+  {% if post.header.teaser %}
+    <div class="archive__item-teaser">
+      <img src="{{ post.header.teaser | relative_url }}" alt="">
+    </div>
   {% endif %}
 
-  {% if post.excerpt %}
-    <p class="archive__item-excerpt">
-      {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
-    </p>
-  {% endif %}
+  <div class="archive__item-body">
+
+    {% if post.date %}
+      <p class="archive__item-date">
+        {{ post.date | date: "%Y-%m-%d" }}
+      </p>
+    {% endif %}
+
+    <h2 class="archive__item-title">
+      <a href="{{ post.url | relative_url }}" rel="permalink">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt">
+        {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+      </p>
+    {% endif %}
+
+  </div>
+
 </article>
