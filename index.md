@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: true
+title: Welcome to my personal website.
 ---
-
-# Welcome to my personal website.
 
 ## About me
 
