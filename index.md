@@ -14,6 +14,19 @@ I started this website for two reasons.
 
 2) On a more personal note, I was on the lookout for hobbies that would only require several minutes of time for some sense of achievement. Maintaining a website, gathering info for a post on said website or actually writing that post seemed like an excellent way of spending just a few minutes doing things I enjoy.
 
+A third reason that came across my mind might be reaching people who are not so fortunate with available hardware. If you come across this website and would be in need of technical assistance with calculations or hardware to run them on. Please feel free to reach out. Remember that it is just me running this joint and I have a full time job and three small children so I will not be able to provide on-the-fly responses.
+
+## Software
+
+I prefer scientific software that is free for academic or personal use. Here is a non-exhaustive list of software I have experience with and available on my system:
+
+- Molecular dynamics: AMBER, Gromacs, OpenMM
+- Quantum chemistry: ORCA, Gamess
+- General molecular modeling: Atomic Simulation Environment (ASE),
+- Data analysis/maths: Python, Julia
+
+Most of the posts on the website will relate to the software mentioned in the list above.
+
 ## Latest Posts
 
 <div class="homepage-featured">
