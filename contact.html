@@ -1,0 +1,31 @@
+---
+title: Contact
+layout: single
+permalink: /contact/
+classes: wide
+---
+
+<form action="https://formspree.io/f/mreozerg" method="POST">
+  <div style="margin-bottom: 1em;">
+    <label for="name">Name</label><br>
+    <input type="text" id="name" name="name" required
+      style="width:100%; padding:0.5em; font-size:1em;">
+  </div>
+  <div style="margin-bottom: 1em;">
+    <label for="email">Email</label><br>
+    <input type="email" id="email" name="_replyto" required
+      style="width:100%; padding:0.5em; font-size:1em;">
+  </div>
+  <div style="margin-bottom: 1em;">
+    <label for="message">Message</label><br>
+    <textarea id="message" name="message" rows="6" required
+      style="width:100%; padding:0.5em; font-size:1em;"></textarea>
+  </div>
+
+  <!-- hCaptcha -->
+  <div class="h-captcha" data-sitekey="26669c4a-1840-4dbc-aa52-5faa6166ae9e"></div>
+  <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+
+  <br>
+  <button type="submit" style="padding:0.6em 1.5em; font-size:1em;">Send</button>
+</form>

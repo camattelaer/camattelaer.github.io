@@ -4,3 +4,6 @@ main:
 
   - title: "Sysadmin"
     url: /sysadmin/
+
+  - title: "Contact"
+    url: /contact/

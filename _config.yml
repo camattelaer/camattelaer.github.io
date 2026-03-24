@@ -19,7 +19,7 @@ highlighter: rouge
 
 atom_feed:
   hide: true
-  
+
 footer:
   links:
     - label: "LinkedIn"
@@ -34,7 +34,7 @@ footer:
     - label: "Sysadmin"
       icon: "fas fa-rss"
       url: "/feed.sysadmin.xml"
-    - label: "Comp. Chemistry"
+    - label: "CompChem"
       icon: "fas fa-rss"
       url: "/feed.computational-chemistry.xml"
 
