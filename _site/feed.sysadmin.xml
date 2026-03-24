@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4001/feed.sysadmin.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2026-03-24T20:56:48+01:00</updated><id>http://localhost:4001/feed.sysadmin.xml</id><title type="html">Charles-Alexandre Mattelaer | Sysadmin</title><subtitle>Computational (bio)chemist</subtitle><author><name>Charles-Alexandre Mattelaer</name></author><entry><title type="html">Running your Github Pages website locally</title><link href="http://localhost:4001/sysadmin/2026-03-24/" rel="alternate" type="text/html" title="Running your Github Pages website locally" /><published>2026-03-24T00:00:00+01:00</published><updated>2026-03-24T00:00:00+01:00</updated><id>http://localhost:4001/sysadmin/2026-03-24</id><content type="html" xml:base="http://localhost:4001/sysadmin/2026-03-24/"><![CDATA[<p>My Github contributions were temporarily and artificially boosted when I started my website, see Figure 1. I really did not want my Github contribution overview to be biased because of my inability to build this website. For this particular reason, I decided to figure out how to publish the site locally to build new content and when I am satisfied with the looks and feel, publish it to the online repository.</p>
+
+<div style="width: 75%; margin: 0 auto 1em auto; text-align: center;">
+  <img src="/assets/images/sysadmin/2026-03-24/2026-03-24_github.jpg" alt="Figure 1" style="width: 100%; height: auto;" />
+  <div style="
+    font-family: 'Palatino linotype';
+    font-size: 0.9em;
+    font-style: italic;
+    color: #666;
+    margin-top: 0.5em;
+  ">
+  Figure 1: My Github contributions. The red box indicates contributions from building and troubleshooting my website.
+  </div>
+</div>
+
+<h2 id="step-1-install-ruby">Step 1: install <code class="language-plaintext highlighter-rouge">ruby</code></h2>
+
+<p>Since I am currently working from my media server which runs Windows 11, the install steps are (currently?) limited for Windows only. In the future, I might add for Mac and Linux, but installing <code class="language-plaintext highlighter-rouge">ruby</code> is normally rather trivial so you could find other sources to help you along.</p>
+
+<p>Firstly, download the <code class="language-plaintext highlighter-rouge">RubyInstaller</code> executable from this <a href="https://rubyinstaller.org/downloads/">link</a>. Execute the installer like you would for other Windows programs and make sure to select the option to add the install folder to <code class="language-plaintext highlighter-rouge">PATH</code>. If the installer has finished, you should open a terminal (quick access by <code class="language-plaintext highlighter-rouge">Windows key + r</code> and enter <code class="language-plaintext highlighter-rouge">cmd</code> in the dialog box). In the terminal, enter <code class="language-plaintext highlighter-rouge">ruby -v</code> to check if the binary can be found.</p>
+
+<h2 id="step-2-install-ruby-dependencies">Step 2: install <code class="language-plaintext highlighter-rouge">ruby</code> dependencies</h2>
+
+<p>With <code class="language-plaintext highlighter-rouge">ruby</code> installed, the only dependency we need to install is <code class="language-plaintext highlighter-rouge">bundle</code>. So run <code class="language-plaintext highlighter-rouge">gem install bundle</code>. <code class="language-plaintext highlighter-rouge">bundle</code> will require a <code class="language-plaintext highlighter-rouge">Gemfile</code> to be present in your repo root. If this is not present create a <code class="language-plaintext highlighter-rouge">Gemfile</code> with the following content:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+</code></pre></div></div>
+
+<p>If a <code class="language-plaintext highlighter-rouge">Gemfile</code> is present, you can build the dependencies using <code class="language-plaintext highlighter-rouge">bundle install</code> from the repo root.</p>
+
+<h2 id="step-3-run-the-website">Step 3: run the website</h2>
+<p>After installing the necessary dependencies, the website can be launched via <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code>. This will by default use <code class="language-plaintext highlighter-rouge">localhost:4000</code> to host the website. In my particular case, port 4000 was not available so I simply routed to port 4001 by executing <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve --port 4001</code>. Normally, this will launch your website if the port is available and all you have to do to visit the website is browse to <code class="language-plaintext highlighter-rouge">http://localhost:&lt;PORT&gt;</code> to visualize the website, see Figure 2.</p>
+
+<div style="width: 75%; margin: 0 auto 1em auto; text-align: center;">
+  <img src="/assets/images/sysadmin/2026-03-24/website_local.jpg" alt="Figure 12" style="width: 100%; height: auto;" />
+  <div style="
+    font-family: 'Palatino linotype';
+    font-size: 0.9em;
+    font-style: italic;
+    color: #666;
+    margin-top: 0.5em;
+  ">
+  Figure 2: Locally hosted version of my website, as indicated by the red box.
+  </div>
+</div>]]></content><author><name>Charles-Alexandre Mattelaer</name></author><summary type="html"><![CDATA[My Github contributions were temporarily and artificially boosted when I started my website, see Figure 1. I really did not want my Github contribution overview to be biased because of my inability to build this website. For this particular reason, I decided to figure out how to publish the site locally to build new content and when I am satisfied with the looks and feel, publish it to the online repository.]]></summary></entry><entry><title type="html">Compiling AMBER for modern GPU architecture</title><link href="http://localhost:4001/sysadmin/2026-03-11/" rel="alternate" type="text/html" title="Compiling AMBER for modern GPU architecture" /><published>2026-03-11T00:00:00+01:00</published><updated>2026-03-11T00:00:00+01:00</updated><id>http://localhost:4001/sysadmin/2026-03-11</id><content type="html" xml:base="http://localhost:4001/sysadmin/2026-03-11/"><![CDATA[<p>The dread of every computational chemist is compiling your scientific software. If you rely on campus or government clusters, you can probably rely on <strong>real</strong> sysadmins. However, when you are running your own system, you have to roll up your sleeves and do the dirty work yourself.</p>
+
+<p>The compilation of the AMBER source code is rather straightforward (see the <a href="https://ambermd.org/Manuals.php">manual</a>):</p>
+<ol>
+  <li>make sure to install necessary dependencies</li>
+  <li>modify the <code class="language-plaintext highlighter-rouge">run_cmake</code> to point to the correct install location and include the necessary cmake flags (e.g. MPI, CUDA)</li>
+  <li>run <code class="language-plaintext highlighter-rouge">$ ./run_cmake</code></li>
+  <li>run <code class="language-plaintext highlighter-rouge">$ make install</code> or <code class="language-plaintext highlighter-rouge">$ make install -jX</code> where <code class="language-plaintext highlighter-rouge">X</code> is the number of parallel processes
+and you are done!</li>
+</ol>
+
+<p>For v2 of the cluster, I bought an RTX Pro 4000 card. The RTX Pro 4000 has a brandspanking new Blackwell architecture. Several issues came up after installation of the card:</p>
+<ol>
+  <li>Black screen on boot. It displayed the startup sequence from motherboard and rendered the BIOS so it had to be a Linux specific issue and not hardware related. I found this post on <a href="https://www.reddit.com/r/comfyui/comments/1li8cly/troubleshooting_nvidia_driver_installation_for_a/">Reddit</a> which was the exact same issue! The solution? Open source drivers was all it took to correct this error.</li>
+  <li>When trying the RTX Pro 4000 for AMBER, I encountered an obscure error I had never seen before: <code class="language-plaintext highlighter-rouge">cudaMemcpyToSymbol: SetSim copy to cSim failed no kernel image is available for execution on the device</code>. AMBER worked perfectly on the two RTX 4000 ADA cards (older architecture). I did not have to find long for a solution as it appeared quite easily when searching for this particular error in Google. As explained in this <a href="https://forums.developer.nvidia.com/t/amber24-on-rtx5090/328465/3">link</a>, you need to modify some of the config files. Just for the sake of completeness, I only had 1 of those files in the <code class="language-plaintext highlighter-rouge">src</code> present (<code class="language-plaintext highlighter-rouge">amber24_src/cmake/CudaConfig.cmake</code>) and the entry on line 17 of that particular file was <code class="language-plaintext highlighter-rouge">set(SM120FLAGS -gencode arch=compute_120,code=sm_120)</code> simply changing this line to <code class="language-plaintext highlighter-rouge">set(SM120FLAGS -gencode arch=compute_120,code="compute_120,sm_120")</code> was not enough. Lines 19 and 21 had similar content but <code class="language-plaintext highlighter-rouge">100</code> and <code class="language-plaintext highlighter-rouge">90</code> instead of <code class="language-plaintext highlighter-rouge">120</code>, respectively. I modified those two lines in the same way and now <code class="language-plaintext highlighter-rouge">pmemd.cuda</code> DID startup on the RTX Pro 4000. Great success!</li>
+</ol>
+
+<p>As you can see, doing your own sysadmin is often searching what you do not know and rationalizing whether the info you find makes sense or not. Anyhow, I wanted to quickly jot this down as an example of the ‘‘sysadmin’’ work I do.</p>
+
+<p>See you next time!</p>]]></content><author><name>Charles-Alexandre Mattelaer</name></author><summary type="html"><![CDATA[The dread of every computational chemist is compiling your scientific software. If you rely on campus or government clusters, you can probably rely on real sysadmins. However, when you are running your own system, you have to roll up your sleeves and do the dirty work yourself.]]></summary></entry><entry><title type="html">It’s alive!</title><link href="http://localhost:4001/sysadmin/2026-03-07/" rel="alternate" type="text/html" title="It’s alive!" /><published>2026-03-07T00:00:00+01:00</published><updated>2026-03-07T00:00:00+01:00</updated><id>http://localhost:4001/sysadmin/2026-03-07</id><content type="html" xml:base="http://localhost:4001/sysadmin/2026-03-07/"><![CDATA[<p>At the end of August in 2025, v1.0 of my home cluster was fully operational. It was a moment I am still very proud of because I dreamed of having my own little cluster at home ever since venturing in the world of computational chemistry.</p>
+
+<div style="float: right; width: 50%; margin-left: 1.5em; margin-bottom: 1em; text-align: center;">
+  <img src="/assets/images/sysadmin/20250826_121202.jpg" alt="My home cluster" style="width: 100%; height: auto;" />
+  <div style="
+    font-family: 'Palatino linotype';
+    font-size: 0.9em;
+    font-style: italic;
+    color: #666;
+    margin-top: 0.5em;
+  ">
+  My home cluster.
+  </div>
+</div>
+
+<p>I built this setup by collecting old hardware over the years, oaccompanied by purchases of both new and used parts. One of the used parts is the HP ML350 gen 10 system (middle). Unfortunately, I kept encountering power brake issues when installing GPUs in this machine (something I haven’t been able to fix to date). This issue forced me to setup a Windows Subsystem for Linux (WSL) VM to provide GPU compute capabilities.</p>
+
+<p>In addition, I had other GPUs available which did not fit in my personal Windows system (since it also houses a RAID card). I bought a used Intel i7 6800K and an X99 motherboard and combined those into a dedicated GPU node. The result, after transferring the hardware into rackmounted cases, is version 1.0 of my own little home compute node!</p>
+
+<p>I am currently working on v2.0. When this update is finished, I will also gives a bit more details about each individual node.</p>
+
+<p>Stay tuned!</p>]]></content><author><name>Charles-Alexandre Mattelaer</name></author><summary type="html"><![CDATA[At the end of August in 2025, v1.0 of my home cluster was fully operational. It was a moment I am still very proud of because I dreamed of having my own little cluster at home ever since venturing in the world of computational chemistry.]]></summary></entry></feed>

@@ -12,26 +12,31 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
 
 markdown: kramdown
 highlighter: rouge
 
 atom_feed:
- hide: true
-
+  hide: true
+  
 footer:
- links:
-  - label: "LinkedIn"
-    icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/camattelaer"
-
-  - label: "ORCID"
-    icon: "fab fa-orcid"
-    url: "https://orcid.org/0000-0002-8801-062X"
-
-  - label: "Google Scholar"
-    icon: "fas fa-graduation-cap"
-    url: "https://scholar.google.com/citations?user=C1_8_scAAAAJ"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/camattelaer"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-8801-062X"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=C1_8_scAAAAJ"
+    - label: "Sysadmin"
+      icon: "fas fa-rss"
+      url: "/feed.sysadmin.xml"
+    - label: "Comp. Chemistry"
+      icon: "fas fa-rss"
+      url: "/feed.computational-chemistry.xml"
 
 collections:
   computational-chemistry:
@@ -66,3 +71,10 @@ paginate_path: /page:num/
 include:
  - _computational-chemistry
  - _sysadmin
+
+feed:
+  collections:
+    computational-chemistry:
+      path: "/feed.computational-chemistry.xml"
+    sysadmin:
+      path: "/feed.sysadmin.xml"
