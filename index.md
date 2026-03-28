@@ -5,16 +5,21 @@ title: Welcome to my personal website.
 ---
 
 ## About me
+My name is Charles-Alexandre Mattelaer. I entered computational chemistry in 2016 at the start of my PhD, drawn in by curiosity for the science itself and what we can learn from it.
+
+I have a hands-on approach to the field: beyond the calculations, I enjoy building and maintaining the hardware they run on myself. This website is a byproduct of that: a place to document things that took me a while to figure out, so others wouldn't have to start from scratch.
+
+I write here in the gaps between a full-time job and life with three young kids, so posts are infrequent but come when they come and originate from genuine experience. If something here is useful to you, that would exactly be the point.
 
 ## Why make a website?
 
-I started this website for two reasons.
+This website exists for a couple of reasons.
 
-1) Some things took a while to figure out - and perhaps also some wrong purchases when it comes to hardware. I want to share my experiences for people with similar interest and who are looking for information to start with either computational chemistry or "sysadmin" related topics (i.e. building your own workstation, NAS, or installing scientific software). 
+First, some things took me longer to figure out than they should have. And I made a few hardware purchases along the way I'd rather not repeat. If you're getting started with computational chemistry or building your own workstation, NAS, or scientific software setup, I hope something here saves you some time and/or money.
 
-2) On a more personal note, I was on the lookout for hobbies that would only require several minutes of time for some sense of achievement. Maintaining a website, gathering info for a post on said website or actually writing that post seemed like an excellent way of spending just a few minutes doing things I enjoy.
+Second, I was looking for a hobby that fits into the gaps of a busy day. Writing up a post, collecting notes, or just tidying a page turned out to be a surprisingly satisfying way to spend a few spare minutes on something I actually enjoy.
 
-A third reason that came across my mind might be reaching people who are not so fortunate with available hardware. If you come across this website and would be in need of technical assistance with calculations or hardware to run them on. Please feel free to reach out. Remember that it is just me running this joint and I have a full time job and three small children so I will not be able to provide on-the-fly responses.
+Perhaps as a third reason: if you've landed here and are limited by the hardware available to you, feel free to reach out. I'm happy to help where I can whether that's advice on calculations or something more hands-on. Just keep in mind that it's only me here, with a full-time job and three young kids, so don't expect a quick reply.
 
 ## Software
 
@@ -26,6 +31,36 @@ I prefer scientific software that is free for academic or personal use. Here is 
 - Data analysis/maths: Python, Julia
 
 Most of the posts on the website will relate to the software mentioned in the list above.
+
+## Current topics for upcoming posts
+
+| | | | | | |
+|:-:|:-|:-:|:-|:-:|:-|
+| 🟡 | Pending | 🔴 | In progres | 🟢 | Done |
+
+### Molecular mechanics and dynamics
+
+| Status |  <span style="display: inline-block; width:500px">Topic</span>  | Article |
+|:------:|-------|---------|
+| 🟡 | MM-GBSA and MM-PBSA: what it is & example | |
+| 🟡 | Entropy and MM-GBSA | |
+| 🟡 | QM/MM-GBSA | |
+| 🟡 | MM-GBSA versus Steered MD | |
+
+### Quantum mechanics
+
+| Status |  <span style="display: inline-block; width:500px">Topic</span> | Article |
+|:------:|-------|---------|
+| 🟡 | Exploring `OPI` v2 ("Orca Python Interface") | |
+| 🟡 | Exploring `MultiWFN` and non-covalent interaction (NCI) analysis | |
+
+### Sysadmin
+
+| Status | <span style="display: inline-block; width:500px">Topic</span> | Article |
+|:------:|-------|---------|
+| 🔴 | Home cluster v2 & breakdown of each node | |
+
+<!-- | 🟢 | MM-GBSA and MM-PBSA: what it is & example | [Read →](https://yoursite.com/mm-gbsa) | -->
 
 ## Latest Posts
 

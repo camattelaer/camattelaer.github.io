@@ -5,5 +5,8 @@ main:
   - title: "Sysadmin"
     url: /sysadmin/
 
+  - title: "Publications"
+    url: /list-of-publications/
+
   - title: "Contact"
     url: /contact/
