@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: List of scientific publications
+permalink: /list-of-publications/
 ---
 
 ## <i class="fa-solid fa-file-lines"></i> Article papers
