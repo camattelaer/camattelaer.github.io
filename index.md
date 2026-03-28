@@ -51,6 +51,7 @@ Most of the posts on the website will relate to the software mentioned in the li
 
 | Status |  <span style="display: inline-block; width:500px">Topic</span> | Article |
 |:------:|-------|---------|
+| 🔴 | HNA helical geometries | |
 | 🟡 | Exploring `OPI` v2 ("Orca Python Interface") | |
 | 🟡 | Exploring `MultiWFN` and non-covalent interaction (NCI) analysis | |
 
