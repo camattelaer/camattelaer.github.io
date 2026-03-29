@@ -2,7 +2,13 @@
 # Only the main Sass file needs front matter
 ---
 
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
+
 @import "minimal-mistakes";
+
+body {
+  font-family: "Source Sans 3", "Source Sans Pro", sans-serif;
+}
 
 /* Custom footer layout */
 .page__footer-follow .social-icons {

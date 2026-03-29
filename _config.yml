@@ -17,6 +17,9 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+kramdown:
+  math_engine: null
+
 atom_feed:
   hide: true
 
