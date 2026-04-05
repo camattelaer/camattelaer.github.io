@@ -1,0 +1,25 @@
+<div id="{{ include.id | default: 'mol-viewer' }}"
+     style="width:100%; height:{{ include.height | default: '400px' }}; position:relative; border:1px solid #ccc; border-radius:4px;">
+</div>
+
+<script>
+(function() {
+  var viewer = $3Dmol.createViewer("{{ include.id | default: 'mol-viewer' }}", {
+    backgroundColor: "{{ include.bg | default: 'white' }}"
+  });
+
+  {% if include.pdb %}
+    $3Dmol.download("pdb:{{ include.pdb }}", viewer, {}, function() {
+      viewer.setStyle({}, { cartoon: { color: "spectrum" } });
+      viewer.zoomTo();
+      viewer.render();
+    });
+  {% elsif include.file %}
+    $3Dmol.download("url:{{ include.file }}", viewer, {}, function() {
+      viewer.setStyle({}, { stick: {} });
+      viewer.zoomTo();
+      viewer.render();
+    });
+  {% endif %}
+})();
+</script>

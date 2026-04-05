@@ -2,7 +2,35 @@
 # Only the main Sass file needs front matter
 ---
 
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
+
 @import "minimal-mistakes";
+
+body {
+  font-family: "Source Sans 3", "Source Sans Pro", sans-serif;
+}
+
+/* fix wide layout */
+body.layout--single.single .initial-content {
+  align-self: stretch;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+body.layout--single.single .page {
+  padding-inline-end: 0 !important;
+}
+
+body.layout--single.wide .initial-content {
+  display: block;
+}
+
+body.layout--single.wide .page {
+  width: 100% !important;
+  padding-inline-end: 0 !important;
+  float: none !important;
+}
+
 
 /* Custom footer layout */
 .page__footer-follow .social-icons {

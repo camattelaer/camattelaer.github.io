@@ -1,5 +1,6 @@
 ---
 layout: collection
+classes: wide
 title: "Computational chemistry"
 collection: computational-chemistry
 permalink: /computational-chemistry/

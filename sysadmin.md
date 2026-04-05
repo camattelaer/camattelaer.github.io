@@ -1,5 +1,6 @@
 ---
 layout: collection
+classes: wide
 title: "Sysadmin"
 collection: sysadmin
 permalink: /sysadmin/

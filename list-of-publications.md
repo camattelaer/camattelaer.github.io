@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: single
 author_profile: true
 title: List of scientific publications
 permalink: /list-of-publications/
