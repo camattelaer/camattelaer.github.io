@@ -55,18 +55,22 @@ defaults:
   - scope:
       path: ""
     values:
-      classes: wide
+      classes: single
+      author_profile: false
   - scope:
       path: ""
       type: computational-chemistry
     values:
       layout: single
-
+      classes: single
+      author_profile: false
   - scope:
       path: ""
       type: sysadmin
     values:
       layout: single
+      classes: single
+      author_profile: false
 
 paginate: 5
 paginate_path: /page:num/
@@ -81,3 +85,6 @@ feed:
       path: "/feed.computational-chemistry.xml"
     sysadmin:
       path: "/feed.sysadmin.xml"
+
+kramdown:
+  toc_levels: "2..2"

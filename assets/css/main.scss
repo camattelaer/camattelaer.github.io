@@ -10,6 +10,28 @@ body {
   font-family: "Source Sans 3", "Source Sans Pro", sans-serif;
 }
 
+/* fix wide layout */
+body.layout--single.single .initial-content {
+  align-self: stretch;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+body.layout--single.single .page {
+  padding-inline-end: 0 !important;
+}
+
+body.layout--single.wide .initial-content {
+  display: block;
+}
+
+body.layout--single.wide .page {
+  width: 100% !important;
+  padding-inline-end: 0 !important;
+  float: none !important;
+}
+
+
 /* Custom footer layout */
 .page__footer-follow .social-icons {
   display: flex !important;

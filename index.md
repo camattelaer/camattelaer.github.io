@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: single
 author_profile: true
 title: Welcome to my personal website.
 ---
