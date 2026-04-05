@@ -88,3 +88,7 @@ feed:
 
 kramdown:
   toc_levels: "2..2"
+  input: GFM
+
+exclude:
+  - _computational-chemistry/HNAgeometries.md
