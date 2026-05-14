@@ -1,13 +1,13 @@
 ---
-layout: post
 title: "Building a QM/ML pKa Calculator: Adventures in Protonation State Population"
 date: 2026-04-25
+layout: single
+classes: wide
+author_profile: false
 categories: [computational-chemistry, machine-learning, python]
 tags: [pKa, GFN2-xTB, ORCA, GPR, protonation, QM/ML]
 math: true
 ---
-
-# Building a QM/ML pKa Calculator: Adventures in Protonation State Population
 
 A molecule's protonation state is rarely a settled question. Depending on the pH of its environment, a drug candidate might carry a positive charge, a negative one, or none at all — and the correct form matters enormously for binding, solubility, permeability, and toxicity. Getting this right computationally is harder than it sounds, and this post chronicles how we built a Python workflow to tackle it, combining quantum mechanical (QM) free energy calculations with a machine learning (ML) calibration layer.
 
