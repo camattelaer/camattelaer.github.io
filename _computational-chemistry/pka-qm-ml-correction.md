@@ -13,7 +13,7 @@ header:
 ### Disclaimer
 Files and code relevant for this post have been made available:
  - [Github](https://github.com/camattelaer/pKa-calc_LFER): code and model
- - [Zenodo](): code, model and raw data
+ - [Zenodo](https://zenodo.org/records/20236765): code, model and raw data
 
 ---
 
