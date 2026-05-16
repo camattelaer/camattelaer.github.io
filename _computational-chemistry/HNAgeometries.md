@@ -1,6 +1,6 @@
 ---
 title: "The geometry of HNA duplexes"
-date: 2026-01-01
+date: 2099-01-01
 layout: single
 classes: single
 author_profile: false

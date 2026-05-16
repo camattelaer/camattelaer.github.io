@@ -49,6 +49,7 @@ collections:
     output: true
     permalink: /sysadmin/:path/
 
+future: false
 show_excerpts: true
 
 defaults:
@@ -89,6 +90,3 @@ feed:
 kramdown:
   toc_levels: "2..2"
   input: GFM
-
-exclude:
-  - _computational-chemistry/HNAgeometries.md
