@@ -5,6 +5,9 @@ main:
   - title: "Sysadmin"
     url: /sysadmin/
 
+  - title: "Activity"
+    url: /todo/
+
   - title: "Publications"
     url: /list-of-publications/
 

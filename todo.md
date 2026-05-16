@@ -1,11 +1,11 @@
 ---
 title: "To do list for post in progress"
-date: 2026-04-05
 layout: single
 classes: wide
 author_profile: false
 math: true
 molecule: true
+permalink: /todo/
 ---
 
 ## last updated: 2026/04/05

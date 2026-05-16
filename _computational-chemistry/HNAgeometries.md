@@ -1,6 +1,6 @@
 ---
 title: "The geometry of HNA duplexes"
-date: 2027-01-01
+date: 2099-01-01
 layout: single
 classes: single
 author_profile: false
@@ -9,7 +9,6 @@ molecule: true
 sidebar:
   - title: "Disclaimer"
     text: "All files used for visualization or discussion are made available under the respective folder in `/assets/content/compchem` "
-published: false
 ---
 
 ## Quicklinks
