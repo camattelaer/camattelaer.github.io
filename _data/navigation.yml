@@ -1,3 +1,17 @@
+hna-geometries:
+  - title: "Disclaimer"
+    url: /computational-chemistry/HNAgeometries/#disclaimer
+  - title: "Introduction"
+    url: /computational-chemistry/HNAgeometries/#introduction
+  - title: "A blast from the past"
+    url: /computational-chemistry/HNAgeometries/#a-blast-from-the-past
+  - title: "Goal of this post"
+    url: /computational-chemistry/HNAgeometries/#goal-of-this-post
+  - title: "Methods"
+    url: /computational-chemistry/HNAgeometries/#methods
+  - title: "Results"
+    url: /computational-chemistry/HNAgeometries/#results
+
 main:
   - title: "CompChem"
     url: /computational-chemistry/
