@@ -1,2 +1,5 @@
 Gemfile.lock
 /_site
+# Pokémon catalogue build: local venv and API cache
+pokemon/.venv/
+pokemon/.cache/

@@ -1,0 +1,66 @@
+---
+layout: single
+---
+{% comment %}
+  One Pokémon TCG set. Stub pages in pokemon-tcg/ set `set_slug`;
+  the data comes from _data/pokemon/<set_slug>.json (see pokemon/build_catalogue.py).
+{% endcomment %}
+{% assign set = site.data.pokemon[page.set_slug] %}
+
+<p><a href="{{ '/pokemon-tcg/' | relative_url }}">&larr; All sets</a></p>
+
+<div class="pkmn-set pkmn-set--header">
+  <div class="pkmn-set__logo">
+    {% if set.logo %}
+    <img src="{{ set.logo }}" alt="{{ set.name }} logo">
+    {% else %}
+    <span class="pkmn-set__logo-fallback">{{ set.name }}</span>
+    {% endif %}
+  </div>
+  <div class="pkmn-set__info">
+    <p class="pkmn-set__meta">
+      {{ set.series }}{% if set.release_date %} &middot; released <time datetime="{{ set.release_date }}">{{ set.release_date | date: "%-d %B %Y" }}</time>{% endif %}<br>
+      owned {{ set.owned_count }} / {{ set.total_count }} card variants
+      ({{ set.owned_qty }} cop{% if set.owned_qty == 1 %}y{% else %}ies{% endif %})
+    </p>
+    <div class="pkmn-progress" aria-hidden="true">
+      <span style="width: {{ set.owned_count | times: 100.0 | divided_by: set.total_count | round: 1 }}%"></span>
+    </div>
+  </div>
+</div>
+
+<label class="pkmn-toggle" hidden>
+  <input type="checkbox" id="pkmn-only-owned"> Show only owned cards
+</label>
+
+<div class="pkmn-cards" id="pkmn-cards">
+  {% for card in set.cards %}
+  <figure class="pkmn-card{% if card.qty > 0 %} is-owned{% endif %}">
+    <div class="pkmn-card__img">
+      {% if card.image %}
+      <img src="{{ card.image }}" alt="{{ card.name }} #{{ card.number }} ({{ card.variant_label }})" loading="lazy" decoding="async" width="400" height="558">
+      {% else %}
+      <div class="pkmn-card__noimg">no image</div>
+      {% endif %}
+      {% if card.variant != "normal" %}<span class="pkmn-badge pkmn-badge--{{ card.variant }}">{{ card.variant_label }}</span>{% endif %}
+      {% if card.qty > 0 %}<span class="pkmn-qty" title="{{ card.qty }} owned">&times;{{ card.qty }}</span>{% endif %}
+    </div>
+    <figcaption><span class="pkmn-card__num">#{{ card.number }}</span> {{ card.name }}</figcaption>
+  </figure>
+  {% endfor %}
+</div>
+
+<script>
+  (function () {
+    var toggle = document.getElementById("pkmn-only-owned");
+    var grid = document.getElementById("pkmn-cards");
+    function apply() {
+      grid.classList.toggle("pkmn-only-owned", toggle.checked);
+      history.replaceState(null, "", toggle.checked ? "#owned" : location.pathname + location.search);
+    }
+    toggle.checked = location.hash === "#owned";
+    toggle.addEventListener("change", apply);
+    toggle.parentElement.hidden = false;
+    apply();
+  })();
+</script>

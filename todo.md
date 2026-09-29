@@ -8,36 +8,5 @@ molecule: true
 permalink: /todo/
 ---
 
-## last updated: 2026/04/05
+## last updated: 2026/09/29
 
-### Step 1: geometries
-
-1. Model generation
-   - [x] HNA::HNA A-type (for LED)
-   - [x] HNA::HNA B-type
-   - [x] HNA::DNA B-type
-   - [x] DNA::DNA B-type
-
-2. Optimizations + Frequencies:
-   - [ ] HNA::HNA A-type (for LED)
-   - [ ] HNA::HNA B-type
-   - [ ] HNA::DNA B-type
-   - [ ] DNA::DNA B-type
-
-3. Comparisons:
-   - [ ] HNA::DNA B-type vs HNA::HNA B-type
-   - [ ] HNA::DNA B-type vs DNA::DNA B-type
-
-### Step 2: LED
-
-1. LED calculations:
-   - [ ] HNA::HNA A-type
-   - [ ] HNA::HNA B-type
-   - [ ] DNA::DNA B-type
-   - [ ] HNA::DNA B-type
-
-2. Comparisons:
-   - [ ] HNA::HNA A-type vs HNA::HNA B-type
-   - [ ] HNA::HNA B-type vs DNA::DNA B-type
-   - [ ] HNA::DNA B-type vs HNA::HNA B-type
-   - [ ] HNA::DNA B-type vs DNA::DNA B-type
