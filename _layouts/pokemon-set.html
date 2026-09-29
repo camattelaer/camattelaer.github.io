@@ -33,12 +33,31 @@ layout: single
   <input type="checkbox" id="pkmn-only-owned"> Show only owned cards
 </label>
 
+<script>
+  // Card images that fail to load: try the plain print's image, else a placeholder.
+  // Registered before the grid so early failures are caught too; error events
+  // don't bubble, so listen in the capture phase.
+  document.addEventListener("error", function (e) {
+    var img = e.target;
+    if (!img.matches || !img.matches(".pkmn-card__img img")) return;
+    if (img.dataset.fallback) {
+      img.src = img.dataset.fallback;
+      delete img.dataset.fallback;
+    } else {
+      var box = document.createElement("div");
+      box.className = "pkmn-card__noimg";
+      box.textContent = "no image";
+      img.replaceWith(box);
+    }
+  }, true);
+</script>
+
 <div class="pkmn-cards" id="pkmn-cards">
   {% for card in set.cards %}
   <figure class="pkmn-card{% if card.qty > 0 %} is-owned{% endif %}">
     <div class="pkmn-card__img">
       {% if card.image %}
-      <img src="{{ card.image }}" alt="{{ card.name }} #{{ card.number }} ({{ card.variant_label }})" loading="lazy" decoding="async" width="400" height="558">
+      <img src="{{ card.image }}" alt="{{ card.name }} #{{ card.number }} ({{ card.variant_label }})" loading="lazy" decoding="async" width="400" height="558"{% if card.image_fallback %} data-fallback="{{ card.image_fallback }}"{% endif %}>
       {% else %}
       <div class="pkmn-card__noimg">no image</div>
       {% endif %}

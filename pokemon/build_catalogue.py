@@ -22,6 +22,7 @@ import time
 import unicodedata
 import warnings
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from pathlib import Path
 
@@ -282,6 +283,31 @@ class Catalogues:
 
 # ---------------------------------------------------------------- set build
 
+def check_images(urls, refresh):
+    """url -> whether the CDN serves it. Cached in pokemon/.cache/image_status.json."""
+    path = CACHE_DIR / "image_status.json"
+    status = {} if refresh or not path.exists() else json.loads(path.read_text())
+
+    def probe(url):
+        try:
+            resp = session.head(url, timeout=15, allow_redirects=True)
+            ok = resp.ok and resp.headers.get("Content-Type", "").startswith("image/")
+            return url, ok
+        except requests.RequestException:
+            return url, None  # network trouble: don't cache, assume fine for now
+
+    todo = [u for u in urls if u not in status]
+    if todo:
+        print(f"  checking {len(todo)} image(s)...")
+        with ThreadPoolExecutor(max_workers=16) as pool:
+            for url, ok in pool.map(probe, todo):
+                if ok is not None:
+                    status[url] = ok
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(status))
+    return {u: status.get(u, True) for u in urls}
+
+
 def build_card_list(group_ids, refresh):
     """Every card + variant in the given TCGplayer groups, keyed by (number_key, variant)."""
     products, subtypes = [], defaultdict(set)
@@ -338,16 +364,26 @@ def build_card_list(group_ids, refresh):
     for prod, raw_number, _, variant in patterned:
         cards.setdefault((number_key(raw_number), variant), card(prod, raw_number, variant))
 
-    # Products without a picture (often new pattern reverses) borrow the image of
-    # another print of the same number; the variant badge tells them apart.
+    # TCGplayer sometimes lists an image the CDN refuses to serve (403), so check.
+    ok = check_images({c["image"] for c in cards.values() if c["image"]}, refresh)
+    for c in cards.values():
+        if c["image"] and not ok[c["image"]]:
+            c["image"] = None
+
+    # Products without a working picture (often new pattern reverses) borrow the
+    # image of another print of the same number; the variant badge tells them apart.
+    # Every card also gets that plain image as a browser-side fallback.
     by_number = defaultdict(list)
     for (key, variant), card in cards.items():
         if card["image"]:
             by_number[key].append((list(VARIANTS).index(variant), card["image"]))
     for (key, _), card in cards.items():
-        if not card["image"] and by_number[key]:
-            card["image"] = min(by_number[key])[1]
+        plain = min(by_number[key])[1] if by_number[key] else None
+        if not card["image"] and plain:
+            card["image"] = plain
             card["image_borrowed"] = True
+        if plain and plain != card["image"]:
+            card["image_fallback"] = plain
 
     return cards, dict(unrecognised)
 
