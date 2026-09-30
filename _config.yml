@@ -72,6 +72,10 @@ defaults:
       layout: single
       classes: single
       author_profile: false
+  - scope:
+      path: "pokemon-tcg"
+    values:
+      classes: wide
 
 paginate: 5
 paginate_path: /page:num/
@@ -79,6 +83,18 @@ paginate_path: /page:num/
 include:
  - _computational-chemistry
  - _sysadmin
+
+# Setting exclude replaces Jekyll's defaults, so they are repeated here.
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - node_modules
+ - vendor
+ - .bundle
+ - .sass-cache
+ - .jekyll-cache
+ - pokemon/  # catalogue source, build script and API cache (see pokemon/README.md); the
+             # trailing slash matters: Jekyll prefix-matches, so "pokemon" would also drop pokemon-tcg/
 
 feed:
   collections:

@@ -1,0 +1,46 @@
+# Manual set matches for when build_catalogue.py can't find a set automatically.
+# Key: set_name exactly as in the xlsx. Values (both optional):
+#   tcgplayer: TCGplayer groupId  (see https://tcgcsv.com/tcgplayer/3/groups)
+#   tcgdex:    TCGdex set id      (see https://api.tcgdex.net/v2/en/sets)
+#   tcgplayer_extra: [groupIds]   subset groups to merge in; replaces the automatic
+#                                 Trainer Gallery / Galarian Gallery / Shiny Vault /
+#                                 Radiant Collection detection ([] turns it off)
+
+# TCGdex lists Hidden Fates' Shiny Vault as its own set ("Yellow A Alternate")
+"Hidden Fates":               { tcgplayer_extra: [] }
+"Yellow A Alternate":         { tcgplayer: 2594 }
+
+"151":                        { tcgplayer: 23237 }
+"MEP Black Star Promos":      { tcgplayer: 24451 }
+"SVP Black Star Promos":      { tcgplayer: 22872 }
+"SWSH Black Star Promos":     { tcgplayer: 2545 }
+"SM Black Star Promos":       { tcgplayer: 1861 }
+"XY Black Star Promos":       { tcgplayer: 1451 }
+"BW Black Star Promos":       { tcgplayer: 1407 }
+"HGSS Black Star Promos":     { tcgplayer: 1453 }
+"DP Black Star Promos":       { tcgplayer: 1421 }
+"Nintendo Black Star Promos": { tcgplayer: 1423 }
+"Wizards Black Star Promos":  { tcgplayer: 1418 }
+"Scarlet & Violet":           { tcgplayer: 22873 }
+"Sun & Moon":                 { tcgplayer: 1863 }
+"XY":                         { tcgplayer: 1387 }
+"Celebrations Classic Collection": { tcgplayer: 2931 }
+"Pokémon Rumble":             { tcgplayer: 1433 }
+"Best of game":               { tcgplayer: 1455 }
+"Expedition Base Set":        { tcgplayer: 1375 }
+"EX trainer Kit (Latias)":    { tcgplayer: 1543 }
+"EX trainer Kit (Latios)":    { tcgplayer: 1543 }
+"EX trainer Kit 2 (Minun)":   { tcgplayer: 1542 }
+
+"McDonald (McDonald's Collection, 2024)": { tcgplayer: 24163 }
+"McDonald (McDonald's Collection, 2023)": { tcgplayer: 23306 }
+"McDonald (McDonald's Collection, 2022)": { tcgplayer: 3150 }
+"McDonald (McDonald's Collection, 2021)": { tcgplayer: 2782 }
+"McDonald (McDonald's Collection, 2019)": { tcgplayer: 2555 }
+"McDonald (McDonald's Collection, 2018)": { tcgplayer: 2364 }
+"McDonald (McDonald's Collection, 2017)": { tcgplayer: 2148 }
+"McDonald (McDonald's Collection, 2016)": { tcgplayer: 3087 }
+"McDonald (McDonald's Collection, 2015)": { tcgplayer: 1694 }
+"McDonald (McDonald's Collection, 2014)": { tcgplayer: 1692 }
+"McDonald (McDonald's Collection, 2012)": { tcgplayer: 1427 }
+"McDonald (McDonald's Collection, 2011)": { tcgplayer: 1401 }

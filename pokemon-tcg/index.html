@@ -1,0 +1,41 @@
+---
+title: "Pokémon TCG"
+layout: single
+permalink: /pokemon-tcg/
+excerpt: "My bulk Pokémon card catalogue, set by set."
+---
+
+{% assign all_sets = site.data.pokemon.sets %}
+{% assign series_groups = all_sets | group_by: "series" %}
+
+<p class="pkmn-intro">
+  My bulk card catalogue: {{ all_sets.size }} set{% if all_sets.size != 1 %}s{% endif %}, newest first.
+  Pick a set to see every card in it; the ones I own are shown in full colour.
+</p>
+
+{% for series in series_groups %}
+<h2 class="pkmn-series">{{ series.name }}</h2>
+<div class="pkmn-sets">
+  {% for set in series.items %}
+  <a class="pkmn-set" href="{{ '/pokemon-tcg/' | append: set.slug | append: '/' | relative_url }}">
+    <div class="pkmn-set__logo">
+      {% if set.logo %}
+      <img src="{{ set.logo }}" alt="{{ set.name }} logo" loading="lazy">
+      {% else %}
+      <span class="pkmn-set__logo-fallback">{{ set.name }}</span>
+      {% endif %}
+    </div>
+    <div class="pkmn-set__info">
+      <h3 class="pkmn-set__name">{{ set.name }}</h3>
+      <p class="pkmn-set__meta">
+        {% if set.release_date %}<time datetime="{{ set.release_date }}">{{ set.release_date | date: "%B %Y" }}</time><br>{% endif %}
+        owned {{ set.owned_count }} / {{ set.total_count }}
+      </p>
+      <div class="pkmn-progress" aria-hidden="true">
+        <span style="width: {{ set.owned_count | times: 100.0 | divided_by: set.total_count | round: 1 }}%"></span>
+      </div>
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% endfor %}

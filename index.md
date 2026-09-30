@@ -52,7 +52,7 @@ Most of the posts on the website will relate to the software mentioned in the li
 
 | Status |  <span style="display: inline-block; width:500px">Topic</span> | Article |
 |:------:|-------|---------|
-| 🔴 | HNA helical geometries | |
+| 🟢 | HNA helical geometries | |
 | 🟡 | Exploring `OPI` v2 ("Orca Python Interface") | |
 | 🟡 | Exploring `MultiWFN` and non-covalent interaction (NCI) analysis | |
 
@@ -63,6 +63,12 @@ Most of the posts on the website will relate to the software mentioned in the li
 | 🔴 | Home cluster v2 & breakdown of each node | |
 
 <!-- | 🟢 | MM-GBSA and MM-PBSA: what it is & example | [Read →](https://yoursite.com/mm-gbsa) | -->
+
+## Other interests
+
+During the course of 2026, I gained two new "hobbies". The first is 3D printing. I have no experience using CAD software but I currently get along by combining Claude and OpenSCAD. Due to its more "programmatical" approach, OpenSCAD forms a good duo with Claude to generate and refine models.
+
+The second is collecting Pokemon cards. Due to an interest of our oldest son, I have started by collecting cards again. I say again because I used to collect some cards when I was a child. Those vintage cards are now in a nice binder. For the newer collections, I have decided to update the website to include a section displaying what I have collected. If you are looking for a card for your collection and you can find them available on the website, feel free to reach out and we will see how we can get the card to you!
 
 ## Latest Posts
 

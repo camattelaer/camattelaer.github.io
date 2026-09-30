@@ -27,3 +27,6 @@ main:
 
   - title: "Contact"
     url: /contact/
+
+  - title: "Pokémon TCG"
+    url: /pokemon-tcg/
