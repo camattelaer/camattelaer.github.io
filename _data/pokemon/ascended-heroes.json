@@ -7,9 +7,9 @@
  "tcgdex_id": "me02.5",
  "tcgplayer_group_id": 24541,
  "tcgplayer_group_name": "ME: Ascended Heroes",
- "owned_count": 63,
+ "owned_count": 107,
  "total_count": 613,
- "owned_qty": 99,
+ "owned_qty": 160,
  "cards": [
   {
    "number": "001",
@@ -30,7 +30,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675813_400w.jpg",
    "qty": 1,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "001",
@@ -62,7 +62,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675814_400w.jpg",
    "qty": 1,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "002",
@@ -104,7 +104,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675816_400w.jpg",
    "qty": 1,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "004",
@@ -136,7 +136,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675817_400w.jpg",
    "qty": 1,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "005",
@@ -168,7 +168,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675818_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "006",
@@ -200,7 +200,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675819_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "007",
@@ -668,7 +668,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675835_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "023",
@@ -700,7 +700,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675836_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "024",
@@ -912,7 +912,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675844_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "032",
@@ -944,7 +944,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675845_400w.jpg",
    "qty": 1,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "033",
@@ -1368,7 +1368,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675861_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "049",
@@ -1400,7 +1400,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675862_400w.jpg",
    "qty": 1,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "050",
@@ -1432,7 +1432,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675863_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "051",
@@ -1548,7 +1548,7 @@
    "url": "https://www.tcgplayer.com/product/675867/pokemon-me-ascended-heroes-pikachu",
    "product_id": 675867,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1580,7 +1580,7 @@
    "url": "https://www.tcgplayer.com/product/675868/pokemon-me-ascended-heroes-raichu",
    "product_id": 675868,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1632,7 +1632,7 @@
    "url": "https://www.tcgplayer.com/product/675871/pokemon-me-ascended-heroes-tynamo",
    "product_id": 675871,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1654,7 +1654,7 @@
    "product_id": 677039,
    "variant": "energysymbol",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675871_400w.jpg",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Energy Symbol"
   },
   {
@@ -1728,7 +1728,7 @@
    "product_id": 677041,
    "variant": "energysymbol",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675874_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Energy Symbol"
   },
   {
@@ -1738,7 +1738,7 @@
    "url": "https://www.tcgplayer.com/product/675875/pokemon-me-ascended-heroes-helioptile",
    "product_id": 675875,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1749,7 +1749,7 @@
    "product_id": 676902,
    "variant": "quickball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675875_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Quick Ball"
   },
   {
@@ -1770,7 +1770,7 @@
    "url": "https://www.tcgplayer.com/product/675876/pokemon-me-ascended-heroes-heliolisk-064-217",
    "product_id": 675876,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1781,7 +1781,7 @@
    "product_id": 676903,
    "variant": "quickball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675876_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Quick Ball"
   },
   {
@@ -1802,7 +1802,7 @@
    "url": "https://www.tcgplayer.com/product/675877/pokemon-me-ascended-heroes-charjabug",
    "product_id": 675877,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1813,7 +1813,7 @@
    "product_id": 676904,
    "variant": "quickball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675877_400w.jpg",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Quick Ball"
   },
   {
@@ -1834,7 +1834,7 @@
    "url": "https://www.tcgplayer.com/product/675878/pokemon-me-ascended-heroes-vikavolt-066-217",
    "product_id": 675878,
    "variant": "normal",
-   "qty": 0,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -1845,7 +1845,7 @@
    "product_id": 676905,
    "variant": "quickball",
    "image_borrowed": true,
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Quick Ball"
   },
   {
@@ -1866,7 +1866,7 @@
    "url": "https://www.tcgplayer.com/product/675879/pokemon-me-ascended-heroes-tapu-koko",
    "product_id": 675879,
    "variant": "holo",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -1898,7 +1898,7 @@
    "url": "https://www.tcgplayer.com/product/675880/pokemon-me-ascended-heroes-hops-pincurchin-ex",
    "product_id": 675880,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -1920,7 +1920,7 @@
    "variant": "pokeball",
    "image_borrowed": true,
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "069",
@@ -1962,7 +1962,7 @@
    "variant": "pokeball",
    "image_borrowed": true,
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "071",
@@ -1994,7 +1994,7 @@
    "variant": "pokeball",
    "image_borrowed": true,
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "072",
@@ -2024,7 +2024,7 @@
    "url": "https://www.tcgplayer.com/product/675886/pokemon-me-ascended-heroes-clefairy",
    "product_id": 675886,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2035,7 +2035,7 @@
    "product_id": 676910,
    "variant": "loveball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675886_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Love Ball"
   },
   {
@@ -2056,7 +2056,7 @@
    "url": "https://www.tcgplayer.com/product/675887/pokemon-me-ascended-heroes-clefable",
    "product_id": 675887,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2098,7 +2098,7 @@
    "url": "https://www.tcgplayer.com/product/675889/pokemon-me-ascended-heroes-team-rockets-exeggcute",
    "product_id": 675889,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2120,7 +2120,7 @@
    "product_id": 676912,
    "variant": "rocket",
    "image_borrowed": true,
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Team Rocket"
   },
   {
@@ -2172,7 +2172,7 @@
    "url": "https://www.tcgplayer.com/product/675892/pokemon-me-ascended-heroes-togepi",
    "product_id": 675892,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2194,7 +2194,7 @@
    "product_id": 677054,
    "variant": "energysymbol",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675892_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Energy Symbol"
   },
   {
@@ -2204,7 +2204,7 @@
    "url": "https://www.tcgplayer.com/product/675893/pokemon-me-ascended-heroes-togetic",
    "product_id": 675893,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2236,7 +2236,7 @@
    "url": "https://www.tcgplayer.com/product/675894/pokemon-me-ascended-heroes-togekiss-082-217",
    "product_id": 675894,
    "variant": "holo",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -2247,7 +2247,7 @@
    "product_id": 676916,
    "variant": "loveball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675894_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Love Ball"
   },
   {
@@ -2268,7 +2268,7 @@
    "url": "https://www.tcgplayer.com/product/675895/pokemon-me-ascended-heroes-marill-083-217",
    "product_id": 675895,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2310,7 +2310,7 @@
    "url": "https://www.tcgplayer.com/product/675897/pokemon-me-ascended-heroes-misdreavus-085-217",
    "product_id": 675897,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2342,7 +2342,7 @@
    "url": "https://www.tcgplayer.com/product/675898/pokemon-me-ascended-heroes-mismagius",
    "product_id": 675898,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2374,7 +2374,7 @@
    "url": "https://www.tcgplayer.com/product/675899/pokemon-me-ascended-heroes-ralts",
    "product_id": 675899,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2438,7 +2438,7 @@
    "url": "https://www.tcgplayer.com/product/675901/pokemon-me-ascended-heroes-mega-gardevoir-ex",
    "product_id": 675901,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2480,7 +2480,7 @@
    "url": "https://www.tcgplayer.com/product/675903/pokemon-me-ascended-heroes-banette-091-217",
    "product_id": 675903,
    "variant": "normal",
-   "qty": 0,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -2491,7 +2491,7 @@
    "product_id": 676923,
    "variant": "duskball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675903_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Dusk Ball"
   },
   {
@@ -2512,7 +2512,7 @@
    "url": "https://www.tcgplayer.com/product/675904/pokemon-me-ascended-heroes-rotom",
    "product_id": 675904,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2534,7 +2534,7 @@
    "product_id": 677064,
    "variant": "energysymbol",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675904_400w.jpg",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Energy Symbol"
   },
   {
@@ -2544,7 +2544,7 @@
    "url": "https://www.tcgplayer.com/product/675905/pokemon-me-ascended-heroes-swirlix",
    "product_id": 675905,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2576,7 +2576,7 @@
    "url": "https://www.tcgplayer.com/product/675906/pokemon-me-ascended-heroes-slurpuff-094-217",
    "product_id": 675906,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2608,7 +2608,7 @@
    "url": "https://www.tcgplayer.com/product/675907/pokemon-me-ascended-heroes-hops-phantump",
    "product_id": 675907,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2620,7 +2620,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675907_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "095",
@@ -2640,7 +2640,7 @@
    "url": "https://www.tcgplayer.com/product/675908/pokemon-me-ascended-heroes-hops-trevenant-096-217",
    "product_id": 675908,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2652,7 +2652,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675908_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "096",
@@ -2672,7 +2672,7 @@
    "url": "https://www.tcgplayer.com/product/675909/pokemon-me-ascended-heroes-team-rockets-mimikyu-097-217",
    "product_id": 675909,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2694,7 +2694,7 @@
    "product_id": 676929,
    "variant": "rocket",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675909_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Team Rocket"
   },
   {
@@ -2704,7 +2704,7 @@
    "url": "https://www.tcgplayer.com/product/675910/pokemon-me-ascended-heroes-spectrier",
    "product_id": 675910,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2736,7 +2736,7 @@
    "url": "https://www.tcgplayer.com/product/675911/pokemon-me-ascended-heroes-munkidori",
    "product_id": 675911,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2747,7 +2747,7 @@
    "product_id": 676931,
    "variant": "duskball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675911_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Dusk Ball"
   },
   {
@@ -2758,7 +2758,7 @@
    "product_id": 677071,
    "variant": "energysymbol",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675911_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Energy Symbol"
   },
   {
@@ -3046,7 +3046,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675921_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "109",
@@ -3078,7 +3078,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675922_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "110",
@@ -3682,7 +3682,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675945_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "133",
@@ -3756,7 +3756,7 @@
    "variant": "pokeball",
    "image_borrowed": true,
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "136",
@@ -3872,7 +3872,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675953_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "141",
@@ -3914,7 +3914,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675955_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "143",
@@ -4200,7 +4200,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675966_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "154",
@@ -4232,7 +4232,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675967_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "155",
@@ -4444,7 +4444,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675975_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "163",
@@ -4560,7 +4560,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675980_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "168",
@@ -4592,7 +4592,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675981_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "169",
@@ -4624,7 +4624,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675982_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "170",
@@ -4698,7 +4698,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675985_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "173",
@@ -4730,7 +4730,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675986_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "174",
@@ -4762,7 +4762,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675987_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "175",
@@ -4826,7 +4826,7 @@
    "variant": "pokeball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675989_400w.jpg",
    "qty": 0,
-   "variant_label": "PokÃ© Ball"
+   "variant_label": "Poké Ball"
   },
   {
    "number": "177",
