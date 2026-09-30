@@ -501,12 +501,12 @@ def main():
         }
         summaries.append(summary)
         (DATA_DIR / f"{slug}.json").write_text(
-            json.dumps(dict(summary, cards=card_list), ensure_ascii=False, indent=1) + "\n")
+            json.dumps(dict(summary, cards=card_list), ensure_ascii=False, indent=1) + "\n", encoding="utf_8")
         write_stub(slug, set_name)
 
     # Newest first; Liquid's group_by keeps this order, so series are ordered by their newest set.
     summaries.sort(key=lambda s: (s["release_date"] or "", s["name"]), reverse=True)
-    (DATA_DIR / "sets.json").write_text(json.dumps(summaries, ensure_ascii=False, indent=1) + "\n")
+    (DATA_DIR / "sets.json").write_text(json.dumps(summaries, ensure_ascii=False, indent=1) + "\n", encoding="utf_8")
     remove_stale({s["slug"] for s in summaries})
 
     print(f"\nWrote {len(summaries)} set(s) to {DATA_DIR.relative_to(ROOT)}/")
