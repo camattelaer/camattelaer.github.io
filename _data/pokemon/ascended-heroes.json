@@ -7,9 +7,9 @@
  "tcgdex_id": "me02.5",
  "tcgplayer_group_id": 24541,
  "tcgplayer_group_name": "ME: Ascended Heroes",
- "owned_count": 224,
+ "owned_count": 251,
  "total_count": 613,
- "owned_qty": 326,
+ "owned_qty": 454,
  "cards": [
   {
    "number": "001",
@@ -18,7 +18,7 @@
    "url": "https://www.tcgplayer.com/product/675813/pokemon-me-ascended-heroes-erikas-oddish",
    "product_id": 675813,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -188,7 +188,7 @@
    "url": "https://www.tcgplayer.com/product/675819/pokemon-me-ascended-heroes-erikas-tangela-007-217",
    "product_id": 675819,
    "variant": "normal",
-   "qty": 4,
+   "qty": 5,
    "variant_label": "Normal"
   },
   {
@@ -220,7 +220,7 @@
    "url": "https://www.tcgplayer.com/product/675820/pokemon-me-ascended-heroes-chikorita",
    "product_id": 675820,
    "variant": "normal",
-   "qty": 3,
+   "qty": 6,
    "variant_label": "Normal"
   },
   {
@@ -294,7 +294,7 @@
    "url": "https://www.tcgplayer.com/product/675823/pokemon-me-ascended-heroes-wurmple",
    "product_id": 675823,
    "variant": "normal",
-   "qty": 2,
+   "qty": 5,
    "variant_label": "Normal"
   },
   {
@@ -337,7 +337,7 @@
    "product_id": 676861,
    "variant": "loveball",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/675824_400w.jpg",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Love Ball"
   },
   {
@@ -358,7 +358,7 @@
    "url": "https://www.tcgplayer.com/product/675825/pokemon-me-ascended-heroes-beautifly-013-217",
    "product_id": 675825,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -422,7 +422,7 @@
    "url": "https://www.tcgplayer.com/product/675827/pokemon-me-ascended-heroes-dustox-015-217",
    "product_id": 675827,
    "variant": "normal",
-   "qty": 5,
+   "qty": 6,
    "variant_label": "Normal"
   },
   {
@@ -486,7 +486,7 @@
    "url": "https://www.tcgplayer.com/product/675829/pokemon-me-ascended-heroes-grubbin",
    "product_id": 675829,
    "variant": "normal",
-   "qty": 2,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -518,7 +518,7 @@
    "url": "https://www.tcgplayer.com/product/675830/pokemon-me-ascended-heroes-team-rockets-tarountula",
    "product_id": 675830,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -550,7 +550,7 @@
    "url": "https://www.tcgplayer.com/product/675831/pokemon-me-ascended-heroes-team-rockets-spidops",
    "product_id": 675831,
    "variant": "holo",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -582,7 +582,7 @@
    "url": "https://www.tcgplayer.com/product/675832/pokemon-me-ascended-heroes-charmander",
    "product_id": 675832,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -614,7 +614,7 @@
    "url": "https://www.tcgplayer.com/product/675833/pokemon-me-ascended-heroes-charmeleon",
    "product_id": 675833,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -656,7 +656,7 @@
    "url": "https://www.tcgplayer.com/product/675835/pokemon-me-ascended-heroes-ethans-slugma",
    "product_id": 675835,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -688,7 +688,7 @@
    "url": "https://www.tcgplayer.com/product/675836/pokemon-me-ascended-heroes-ethans-magcargo-024-217",
    "product_id": 675836,
    "variant": "holo",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -794,7 +794,7 @@
    "url": "https://www.tcgplayer.com/product/675840/pokemon-me-ascended-heroes-camerupt",
    "product_id": 675840,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -858,7 +858,7 @@
    "url": "https://www.tcgplayer.com/product/675842/pokemon-me-ascended-heroes-pignite",
    "product_id": 675842,
    "variant": "normal",
-   "qty": 3,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -900,7 +900,7 @@
    "url": "https://www.tcgplayer.com/product/675844/pokemon-me-ascended-heroes-ns-darumaka",
    "product_id": 675844,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -964,7 +964,7 @@
    "url": "https://www.tcgplayer.com/product/675846/pokemon-me-ascended-heroes-salandit",
    "product_id": 675846,
    "variant": "normal",
-   "qty": 2,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -1060,7 +1060,7 @@
    "url": "https://www.tcgplayer.com/product/675849/pokemon-me-ascended-heroes-raboot",
    "product_id": 675849,
    "variant": "normal",
-   "qty": 3,
+   "qty": 5,
    "variant_label": "Normal"
   },
   {
@@ -1102,7 +1102,7 @@
    "url": "https://www.tcgplayer.com/product/675851/pokemon-me-ascended-heroes-psyduck-039-217",
    "product_id": 675851,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -1166,7 +1166,7 @@
    "url": "https://www.tcgplayer.com/product/675853/pokemon-me-ascended-heroes-totodile",
    "product_id": 675853,
    "variant": "normal",
-   "qty": 3,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -1198,7 +1198,7 @@
    "url": "https://www.tcgplayer.com/product/675854/pokemon-me-ascended-heroes-croconaw",
    "product_id": 675854,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -1240,7 +1240,7 @@
    "url": "https://www.tcgplayer.com/product/675856/pokemon-me-ascended-heroes-sneasel",
    "product_id": 675856,
    "variant": "normal",
-   "qty": 2,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -1272,7 +1272,7 @@
    "url": "https://www.tcgplayer.com/product/675857/pokemon-me-ascended-heroes-weavile-045-217",
    "product_id": 675857,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1356,7 +1356,7 @@
    "url": "https://www.tcgplayer.com/product/675861/pokemon-me-ascended-heroes-ns-vanillite",
    "product_id": 675861,
    "variant": "normal",
-   "qty": 3,
+   "qty": 5,
    "variant_label": "Normal"
   },
   {
@@ -1420,7 +1420,7 @@
    "url": "https://www.tcgplayer.com/product/675863/pokemon-me-ascended-heroes-ns-vanilluxe",
    "product_id": 675863,
    "variant": "normal",
-   "qty": 5,
+   "qty": 6,
    "variant_label": "Normal"
   },
   {
@@ -1516,7 +1516,7 @@
    "url": "https://www.tcgplayer.com/product/675866/pokemon-me-ascended-heroes-glastrier",
    "product_id": 675866,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1548,7 +1548,7 @@
    "url": "https://www.tcgplayer.com/product/675867/pokemon-me-ascended-heroes-pikachu",
    "product_id": 675867,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -1580,7 +1580,7 @@
    "url": "https://www.tcgplayer.com/product/675868/pokemon-me-ascended-heroes-raichu",
    "product_id": 675868,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -1664,7 +1664,7 @@
    "url": "https://www.tcgplayer.com/product/675872/pokemon-me-ascended-heroes-eelektrik",
    "product_id": 675872,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1706,7 +1706,7 @@
    "url": "https://www.tcgplayer.com/product/675874/pokemon-me-ascended-heroes-stunfisk",
    "product_id": 675874,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1738,7 +1738,7 @@
    "url": "https://www.tcgplayer.com/product/675875/pokemon-me-ascended-heroes-helioptile",
    "product_id": 675875,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1770,7 +1770,7 @@
    "url": "https://www.tcgplayer.com/product/675876/pokemon-me-ascended-heroes-heliolisk-064-217",
    "product_id": 675876,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -1802,7 +1802,7 @@
    "url": "https://www.tcgplayer.com/product/675877/pokemon-me-ascended-heroes-charjabug",
    "product_id": 675877,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -1908,7 +1908,7 @@
    "url": "https://www.tcgplayer.com/product/675881/pokemon-me-ascended-heroes-ionos-tadbulb",
    "product_id": 675881,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1982,7 +1982,7 @@
    "url": "https://www.tcgplayer.com/product/675884/pokemon-me-ascended-heroes-ionos-kilowattrel",
    "product_id": 675884,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2024,7 +2024,7 @@
    "url": "https://www.tcgplayer.com/product/675886/pokemon-me-ascended-heroes-clefairy",
    "product_id": 675886,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2056,7 +2056,7 @@
    "url": "https://www.tcgplayer.com/product/675887/pokemon-me-ascended-heroes-clefable",
    "product_id": 675887,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2098,7 +2098,7 @@
    "url": "https://www.tcgplayer.com/product/675889/pokemon-me-ascended-heroes-team-rockets-exeggcute",
    "product_id": 675889,
    "variant": "normal",
-   "qty": 2,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -2172,7 +2172,7 @@
    "url": "https://www.tcgplayer.com/product/675892/pokemon-me-ascended-heroes-togepi",
    "product_id": 675892,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -2268,7 +2268,7 @@
    "url": "https://www.tcgplayer.com/product/675895/pokemon-me-ascended-heroes-marill-083-217",
    "product_id": 675895,
    "variant": "normal",
-   "qty": 2,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -2374,7 +2374,7 @@
    "url": "https://www.tcgplayer.com/product/675899/pokemon-me-ascended-heroes-ralts",
    "product_id": 675899,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2448,7 +2448,7 @@
    "url": "https://www.tcgplayer.com/product/675902/pokemon-me-ascended-heroes-shuppet",
    "product_id": 675902,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2480,7 +2480,7 @@
    "url": "https://www.tcgplayer.com/product/675903/pokemon-me-ascended-heroes-banette-091-217",
    "product_id": 675903,
    "variant": "normal",
-   "qty": 3,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -2544,7 +2544,7 @@
    "url": "https://www.tcgplayer.com/product/675905/pokemon-me-ascended-heroes-swirlix",
    "product_id": 675905,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2576,7 +2576,7 @@
    "url": "https://www.tcgplayer.com/product/675906/pokemon-me-ascended-heroes-slurpuff-094-217",
    "product_id": 675906,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -2608,7 +2608,7 @@
    "url": "https://www.tcgplayer.com/product/675907/pokemon-me-ascended-heroes-hops-phantump",
    "product_id": 675907,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -2640,7 +2640,7 @@
    "url": "https://www.tcgplayer.com/product/675908/pokemon-me-ascended-heroes-hops-trevenant-096-217",
    "product_id": 675908,
    "variant": "holo",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Holo"
   },
   {
@@ -2768,7 +2768,7 @@
    "url": "https://www.tcgplayer.com/product/675912/pokemon-me-ascended-heroes-team-rockets-diglett",
    "product_id": 675912,
    "variant": "normal",
-   "qty": 3,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -2800,7 +2800,7 @@
    "url": "https://www.tcgplayer.com/product/675913/pokemon-me-ascended-heroes-team-rockets-dugtrio-101-217",
    "product_id": 675913,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2896,7 +2896,7 @@
    "url": "https://www.tcgplayer.com/product/675916/pokemon-me-ascended-heroes-medicham-104-217",
    "product_id": 675916,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -2928,7 +2928,7 @@
    "url": "https://www.tcgplayer.com/product/675917/pokemon-me-ascended-heroes-lunatone",
    "product_id": 675917,
    "variant": "holo",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -3002,7 +3002,7 @@
    "url": "https://www.tcgplayer.com/product/675920/pokemon-me-ascended-heroes-groudon",
    "product_id": 675920,
    "variant": "holo",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -3034,7 +3034,7 @@
    "url": "https://www.tcgplayer.com/product/675921/pokemon-me-ascended-heroes-cynthias-gible",
    "product_id": 675921,
    "variant": "normal",
-   "qty": 2,
+   "qty": 5,
    "variant_label": "Normal"
   },
   {
@@ -3066,7 +3066,7 @@
    "url": "https://www.tcgplayer.com/product/675922/pokemon-me-ascended-heroes-cynthias-gabite",
    "product_id": 675922,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -3108,7 +3108,7 @@
    "url": "https://www.tcgplayer.com/product/675924/pokemon-me-ascended-heroes-riolu",
    "product_id": 675924,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -3234,7 +3234,7 @@
    "url": "https://www.tcgplayer.com/product/675930/pokemon-me-ascended-heroes-rolycoly",
    "product_id": 675930,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -3372,7 +3372,7 @@
    "url": "https://www.tcgplayer.com/product/675935/pokemon-me-ascended-heroes-gastly",
    "product_id": 675935,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -3478,7 +3478,7 @@
    "url": "https://www.tcgplayer.com/product/675939/pokemon-me-ascended-heroes-team-rockets-honchkrow",
    "product_id": 675939,
    "variant": "holo",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -3542,7 +3542,7 @@
    "url": "https://www.tcgplayer.com/product/675941/pokemon-me-ascended-heroes-mightyena-129-217",
    "product_id": 675941,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -3574,7 +3574,7 @@
    "url": "https://www.tcgplayer.com/product/675942/pokemon-me-ascended-heroes-galarian-zigzagoon",
    "product_id": 675942,
    "variant": "normal",
-   "qty": 2,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -3606,7 +3606,7 @@
    "url": "https://www.tcgplayer.com/product/675943/pokemon-me-ascended-heroes-galarian-linoone",
    "product_id": 675943,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -3638,7 +3638,7 @@
    "url": "https://www.tcgplayer.com/product/675944/pokemon-me-ascended-heroes-galarian-obstagoon-132-217",
    "product_id": 675944,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -3744,7 +3744,7 @@
    "url": "https://www.tcgplayer.com/product/675948/pokemon-me-ascended-heroes-ns-zorua",
    "product_id": 675948,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -3786,7 +3786,7 @@
    "url": "https://www.tcgplayer.com/product/675950/pokemon-me-ascended-heroes-vullaby",
    "product_id": 675950,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -3828,7 +3828,7 @@
    "url": "https://www.tcgplayer.com/product/675952/pokemon-me-ascended-heroes-pangoro",
    "product_id": 675952,
    "variant": "normal",
-   "qty": 5,
+   "qty": 6,
    "variant_label": "Normal"
   },
   {
@@ -3902,7 +3902,7 @@
    "url": "https://www.tcgplayer.com/product/675955/pokemon-me-ascended-heroes-pecharunt",
    "product_id": 675955,
    "variant": "holo",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -3934,7 +3934,7 @@
    "url": "https://www.tcgplayer.com/product/675956/pokemon-me-ascended-heroes-mawile-144-217",
    "product_id": 675956,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -4082,7 +4082,7 @@
    "url": "https://www.tcgplayer.com/product/675962/pokemon-me-ascended-heroes-dratini",
    "product_id": 675962,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -4114,7 +4114,7 @@
    "url": "https://www.tcgplayer.com/product/675963/pokemon-me-ascended-heroes-dragonair",
    "product_id": 675963,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -4252,7 +4252,7 @@
    "url": "https://www.tcgplayer.com/product/675968/pokemon-me-ascended-heroes-noibat",
    "product_id": 675968,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -4316,7 +4316,7 @@
    "url": "https://www.tcgplayer.com/product/675970/pokemon-me-ascended-heroes-dreepy-158-217",
    "product_id": 675970,
    "variant": "normal",
-   "qty": 3,
+   "qty": 5,
    "variant_label": "Normal"
   },
   {
@@ -4548,7 +4548,7 @@
    "url": "https://www.tcgplayer.com/product/675980/pokemon-me-ascended-heroes-larrys-starly",
    "product_id": 675980,
    "variant": "normal",
-   "qty": 3,
+   "qty": 4,
    "variant_label": "Normal"
   },
   {
@@ -4644,7 +4644,7 @@
    "url": "https://www.tcgplayer.com/product/675983/pokemon-me-ascended-heroes-fan-rotom-171-217",
    "product_id": 675983,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -4718,7 +4718,7 @@
    "url": "https://www.tcgplayer.com/product/675986/pokemon-me-ascended-heroes-larrys-braviary",
    "product_id": 675986,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -4750,7 +4750,7 @@
    "url": "https://www.tcgplayer.com/product/675987/pokemon-me-ascended-heroes-larrys-komala",
    "product_id": 675987,
    "variant": "normal",
-   "qty": 3,
+   "qty": 5,
    "variant_label": "Normal"
   },
   {
@@ -4782,7 +4782,7 @@
    "url": "https://www.tcgplayer.com/product/675988/pokemon-me-ascended-heroes-drampa",
    "product_id": 675988,
    "variant": "normal",
-   "qty": 5,
+   "qty": 6,
    "variant_label": "Normal"
   },
   {
@@ -4846,7 +4846,7 @@
    "url": "https://www.tcgplayer.com/product/675990/pokemon-me-ascended-heroes-terapagos",
    "product_id": 675990,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -4888,7 +4888,7 @@
    "url": "https://www.tcgplayer.com/product/675992/pokemon-me-ascended-heroes-acerolas-mischief",
    "product_id": 675992,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -4928,7 +4928,7 @@
    "url": "https://www.tcgplayer.com/product/675994/pokemon-me-ascended-heroes-anthea-and-concordia-182-217",
    "product_id": 675994,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -4948,7 +4948,7 @@
    "url": "https://www.tcgplayer.com/product/675995/pokemon-me-ascended-heroes-bosss-orders-corbeau-183-217",
    "product_id": 675995,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -4968,7 +4968,7 @@
    "url": "https://www.tcgplayer.com/product/675996/pokemon-me-ascended-heroes-buddy-buddy-poffin",
    "product_id": 675996,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -4978,7 +4978,7 @@
    "url": "https://www.tcgplayer.com/product/675996/pokemon-me-ascended-heroes-buddy-buddy-poffin",
    "product_id": 675996,
    "variant": "reverse",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -5018,7 +5018,7 @@
    "url": "https://www.tcgplayer.com/product/675998/pokemon-me-ascended-heroes-counter-gain-186-217",
    "product_id": 675998,
    "variant": "reverse",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -5028,7 +5028,7 @@
    "url": "https://www.tcgplayer.com/product/675999/pokemon-me-ascended-heroes-fighting-gong",
    "product_id": 675999,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -5088,7 +5088,7 @@
    "url": "https://www.tcgplayer.com/product/676002/pokemon-me-ascended-heroes-iriss-fighting-spirit-190-217",
    "product_id": 676002,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -5148,7 +5148,7 @@
    "url": "https://www.tcgplayer.com/product/676005/pokemon-me-ascended-heroes-mega-signal",
    "product_id": 676005,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -5168,7 +5168,7 @@
    "url": "https://www.tcgplayer.com/product/676006/pokemon-me-ascended-heroes-mystery-garden",
    "product_id": 676006,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -5188,7 +5188,7 @@
    "url": "https://www.tcgplayer.com/product/676007/pokemon-me-ascended-heroes-ns-pp-up-195-217",
    "product_id": 676007,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -5208,7 +5208,7 @@
    "url": "https://www.tcgplayer.com/product/676008/pokemon-me-ascended-heroes-night-stretcher",
    "product_id": 676008,
    "variant": "normal",
-   "qty": 3,
+   "qty": 5,
    "variant_label": "Normal"
   },
   {
@@ -5228,7 +5228,7 @@
    "url": "https://www.tcgplayer.com/product/676009/pokemon-me-ascended-heroes-nighttime-mine",
    "product_id": 676009,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -5248,7 +5248,7 @@
    "url": "https://www.tcgplayer.com/product/676010/pokemon-me-ascended-heroes-poke-pad",
    "product_id": 676010,
    "variant": "normal",
-   "qty": 2,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -5468,7 +5468,7 @@
    "url": "https://www.tcgplayer.com/product/676021/pokemon-me-ascended-heroes-team-rockets-transceiver-209-217",
    "product_id": 676021,
    "variant": "normal",
-   "qty": 1,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -5488,7 +5488,7 @@
    "url": "https://www.tcgplayer.com/product/676022/pokemon-me-ascended-heroes-team-rockets-watchtower",
    "product_id": 676022,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -5508,7 +5508,7 @@
    "url": "https://www.tcgplayer.com/product/676023/pokemon-me-ascended-heroes-thick-scale",
    "product_id": 676023,
    "variant": "normal",
-   "qty": 1,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -5568,7 +5568,7 @@
    "url": "https://www.tcgplayer.com/product/676026/pokemon-me-ascended-heroes-urbain",
    "product_id": 676026,
    "variant": "normal",
-   "qty": 5,
+   "qty": 6,
    "variant_label": "Normal"
   },
   {

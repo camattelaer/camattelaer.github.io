@@ -5,11 +5,27 @@ the Jekyll build (`_config.yml`); only the generated files below are published.
 
 ## Updating the catalogue
 
-1. Edit `source/pokemon_bulk_catalogue.xlsx`. Every set has its own sheet:
-   the set name goes in cell B1 (dropdown), and from row 3 down there are
-   `number`, `variant`, `qty` columns, one row per card + variant. For a new
-   set, copy the "Template" sheet and rename the tab; the tab name is only for
-   navigation. Every sheet except "How to use" and "Lists" is read.
+1. Add cards. Either:
+   - **via `source/new_entries.xlsx`** (recommended for new cards): fill in
+     `number`, `variant`, `qty` for one set, close Excel, and merge it into the
+     catalogue with the set's official abbreviation (the code printed on the
+     card, e.g. ASC, TEF, PRE):
+
+     ```sh
+     pokemon/.venv/bin/python pokemon/add_entries.py --set ASC
+     ```
+
+     A card + variant already on the set's tab gets the new qty **added** to
+     it (`--replace` sets it instead); anything else is appended. A set
+     without a tab gets one, copied from "Template". The catalogue is backed
+     up to `pokemon/.cache/backups/` first, and `new_entries.xlsx` is emptied
+     afterwards so a rerun can't add the same cards twice (`--keep` leaves it).
+     `--dry-run` shows the changes without writing anything.
+   - **or directly in `source/pokemon_bulk_catalogue.xlsx`**. Every set has its
+     own sheet: the set name goes in cell B1 (dropdown), and from row 3 down
+     there are `number`, `variant`, `qty` columns, one row per card + variant.
+     For a new set, copy the "Template" sheet and rename the tab; the tab name
+     is only for navigation. Every sheet except "How to use" and "Lists" is read.
 2. Run the build script from the repo root:
 
    ```sh
