@@ -5,8 +5,11 @@ the Jekyll build (`_config.yml`); only the generated files below are published.
 
 ## Updating the catalogue
 
-1. Edit `source/pokemon_bulk_catalogue.xlsx` (sheet "Catalogue": `set_name`,
-   `number`, `variant`, `qty`, one row per card + variant).
+1. Edit `source/pokemon_bulk_catalogue.xlsx`. Every set has its own sheet:
+   the set name goes in cell B1 (dropdown), and from row 3 down there are
+   `number`, `variant`, `qty` columns, one row per card + variant. For a new
+   set, copy the "Template" sheet and rename the tab; the tab name is only for
+   navigation. Every sheet except "How to use" and "Lists" is read.
 2. Run the build script from the repo root:
 
    ```sh
@@ -44,5 +47,5 @@ writes everything it could match.
   reruns are fast and offline. Use `--refresh` to refetch everything, e.g.
   after TCGplayer adds cards to a new set. Set lists are refetched
   automatically when a set isn't found in the cached copy.
-- Removing every row for a set from the xlsx removes its page and data file
-  on the next run.
+- Deleting a set's sheet (or emptying it) removes its page and data file on
+  the next run.
