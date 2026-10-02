@@ -44,6 +44,7 @@ PAGES_DIR = ROOT / "pokemon-tcg"
 
 TCGCSV = "https://tcgcsv.com/tcgplayer/3"
 TCGDEX = "https://api.tcgdex.net/v2/en"
+PTCG = "https://api.pokemontcg.io/v2"
 
 # Order here is also the display order of variants for the same card number.
 VARIANTS = {
@@ -239,6 +240,7 @@ def read_overrides():
 class Catalogues:
     def __init__(self, refresh):
         self.refresh = refresh
+        self._ptcg_sets = None  # fetched on first missing logo
         self._load(refresh)
 
     def _load(self, refresh):
@@ -256,6 +258,20 @@ class Catalogues:
 
     def tcgdex_detail(self, set_id):
         return get_json(f"{TCGDEX}/sets/{set_id}", f"tcgdex_set_{set_id}", self.refresh)
+
+    def fallback_logo(self, name, release_date):
+        """TCGdex lacks some logos (e.g. Temporal Forces); try pokemontcg.io by set name."""
+        if self._ptcg_sets is None:
+            try:
+                self._ptcg_sets = get_json(f"{PTCG}/sets?pageSize=250&select=name,releaseDate,images",
+                                           "ptcg_sets", self.refresh)["data"]
+            except requests.RequestException as exc:
+                print(f"  warning: pokemontcg.io unavailable, no fallback logos ({exc})", file=sys.stderr)
+                self._ptcg_sets = []
+        matches = [s for s in self._ptcg_sets if fold(s["name"]) == fold(name)]
+        if len(matches) > 1 and release_date:
+            matches = [s for s in matches if s.get("releaseDate", "").replace("/", "-") == release_date] or matches
+        return matches[0]["images"].get("logo") if matches else None
 
     def match_tcgdex(self, name, override):
         if override:
@@ -510,7 +526,16 @@ def main():
             del c["key"]
 
         slug = slugify(set_name)
-        logo = f"{detail['logo']}.png" if detail.get("logo") else None
+        if ov.get("logo"):
+            logo = ov["logo"]
+        elif detail.get("logo"):
+            logo = f"{detail['logo']}.png"
+        else:
+            logo = cats.fallback_logo(set_name, release_date)
+            print(f"  logo: {'from pokemontcg.io' if logo else 'none found; add a logo: <url> override'}")
+        if logo and not check_images([logo], False)[logo]:
+            print(f"  logo: {logo} does not load; using the text placeholder")
+            logo = None
         summary = {
             "slug": slug,
             "name": set_name,

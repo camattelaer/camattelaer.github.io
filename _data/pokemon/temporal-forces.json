@@ -3,13 +3,13 @@
  "name": "Temporal Forces",
  "series": "Scarlet & Violet",
  "release_date": "2024-03-22",
- "logo": null,
+ "logo": "https://images.pokemontcg.io/sv5/logo.png",
  "tcgdex_id": "sv05",
  "tcgplayer_group_id": 23381,
  "tcgplayer_group_name": "SV05: Temporal Forces",
- "owned_count": 29,
+ "owned_count": 64,
  "total_count": 358,
- "owned_qty": 38,
+ "owned_qty": 78,
  "cards": [
   {
    "number": "001",
@@ -1548,7 +1548,7 @@
    "url": "https://www.tcgplayer.com/product/542825/pokemon-sv05-temporal-forces-iron-crown-ex-081-162",
    "product_id": 542825,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -1558,7 +1558,7 @@
    "url": "https://www.tcgplayer.com/product/542826/pokemon-sv05-temporal-forces-meditite",
    "product_id": 542826,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1578,7 +1578,7 @@
    "url": "https://www.tcgplayer.com/product/542827/pokemon-sv05-temporal-forces-medicham",
    "product_id": 542827,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1598,7 +1598,7 @@
    "url": "https://www.tcgplayer.com/product/542828/pokemon-sv05-temporal-forces-relicanth-084-162",
    "product_id": 542828,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -1618,7 +1618,7 @@
    "url": "https://www.tcgplayer.com/product/542829/pokemon-sv05-temporal-forces-drilbur",
    "product_id": 542829,
    "variant": "normal",
-   "qty": 0,
+   "qty": 3,
    "variant_label": "Normal"
   },
   {
@@ -1648,7 +1648,7 @@
    "url": "https://www.tcgplayer.com/product/542830/pokemon-sv05-temporal-forces-excadrill-086-162",
    "product_id": 542830,
    "variant": "reverse",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -1658,7 +1658,7 @@
    "url": "https://www.tcgplayer.com/product/542831/pokemon-sv05-temporal-forces-golett",
    "product_id": 542831,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1698,7 +1698,7 @@
    "url": "https://www.tcgplayer.com/product/542833/pokemon-sv05-temporal-forces-rockruff",
    "product_id": 542833,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1718,7 +1718,7 @@
    "url": "https://www.tcgplayer.com/product/542834/pokemon-sv05-temporal-forces-lycanroc",
    "product_id": 542834,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1758,7 +1758,7 @@
    "url": "https://www.tcgplayer.com/product/542836/pokemon-sv05-temporal-forces-mudsdale-092-162",
    "product_id": 542836,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1778,7 +1778,7 @@
    "url": "https://www.tcgplayer.com/product/542837/pokemon-sv05-temporal-forces-rolycoly",
    "product_id": 542837,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1798,7 +1798,7 @@
    "url": "https://www.tcgplayer.com/product/542838/pokemon-sv05-temporal-forces-carkol",
    "product_id": 542838,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1818,7 +1818,7 @@
    "url": "https://www.tcgplayer.com/product/542839/pokemon-sv05-temporal-forces-coalossal",
    "product_id": 542839,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1828,7 +1828,7 @@
    "url": "https://www.tcgplayer.com/product/542839/pokemon-sv05-temporal-forces-coalossal",
    "product_id": 542839,
    "variant": "reverse",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -1838,7 +1838,7 @@
    "url": "https://www.tcgplayer.com/product/542840/pokemon-sv05-temporal-forces-great-tusk-096-162",
    "product_id": 542840,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1858,7 +1858,7 @@
    "url": "https://www.tcgplayer.com/product/542841/pokemon-sv05-temporal-forces-great-tusk-097-162",
    "product_id": 542841,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1878,7 +1878,7 @@
    "url": "https://www.tcgplayer.com/product/542842/pokemon-sv05-temporal-forces-sandy-shocks",
    "product_id": 542842,
    "variant": "normal",
-   "qty": 0,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1898,7 +1898,7 @@
    "url": "https://www.tcgplayer.com/product/542843/pokemon-sv05-temporal-forces-iron-boulder-ex-099-162",
    "product_id": 542843,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -1908,7 +1908,7 @@
    "url": "https://www.tcgplayer.com/product/542844/pokemon-sv05-temporal-forces-ekans",
    "product_id": 542844,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1928,7 +1928,7 @@
    "url": "https://www.tcgplayer.com/product/542845/pokemon-sv05-temporal-forces-arbok-101-162",
    "product_id": 542845,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1948,7 +1948,7 @@
    "url": "https://www.tcgplayer.com/product/542846/pokemon-sv05-temporal-forces-gastly-102-162",
    "product_id": 542846,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -1978,7 +1978,7 @@
    "url": "https://www.tcgplayer.com/product/542847/pokemon-sv05-temporal-forces-haunter",
    "product_id": 542847,
    "variant": "reverse",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -1998,7 +1998,7 @@
    "url": "https://www.tcgplayer.com/product/542849/pokemon-sv05-temporal-forces-poochyena",
    "product_id": 542849,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2008,7 +2008,7 @@
    "url": "https://www.tcgplayer.com/product/542849/pokemon-sv05-temporal-forces-poochyena",
    "product_id": 542849,
    "variant": "reverse",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -2088,7 +2088,7 @@
    "url": "https://www.tcgplayer.com/product/542854/pokemon-sv05-temporal-forces-forretress",
    "product_id": 542854,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2118,7 +2118,7 @@
    "url": "https://www.tcgplayer.com/product/542856/pokemon-sv05-temporal-forces-mawile",
    "product_id": 542856,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2128,7 +2128,7 @@
    "url": "https://www.tcgplayer.com/product/542856/pokemon-sv05-temporal-forces-mawile",
    "product_id": 542856,
    "variant": "reverse",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -2138,7 +2138,7 @@
    "url": "https://www.tcgplayer.com/product/542857/pokemon-sv05-temporal-forces-beldum",
    "product_id": 542857,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2158,7 +2158,7 @@
    "url": "https://www.tcgplayer.com/product/542858/pokemon-sv05-temporal-forces-metang",
    "product_id": 542858,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2168,7 +2168,7 @@
    "url": "https://www.tcgplayer.com/product/542858/pokemon-sv05-temporal-forces-metang",
    "product_id": 542858,
    "variant": "reverse",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -2198,7 +2198,7 @@
    "url": "https://www.tcgplayer.com/product/542860/pokemon-sv05-temporal-forces-meltan-116-162",
    "product_id": 542860,
    "variant": "normal",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Normal"
   },
   {
@@ -2218,7 +2218,7 @@
    "url": "https://www.tcgplayer.com/product/542861/pokemon-sv05-temporal-forces-melmetal",
    "product_id": 542861,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2258,7 +2258,7 @@
    "url": "https://www.tcgplayer.com/product/542863/pokemon-sv05-temporal-forces-koraidon",
    "product_id": 542863,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2288,7 +2288,7 @@
    "url": "https://www.tcgplayer.com/product/542865/pokemon-sv05-temporal-forces-miraidon",
    "product_id": 542865,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {
@@ -2318,7 +2318,7 @@
    "url": "https://www.tcgplayer.com/product/542867/pokemon-sv05-temporal-forces-raging-bolt-ex-123-162",
    "product_id": 542867,
    "variant": "holo",
-   "qty": 0,
+   "qty": 1,
    "variant_label": "Holo"
   },
   {

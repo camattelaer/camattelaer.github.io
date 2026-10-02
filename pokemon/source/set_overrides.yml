@@ -2,6 +2,7 @@
 # Key: set_name exactly as in the xlsx. Values (both optional):
 #   tcgplayer: TCGplayer groupId  (see https://tcgcsv.com/tcgplayer/3/groups)
 #   tcgdex:    TCGdex set id      (see https://api.tcgdex.net/v2/en/sets)
+#   logo:      image URL          used instead of the TCGdex / pokemontcg.io logo
 #   tcgplayer_extra: [groupIds]   subset groups to merge in; replaces the automatic
 #                                 Trainer Gallery / Galarian Gallery / Shiny Vault /
 #                                 Radiant Collection detection ([] turns it off)
