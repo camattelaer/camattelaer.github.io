@@ -37,6 +37,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE_DIR = ROOT / "pokemon" / "source"
 XLSX = SOURCE_DIR / "pokemon_bulk_catalogue.xlsx"
 OVERRIDES = SOURCE_DIR / "set_overrides.yml"
+NON_COLLECTION_SHEETS = {"How to use", "Lists"}
 CACHE_DIR = ROOT / "pokemon" / ".cache"
 DATA_DIR = ROOT / "_data" / "pokemon"
 PAGES_DIR = ROOT / "pokemon-tcg"
@@ -157,37 +158,62 @@ def clean_card_name(name):
 # ---------------------------------------------------------------- inputs
 
 def read_catalogue():
+    """One sheet per set: set_name in B1, then number / variant / qty from row 3 down.
+    Every sheet except 'How to use' and 'Lists' is read; empty ones (Template) are skipped."""
     wb = openpyxl.load_workbook(XLSX, read_only=True, data_only=True)
-    ws = wb["Catalogue"]
-    rows = ws.iter_rows(values_only=True)
-    header = [str(h).strip().lower() if h is not None else "" for h in next(rows)]
-    col = {name: header.index(name) for name in ("set_name", "number", "variant", "qty")}
-
     owned = defaultdict(int)  # (set_name, number_key, variant) -> qty
-    rows_of = defaultdict(list)  # same key -> xlsx row numbers, for the report
+    rows_of = defaultdict(list)  # same key -> "'Sheet' row N" locations, for the report
     problems = []
-    for rownum, row in enumerate(rows, start=2):
-        set_name, number, variant, qty = (row[col[c]] if col[c] < len(row) else None
-                                          for c in ("set_name", "number", "variant", "qty"))
-        if all(v in (None, "") for v in (set_name, number, variant, qty)):
+    sheets_of = defaultdict(list)  # set_name -> sheet titles, to flag a set entered twice
+
+    for ws in wb.worksheets:
+        if ws.title in NON_COLLECTION_SHEETS:
             continue
-        set_name = str(set_name or "").strip()
-        variant = str(variant or "").strip().lower()
-        if not set_name or number in (None, ""):
-            problems.append(f"row {rownum}: missing set_name or number")
+        rows = ws.iter_rows(values_only=True)
+        top = next(rows, ())
+        set_name = str(top[1] if len(top) > 1 and top[1] is not None else "").strip()
+        next(rows, None)
+        header = [str(h).strip().lower() if h is not None else "" for h in next(rows, ())]
+        if not all(name in header for name in ("number", "variant", "qty")):
+            problems.append(f"sheet '{ws.title}': row 3 must be the headers number / variant / qty")
             continue
-        if variant not in VARIANTS:
-            problems.append(f"row {rownum}: {set_name} #{number}: unknown variant '{variant}'")
-            continue
-        try:
-            qty = int(qty) if qty not in (None, "") else 1
-        except (TypeError, ValueError):
-            problems.append(f"row {rownum}: {set_name} #{number}: qty '{qty}' is not a number")
-            continue
-        if qty <= 0:
-            continue
-        owned[(set_name, number_key(number), variant)] += qty
-        rows_of[(set_name, number_key(number), variant)].append(rownum)
+        col = {name: header.index(name) for name in ("number", "variant", "qty")}
+
+        found_rows = False
+        for rownum, row in enumerate(rows, start=4):
+            number, variant, qty = (row[col[c]] if col[c] < len(row) else None
+                                    for c in ("number", "variant", "qty"))
+            if all(v in (None, "") for v in (number, variant, qty)):
+                continue
+            found_rows = True
+            where = f"'{ws.title}' row {rownum}"
+            variant = str(variant or "").strip().lower()
+            if not set_name:
+                continue  # reported once per sheet below
+            if number in (None, ""):
+                problems.append(f"{where}: missing number")
+                continue
+            if variant not in VARIANTS:
+                problems.append(f"{where}: {set_name} #{number}: unknown variant '{variant}'")
+                continue
+            try:
+                qty = int(qty) if qty not in (None, "") else 1
+            except (TypeError, ValueError):
+                problems.append(f"{where}: {set_name} #{number}: qty '{qty}' is not a number")
+                continue
+            if qty <= 0:
+                continue
+            owned[(set_name, number_key(number), variant)] += qty
+            rows_of[(set_name, number_key(number), variant)].append(where)
+        if found_rows and not set_name:
+            problems.append(f"sheet '{ws.title}': no set_name in cell B1; its rows are skipped")
+        if set_name:
+            sheets_of[set_name].append(ws.title)
+
+    for set_name, titles in sheets_of.items():
+        if len(titles) > 1:
+            print(f"warning: {set_name} is on several sheets ({', '.join(titles)}); quantities are added up",
+                  file=sys.stderr)
 
     # Lists sheet: fallback series / release date per set name
     lists = {}
@@ -421,8 +447,7 @@ def main():
     owned, rows_of, lists, report = read_catalogue()
 
     def rows(*key):
-        nums = rows_of[key]
-        return ("row " if len(nums) == 1 else "rows ") + ", ".join(map(str, nums))
+        return ", ".join(rows_of[key])
     overrides = read_overrides()
     cats = Catalogues(args.refresh)
 

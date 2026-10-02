@@ -11,5 +11,18 @@
   "owned_count": 224,
   "total_count": 613,
   "owned_qty": 326
+ },
+ {
+  "slug": "temporal-forces",
+  "name": "Temporal Forces",
+  "series": "Scarlet & Violet",
+  "release_date": "2024-03-22",
+  "logo": null,
+  "tcgdex_id": "sv05",
+  "tcgplayer_group_id": 23381,
+  "tcgplayer_group_name": "SV05: Temporal Forces",
+  "owned_count": 29,
+  "total_count": 358,
+  "owned_qty": 38
  }
 ]
