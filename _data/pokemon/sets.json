@@ -1,5 +1,18 @@
 [
  {
+  "slug": "pitch-black",
+  "name": "Pitch Black",
+  "series": "Mega Evolution",
+  "release_date": "2026-07-17",
+  "logo": "https://assets.tcgdex.net/en/me/me05/logo.png",
+  "tcgdex_id": "me05",
+  "tcgplayer_group_id": 24688,
+  "tcgplayer_group_name": "ME05: Pitch Black",
+  "owned_count": 34,
+  "total_count": 194,
+  "owned_qty": 90
+ },
+ {
   "slug": "ascended-heroes",
   "name": "Ascended Heroes",
   "series": "Mega Evolution",
