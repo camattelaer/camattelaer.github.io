@@ -45,6 +45,83 @@ the Jekyll build (`_config.yml`); only the generated files below are published.
 The script exits with status 1 when the report isn't empty, but it still
 writes everything it could match.
 
+## Placeholder cards for master set hunting
+
+`placeholders.py` makes a printable PDF with a card-sized placeholder for every
+card + variant you don't own yet in a set, 3 × 3 per page in set order, so a
+printed page matches one 9-pocket binder page:
+
+```sh
+pokemon/.venv/bin/python pokemon/placeholders.py --set TEF
+```
+
+Each placeholder shows a faded greyscale picture of the card, its name, number
+and a coloured variant badge (the picture alone can't tell a normal from a
+reverse or Poké Ball print). It reads the generated `_data/pokemon/<slug>.json`,
+so run `build_catalogue.py` first. The PDF goes to `pokemon/placeholders/`
+(git-ignored); print it at 100% / actual size.
+
+The PDF ends with a landscape **checklist**: on the left every card numbered up
+to the set's official count (checkbox, number, name, variant), on the right the
+ones above it (checkbox, number, name, rarity such as IR / SIR / HR, market
+price, target price) with totals. When the lists are too long for one page they
+continue on the next.
+
+- **Market price** is Cardmarket's 7-day average sell price in EUR, taken
+  from Cardmarket's price guide as TCGdex publishes it per card (Cardmarket has
+  no open API). Reverse holos use Cardmarket's reverse-holo price. When a
+  card has no 7-day value, the 30-day average or the trend is used and marked
+  `*`. The page footer states the source and the date of the price data.
+- **Target price** defaults to 90% of the market price.
+- Prices are cached for 12 hours in `pokemon/.cache/cards/`.
+
+Options: `--variants reverse,pokeball` (only those variants), `--all` (every
+card, e.g. to set up a new binder), `--color`, `--no-images` (text only),
+`--paper letter`, `--out file.pdf`, `--price avg7|avg30|avg1|trend`,
+`--target-pct 85`, `--no-checklist`, `--refresh-prices`. `--set` takes the
+set's official abbreviation, its name or its slug. Card pictures are cached in
+`pokemon/.cache/images/`.
+
+## Pokémon master sets
+
+`source/pokemon_mastersets.xlsx` tracks master sets per Pokémon (one tab each,
+name in B1). It is **not** part of the website: nothing reads it except
+`masterset.py`. Both files are local only: they're git-ignored, so they're never
+committed (not to dev, not to main) and aren't backed up by git. Keep your own
+copy of them.
+
+```sh
+pokemon/.venv/bin/python pokemon/masterset.py --pokemon Kingdra   # new Pokémon: creates its tab
+pokemon/.venv/bin/python pokemon/masterset.py                     # every tab
+```
+
+The script fills each tab with every English card + variant of that Pokémon;
+you only fill in `qty` (blank = missing, `skip` = not hunting that variant).
+Reruns add newly released cards and keep your quantities; rows you add yourself
+(without a key) are kept too. The workbook is backed up to
+`pokemon/.cache/backups/` before every save. Close it in Excel first.
+
+- **Variants** come from TCGplayer (via TCGCSV): one row per product + print
+  (1st Edition / Unlimited, normal / holo / reverse), including stamped
+  promos, staff and prerelease versions, deck exclusives and World Championship
+  deck cards. Jumbo cards, code cards and anything labelled error / misprint
+  are left out, as is TCG Pocket. Matching on whole words keeps e.g. Mewtwo
+  out of a Mew master set.
+- **Set, release date and rarity** come from TCGdex.
+- It writes `pokemon/placeholders/<pokemon>-masterset.pdf`: placeholders for
+  the missing cards (without prices, since those change), then a landscape
+  price list of the whole master set in two columns (owned cards ticked) with totals for the set, owned and missing cards.
+- **Prices**: Cardmarket's 7-day average (EUR) via TCGdex where Cardmarket's
+  price guide maps onto the variant. Where it can't (1st Edition vs Unlimited,
+  normal vs holo of one card, stamped and other special prints), or where
+  TCGdex has linked the wrong Cardmarket product (one product on two cards,
+  swapped normal / reverse prices, more than 10× off), TCGplayer's market
+  price for the exact variant is converted at the ECB rate
+  ([frankfurter.dev](https://frankfurter.dev)), marked † / ‡. The footer
+  explains it. Same `--price`, `--target-pct`, `--refresh-prices`, `--color`,
+  `--no-images`, `--paper` options as `placeholders.py`; `--no-pdf` only
+  updates the workbook.
+
 ## How it works
 
 - **Card lists** come from [TCGCSV](https://tcgcsv.com) (a TCGplayer mirror).
