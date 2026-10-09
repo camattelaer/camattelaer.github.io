@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+# Run from the repo root (the folder containing pokemon/).
+#
+# Windows (PowerShell / VS Code terminal):
+#   pokemon\.venv\Scripts\python.exe pokemon\build_catalogue.py
+#   pokemon\.venv\Scripts\python.exe pokemon\build_catalogue.py --refresh
+# macOS:
+#   pokemon/.venv/bin/python pokemon/build_catalogue.py
+#
+# First time on a machine only, to create the venv:
+#   Windows:  py -3 -m venv pokemon\.venv
+#             pokemon\.venv\Scripts\python.exe -m pip install -r pokemon\requirements.txt
+#   macOS:    python3 -m venv pokemon/.venv
+#             pokemon/.venv/bin/pip install -r pokemon/requirements.txt
 """Build the Pokémon TCG catalogue data for the Jekyll site.
 
 Reads pokemon/source/pokemon_bulk_catalogue.xlsx, fetches the full card list of

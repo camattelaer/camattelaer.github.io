@@ -8,9 +8,9 @@
   "tcgdex_id": "me05",
   "tcgplayer_group_id": 24688,
   "tcgplayer_group_name": "ME05: Pitch Black",
-  "owned_count": 129,
+  "owned_count": 108,
   "total_count": 194,
-  "owned_qty": 328
+  "owned_qty": 198
  },
  {
   "slug": "ascended-heroes",
@@ -26,6 +26,19 @@
   "owned_qty": 454
  },
  {
+  "slug": "white-flare",
+  "name": "White Flare",
+  "series": "Scarlet & Violet",
+  "release_date": "2025-07-17",
+  "logo": "https://assets.tcgdex.net/en/sv/sv10.5w/logo.png",
+  "tcgdex_id": "sv10.5w",
+  "tcgplayer_group_id": 24326,
+  "tcgplayer_group_name": "SV: White Flare",
+  "owned_count": 77,
+  "total_count": 407,
+  "owned_qty": 78
+ },
+ {
   "slug": "temporal-forces",
   "name": "Temporal Forces",
   "series": "Scarlet & Violet",
@@ -37,5 +50,18 @@
   "owned_count": 203,
   "total_count": 358,
   "owned_qty": 349
+ },
+ {
+  "slug": "scarlet-and-violet",
+  "name": "Scarlet & Violet",
+  "series": "Scarlet & Violet",
+  "release_date": "2023-03-31",
+  "logo": null,
+  "tcgdex_id": "sv01",
+  "tcgplayer_group_id": 22873,
+  "tcgplayer_group_name": "SV01: Scarlet & Violet Base Set",
+  "owned_count": 90,
+  "total_count": 444,
+  "owned_qty": 91
  }
 ]

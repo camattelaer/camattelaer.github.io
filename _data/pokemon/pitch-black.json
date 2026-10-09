@@ -7,9 +7,9 @@
  "tcgdex_id": "me05",
  "tcgplayer_group_id": 24688,
  "tcgplayer_group_name": "ME05: Pitch Black",
- "owned_count": 129,
+ "owned_count": 108,
  "total_count": 194,
- "owned_qty": 328,
+ "owned_qty": 198,
  "cards": [
   {
    "number": "001",
@@ -18,7 +18,7 @@
    "url": "https://www.tcgplayer.com/product/704758/pokemon-me05-pitch-black-tropius",
    "product_id": 704758,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -28,7 +28,7 @@
    "url": "https://www.tcgplayer.com/product/704758/pokemon-me05-pitch-black-tropius",
    "product_id": 704758,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.tcgplayer.com/product/704759/pokemon-me05-pitch-black-grubbin",
    "product_id": 704759,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -48,7 +48,7 @@
    "url": "https://www.tcgplayer.com/product/704759/pokemon-me05-pitch-black-grubbin",
    "product_id": 704759,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -58,7 +58,7 @@
    "url": "https://www.tcgplayer.com/product/704760/pokemon-me05-pitch-black-fomantis-003-084",
    "product_id": 704760,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -88,7 +88,7 @@
    "url": "https://www.tcgplayer.com/product/704762/pokemon-me05-pitch-black-poltchageist",
    "product_id": 704762,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -108,7 +108,7 @@
    "url": "https://www.tcgplayer.com/product/704763/pokemon-me05-pitch-black-sinistcha",
    "product_id": 704763,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -118,7 +118,7 @@
    "url": "https://www.tcgplayer.com/product/704763/pokemon-me05-pitch-black-sinistcha",
    "product_id": 704763,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -128,7 +128,7 @@
    "url": "https://www.tcgplayer.com/product/704764/pokemon-me05-pitch-black-heatran",
    "product_id": 704764,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -138,7 +138,7 @@
    "url": "https://www.tcgplayer.com/product/704764/pokemon-me05-pitch-black-heatran",
    "product_id": 704764,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -158,7 +158,7 @@
    "url": "https://www.tcgplayer.com/product/704766/pokemon-me05-pitch-black-sizzlipede",
    "product_id": 704766,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -178,7 +178,7 @@
    "url": "https://www.tcgplayer.com/product/704767/pokemon-me05-pitch-black-centiskorch",
    "product_id": 704767,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -188,7 +188,7 @@
    "url": "https://www.tcgplayer.com/product/704767/pokemon-me05-pitch-black-centiskorch",
    "product_id": 704767,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -198,7 +198,7 @@
    "url": "https://www.tcgplayer.com/product/704768/pokemon-me05-pitch-black-charcadet",
    "product_id": 704768,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -208,7 +208,7 @@
    "url": "https://www.tcgplayer.com/product/704768/pokemon-me05-pitch-black-charcadet",
    "product_id": 704768,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -218,7 +218,7 @@
    "url": "https://www.tcgplayer.com/product/704769/pokemon-me05-pitch-black-armarouge-012-084",
    "product_id": 704769,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -238,7 +238,7 @@
    "url": "https://www.tcgplayer.com/product/704770/pokemon-me05-pitch-black-goldeen-013-084",
    "product_id": 704770,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -248,7 +248,7 @@
    "url": "https://www.tcgplayer.com/product/704770/pokemon-me05-pitch-black-goldeen-013-084",
    "product_id": 704770,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -258,7 +258,7 @@
    "url": "https://www.tcgplayer.com/product/704771/pokemon-me05-pitch-black-seaking",
    "product_id": 704771,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -268,7 +268,7 @@
    "url": "https://www.tcgplayer.com/product/704771/pokemon-me05-pitch-black-seaking",
    "product_id": 704771,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -278,7 +278,7 @@
    "url": "https://www.tcgplayer.com/product/704772/pokemon-me05-pitch-black-wailmer",
    "product_id": 704772,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -288,7 +288,7 @@
    "url": "https://www.tcgplayer.com/product/704772/pokemon-me05-pitch-black-wailmer",
    "product_id": 704772,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -308,7 +308,7 @@
    "url": "https://www.tcgplayer.com/product/704774/pokemon-me05-pitch-black-relicanth",
    "product_id": 704774,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -318,7 +318,7 @@
    "url": "https://www.tcgplayer.com/product/704774/pokemon-me05-pitch-black-relicanth",
    "product_id": 704774,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -328,7 +328,7 @@
    "url": "https://www.tcgplayer.com/product/704775/pokemon-me05-pitch-black-popplio",
    "product_id": 704775,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -338,7 +338,7 @@
    "url": "https://www.tcgplayer.com/product/704775/pokemon-me05-pitch-black-popplio",
    "product_id": 704775,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -348,7 +348,7 @@
    "url": "https://www.tcgplayer.com/product/704776/pokemon-me05-pitch-black-brionne",
    "product_id": 704776,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -358,7 +358,7 @@
    "url": "https://www.tcgplayer.com/product/704776/pokemon-me05-pitch-black-brionne",
    "product_id": 704776,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -368,7 +368,7 @@
    "url": "https://www.tcgplayer.com/product/704777/pokemon-me05-pitch-black-primarina-020-084",
    "product_id": 704777,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -378,7 +378,7 @@
    "url": "https://www.tcgplayer.com/product/704777/pokemon-me05-pitch-black-primarina-020-084",
    "product_id": 704777,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -388,7 +388,7 @@
    "url": "https://www.tcgplayer.com/product/704778/pokemon-me05-pitch-black-finizen",
    "product_id": 704778,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -398,7 +398,7 @@
    "url": "https://www.tcgplayer.com/product/704778/pokemon-me05-pitch-black-finizen",
    "product_id": 704778,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -408,7 +408,7 @@
    "url": "https://www.tcgplayer.com/product/704779/pokemon-me05-pitch-black-palafin",
    "product_id": 704779,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -418,7 +418,7 @@
    "url": "https://www.tcgplayer.com/product/704779/pokemon-me05-pitch-black-palafin",
    "product_id": 704779,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -428,7 +428,7 @@
    "url": "https://www.tcgplayer.com/product/704780/pokemon-me05-pitch-black-electrike",
    "product_id": 704780,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -438,7 +438,7 @@
    "url": "https://www.tcgplayer.com/product/704780/pokemon-me05-pitch-black-electrike",
    "product_id": 704780,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -448,7 +448,7 @@
    "url": "https://www.tcgplayer.com/product/704781/pokemon-me05-pitch-black-manectric-024-084",
    "product_id": 704781,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -468,7 +468,7 @@
    "url": "https://www.tcgplayer.com/product/704782/pokemon-me05-pitch-black-charjabug",
    "product_id": 704782,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -478,7 +478,7 @@
    "url": "https://www.tcgplayer.com/product/704782/pokemon-me05-pitch-black-charjabug",
    "product_id": 704782,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -488,7 +488,7 @@
    "url": "https://www.tcgplayer.com/product/704783/pokemon-me05-pitch-black-vikavolt",
    "product_id": 704783,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -498,7 +498,7 @@
    "url": "https://www.tcgplayer.com/product/704783/pokemon-me05-pitch-black-vikavolt",
    "product_id": 704783,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -518,7 +518,7 @@
    "url": "https://www.tcgplayer.com/product/704785/pokemon-me05-pitch-black-miraidon",
    "product_id": 704785,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -528,7 +528,7 @@
    "url": "https://www.tcgplayer.com/product/704785/pokemon-me05-pitch-black-miraidon",
    "product_id": 704785,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -538,17 +538,17 @@
    "url": "https://www.tcgplayer.com/product/704786/pokemon-me05-pitch-black-slowpoke",
    "product_id": 704786,
    "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "029",
-   "name": "Slowpoke",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704786_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704786/pokemon-me05-pitch-black-slowpoke",
-   "product_id": 704786,
-   "variant": "reverse",
    "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "029",
+   "name": "Slowpoke",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704786_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704786/pokemon-me05-pitch-black-slowpoke",
+   "product_id": 704786,
+   "variant": "reverse",
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -558,7 +558,7 @@
    "url": "https://www.tcgplayer.com/product/704787/pokemon-me05-pitch-black-slowbro-030-084",
    "product_id": 704787,
    "variant": "normal",
-   "qty": 4,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -568,7 +568,7 @@
    "url": "https://www.tcgplayer.com/product/704787/pokemon-me05-pitch-black-slowbro-030-084",
    "product_id": 704787,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -588,7 +588,7 @@
    "url": "https://www.tcgplayer.com/product/704789/pokemon-me05-pitch-black-jynx",
    "product_id": 704789,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -598,7 +598,7 @@
    "url": "https://www.tcgplayer.com/product/704789/pokemon-me05-pitch-black-jynx",
    "product_id": 704789,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -608,7 +608,7 @@
    "url": "https://www.tcgplayer.com/product/704790/pokemon-me05-pitch-black-shuppet",
    "product_id": 704790,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -618,7 +618,7 @@
    "url": "https://www.tcgplayer.com/product/704790/pokemon-me05-pitch-black-shuppet",
    "product_id": 704790,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -628,7 +628,7 @@
    "url": "https://www.tcgplayer.com/product/704791/pokemon-me05-pitch-black-banette",
    "product_id": 704791,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -658,37 +658,37 @@
    "url": "https://www.tcgplayer.com/product/704792/pokemon-me05-pitch-black-spiritomb",
    "product_id": 704792,
    "variant": "reverse",
+   "qty": 0,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "036",
+   "name": "Litwick",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704793_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704793/pokemon-me05-pitch-black-litwick",
+   "product_id": 704793,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "036",
+   "name": "Litwick",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704793_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704793/pokemon-me05-pitch-black-litwick",
+   "product_id": 704793,
+   "variant": "reverse",
    "qty": 1,
    "variant_label": "Reverse"
   },
   {
-   "number": "036",
-   "name": "Litwick",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704793_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704793/pokemon-me05-pitch-black-litwick",
-   "product_id": 704793,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "036",
-   "name": "Litwick",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704793_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704793/pokemon-me05-pitch-black-litwick",
-   "product_id": 704793,
-   "variant": "reverse",
-   "qty": 2,
-   "variant_label": "Reverse"
-  },
-  {
    "number": "037",
    "name": "Lampent",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704794_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704794/pokemon-me05-pitch-black-lampent",
    "product_id": 704794,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -698,7 +698,7 @@
    "url": "https://www.tcgplayer.com/product/704794/pokemon-me05-pitch-black-lampent",
    "product_id": 704794,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -718,7 +718,7 @@
    "url": "https://www.tcgplayer.com/product/704796/pokemon-me05-pitch-black-dhelmise-039-084",
    "product_id": 704796,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -728,7 +728,7 @@
    "url": "https://www.tcgplayer.com/product/704796/pokemon-me05-pitch-black-dhelmise-039-084",
    "product_id": 704796,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -738,7 +738,7 @@
    "url": "https://www.tcgplayer.com/product/704797/pokemon-me05-pitch-black-marshadow",
    "product_id": 704797,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -747,28 +747,28 @@
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704797_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704797/pokemon-me05-pitch-black-marshadow",
    "product_id": 704797,
-   "variant": "reverse",
-   "qty": 2,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "041",
-   "name": "Annihilape",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704798_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704798/pokemon-me05-pitch-black-annihilape",
-   "product_id": 704798,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "041",
-   "name": "Annihilape",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704798_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704798/pokemon-me05-pitch-black-annihilape",
-   "product_id": 704798,
    "variant": "reverse",
    "qty": 1,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "041",
+   "name": "Annihilape",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704798_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704798/pokemon-me05-pitch-black-annihilape",
+   "product_id": 704798,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "041",
+   "name": "Annihilape",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704798_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704798/pokemon-me05-pitch-black-annihilape",
+   "product_id": 704798,
+   "variant": "reverse",
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -778,7 +778,7 @@
    "url": "https://www.tcgplayer.com/product/704799/pokemon-me05-pitch-black-mankey",
    "product_id": 704799,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -798,7 +798,7 @@
    "url": "https://www.tcgplayer.com/product/704800/pokemon-me05-pitch-black-primeape",
    "product_id": 704800,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -808,7 +808,7 @@
    "url": "https://www.tcgplayer.com/product/704800/pokemon-me05-pitch-black-primeape",
    "product_id": 704800,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -818,7 +818,7 @@
    "url": "https://www.tcgplayer.com/product/704801/pokemon-me05-pitch-black-cranidos",
    "product_id": 704801,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -828,7 +828,7 @@
    "url": "https://www.tcgplayer.com/product/704801/pokemon-me05-pitch-black-cranidos",
    "product_id": 704801,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -848,7 +848,7 @@
    "url": "https://www.tcgplayer.com/product/704803/pokemon-me05-pitch-black-drilbur",
    "product_id": 704803,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -858,7 +858,7 @@
    "url": "https://www.tcgplayer.com/product/704803/pokemon-me05-pitch-black-drilbur",
    "product_id": 704803,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -868,7 +868,7 @@
    "url": "https://www.tcgplayer.com/product/704804/pokemon-me05-pitch-black-koraidon",
    "product_id": 704804,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -898,7 +898,7 @@
    "url": "https://www.tcgplayer.com/product/704806/pokemon-me05-pitch-black-vullaby",
    "product_id": 704806,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -908,7 +908,7 @@
    "url": "https://www.tcgplayer.com/product/704806/pokemon-me05-pitch-black-vullaby",
    "product_id": 704806,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -918,7 +918,7 @@
    "url": "https://www.tcgplayer.com/product/704807/pokemon-me05-pitch-black-mandibuzz",
    "product_id": 704807,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -938,7 +938,7 @@
    "url": "https://www.tcgplayer.com/product/704808/pokemon-me05-pitch-black-inkay",
    "product_id": 704808,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -948,7 +948,7 @@
    "url": "https://www.tcgplayer.com/product/704808/pokemon-me05-pitch-black-inkay",
    "product_id": 704808,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -958,7 +958,7 @@
    "url": "https://www.tcgplayer.com/product/704809/pokemon-me05-pitch-black-malamar",
    "product_id": 704809,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -968,7 +968,7 @@
    "url": "https://www.tcgplayer.com/product/704809/pokemon-me05-pitch-black-malamar",
    "product_id": 704809,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -978,7 +978,7 @@
    "url": "https://www.tcgplayer.com/product/704810/pokemon-me05-pitch-black-nickit",
    "product_id": 704810,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -988,7 +988,7 @@
    "url": "https://www.tcgplayer.com/product/704810/pokemon-me05-pitch-black-nickit",
    "product_id": 704810,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -998,7 +998,7 @@
    "url": "https://www.tcgplayer.com/product/704811/pokemon-me05-pitch-black-thievul-054-084",
    "product_id": 704811,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1008,7 +1008,7 @@
    "url": "https://www.tcgplayer.com/product/704811/pokemon-me05-pitch-black-thievul-054-084",
    "product_id": 704811,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -1028,7 +1028,7 @@
    "url": "https://www.tcgplayer.com/product/704813/pokemon-me05-pitch-black-zarude",
    "product_id": 704813,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -1048,7 +1048,7 @@
    "url": "https://www.tcgplayer.com/product/704814/pokemon-me05-pitch-black-maschiff",
    "product_id": 704814,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1058,7 +1058,7 @@
    "url": "https://www.tcgplayer.com/product/704814/pokemon-me05-pitch-black-maschiff",
    "product_id": 704814,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -1068,7 +1068,7 @@
    "url": "https://www.tcgplayer.com/product/704815/pokemon-me05-pitch-black-mabosstiff",
    "product_id": 704815,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1078,7 +1078,7 @@
    "url": "https://www.tcgplayer.com/product/704815/pokemon-me05-pitch-black-mabosstiff",
    "product_id": 704815,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -1088,7 +1088,7 @@
    "url": "https://www.tcgplayer.com/product/704816/pokemon-me05-pitch-black-chi-yu",
    "product_id": 704816,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -1108,7 +1108,7 @@
    "url": "https://www.tcgplayer.com/product/704817/pokemon-me05-pitch-black-skarmory",
    "product_id": 704817,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1118,7 +1118,7 @@
    "url": "https://www.tcgplayer.com/product/704817/pokemon-me05-pitch-black-skarmory",
    "product_id": 704817,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -1128,7 +1128,7 @@
    "url": "https://www.tcgplayer.com/product/704818/pokemon-me05-pitch-black-shieldon",
    "product_id": 704818,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1138,7 +1138,7 @@
    "url": "https://www.tcgplayer.com/product/704818/pokemon-me05-pitch-black-shieldon",
    "product_id": 704818,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -1148,7 +1148,7 @@
    "url": "https://www.tcgplayer.com/product/704819/pokemon-me05-pitch-black-bastiodon-062-084",
    "product_id": 704819,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -1168,7 +1168,7 @@
    "url": "https://www.tcgplayer.com/product/704820/pokemon-me05-pitch-black-bronzor",
    "product_id": 704820,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1178,7 +1178,7 @@
    "url": "https://www.tcgplayer.com/product/704820/pokemon-me05-pitch-black-bronzor",
    "product_id": 704820,
    "variant": "reverse",
-   "qty": 2,
+   "qty": 1,
    "variant_label": "Reverse"
   },
   {
@@ -1188,7 +1188,7 @@
    "url": "https://www.tcgplayer.com/product/704821/pokemon-me05-pitch-black-bronzong",
    "product_id": 704821,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1218,7 +1218,7 @@
    "url": "https://www.tcgplayer.com/product/704823/pokemon-me05-pitch-black-pikipek",
    "product_id": 704823,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1228,7 +1228,7 @@
    "url": "https://www.tcgplayer.com/product/704823/pokemon-me05-pitch-black-pikipek",
    "product_id": 704823,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -1238,7 +1238,7 @@
    "url": "https://www.tcgplayer.com/product/704824/pokemon-me05-pitch-black-trumbeak",
    "product_id": 704824,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1248,7 +1248,7 @@
    "url": "https://www.tcgplayer.com/product/704824/pokemon-me05-pitch-black-trumbeak",
    "product_id": 704824,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -1258,7 +1258,7 @@
    "url": "https://www.tcgplayer.com/product/704825/pokemon-me05-pitch-black-toucannon-068-084",
    "product_id": 704825,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1268,7 +1268,7 @@
    "url": "https://www.tcgplayer.com/product/704825/pokemon-me05-pitch-black-toucannon-068-084",
    "product_id": 704825,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -1278,7 +1278,7 @@
    "url": "https://www.tcgplayer.com/product/704826/pokemon-me05-pitch-black-type-null",
    "product_id": 704826,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1288,7 +1288,7 @@
    "url": "https://www.tcgplayer.com/product/704826/pokemon-me05-pitch-black-type-null",
    "product_id": 704826,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -1298,7 +1298,7 @@
    "url": "https://www.tcgplayer.com/product/704827/pokemon-me05-pitch-black-silvally-070-084",
    "product_id": 704827,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -1318,7 +1318,7 @@
    "url": "https://www.tcgplayer.com/product/704828/pokemon-me05-pitch-black-bombirdier",
    "product_id": 704828,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1328,7 +1328,7 @@
    "url": "https://www.tcgplayer.com/product/704828/pokemon-me05-pitch-black-bombirdier",
    "product_id": 704828,
    "variant": "reverse",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Reverse"
   },
   {
@@ -1338,7 +1338,7 @@
    "url": "https://www.tcgplayer.com/product/704829/pokemon-me05-pitch-black-antique-armor-fossil",
    "product_id": 704829,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1347,198 +1347,198 @@
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704829_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704829/pokemon-me05-pitch-black-antique-armor-fossil",
    "product_id": 704829,
-   "variant": "reverse",
-   "qty": 3,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "073",
-   "name": "Antique Skull Fossil",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704830_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704830/pokemon-me05-pitch-black-antique-skull-fossil",
-   "product_id": 704830,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "073",
-   "name": "Antique Skull Fossil",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704830_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704830/pokemon-me05-pitch-black-antique-skull-fossil",
-   "product_id": 704830,
-   "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "074",
-   "name": "Backtrack Badge",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704831_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704831/pokemon-me05-pitch-black-backtrack-badge",
-   "product_id": 704831,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "074",
-   "name": "Backtrack Badge",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704831_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704831/pokemon-me05-pitch-black-backtrack-badge",
-   "product_id": 704831,
-   "variant": "reverse",
-   "qty": 3,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "075",
-   "name": "Dark Bell",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704832_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704832/pokemon-me05-pitch-black-dark-bell-075-084",
-   "product_id": 704832,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "075",
-   "name": "Dark Bell",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704832_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704832/pokemon-me05-pitch-black-dark-bell-075-084",
-   "product_id": 704832,
-   "variant": "reverse",
-   "qty": 1,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "076",
-   "name": "Fossil Quarry",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704833_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704833/pokemon-me05-pitch-black-fossil-quarry",
-   "product_id": 704833,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "076",
-   "name": "Fossil Quarry",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704833_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704833/pokemon-me05-pitch-black-fossil-quarry",
-   "product_id": 704833,
-   "variant": "reverse",
-   "qty": 3,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "077",
-   "name": "Gladion's Final Battle",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704834_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704834/pokemon-me05-pitch-black-gladions-final-battle-077-084",
-   "product_id": 704834,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "077",
-   "name": "Gladion's Final Battle",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704834_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704834/pokemon-me05-pitch-black-gladions-final-battle-077-084",
-   "product_id": 704834,
-   "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "078",
-   "name": "Gwynn",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704835_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704835/pokemon-me05-pitch-black-gwynn-078-084",
-   "product_id": 704835,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "078",
-   "name": "Gwynn",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704835_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704835/pokemon-me05-pitch-black-gwynn-078-084",
-   "product_id": 704835,
-   "variant": "reverse",
-   "qty": 1,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "079",
-   "name": "Jett",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704836_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704836/pokemon-me05-pitch-black-jett",
-   "product_id": 704836,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "079",
-   "name": "Jett",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704836_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704836/pokemon-me05-pitch-black-jett",
-   "product_id": 704836,
-   "variant": "reverse",
-   "qty": 1,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "080",
-   "name": "Misty's Vitality",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704837_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704837/pokemon-me05-pitch-black-mistys-vitality-080-084",
-   "product_id": 704837,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "080",
-   "name": "Misty's Vitality",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704837_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704837/pokemon-me05-pitch-black-mistys-vitality-080-084",
-   "product_id": 704837,
-   "variant": "reverse",
-   "qty": 3,
-   "variant_label": "Reverse"
-  },
-  {
-   "number": "081",
-   "name": "Rust Syndicate Grunt",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704838_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704838/pokemon-me05-pitch-black-rust-syndicate-grunt-081-084",
-   "product_id": 704838,
-   "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
-  },
-  {
-   "number": "081",
-   "name": "Rust Syndicate Grunt",
-   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704838_400w.jpg",
-   "url": "https://www.tcgplayer.com/product/704838/pokemon-me05-pitch-black-rust-syndicate-grunt-081-084",
-   "product_id": 704838,
    "variant": "reverse",
    "qty": 2,
    "variant_label": "Reverse"
   },
   {
+   "number": "073",
+   "name": "Antique Skull Fossil",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704830_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704830/pokemon-me05-pitch-black-antique-skull-fossil",
+   "product_id": 704830,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "073",
+   "name": "Antique Skull Fossil",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704830_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704830/pokemon-me05-pitch-black-antique-skull-fossil",
+   "product_id": 704830,
+   "variant": "reverse",
+   "qty": 0,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "074",
+   "name": "Backtrack Badge",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704831_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704831/pokemon-me05-pitch-black-backtrack-badge",
+   "product_id": 704831,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "074",
+   "name": "Backtrack Badge",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704831_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704831/pokemon-me05-pitch-black-backtrack-badge",
+   "product_id": 704831,
+   "variant": "reverse",
+   "qty": 2,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "075",
+   "name": "Dark Bell",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704832_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704832/pokemon-me05-pitch-black-dark-bell-075-084",
+   "product_id": 704832,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "075",
+   "name": "Dark Bell",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704832_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704832/pokemon-me05-pitch-black-dark-bell-075-084",
+   "product_id": 704832,
+   "variant": "reverse",
+   "qty": 0,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "076",
+   "name": "Fossil Quarry",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704833_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704833/pokemon-me05-pitch-black-fossil-quarry",
+   "product_id": 704833,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "076",
+   "name": "Fossil Quarry",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704833_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704833/pokemon-me05-pitch-black-fossil-quarry",
+   "product_id": 704833,
+   "variant": "reverse",
+   "qty": 2,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "077",
+   "name": "Gladion's Final Battle",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704834_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704834/pokemon-me05-pitch-black-gladions-final-battle-077-084",
+   "product_id": 704834,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "077",
+   "name": "Gladion's Final Battle",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704834_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704834/pokemon-me05-pitch-black-gladions-final-battle-077-084",
+   "product_id": 704834,
+   "variant": "reverse",
+   "qty": 0,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "078",
+   "name": "Gwynn",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704835_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704835/pokemon-me05-pitch-black-gwynn-078-084",
+   "product_id": 704835,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "078",
+   "name": "Gwynn",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704835_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704835/pokemon-me05-pitch-black-gwynn-078-084",
+   "product_id": 704835,
+   "variant": "reverse",
+   "qty": 0,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "079",
+   "name": "Jett",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704836_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704836/pokemon-me05-pitch-black-jett",
+   "product_id": 704836,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "079",
+   "name": "Jett",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704836_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704836/pokemon-me05-pitch-black-jett",
+   "product_id": 704836,
+   "variant": "reverse",
+   "qty": 0,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "080",
+   "name": "Misty's Vitality",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704837_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704837/pokemon-me05-pitch-black-mistys-vitality-080-084",
+   "product_id": 704837,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "080",
+   "name": "Misty's Vitality",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704837_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704837/pokemon-me05-pitch-black-mistys-vitality-080-084",
+   "product_id": 704837,
+   "variant": "reverse",
+   "qty": 2,
+   "variant_label": "Reverse"
+  },
+  {
+   "number": "081",
+   "name": "Rust Syndicate Grunt",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704838_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704838/pokemon-me05-pitch-black-rust-syndicate-grunt-081-084",
+   "product_id": 704838,
+   "variant": "normal",
+   "qty": 2,
+   "variant_label": "Normal"
+  },
+  {
+   "number": "081",
+   "name": "Rust Syndicate Grunt",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704838_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/704838/pokemon-me05-pitch-black-rust-syndicate-grunt-081-084",
+   "product_id": 704838,
+   "variant": "reverse",
+   "qty": 1,
+   "variant_label": "Reverse"
+  },
+  {
    "number": "082",
    "name": "Tremendous Bomb",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704839_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704839/pokemon-me05-pitch-black-tremendous-bomb-082-084",
    "product_id": 704839,
    "variant": "normal",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Normal"
   },
   {
@@ -1548,7 +1548,7 @@
    "url": "https://www.tcgplayer.com/product/704839/pokemon-me05-pitch-black-tremendous-bomb-082-084",
    "product_id": 704839,
    "variant": "reverse",
-   "qty": 1,
+   "qty": 0,
    "variant_label": "Reverse"
   },
   {
@@ -1558,7 +1558,7 @@
    "url": "https://www.tcgplayer.com/product/704840/pokemon-me05-pitch-black-shadowy-darkness-energy",
    "product_id": 704840,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {
@@ -1578,7 +1578,7 @@
    "url": "https://www.tcgplayer.com/product/704841/pokemon-me05-pitch-black-voltaic-lightning-energy",
    "product_id": 704841,
    "variant": "holo",
-   "qty": 3,
+   "qty": 2,
    "variant_label": "Holo"
   },
   {

@@ -1,4 +1,16 @@
 #!/usr/bin/env python3
+# Run from the repo root (the folder containing pokemon/); close the xlsx files in Excel first.
+#
+# Windows (PowerShell / VS Code terminal):
+#   pokemon\.venv\Scripts\python.exe pokemon\add_entries.py --set ASC --dry-run
+#   pokemon\.venv\Scripts\python.exe pokemon\add_entries.py --set ASC
+#   pokemon\.venv\Scripts\python.exe pokemon\build_catalogue.py      # then rebuild the site data
+# macOS:
+#   pokemon/.venv/bin/python pokemon/add_entries.py --set ASC
+#   pokemon/.venv/bin/python pokemon/build_catalogue.py
+#
+# Replace ASC with the set's abbreviation (TEF, PRE, ...). First time on a machine:
+# see the venv setup at the top of build_catalogue.py.
 """Merge pokemon/source/new_entries.xlsx into one set's tab of the bulk catalogue.
 
 Each row of new_entries.xlsx (number, variant, qty) is looked up on the tab of

@@ -1,3 +1,5 @@
 openpyxl
 requests
 PyYAML
+reportlab>=4.0,<4.3
+Pillow
