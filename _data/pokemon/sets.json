@@ -39,6 +39,19 @@
   "owned_qty": 78
  },
  {
+  "slug": "black-bolt",
+  "name": "Black Bolt",
+  "series": "Scarlet & Violet",
+  "release_date": "2025-07-17",
+  "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.png",
+  "tcgdex_id": "sv10.5b",
+  "tcgplayer_group_id": 24325,
+  "tcgplayer_group_name": "SV: Black Bolt",
+  "owned_count": 71,
+  "total_count": 405,
+  "owned_qty": 71
+ },
+ {
   "slug": "temporal-forces",
   "name": "Temporal Forces",
   "series": "Scarlet & Violet",
@@ -56,7 +69,7 @@
   "name": "Scarlet & Violet",
   "series": "Scarlet & Violet",
   "release_date": "2023-03-31",
-  "logo": null,
+  "logo": "https://images.pokemontcg.io/sv1/logo.png",
   "tcgdex_id": "sv01",
   "tcgplayer_group_id": 22873,
   "tcgplayer_group_name": "SV01: Scarlet & Violet Base Set",
