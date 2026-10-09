@@ -539,16 +539,22 @@ def main():
             del c["key"]
 
         slug = slugify(set_name)
-        if ov.get("logo"):
-            logo = ov["logo"]
-        elif detail.get("logo"):
-            logo = f"{detail['logo']}.png"
-        else:
-            logo = cats.fallback_logo(set_name, release_date)
-            print(f"  logo: {'from pokemontcg.io' if logo else 'none found; add a logo: <url> override'}")
-        if logo and not check_images([logo], False)[logo]:
-            print(f"  logo: {logo} does not load; using the text placeholder")
-            logo = None
+        # first logo that loads: override, TCGdex, pokemontcg.io (TCGdex lacks some, and some of its URLs 404)
+        logo = None
+        for source, url in (("override", lambda: ov.get("logo")),
+                            ("TCGdex", lambda: f"{detail['logo']}.png" if detail.get("logo") else None),
+                            ("pokemontcg.io", lambda: cats.fallback_logo(set_name, release_date))):
+            candidate = url()
+            if not candidate:
+                continue
+            if check_images([candidate], False)[candidate]:
+                logo = candidate
+                if source == "pokemontcg.io":
+                    print("  logo: from pokemontcg.io")
+                break
+            print(f"  logo: {source} logo {candidate} does not load")
+        if not logo:
+            print("  logo: none found; add a 'logo: <url>' override, the set name is shown as text meanwhile")
         summary = {
             "slug": slug,
             "name": set_name,

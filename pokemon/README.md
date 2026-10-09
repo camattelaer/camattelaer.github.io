@@ -131,7 +131,8 @@ Reruns add newly released cards and keep your quantities; rows you add yourself
   Gallery, Shiny Vault and Radiant Collection groups are merged into their
   main set automatically.
 - **Set logos, release dates and series** come from [TCGdex](https://tcgdex.dev).
-  TCGdex has no logo for some sets (e.g. Temporal Forces); those fall back to
+  TCGdex has no logo for some sets (e.g. Temporal Forces), or one that doesn't
+  load (Scarlet & Violet); those fall back to
   [pokemontcg.io](https://pokemontcg.io) by set name, or to a `logo:` URL in
   `source/set_overrides.yml`. Sets with neither show the set name as text.
 - **Set matching**: xlsx set names are TCGdex names. TCGplayer group names
