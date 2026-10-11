@@ -13,6 +13,19 @@
   "owned_qty": 198
  },
  {
+  "slug": "perfect-order",
+  "name": "Perfect Order",
+  "series": "Mega Evolution",
+  "release_date": "2026-03-27",
+  "logo": "https://assets.tcgdex.net/en/me/me03/logo.png",
+  "tcgdex_id": "me03",
+  "tcgplayer_group_id": 24587,
+  "tcgplayer_group_name": "ME03: Perfect Order",
+  "owned_count": 40,
+  "total_count": 203,
+  "owned_qty": 59
+ },
+ {
   "slug": "ascended-heroes",
   "name": "Ascended Heroes",
   "series": "Mega Evolution",
@@ -50,6 +63,32 @@
   "owned_count": 71,
   "total_count": 405,
   "owned_qty": 71
+ },
+ {
+  "slug": "stellar-crown",
+  "name": "Stellar Crown",
+  "series": "Scarlet & Violet",
+  "release_date": "2024-09-13",
+  "logo": "https://assets.tcgdex.net/en/sv/sv07/logo.png",
+  "tcgdex_id": "sv07",
+  "tcgplayer_group_id": 23537,
+  "tcgplayer_group_name": "SV07: Stellar Crown",
+  "owned_count": 90,
+  "total_count": 300,
+  "owned_qty": 101
+ },
+ {
+  "slug": "shrouded-fable",
+  "name": "Shrouded Fable",
+  "series": "Scarlet & Violet",
+  "release_date": "2024-08-02",
+  "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.png",
+  "tcgdex_id": "sv06.5",
+  "tcgplayer_group_id": 23529,
+  "tcgplayer_group_name": "SV: Shrouded Fable",
+  "owned_count": 51,
+  "total_count": 154,
+  "owned_qty": 51
  },
  {
   "slug": "temporal-forces",
