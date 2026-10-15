@@ -129,7 +129,9 @@ Reruns add newly released cards and keep your quantities; rows you add yourself
   subtypes; Poké Ball, Master Ball, Energy Symbol, etc. patterns are separate
   products named e.g. `Oddish (Poke Ball Pattern)`. Trainer Gallery, Galarian
   Gallery, Shiny Vault and Radiant Collection groups are merged into their
-  main set automatically.
+  main set automatically, as are the set's deck-exclusive prints (TCGplayer's
+  "Deck Exclusives" group, e.g. a non-holo of a holo rare from a pre-built
+  deck): enter those as `normal`; the site labels them "Normal (deck)".
 - **Set logos, release dates and series** come from [TCGdex](https://tcgdex.dev).
   TCGdex has no logo for some sets (e.g. Temporal Forces), or one that doesn't
   load (Scarlet & Violet); those fall back to

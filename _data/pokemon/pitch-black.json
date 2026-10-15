@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 24688,
  "tcgplayer_group_name": "ME05: Pitch Black",
  "owned_count": 108,
- "total_count": 194,
+ "total_count": 199,
  "owned_qty": 198,
  "cards": [
   {
@@ -514,10 +514,22 @@
   {
    "number": "028",
    "name": "Miraidon",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/707026_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/707026/pokemon-deck-exclusives-miraidon-028-084-non-holo",
+   "product_id": 707026,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "028",
+   "name": "Miraidon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704785_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704785/pokemon-me05-pitch-black-miraidon",
    "product_id": 704785,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707026_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -528,6 +540,7 @@
    "url": "https://www.tcgplayer.com/product/704785/pokemon-me05-pitch-black-miraidon",
    "product_id": 704785,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707026_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -644,10 +657,22 @@
   {
    "number": "035",
    "name": "Spiritomb",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/707028_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/707028/pokemon-deck-exclusives-spiritomb-035-084-non-holo",
+   "product_id": 707028,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "035",
+   "name": "Spiritomb",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704792_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704792/pokemon-me05-pitch-black-spiritomb",
    "product_id": 704792,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707028_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -658,6 +683,7 @@
    "url": "https://www.tcgplayer.com/product/704792/pokemon-me05-pitch-black-spiritomb",
    "product_id": 704792,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707028_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1144,10 +1170,22 @@
   {
    "number": "062",
    "name": "Bastiodon",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/707025_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/707025/pokemon-deck-exclusives-bastiodon-062-084-non-holo",
+   "product_id": 707025,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "062",
+   "name": "Bastiodon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704819_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704819/pokemon-me05-pitch-black-bastiodon-062-084",
    "product_id": 704819,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707025_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -1158,6 +1196,7 @@
    "url": "https://www.tcgplayer.com/product/704819/pokemon-me05-pitch-black-bastiodon-062-084",
    "product_id": 704819,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707025_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1294,10 +1333,22 @@
   {
    "number": "070",
    "name": "Silvally",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/707027_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/707027/pokemon-deck-exclusives-silvally-070-084-non-holo",
+   "product_id": 707027,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "070",
+   "name": "Silvally",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704827_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704827/pokemon-me05-pitch-black-silvally-070-084",
    "product_id": 704827,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707027_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -1308,6 +1359,7 @@
    "url": "https://www.tcgplayer.com/product/704827/pokemon-me05-pitch-black-silvally-070-084",
    "product_id": 704827,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707027_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1574,10 +1626,22 @@
   {
    "number": "084",
    "name": "Voltaic Lightning Energy",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/707029_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/707029/pokemon-deck-exclusives-voltaic-lightning-energy-084-084-non-holo",
+   "product_id": 707029,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "084",
+   "name": "Voltaic Lightning Energy",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704841_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704841/pokemon-me05-pitch-black-voltaic-lightning-energy",
    "product_id": 704841,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707029_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -1588,6 +1652,7 @@
    "url": "https://www.tcgplayer.com/product/704841/pokemon-me05-pitch-black-voltaic-lightning-energy",
    "product_id": 704841,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/707029_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },

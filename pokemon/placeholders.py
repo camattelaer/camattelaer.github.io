@@ -1,4 +1,15 @@
 #!/usr/bin/env python3
+# Run from the repo root, after build_catalogue.py (it reads the generated _data/pokemon/*.json).
+#
+# Windows (PowerShell / VS Code terminal):
+#   pokemon\.venv\Scripts\python.exe pokemon\placeholders.py --set TEF
+#   pokemon\.venv\Scripts\python.exe pokemon\placeholders.py --set "30th Celebration"
+#   pokemon\.venv\Scripts\python.exe pokemon\placeholders.py --set "30th Classic Collection"
+# macOS:
+#   pokemon/.venv/bin/python pokemon/placeholders.py --set TEF
+#
+# --set takes the set code, its full name or its slug. Use the full name when two sets share a
+# code (30th Celebration and 30th Classic Collection are both 30C). PDFs go to pokemon/placeholders/.
 """Print placeholder cards for the cards still missing from a set (master set hunting).
 
 Reads the set's generated data (_data/pokemon/<slug>.json, so run
@@ -241,7 +252,7 @@ def card_badge(card, detail, limit):
     if not above_limit(card, limit) or not rarity:
         return card["variant_label"].upper(), VARIANT_COLOURS.get(card["variant"], DEFAULT_BADGE)
     label = rarity.upper()
-    if card["variant"] not in ("holo", "normal"):
+    if card["variant"] not in ("holo", "normal") or card.get("deck"):
         label += f" · {card['variant_label'].upper()}"
     return label, RARITY_COLOURS.get(rarity_abbr(rarity), DEFAULT_BADGE)
 
@@ -388,9 +399,10 @@ def checklist_drawer(cards, set_info, details, basis, target_pct, missing_only):
     for card, detail in zip(cards, details):
         if not above_limit(card, limit):
             continue
-        price, field, stamp = market_price(detail, card["variant"], basis)
+        # a deck-exclusive print isn't the product Cardmarket's guide prices for this card
+        price, field, stamp = (None, None, None) if card.get("deck") else market_price(detail, card["variant"], basis)
         rarity = rarity_abbr((detail or {}).get("rarity")) if detail else "?"
-        if card["variant"] not in ("holo", "normal"):
+        if card["variant"] not in ("holo", "normal") or card.get("deck"):
             rarity += f" · {card['variant_label']}"
         target = round(price * target_pct / 100, 2) if price is not None else None
         if price is None:

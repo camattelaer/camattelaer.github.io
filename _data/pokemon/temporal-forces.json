@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 23381,
  "tcgplayer_group_name": "SV05: Temporal Forces",
  "owned_count": 203,
- "total_count": 358,
+ "total_count": 365,
  "owned_qty": 349,
  "cards": [
   {
@@ -764,10 +764,22 @@
   {
    "number": "041",
    "name": "Feraligatr",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/543956_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/543956/pokemon-deck-exclusives-feraligatr-041-162",
+   "product_id": 543956,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "041",
+   "name": "Feraligatr",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542785_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542785/pokemon-sv05-temporal-forces-feraligatr",
    "product_id": 542785,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543956_400w.jpg",
    "qty": 1,
    "variant_label": "Holo"
   },
@@ -778,6 +790,7 @@
    "url": "https://www.tcgplayer.com/product/542785/pokemon-sv05-temporal-forces-feraligatr",
    "product_id": 542785,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543956_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1164,10 +1177,22 @@
   {
    "number": "062",
    "name": "Iron Thorns",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/543961_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/543961/pokemon-deck-exclusives-iron-thorns-062-162",
+   "product_id": 543961,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "062",
+   "name": "Iron Thorns",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542806_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542806/pokemon-sv05-temporal-forces-iron-thorns",
    "product_id": 542806,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543961_400w.jpg",
    "qty": 1,
    "variant_label": "Holo"
   },
@@ -1178,6 +1203,7 @@
    "url": "https://www.tcgplayer.com/product/542806/pokemon-sv05-temporal-forces-iron-thorns",
    "product_id": 542806,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543961_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1484,10 +1510,22 @@
   {
    "number": "078",
    "name": "Flutter Mane",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/543958_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/543958/pokemon-deck-exclusives-flutter-mane-078-162",
+   "product_id": 543958,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "078",
+   "name": "Flutter Mane",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542822_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542822/pokemon-sv05-temporal-forces-flutter-mane",
    "product_id": 542822,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543958_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -1498,6 +1536,7 @@
    "url": "https://www.tcgplayer.com/product/542822/pokemon-sv05-temporal-forces-flutter-mane",
    "product_id": 542822,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543958_400w.jpg",
    "qty": 1,
    "variant_label": "Reverse"
   },
@@ -1594,10 +1633,22 @@
   {
    "number": "084",
    "name": "Relicanth",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/543959_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/543959/pokemon-deck-exclusives-relicanth-084-162",
+   "product_id": 543959,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "084",
+   "name": "Relicanth",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542828_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542828/pokemon-sv05-temporal-forces-relicanth-084-162",
    "product_id": 542828,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543959_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -1608,6 +1659,7 @@
    "url": "https://www.tcgplayer.com/product/542828/pokemon-sv05-temporal-forces-relicanth-084-162",
    "product_id": 542828,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543959_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2254,10 +2306,22 @@
   {
    "number": "119",
    "name": "Koraidon",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/543957_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/543957/pokemon-deck-exclusives-koraidon-119-162",
+   "product_id": 543957,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "119",
+   "name": "Koraidon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542863_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542863/pokemon-sv05-temporal-forces-koraidon",
    "product_id": 542863,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543957_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -2268,6 +2332,7 @@
    "url": "https://www.tcgplayer.com/product/542863/pokemon-sv05-temporal-forces-koraidon",
    "product_id": 542863,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543957_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2284,10 +2349,22 @@
   {
    "number": "121",
    "name": "Miraidon",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/543960_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/543960/pokemon-deck-exclusives-miraidon-121-162",
+   "product_id": 543960,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "121",
+   "name": "Miraidon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542865_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542865/pokemon-sv05-temporal-forces-miraidon",
    "product_id": 542865,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543960_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -2298,6 +2375,7 @@
    "url": "https://www.tcgplayer.com/product/542865/pokemon-sv05-temporal-forces-miraidon",
    "product_id": 542865,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/543960_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2424,10 +2502,22 @@
   {
    "number": "129",
    "name": "Dudunsparce",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/693135_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/693135/pokemon-deck-exclusives-dudunsparce-129-162-non-holo",
+   "product_id": 693135,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "129",
+   "name": "Dudunsparce",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542873_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542873/pokemon-sv05-temporal-forces-dudunsparce",
    "product_id": 542873,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/693135_400w.jpg",
    "qty": 2,
    "variant_label": "Holo"
   },
@@ -2438,6 +2528,7 @@
    "url": "https://www.tcgplayer.com/product/542873/pokemon-sv05-temporal-forces-dudunsparce",
    "product_id": 542873,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/693135_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },

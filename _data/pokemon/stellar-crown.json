@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 23537,
  "tcgplayer_group_name": "SV07: Stellar Crown",
  "owned_count": 90,
- "total_count": 300,
+ "total_count": 304,
  "owned_qty": 101,
  "cards": [
   {
@@ -44,10 +44,22 @@
   {
    "number": "003",
    "name": "Ledian",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/576968_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/576968/pokemon-deck-exclusives-ledian-003-142",
+   "product_id": 576968,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "003",
+   "name": "Ledian",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567229_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567229/pokemon-sv07-stellar-crown-ledian-003-142",
    "product_id": 567229,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/576968_400w.jpg",
    "qty": 1,
    "variant_label": "Holo"
   },
@@ -58,6 +70,7 @@
    "url": "https://www.tcgplayer.com/product/567229/pokemon-sv07-stellar-crown-ledian-003-142",
    "product_id": 567229,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/576968_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1804,10 +1817,22 @@
   {
    "number": "096",
    "name": "Grimmsnarl",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/693137_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/693137/pokemon-deck-exclusives-grimmsnarl-096-142-non-holo",
+   "product_id": 693137,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "096",
+   "name": "Grimmsnarl",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567322_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567322/pokemon-sv07-stellar-crown-grimmsnarl",
    "product_id": 567322,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/693137_400w.jpg",
    "qty": 1,
    "variant_label": "Holo"
   },
@@ -1818,6 +1843,7 @@
    "url": "https://www.tcgplayer.com/product/567322/pokemon-sv07-stellar-crown-grimmsnarl",
    "product_id": 567322,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/693137_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2014,10 +2040,22 @@
   {
    "number": "107",
    "name": "Archaludon",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/693134_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/693134/pokemon-deck-exclusives-archaludon-107-142-non-holo",
+   "product_id": 693134,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "107",
+   "name": "Archaludon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567333_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567333/pokemon-sv07-stellar-crown-archaludon-107-142",
    "product_id": 567333,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/693134_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -2028,6 +2066,7 @@
    "url": "https://www.tcgplayer.com/product/567333/pokemon-sv07-stellar-crown-archaludon-107-142",
    "product_id": 567333,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/693134_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2244,10 +2283,22 @@
   {
    "number": "119",
    "name": "Bouffalant",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/576969_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/576969/pokemon-deck-exclusives-bouffalant-119-142",
+   "product_id": 576969,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "119",
+   "name": "Bouffalant",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567345_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567345/pokemon-sv07-stellar-crown-bouffalant",
    "product_id": 567345,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/576969_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -2258,6 +2309,7 @@
    "url": "https://www.tcgplayer.com/product/567345/pokemon-sv07-stellar-crown-bouffalant",
    "product_id": 567345,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/576969_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
