@@ -1,5 +1,31 @@
 [
  {
+  "slug": "30th-classic-collection",
+  "name": "30th Classic Collection",
+  "series": "Mega Evolution",
+  "release_date": "2026-09-16",
+  "logo": null,
+  "tcgdex_id": "30th-c",
+  "tcgplayer_group_id": 24837,
+  "tcgplayer_group_name": "ME: 30th Celebration Classic Collection",
+  "owned_count": 2,
+  "total_count": 27,
+  "owned_qty": 2
+ },
+ {
+  "slug": "30th-celebration",
+  "name": "30th Celebration",
+  "series": "Mega Evolution",
+  "release_date": "2026-09-16",
+  "logo": "https://images.scrydex.com/pokemon/me55-logo/logo",
+  "tcgdex_id": "30th",
+  "tcgplayer_group_id": 24722,
+  "tcgplayer_group_name": "ME: 30th Celebration",
+  "owned_count": 92,
+  "total_count": 161,
+  "owned_qty": 4278
+ },
+ {
   "slug": "pitch-black",
   "name": "Pitch Black",
   "series": "Mega Evolution",
@@ -9,7 +35,7 @@
   "tcgplayer_group_id": 24688,
   "tcgplayer_group_name": "ME05: Pitch Black",
   "owned_count": 108,
-  "total_count": 194,
+  "total_count": 199,
   "owned_qty": 198
  },
  {
@@ -22,7 +48,7 @@
   "tcgplayer_group_id": 24587,
   "tcgplayer_group_name": "ME03: Perfect Order",
   "owned_count": 40,
-  "total_count": 203,
+  "total_count": 209,
   "owned_qty": 59
  },
  {
@@ -65,6 +91,19 @@
   "owned_qty": 71
  },
  {
+  "slug": "surging-sparks",
+  "name": "Surging Sparks",
+  "series": "Scarlet & Violet",
+  "release_date": "2024-11-08",
+  "logo": "https://assets.tcgdex.net/en/sv/sv08/logo.png",
+  "tcgdex_id": "sv08",
+  "tcgplayer_group_id": 23651,
+  "tcgplayer_group_name": "SV08: Surging Sparks",
+  "owned_count": 95,
+  "total_count": 420,
+  "owned_qty": 95
+ },
+ {
   "slug": "stellar-crown",
   "name": "Stellar Crown",
   "series": "Scarlet & Violet",
@@ -74,7 +113,7 @@
   "tcgplayer_group_id": 23537,
   "tcgplayer_group_name": "SV07: Stellar Crown",
   "owned_count": 90,
-  "total_count": 300,
+  "total_count": 304,
   "owned_qty": 101
  },
  {
@@ -100,7 +139,7 @@
   "tcgplayer_group_id": 23381,
   "tcgplayer_group_name": "SV05: Temporal Forces",
   "owned_count": 203,
-  "total_count": 358,
+  "total_count": 365,
   "owned_qty": 349
  },
  {
@@ -113,7 +152,7 @@
   "tcgplayer_group_id": 22873,
   "tcgplayer_group_name": "SV01: Scarlet & Violet Base Set",
   "owned_count": 90,
-  "total_count": 444,
+  "total_count": 458,
   "owned_qty": 91
  }
 ]

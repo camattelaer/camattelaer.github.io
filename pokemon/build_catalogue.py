@@ -363,8 +363,9 @@ def check_images(urls, refresh):
     return {u: status.get(u, True) for u in urls}
 
 
-def build_card_list(group_ids, refresh):
-    """Every card + variant in the given TCGplayer groups, keyed by (number_key, variant)."""
+def build_card_list(group_ids, refresh, deck_group_id=None, official=None):
+    """Every card + variant in the given TCGplayer groups, keyed by (number_key, variant),
+    plus the set's deck-exclusive prints (official = the set's official card count)."""
     products, subtypes = [], defaultdict(set)
     for group_id in group_ids:
         products += get_json(f"{TCGCSV}/{group_id}/products", f"tcgcsv_{group_id}_products", refresh)["results"]
@@ -418,6 +419,26 @@ def build_card_list(group_ids, refresh):
             cards.setdefault((number_key(raw_number), variant), card(prod, raw_number, variant))
     for prod, raw_number, _, variant in patterned:
         cards.setdefault((number_key(raw_number), variant), card(prod, raw_number, variant))
+
+    # Deck-exclusive prints (e.g. a non-holo of a holo rare from a pre-built deck) live in
+    # TCGplayer's "Deck Exclusives" group; they belong to this set when the printed total
+    # is the set's official count and the number + name match one of its cards.
+    if deck_group_id and official:
+        names = {(c["key"], fold(c["name"])) for c in cards.values()}
+        deck_prices = defaultdict(set)
+        for p in get_json(f"{TCGCSV}/{deck_group_id}/prices", f"tcgcsv_{deck_group_id}_prices", refresh)["results"]:
+            deck_prices[p["productId"]].add(p["subTypeName"])
+        for prod in get_json(f"{TCGCSV}/{deck_group_id}/products", f"tcgcsv_{deck_group_id}_products",
+                             refresh)["results"]:
+            raw_number = product_number(prod) or ""
+            total = raw_number.split("/")[1].strip() if "/" in raw_number else ""
+            if not (total.isdigit() and int(total) == official
+                    and (number_key(raw_number), fold(clean_card_name(prod["name"]))) in names):
+                continue
+            found = deck_prices.get(prod["productId"], set())
+            for variant in [SUBTYPES[s] for s in found if s in SUBTYPES] or ["normal"]:
+                if (number_key(raw_number), variant) not in cards:
+                    cards[(number_key(raw_number), variant)] = dict(card(prod, raw_number, variant), deck=True)
 
     # TCGplayer sometimes lists an image the CDN refuses to serve (403), so check.
     ok = check_images({c["image"] for c in cards.values() if c["image"]}, refresh)
@@ -479,6 +500,7 @@ def main():
         return ", ".join(rows_of[key])
     overrides = read_overrides()
     cats = Catalogues(args.refresh)
+    deck_group = next((g["groupId"] for g in cats.groups if fold(g["name"]) == "deck exclusives"), None)
 
     by_set = defaultdict(dict)
     for (set_name, key, variant), qty in owned.items():
@@ -515,9 +537,13 @@ def main():
         extra = cats.subset_groups(group, ov.get("tcgplayer_extra"))
         for g in extra:
             print(f"  TCGplayer: + subset {g['name']} ({g['groupId']})")
-        cards, unrecognised = build_card_list([group["groupId"]] + [g["groupId"] for g in extra], args.refresh)
+        cards, unrecognised = build_card_list([group["groupId"]] + [g["groupId"] for g in extra], args.refresh,
+                                              deck_group, (detail.get("cardCount") or {}).get("official"))
         for label, n in sorted(unrecognised.items()):
             print(f"  note: skipped {n} product(s) labelled '({label})' (duplicate of a plain card number)")
+        decks = sum(1 for c in cards.values() if c.get("deck"))
+        if decks:
+            print(f"  + {decks} deck-exclusive print(s)")
 
         numbers = {k for k, _ in cards}
         for (key, variant), qty in sorted(by_set[set_name].items(), key=lambda kv: number_sort(kv[0][0])):
@@ -535,7 +561,7 @@ def main():
         card_list = sorted(cards.values(), key=lambda c: (number_sort(c["key"]), order.index(c["variant"])))
         for c in card_list:
             c["qty"] = c.get("qty", 0)
-            c["variant_label"] = VARIANTS[c["variant"]]
+            c["variant_label"] = VARIANTS[c["variant"]] + (" (deck)" if c.get("deck") else "")
             del c["key"]
 
         slug = slugify(set_name)

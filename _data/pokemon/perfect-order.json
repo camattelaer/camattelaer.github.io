@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 24587,
  "tcgplayer_group_name": "ME03: Perfect Order",
  "owned_count": 40,
- "total_count": 203,
+ "total_count": 209,
  "owned_qty": 59,
  "cards": [
   {
@@ -114,10 +114,22 @@
   {
    "number": "006",
    "name": "Serperior",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/689165_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/689165/pokemon-deck-exclusives-serperior-006-088-non-holo",
+   "product_id": 689165,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "006",
+   "name": "Serperior",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684402_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684402/pokemon-me03-perfect-order-serperior",
    "product_id": 684402,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/689165_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -128,6 +140,7 @@
    "url": "https://www.tcgplayer.com/product/684402/pokemon-me03-perfect-order-serperior",
    "product_id": 684402,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/689165_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -764,10 +777,22 @@
   {
    "number": "041",
    "name": "Landorus",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/689164_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/689164/pokemon-deck-exclusives-landorus-041-088-non-holo",
+   "product_id": 689164,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "041",
+   "name": "Landorus",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684427_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684427/pokemon-me03-perfect-order-landorus",
    "product_id": 684427,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/689164_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -778,6 +803,7 @@
    "url": "https://www.tcgplayer.com/product/684427/pokemon-me03-perfect-order-landorus",
    "product_id": 684427,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/689164_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -844,10 +870,22 @@
   {
    "number": "045",
    "name": "Tyrantrum",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/688902_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/688902/pokemon-deck-exclusives-tyrantrum-045-088-non-holo",
+   "product_id": 688902,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "045",
+   "name": "Tyrantrum",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684359_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684359/pokemon-me03-perfect-order-tyrantrum",
    "product_id": 684359,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/688902_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -858,6 +896,7 @@
    "url": "https://www.tcgplayer.com/product/684359/pokemon-me03-perfect-order-tyrantrum",
    "product_id": 684359,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/688902_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1624,10 +1663,22 @@
   {
    "number": "086",
    "name": "Growing Grass Energy",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/689163_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/689163/pokemon-deck-exclusives-growing-grass-energy-086-088-non-holo",
+   "product_id": 689163,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "086",
+   "name": "Growing Grass Energy",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684375_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684375/pokemon-me03-perfect-order-growing-grass-energy",
    "product_id": 684375,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/689163_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -1638,8 +1689,20 @@
    "url": "https://www.tcgplayer.com/product/684375/pokemon-me03-perfect-order-growing-grass-energy",
    "product_id": 684375,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/689163_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
+  },
+  {
+   "number": "087",
+   "name": "Rocky Fighting Energy",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/688898_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/688898/pokemon-deck-exclusives-rocky-fighting-energy-087-088-non-holo",
+   "product_id": 688898,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
   },
   {
    "number": "087",
@@ -1648,6 +1711,7 @@
    "url": "https://www.tcgplayer.com/product/684350/pokemon-me03-perfect-order-rocky-fighting-energy",
    "product_id": 684350,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/688898_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -1658,8 +1722,20 @@
    "url": "https://www.tcgplayer.com/product/684350/pokemon-me03-perfect-order-rocky-fighting-energy",
    "product_id": 684350,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/688898_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
+  },
+  {
+   "number": "088",
+   "name": "Telepathic Psychic Energy",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/705021_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/705021/pokemon-deck-exclusives-telepathic-psychic-energy-088-088-non-holo",
+   "product_id": 705021,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
   },
   {
    "number": "088",
@@ -1668,6 +1744,7 @@
    "url": "https://www.tcgplayer.com/product/684396/pokemon-me03-perfect-order-telepathic-psychic-energy",
    "product_id": 684396,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/705021_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -1678,6 +1755,7 @@
    "url": "https://www.tcgplayer.com/product/684396/pokemon-me03-perfect-order-telepathic-psychic-energy",
    "product_id": 684396,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/705021_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },

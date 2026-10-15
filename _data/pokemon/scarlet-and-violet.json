@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 22873,
  "tcgplayer_group_name": "SV01: Scarlet & Violet Base Set",
  "owned_count": 90,
- "total_count": 444,
+ "total_count": 458,
  "owned_qty": 91,
  "cards": [
   {
@@ -445,6 +445,18 @@
    "number": "023",
    "name": "Arboliva",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487860_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/546428/pokemon-deck-exclusives-arboliva-023-198",
+   "product_id": 546428,
+   "variant": "normal",
+   "deck": true,
+   "image_borrowed": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "023",
+   "name": "Arboliva",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/487860_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487860/pokemon-sv01-scarlet-and-violet-base-set-arboliva",
    "product_id": 487860,
    "variant": "holo",
@@ -734,10 +746,22 @@
   {
    "number": "038",
    "name": "Skeledirge",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/583519_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/583519/pokemon-deck-exclusives-skeledirge",
+   "product_id": 583519,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "038",
+   "name": "Skeledirge",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487879_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487879/pokemon-sv01-scarlet-and-violet-base-set-skeledirge",
    "product_id": 487879,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/583519_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -748,6 +772,7 @@
    "url": "https://www.tcgplayer.com/product/487879/pokemon-sv01-scarlet-and-violet-base-set-skeledirge",
    "product_id": 487879,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/583519_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1044,10 +1069,22 @@
   {
    "number": "054",
    "name": "Quaquaval",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/494950_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/494950/pokemon-deck-exclusives-quaquaval-054-198",
+   "product_id": 494950,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "054",
+   "name": "Quaquaval",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487902_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487902/pokemon-sv01-scarlet-and-violet-base-set-quaquaval",
    "product_id": 487902,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494950_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -1058,6 +1095,7 @@
    "url": "https://www.tcgplayer.com/product/487902/pokemon-sv01-scarlet-and-violet-base-set-quaquaval",
    "product_id": 487902,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494950_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1184,10 +1222,22 @@
   {
    "number": "061",
    "name": "Dondozo",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/494952_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/494952/pokemon-deck-exclusives-dondozo-061-198",
+   "product_id": 494952,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "061",
+   "name": "Dondozo",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487913_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487913/pokemon-sv01-scarlet-and-violet-base-set-dondozo-061-198",
    "product_id": 487913,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494952_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -1198,6 +1248,7 @@
    "url": "https://www.tcgplayer.com/product/487913/pokemon-sv01-scarlet-and-violet-base-set-dondozo-061-198",
    "product_id": 487913,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494952_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1474,10 +1525,22 @@
   {
    "number": "076",
    "name": "Pawmot",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/494955_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/494955/pokemon-deck-exclusives-pawmot-076-198",
+   "product_id": 494955,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "076",
+   "name": "Pawmot",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487931_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487931/pokemon-sv01-scarlet-and-violet-base-set-pawmot-076-198",
    "product_id": 487931,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494955_400w.jpg",
    "qty": 1,
    "variant_label": "Holo"
   },
@@ -1488,6 +1551,7 @@
    "url": "https://www.tcgplayer.com/product/487931/pokemon-sv01-scarlet-and-violet-base-set-pawmot-076-198",
    "product_id": 487931,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494955_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -1554,10 +1618,22 @@
   {
    "number": "080",
    "name": "Miraidon",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/498187_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/498187/pokemon-deck-exclusives-miraidon-080-198-rare",
+   "product_id": 498187,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "080",
+   "name": "Miraidon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487942_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487942/pokemon-sv01-scarlet-and-violet-base-set-miraidon",
    "product_id": 487942,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/498187_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -1568,6 +1644,7 @@
    "url": "https://www.tcgplayer.com/product/487942/pokemon-sv01-scarlet-and-violet-base-set-miraidon",
    "product_id": 487942,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/498187_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2104,10 +2181,22 @@
   {
    "number": "109",
    "name": "Annihilape",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/505053_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/505053/pokemon-deck-exclusives-annihilape-109-198",
+   "product_id": 505053,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "109",
+   "name": "Annihilape",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/486617_400w.jpg",
    "url": "https://www.tcgplayer.com/product/486617/pokemon-sv01-scarlet-and-violet-base-set-annihilape",
    "product_id": 486617,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/505053_400w.jpg",
    "qty": 1,
    "variant_label": "Holo"
   },
@@ -2118,6 +2207,7 @@
    "url": "https://www.tcgplayer.com/product/486617/pokemon-sv01-scarlet-and-violet-base-set-annihilape",
    "product_id": 486617,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/505053_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2284,10 +2374,22 @@
   {
    "number": "118",
    "name": "Hawlucha",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/583734_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/583734/pokemon-deck-exclusives-hawlucha",
+   "product_id": 583734,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "118",
+   "name": "Hawlucha",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488007_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488007/pokemon-sv01-scarlet-and-violet-base-set-hawlucha",
    "product_id": 488007,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/583734_400w.jpg",
    "qty": 1,
    "variant_label": "Holo"
   },
@@ -2298,6 +2400,7 @@
    "url": "https://www.tcgplayer.com/product/488007/pokemon-sv01-scarlet-and-violet-base-set-hawlucha",
    "product_id": 488007,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/583734_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2394,10 +2497,22 @@
   {
    "number": "124",
    "name": "Koraidon",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/497055_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/497055/pokemon-deck-exclusives-koraidon-124-198",
+   "product_id": 497055,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "124",
+   "name": "Koraidon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488013_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488013/pokemon-sv01-scarlet-and-violet-base-set-koraidon",
    "product_id": 488013,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/497055_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -2408,6 +2523,7 @@
    "url": "https://www.tcgplayer.com/product/488013/pokemon-sv01-scarlet-and-violet-base-set-koraidon",
    "product_id": 488013,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/497055_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2734,10 +2850,22 @@
   {
    "number": "142",
    "name": "Revavroom",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/494956_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/494956/pokemon-deck-exclusives-revavroom-142-198",
+   "product_id": 494956,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "142",
+   "name": "Revavroom",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488030_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488030/pokemon-sv01-scarlet-and-violet-base-set-revavroom",
    "product_id": 488030,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494956_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -2748,6 +2876,7 @@
    "url": "https://www.tcgplayer.com/product/488030/pokemon-sv01-scarlet-and-violet-base-set-revavroom",
    "product_id": 488030,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494956_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -2944,10 +3073,22 @@
   {
    "number": "153",
    "name": "Indeedee",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/583730_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/583730/pokemon-deck-exclusives-indeedee",
+   "product_id": 583730,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "153",
+   "name": "Indeedee",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488045_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488045/pokemon-sv01-scarlet-and-violet-base-set-indeedee",
    "product_id": 488045,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/583730_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -2958,6 +3099,7 @@
    "url": "https://www.tcgplayer.com/product/488045/pokemon-sv01-scarlet-and-violet-base-set-indeedee",
    "product_id": 488045,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/583730_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -3154,10 +3296,22 @@
   {
    "number": "164",
    "name": "Cyclizar",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/505059_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/505059/pokemon-deck-exclusives-cyclizar-164-198",
+   "product_id": 505059,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "164",
+   "name": "Cyclizar",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487059_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487059/pokemon-sv01-scarlet-and-violet-base-set-cyclizar-164-198",
    "product_id": 487059,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/505059_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -3168,6 +3322,7 @@
    "url": "https://www.tcgplayer.com/product/487059/pokemon-sv01-scarlet-and-violet-base-set-cyclizar-164-198",
    "product_id": 487059,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/505059_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },
@@ -3654,10 +3809,22 @@
   {
    "number": "189",
    "name": "Professor's Research [Professor Sada]",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/494096_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/494096/pokemon-deck-exclusives-professors-research-professor-sada-189-198-non-holo",
+   "product_id": 494096,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
+  },
+  {
+   "number": "189",
+   "name": "Professor's Research [Professor Sada]",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475423_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475423/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-sada-189-198",
    "product_id": 475423,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494096_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -3668,8 +3835,20 @@
    "url": "https://www.tcgplayer.com/product/475423/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-sada-189-198",
    "product_id": 475423,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494096_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
+  },
+  {
+   "number": "190",
+   "name": "Professor's Research [Professor Turo]",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/494957_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/494957/pokemon-deck-exclusives-professors-research-professor-turo-190-198-non-holo",
+   "product_id": 494957,
+   "variant": "normal",
+   "deck": true,
+   "qty": 0,
+   "variant_label": "Normal (deck)"
   },
   {
    "number": "190",
@@ -3678,6 +3857,7 @@
    "url": "https://www.tcgplayer.com/product/475424/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-turo-190-198",
    "product_id": 475424,
    "variant": "holo",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494957_400w.jpg",
    "qty": 0,
    "variant_label": "Holo"
   },
@@ -3688,6 +3868,7 @@
    "url": "https://www.tcgplayer.com/product/475424/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-turo-190-198",
    "product_id": 475424,
    "variant": "reverse",
+   "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/494957_400w.jpg",
    "qty": 0,
    "variant_label": "Reverse"
   },

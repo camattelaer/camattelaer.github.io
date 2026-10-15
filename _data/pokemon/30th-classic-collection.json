@@ -1,0 +1,285 @@
+{
+ "slug": "30th-classic-collection",
+ "name": "30th Classic Collection",
+ "series": "Mega Evolution",
+ "release_date": "2026-09-16",
+ "logo": null,
+ "tcgdex_id": "30th-c",
+ "tcgplayer_group_id": 24837,
+ "tcgplayer_group_name": "ME: 30th Celebration Classic Collection",
+ "owned_count": 2,
+ "total_count": 27,
+ "owned_qty": 2,
+ "cards": [
+  {
+   "number": "4",
+   "name": "Charizard",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/714372_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/714372/pokemon-me-30th-celebration-classic-collection-charizard",
+   "product_id": 714372,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "5",
+   "name": "Delcatty",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716156_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716156/pokemon-me-30th-celebration-classic-collection-delcatty",
+   "product_id": 716156,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "11",
+   "name": "Metagross",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716157_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716157/pokemon-me-30th-celebration-classic-collection-metagross-delta-species",
+   "product_id": 716157,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "18",
+   "name": "Misty",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716159_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716159/pokemon-me-30th-celebration-classic-collection-misty",
+   "product_id": 716159,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "19",
+   "name": "Dark Tyranitar",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716160_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716160/pokemon-me-30th-celebration-classic-collection-dark-tyranitar",
+   "product_id": 716160,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "25",
+   "name": "Sneasel",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716161_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716161/pokemon-me-30th-celebration-classic-collection-sneasel",
+   "product_id": 716161,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "33",
+   "name": "Pikachu & Zekrom GX",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/714373_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/714373/pokemon-me-30th-celebration-classic-collection-pikachu-and-zekrom-gx",
+   "product_id": 714373,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "41",
+   "name": "Greninja BREAK",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716162_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716162/pokemon-me-30th-celebration-classic-collection-greninja-break",
+   "product_id": 716162,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "43",
+   "name": "Uxie",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716163_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716163/pokemon-me-30th-celebration-classic-collection-uxie",
+   "product_id": 716163,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "47",
+   "name": "Crobat G",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716191_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716191/pokemon-me-30th-celebration-classic-collection-crobat-g",
+   "product_id": 716191,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "050",
+   "name": "Raikou",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716192_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716192/pokemon-me-30th-celebration-classic-collection-raikou",
+   "product_id": 716192,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "57",
+   "name": "Buzzwole GX",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716193_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716193/pokemon-me-30th-celebration-classic-collection-buzzwole-gx",
+   "product_id": 716193,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "58",
+   "name": "Pikachu",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716194_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716194/pokemon-me-30th-celebration-classic-collection-pikachu",
+   "product_id": 716194,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "69",
+   "name": "Erika's Jigglypuff",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716195_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716195/pokemon-me-30th-celebration-classic-collection-erikas-jigglypuff",
+   "product_id": 716195,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "85",
+   "name": "Rayquaza EX",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716196_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716196/pokemon-me-30th-celebration-classic-collection-rayquaza-ex",
+   "product_id": 716196,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "89",
+   "name": "Solgaleo GX",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716197_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716197/pokemon-me-30th-celebration-classic-collection-solgaleo-gx",
+   "product_id": 716197,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "94",
+   "name": "Gengar",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716198_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716198/pokemon-me-30th-celebration-classic-collection-gengar-prime",
+   "product_id": 716198,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "99",
+   "name": "Darkrai & Cresselia Legend",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716199_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716199/pokemon-me-30th-celebration-classic-collection-darkrai-and-cresselia-legend-top",
+   "product_id": 716199,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "100",
+   "name": "Darkrai & Cresselia Legend",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716200_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716200/pokemon-me-30th-celebration-classic-collection-darkrai-and-cresselia-legend-bottom",
+   "product_id": 716200,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "101",
+   "name": "N",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716202_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716202/pokemon-me-30th-celebration-classic-collection-n",
+   "product_id": 716202,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "106",
+   "name": "Palkia LV.X",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716203_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716203/pokemon-me-30th-celebration-classic-collection-palkia-lvx",
+   "product_id": 716203,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "108",
+   "name": "Scizor ex",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716206_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716206/pokemon-me-30th-celebration-classic-collection-scizor-ex",
+   "product_id": 716206,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "114",
+   "name": "Mew VMAX",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716207_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716207/pokemon-me-30th-celebration-classic-collection-mew-vmax",
+   "product_id": 716207,
+   "variant": "holo",
+   "qty": 1,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "123",
+   "name": "Arceus VSTAR",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716208_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716208/pokemon-me-30th-celebration-classic-collection-arceus-vstar",
+   "product_id": 716208,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "138",
+   "name": "Zacian V",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716209_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716209/pokemon-me-30th-celebration-classic-collection-zacian-v",
+   "product_id": 716209,
+   "variant": "holo",
+   "qty": 1,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "149",
+   "name": "Lugia",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/714386_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/714386/pokemon-me-30th-celebration-classic-collection-lugia",
+   "product_id": 714386,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  },
+  {
+   "number": "203",
+   "name": "Magikarp",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/716210_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/716210/pokemon-me-30th-celebration-classic-collection-magikarp",
+   "product_id": 716210,
+   "variant": "holo",
+   "qty": 0,
+   "variant_label": "Holo"
+  }
+ ]
+}
