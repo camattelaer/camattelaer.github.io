@@ -61,12 +61,41 @@ def fail(message):
     sys.exit(1)
 
 
-def clean_number(raw):
-    """'025/217' -> '25', 25.0 -> '25', 'tg05' -> 'TG05' (text as typed otherwise)."""
+def clean_number(raw, keep_total=False):
+    """'025/217' -> '25', 25.0 -> '25', 'tg05' -> 'TG05' (text as typed otherwise).
+    keep_total: '106/105' -> '106/105', for sets numbered as the original prints
+    (Classic Collection), where only the set total tells some cards apart."""
     if isinstance(raw, float) and raw.is_integer():
         raw = int(raw)
-    text = str(raw).strip().split("/")[0].strip().upper()
-    return str(int(text)) if text.isdigit() else text
+    text, _, total = str(raw).strip().partition("/")
+    clean = lambda t: str(int(t)) if t.isdigit() else t
+    text, total = clean(text.strip().upper()), clean(total.strip().upper())
+    return f"{text}/{total}" if keep_total and total else text
+
+
+def entry_key(number, shared=None):
+    """Matching key. shared: None for a normal set, else (a set numbered as the original
+    prints) the numbers several of its cards have, which need their set total: '114' and
+    '114/264' are the same card, '106/105' and '106/160' are not."""
+    if shared is None:
+        return bc.number_key(number)
+    return bc.full_key(number) if bc.number_key(number) in shared else bc.number_key(number)
+
+
+def shared_numbers(set_name):
+    """None unless the last build found this set numbered as the original prints; then
+    the card numbers that more than one of its cards has (e.g. {'106', '11'})."""
+    import json
+    sets_file = bc.DATA_DIR / "sets.json"
+    if not sets_file.exists():
+        return None
+    summary = next((s for s in json.loads(sets_file.read_text(encoding="utf_8")) if s["name"] == set_name), None)
+    if not summary or not summary.get("reprint_numbers"):
+        return None
+    cards = json.loads((bc.DATA_DIR / f"{summary['slug']}.json").read_text(encoding="utf_8"))["cards"]
+    full = {bc.full_key(c["number"]) for c in cards}
+    bare = [k.split("/")[0] for k in full]
+    return {n for n in bare if bare.count(n) > 1}
 
 
 def ensure_closed(*paths):
@@ -100,7 +129,7 @@ def create_new_entries_file():
     wb.save(NEW_ENTRIES)
 
 
-def read_new_entries():
+def read_new_entries(shared=None):
     """{(number_key, variant): (number, variant, qty)} plus the row numbers read."""
     wb = openpyxl.load_workbook(NEW_ENTRIES, data_only=True)
     ws = wb.worksheets[0]
@@ -130,8 +159,8 @@ def read_new_entries():
         if qty <= 0:
             problems.append(f"row {rownum}: #{number}: qty must be 1 or more")
             continue
-        number = clean_number(number)
-        key = (bc.number_key(number), variant)
+        number = clean_number(number, shared is not None)
+        key = (entry_key(number, shared), variant)
         if key in entries:  # same card twice in new_entries: add them up
             qty += entries[key][2]
         entries[key] = (number, variant, qty)
@@ -233,7 +262,7 @@ def create_tab(wb, set_name):
 
 # ---------------------------------------------------------------- merging
 
-def merge(ws, entries, replace):
+def merge(ws, entries, replace, shared=None):
     existing = {}  # (number_key, variant) -> row
     last_row = FIRST_ROW - 1
     for row in ws.iter_rows(min_row=FIRST_ROW, max_col=3):
@@ -242,7 +271,7 @@ def merge(ws, entries, replace):
             continue
         last_row = row[0].row
         if number not in (None, "") and variant:
-            key = (bc.number_key(clean_number(number)), str(variant).strip().lower())
+            key = (entry_key(clean_number(number, shared is not None), shared), str(variant).strip().lower())
             existing.setdefault(key, row[0].row)  # duplicates: update the first one
 
     changes = []
@@ -303,7 +332,12 @@ def main():
     else:
         ws = wb[title]
     print(f"{set_name} (tab '{ws.title}'), {len(entries)} entr{'y' if len(entries) == 1 else 'ies'}:")
-    for line in merge(ws, entries, args.replace):
+    shared = shared_numbers(set_name)
+    if shared is not None:  # keep '106/105' whole: several cards are numbered 106
+        entries, rows = read_new_entries(shared)
+        print(f"(numbered as the original prints; type the full number for #{', #'.join(sorted(shared))}, "
+              f"e.g. 106/105)")
+    for line in merge(ws, entries, args.replace, shared):
         print(line)
 
     if args.dry_run:

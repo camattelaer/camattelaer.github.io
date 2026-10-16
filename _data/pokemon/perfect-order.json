@@ -10,10 +10,12 @@
  "owned_count": 40,
  "total_count": 209,
  "owned_qty": 59,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Spinarak",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684397_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684397/pokemon-me03-perfect-order-spinarak",
    "product_id": 684397,
@@ -24,6 +26,7 @@
   {
    "number": "001",
    "name": "Spinarak",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684397_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684397/pokemon-me03-perfect-order-spinarak",
    "product_id": 684397,
@@ -34,6 +37,7 @@
   {
    "number": "002",
    "name": "Ariados",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684398_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684398/pokemon-me03-perfect-order-ariados",
    "product_id": 684398,
@@ -44,6 +48,7 @@
   {
    "number": "002",
    "name": "Ariados",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684398_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684398/pokemon-me03-perfect-order-ariados",
    "product_id": 684398,
@@ -54,6 +59,7 @@
   {
    "number": "003",
    "name": "Shaymin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684399_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684399/pokemon-me03-perfect-order-shaymin",
    "product_id": 684399,
@@ -64,6 +70,7 @@
   {
    "number": "003",
    "name": "Shaymin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684399_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684399/pokemon-me03-perfect-order-shaymin",
    "product_id": 684399,
@@ -74,6 +81,7 @@
   {
    "number": "004",
    "name": "Snivy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684400_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684400/pokemon-me03-perfect-order-snivy",
    "product_id": 684400,
@@ -84,6 +92,7 @@
   {
    "number": "004",
    "name": "Snivy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684400_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684400/pokemon-me03-perfect-order-snivy",
    "product_id": 684400,
@@ -94,6 +103,7 @@
   {
    "number": "005",
    "name": "Servine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684401_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684401/pokemon-me03-perfect-order-servine",
    "product_id": 684401,
@@ -104,6 +114,7 @@
   {
    "number": "005",
    "name": "Servine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684401_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684401/pokemon-me03-perfect-order-servine",
    "product_id": 684401,
@@ -114,6 +125,7 @@
   {
    "number": "006",
    "name": "Serperior",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/689165_400w.jpg",
    "url": "https://www.tcgplayer.com/product/689165/pokemon-deck-exclusives-serperior-006-088-non-holo",
    "product_id": 689165,
@@ -125,6 +137,7 @@
   {
    "number": "006",
    "name": "Serperior",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684402_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684402/pokemon-me03-perfect-order-serperior",
    "product_id": 684402,
@@ -136,6 +149,7 @@
   {
    "number": "006",
    "name": "Serperior",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684402_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684402/pokemon-me03-perfect-order-serperior",
    "product_id": 684402,
@@ -147,6 +161,7 @@
   {
    "number": "007",
    "name": "Scatterbug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684363_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684363/pokemon-me03-perfect-order-scatterbug",
    "product_id": 684363,
@@ -157,6 +172,7 @@
   {
    "number": "007",
    "name": "Scatterbug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684363_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684363/pokemon-me03-perfect-order-scatterbug",
    "product_id": 684363,
@@ -167,6 +183,7 @@
   {
    "number": "008",
    "name": "Spewpa",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684364_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684364/pokemon-me03-perfect-order-spewpa-008-088",
    "product_id": 684364,
@@ -177,6 +194,7 @@
   {
    "number": "008",
    "name": "Spewpa",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684364_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684364/pokemon-me03-perfect-order-spewpa-008-088",
    "product_id": 684364,
@@ -187,6 +205,7 @@
   {
    "number": "009",
    "name": "Vivillon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684366_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684366/pokemon-me03-perfect-order-vivillon",
    "product_id": 684366,
@@ -197,6 +216,7 @@
   {
    "number": "009",
    "name": "Vivillon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684366_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684366/pokemon-me03-perfect-order-vivillon",
    "product_id": 684366,
@@ -207,6 +227,7 @@
   {
    "number": "010",
    "name": "Rowlet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684367_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684367/pokemon-me03-perfect-order-rowlet-010-088",
    "product_id": 684367,
@@ -217,6 +238,7 @@
   {
    "number": "010",
    "name": "Rowlet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684367_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684367/pokemon-me03-perfect-order-rowlet-010-088",
    "product_id": 684367,
@@ -227,6 +249,7 @@
   {
    "number": "011",
    "name": "Dartrix",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684369_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684369/pokemon-me03-perfect-order-dartrix",
    "product_id": 684369,
@@ -237,6 +260,7 @@
   {
    "number": "011",
    "name": "Dartrix",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684369_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684369/pokemon-me03-perfect-order-dartrix",
    "product_id": 684369,
@@ -247,6 +271,7 @@
   {
    "number": "012",
    "name": "Decidueye ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684370_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684370/pokemon-me03-perfect-order-decidueye-ex-012-088",
    "product_id": 684370,
@@ -257,6 +282,7 @@
   {
    "number": "013",
    "name": "Fletchinder",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684404_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684404/pokemon-me03-perfect-order-fletchinder",
    "product_id": 684404,
@@ -267,6 +293,7 @@
   {
    "number": "013",
    "name": "Fletchinder",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684404_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684404/pokemon-me03-perfect-order-fletchinder",
    "product_id": 684404,
@@ -277,6 +304,7 @@
   {
    "number": "014",
    "name": "Talonflame",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684405_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684405/pokemon-me03-perfect-order-talonflame-014-088",
    "product_id": 684405,
@@ -287,6 +315,7 @@
   {
    "number": "014",
    "name": "Talonflame",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684405_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684405/pokemon-me03-perfect-order-talonflame-014-088",
    "product_id": 684405,
@@ -297,6 +326,7 @@
   {
    "number": "015",
    "name": "Salandit",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684382_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684382/pokemon-me03-perfect-order-salandit",
    "product_id": 684382,
@@ -307,6 +337,7 @@
   {
    "number": "015",
    "name": "Salandit",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684382_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684382/pokemon-me03-perfect-order-salandit",
    "product_id": 684382,
@@ -317,6 +348,7 @@
   {
    "number": "016",
    "name": "Salazzle ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684376_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684376/pokemon-me03-perfect-order-salazzle-ex-016-088",
    "product_id": 684376,
@@ -327,6 +359,7 @@
   {
    "number": "017",
    "name": "Turtonator",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684407_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684407/pokemon-me03-perfect-order-turtonator",
    "product_id": 684407,
@@ -337,6 +370,7 @@
   {
    "number": "017",
    "name": "Turtonator",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684407_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684407/pokemon-me03-perfect-order-turtonator",
    "product_id": 684407,
@@ -347,6 +381,7 @@
   {
    "number": "018",
    "name": "Seel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684372_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684372/pokemon-me03-perfect-order-seel",
    "product_id": 684372,
@@ -357,6 +392,7 @@
   {
    "number": "018",
    "name": "Seel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684372_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684372/pokemon-me03-perfect-order-seel",
    "product_id": 684372,
@@ -367,6 +403,7 @@
   {
    "number": "019",
    "name": "Dewgong",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684373_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684373/pokemon-me03-perfect-order-dewgong",
    "product_id": 684373,
@@ -377,6 +414,7 @@
   {
    "number": "019",
    "name": "Dewgong",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684373_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684373/pokemon-me03-perfect-order-dewgong",
    "product_id": 684373,
@@ -387,6 +425,7 @@
   {
    "number": "020",
    "name": "Staryu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684374_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684374/pokemon-me03-perfect-order-staryu",
    "product_id": 684374,
@@ -397,6 +436,7 @@
   {
    "number": "020",
    "name": "Staryu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684374_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684374/pokemon-me03-perfect-order-staryu",
    "product_id": 684374,
@@ -407,6 +447,7 @@
   {
    "number": "021",
    "name": "Mega Starmie ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684360_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684360/pokemon-me03-perfect-order-mega-starmie-ex-021-088",
    "product_id": 684360,
@@ -417,6 +458,7 @@
   {
    "number": "022",
    "name": "Lapras ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684329_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684329/pokemon-me03-perfect-order-lapras-ex",
    "product_id": 684329,
@@ -427,6 +469,7 @@
   {
    "number": "023",
    "name": "Amaura",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684355_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684355/pokemon-me03-perfect-order-amaura",
    "product_id": 684355,
@@ -437,6 +480,7 @@
   {
    "number": "023",
    "name": "Amaura",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684355_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684355/pokemon-me03-perfect-order-amaura",
    "product_id": 684355,
@@ -447,6 +491,7 @@
   {
    "number": "024",
    "name": "Aurorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684356_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684356/pokemon-me03-perfect-order-aurorus-024-088",
    "product_id": 684356,
@@ -457,6 +502,7 @@
   {
    "number": "024",
    "name": "Aurorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684356_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684356/pokemon-me03-perfect-order-aurorus-024-088",
    "product_id": 684356,
@@ -467,6 +513,7 @@
   {
    "number": "025",
    "name": "Volcanion",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684408_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684408/pokemon-me03-perfect-order-volcanion",
    "product_id": 684408,
@@ -477,6 +524,7 @@
   {
    "number": "025",
    "name": "Volcanion",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684408_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684408/pokemon-me03-perfect-order-volcanion",
    "product_id": 684408,
@@ -487,6 +535,7 @@
   {
    "number": "026",
    "name": "Shinx",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684409_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684409/pokemon-me03-perfect-order-shinx",
    "product_id": 684409,
@@ -497,6 +546,7 @@
   {
    "number": "026",
    "name": "Shinx",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684409_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684409/pokemon-me03-perfect-order-shinx",
    "product_id": 684409,
@@ -507,6 +557,7 @@
   {
    "number": "027",
    "name": "Luxio",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684410_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684410/pokemon-me03-perfect-order-luxio",
    "product_id": 684410,
@@ -517,6 +568,7 @@
   {
    "number": "027",
    "name": "Luxio",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684410_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684410/pokemon-me03-perfect-order-luxio",
    "product_id": 684410,
@@ -527,6 +579,7 @@
   {
    "number": "028",
    "name": "Luxray",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684411_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684411/pokemon-me03-perfect-order-luxray",
    "product_id": 684411,
@@ -537,6 +590,7 @@
   {
    "number": "028",
    "name": "Luxray",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684411_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684411/pokemon-me03-perfect-order-luxray",
    "product_id": 684411,
@@ -547,6 +601,7 @@
   {
    "number": "029",
    "name": "Dedenne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684412_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684412/pokemon-me03-perfect-order-dedenne-029-088",
    "product_id": 684412,
@@ -557,6 +612,7 @@
   {
    "number": "029",
    "name": "Dedenne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684412_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684412/pokemon-me03-perfect-order-dedenne-029-088",
    "product_id": 684412,
@@ -567,6 +623,7 @@
   {
    "number": "030",
    "name": "Clefairy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684414_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684414/pokemon-me03-perfect-order-clefairy-030-088",
    "product_id": 684414,
@@ -577,6 +634,7 @@
   {
    "number": "030",
    "name": "Clefairy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684414_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684414/pokemon-me03-perfect-order-clefairy-030-088",
    "product_id": 684414,
@@ -587,6 +645,7 @@
   {
    "number": "031",
    "name": "Mega Clefable ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684383_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684383/pokemon-me03-perfect-order-mega-clefable-ex-031-088",
    "product_id": 684383,
@@ -597,6 +656,7 @@
   {
    "number": "032",
    "name": "Mawile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684416_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684416/pokemon-me03-perfect-order-mawile",
    "product_id": 684416,
@@ -607,6 +667,7 @@
   {
    "number": "032",
    "name": "Mawile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684416_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684416/pokemon-me03-perfect-order-mawile",
    "product_id": 684416,
@@ -617,6 +678,7 @@
   {
    "number": "033",
    "name": "Espurr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684417_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684417/pokemon-me03-perfect-order-espurr-033-088",
    "product_id": 684417,
@@ -627,6 +689,7 @@
   {
    "number": "033",
    "name": "Espurr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684417_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684417/pokemon-me03-perfect-order-espurr-033-088",
    "product_id": 684417,
@@ -637,6 +700,7 @@
   {
    "number": "034",
    "name": "Meowstic",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684419_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684419/pokemon-me03-perfect-order-meowstic",
    "product_id": 684419,
@@ -647,6 +711,7 @@
   {
    "number": "034",
    "name": "Meowstic",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684419_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684419/pokemon-me03-perfect-order-meowstic",
    "product_id": 684419,
@@ -657,6 +722,7 @@
   {
    "number": "035",
    "name": "Spritzee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684420_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684420/pokemon-me03-perfect-order-spritzee",
    "product_id": 684420,
@@ -667,6 +733,7 @@
   {
    "number": "035",
    "name": "Spritzee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684420_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684420/pokemon-me03-perfect-order-spritzee",
    "product_id": 684420,
@@ -677,6 +744,7 @@
   {
    "number": "036",
    "name": "Aromatisse",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684421_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684421/pokemon-me03-perfect-order-aromatisse",
    "product_id": 684421,
@@ -687,6 +755,7 @@
   {
    "number": "036",
    "name": "Aromatisse",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684421_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684421/pokemon-me03-perfect-order-aromatisse",
    "product_id": 684421,
@@ -697,6 +766,7 @@
   {
    "number": "037",
    "name": "Nosepass",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684422_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684422/pokemon-me03-perfect-order-nosepass",
    "product_id": 684422,
@@ -707,6 +777,7 @@
   {
    "number": "037",
    "name": "Nosepass",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684422_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684422/pokemon-me03-perfect-order-nosepass",
    "product_id": 684422,
@@ -717,6 +788,7 @@
   {
    "number": "038",
    "name": "Probopass",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684423_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684423/pokemon-me03-perfect-order-probopass-038-088",
    "product_id": 684423,
@@ -727,6 +799,7 @@
   {
    "number": "038",
    "name": "Probopass",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684423_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684423/pokemon-me03-perfect-order-probopass-038-088",
    "product_id": 684423,
@@ -737,6 +810,7 @@
   {
    "number": "039",
    "name": "Hippopotas",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684425_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684425/pokemon-me03-perfect-order-hippopotas",
    "product_id": 684425,
@@ -747,6 +821,7 @@
   {
    "number": "039",
    "name": "Hippopotas",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684425_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684425/pokemon-me03-perfect-order-hippopotas",
    "product_id": 684425,
@@ -757,6 +832,7 @@
   {
    "number": "040",
    "name": "Hippowdon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684426_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684426/pokemon-me03-perfect-order-hippowdon",
    "product_id": 684426,
@@ -767,6 +843,7 @@
   {
    "number": "040",
    "name": "Hippowdon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684426_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684426/pokemon-me03-perfect-order-hippowdon",
    "product_id": 684426,
@@ -777,6 +854,7 @@
   {
    "number": "041",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/689164_400w.jpg",
    "url": "https://www.tcgplayer.com/product/689164/pokemon-deck-exclusives-landorus-041-088-non-holo",
    "product_id": 689164,
@@ -788,6 +866,7 @@
   {
    "number": "041",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684427_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684427/pokemon-me03-perfect-order-landorus",
    "product_id": 684427,
@@ -799,6 +878,7 @@
   {
    "number": "041",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684427_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684427/pokemon-me03-perfect-order-landorus",
    "product_id": 684427,
@@ -810,6 +890,7 @@
   {
    "number": "042",
    "name": "Binacle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684334_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684334/pokemon-me03-perfect-order-binacle",
    "product_id": 684334,
@@ -820,6 +901,7 @@
   {
    "number": "042",
    "name": "Binacle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684334_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684334/pokemon-me03-perfect-order-binacle",
    "product_id": 684334,
@@ -830,6 +912,7 @@
   {
    "number": "043",
    "name": "Barbaracle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684335_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684335/pokemon-me03-perfect-order-barbaracle",
    "product_id": 684335,
@@ -840,6 +923,7 @@
   {
    "number": "043",
    "name": "Barbaracle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684335_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684335/pokemon-me03-perfect-order-barbaracle",
    "product_id": 684335,
@@ -850,6 +934,7 @@
   {
    "number": "044",
    "name": "Tyrunt",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684358_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684358/pokemon-me03-perfect-order-tyrunt",
    "product_id": 684358,
@@ -860,6 +945,7 @@
   {
    "number": "044",
    "name": "Tyrunt",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684358_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684358/pokemon-me03-perfect-order-tyrunt",
    "product_id": 684358,
@@ -870,6 +956,7 @@
   {
    "number": "045",
    "name": "Tyrantrum",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/688902_400w.jpg",
    "url": "https://www.tcgplayer.com/product/688902/pokemon-deck-exclusives-tyrantrum-045-088-non-holo",
    "product_id": 688902,
@@ -881,6 +968,7 @@
   {
    "number": "045",
    "name": "Tyrantrum",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684359_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684359/pokemon-me03-perfect-order-tyrantrum",
    "product_id": 684359,
@@ -892,6 +980,7 @@
   {
    "number": "045",
    "name": "Tyrantrum",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684359_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684359/pokemon-me03-perfect-order-tyrantrum",
    "product_id": 684359,
@@ -903,6 +992,7 @@
   {
    "number": "046",
    "name": "Hawlucha",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684428_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684428/pokemon-me03-perfect-order-hawlucha",
    "product_id": 684428,
@@ -913,6 +1003,7 @@
   {
    "number": "046",
    "name": "Hawlucha",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684428_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684428/pokemon-me03-perfect-order-hawlucha",
    "product_id": 684428,
@@ -923,6 +1014,7 @@
   {
    "number": "047",
    "name": "Mega Zygarde ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684336_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684336/pokemon-me03-perfect-order-mega-zygarde-ex-047-088",
    "product_id": 684336,
@@ -933,6 +1025,7 @@
   {
    "number": "048",
    "name": "Gastly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684429_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684429/pokemon-me03-perfect-order-gastly",
    "product_id": 684429,
@@ -943,6 +1036,7 @@
   {
    "number": "048",
    "name": "Gastly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684429_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684429/pokemon-me03-perfect-order-gastly",
    "product_id": 684429,
@@ -953,6 +1047,7 @@
   {
    "number": "049",
    "name": "Haunter",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684430_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684430/pokemon-me03-perfect-order-haunter",
    "product_id": 684430,
@@ -963,6 +1058,7 @@
   {
    "number": "049",
    "name": "Haunter",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684430_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684430/pokemon-me03-perfect-order-haunter",
    "product_id": 684430,
@@ -973,6 +1069,7 @@
   {
    "number": "050",
    "name": "Gengar",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684431_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684431/pokemon-me03-perfect-order-gengar",
    "product_id": 684431,
@@ -983,6 +1080,7 @@
   {
    "number": "050",
    "name": "Gengar",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684431_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684431/pokemon-me03-perfect-order-gengar",
    "product_id": 684431,
@@ -993,6 +1091,7 @@
   {
    "number": "051",
    "name": "Skorupi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684432_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684432/pokemon-me03-perfect-order-skorupi",
    "product_id": 684432,
@@ -1003,6 +1102,7 @@
   {
    "number": "051",
    "name": "Skorupi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684432_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684432/pokemon-me03-perfect-order-skorupi",
    "product_id": 684432,
@@ -1013,6 +1113,7 @@
   {
    "number": "052",
    "name": "Drapion",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684433_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684433/pokemon-me03-perfect-order-drapion-052-088",
    "product_id": 684433,
@@ -1023,6 +1124,7 @@
   {
    "number": "052",
    "name": "Drapion",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684433_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684433/pokemon-me03-perfect-order-drapion-052-088",
    "product_id": 684433,
@@ -1033,6 +1135,7 @@
   {
    "number": "053",
    "name": "Yveltal ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684386_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684386/pokemon-me03-perfect-order-yveltal-ex-053-088",
    "product_id": 684386,
@@ -1043,6 +1146,7 @@
   {
    "number": "054",
    "name": "Chien-Pao",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684435_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684435/pokemon-me03-perfect-order-chien-pao",
    "product_id": 684435,
@@ -1053,6 +1157,7 @@
   {
    "number": "054",
    "name": "Chien-Pao",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684435_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684435/pokemon-me03-perfect-order-chien-pao",
    "product_id": 684435,
@@ -1063,6 +1168,7 @@
   {
    "number": "055",
    "name": "Mega Skarmory ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684351_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684351/pokemon-me03-perfect-order-mega-skarmory-ex-055-088",
    "product_id": 684351,
@@ -1073,6 +1179,7 @@
   {
    "number": "056",
    "name": "Honedge",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684378_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684378/pokemon-me03-perfect-order-honedge",
    "product_id": 684378,
@@ -1083,6 +1190,7 @@
   {
    "number": "056",
    "name": "Honedge",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684378_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684378/pokemon-me03-perfect-order-honedge",
    "product_id": 684378,
@@ -1093,6 +1201,7 @@
   {
    "number": "057",
    "name": "Doublade",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684379_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684379/pokemon-me03-perfect-order-doublade-057-088",
    "product_id": 684379,
@@ -1103,6 +1212,7 @@
   {
    "number": "057",
    "name": "Doublade",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684379_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684379/pokemon-me03-perfect-order-doublade-057-088",
    "product_id": 684379,
@@ -1113,6 +1223,7 @@
   {
    "number": "058",
    "name": "Aegislash",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684381_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684381/pokemon-me03-perfect-order-aegislash",
    "product_id": 684381,
@@ -1123,6 +1234,7 @@
   {
    "number": "058",
    "name": "Aegislash",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684381_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684381/pokemon-me03-perfect-order-aegislash",
    "product_id": 684381,
@@ -1133,6 +1245,7 @@
   {
    "number": "059",
    "name": "Klefki",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684436_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684436/pokemon-me03-perfect-order-klefki",
    "product_id": 684436,
@@ -1143,6 +1256,7 @@
   {
    "number": "059",
    "name": "Klefki",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684436_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684436/pokemon-me03-perfect-order-klefki",
    "product_id": 684436,
@@ -1153,6 +1267,7 @@
   {
    "number": "060",
    "name": "Rattata",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684437_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684437/pokemon-me03-perfect-order-rattata",
    "product_id": 684437,
@@ -1163,6 +1278,7 @@
   {
    "number": "060",
    "name": "Rattata",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684437_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684437/pokemon-me03-perfect-order-rattata",
    "product_id": 684437,
@@ -1173,6 +1289,7 @@
   {
    "number": "061",
    "name": "Raticate",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684438_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684438/pokemon-me03-perfect-order-raticate-061-088",
    "product_id": 684438,
@@ -1183,6 +1300,7 @@
   {
    "number": "061",
    "name": "Raticate",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684438_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684438/pokemon-me03-perfect-order-raticate-061-088",
    "product_id": 684438,
@@ -1193,6 +1311,7 @@
   {
    "number": "062",
    "name": "Meowth ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684340_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684340/pokemon-me03-perfect-order-meowth-ex-062-088",
    "product_id": 684340,
@@ -1203,6 +1322,7 @@
   {
    "number": "063",
    "name": "Snorlax",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684440_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684440/pokemon-me03-perfect-order-snorlax",
    "product_id": 684440,
@@ -1213,6 +1333,7 @@
   {
    "number": "063",
    "name": "Snorlax",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684440_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684440/pokemon-me03-perfect-order-snorlax",
    "product_id": 684440,
@@ -1223,6 +1344,7 @@
   {
    "number": "064",
    "name": "Bunnelby",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684441_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684441/pokemon-me03-perfect-order-bunnelby",
    "product_id": 684441,
@@ -1233,6 +1355,7 @@
   {
    "number": "064",
    "name": "Bunnelby",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684441_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684441/pokemon-me03-perfect-order-bunnelby",
    "product_id": 684441,
@@ -1243,6 +1366,7 @@
   {
    "number": "065",
    "name": "Diggersby",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684442_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684442/pokemon-me03-perfect-order-diggersby",
    "product_id": 684442,
@@ -1253,6 +1377,7 @@
   {
    "number": "065",
    "name": "Diggersby",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684442_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684442/pokemon-me03-perfect-order-diggersby",
    "product_id": 684442,
@@ -1263,6 +1388,7 @@
   {
    "number": "066",
    "name": "Fletchling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684403_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684403/pokemon-me03-perfect-order-fletchling",
    "product_id": 684403,
@@ -1273,6 +1399,7 @@
   {
    "number": "066",
    "name": "Fletchling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684403_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684403/pokemon-me03-perfect-order-fletchling",
    "product_id": 684403,
@@ -1283,6 +1410,7 @@
   {
    "number": "067",
    "name": "Furfrou",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684443_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684443/pokemon-me03-perfect-order-furfrou",
    "product_id": 684443,
@@ -1293,6 +1421,7 @@
   {
    "number": "067",
    "name": "Furfrou",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684443_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684443/pokemon-me03-perfect-order-furfrou",
    "product_id": 684443,
@@ -1303,6 +1432,7 @@
   {
    "number": "068",
    "name": "Antique Jaw Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684353_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684353/pokemon-me03-perfect-order-antique-jaw-fossil",
    "product_id": 684353,
@@ -1313,6 +1443,7 @@
   {
    "number": "068",
    "name": "Antique Jaw Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684353_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684353/pokemon-me03-perfect-order-antique-jaw-fossil",
    "product_id": 684353,
@@ -1323,6 +1454,7 @@
   {
    "number": "069",
    "name": "Antique Sail Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684354_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684354/pokemon-me03-perfect-order-antique-sail-fossil",
    "product_id": 684354,
@@ -1333,6 +1465,7 @@
   {
    "number": "069",
    "name": "Antique Sail Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684354_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684354/pokemon-me03-perfect-order-antique-sail-fossil",
    "product_id": 684354,
@@ -1343,6 +1476,7 @@
   {
    "number": "070",
    "name": "Core Memory",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684343_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684343/pokemon-me03-perfect-order-core-memory",
    "product_id": 684343,
@@ -1353,6 +1487,7 @@
   {
    "number": "070",
    "name": "Core Memory",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684343_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684343/pokemon-me03-perfect-order-core-memory",
    "product_id": 684343,
@@ -1363,6 +1498,7 @@
   {
    "number": "071",
    "name": "Crushing Hammer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684325_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684325/pokemon-me03-perfect-order-crushing-hammer",
    "product_id": 684325,
@@ -1373,6 +1509,7 @@
   {
    "number": "071",
    "name": "Crushing Hammer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684325_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684325/pokemon-me03-perfect-order-crushing-hammer",
    "product_id": 684325,
@@ -1383,6 +1520,7 @@
   {
    "number": "072",
    "name": "Energy Search",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684322_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684322/pokemon-me03-perfect-order-energy-search",
    "product_id": 684322,
@@ -1393,6 +1531,7 @@
   {
    "number": "072",
    "name": "Energy Search",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684322_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684322/pokemon-me03-perfect-order-energy-search",
    "product_id": 684322,
@@ -1403,6 +1542,7 @@
   {
    "number": "073",
    "name": "Energy Swatter",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684388_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684388/pokemon-me03-perfect-order-energy-swatter",
    "product_id": 684388,
@@ -1413,6 +1553,7 @@
   {
    "number": "073",
    "name": "Energy Swatter",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684388_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684388/pokemon-me03-perfect-order-energy-swatter",
    "product_id": 684388,
@@ -1423,6 +1564,7 @@
   {
    "number": "074",
    "name": "Hole-Digging Shovel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684330_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684330/pokemon-me03-perfect-order-hole-digging-shovel",
    "product_id": 684330,
@@ -1433,6 +1575,7 @@
   {
    "number": "074",
    "name": "Hole-Digging Shovel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684330_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684330/pokemon-me03-perfect-order-hole-digging-shovel",
    "product_id": 684330,
@@ -1443,6 +1586,7 @@
   {
    "number": "075",
    "name": "Jacinthe",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684393_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684393/pokemon-me03-perfect-order-jacinthe-075-088",
    "product_id": 684393,
@@ -1453,6 +1597,7 @@
   {
    "number": "075",
    "name": "Jacinthe",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684393_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684393/pokemon-me03-perfect-order-jacinthe-075-088",
    "product_id": 684393,
@@ -1463,6 +1608,7 @@
   {
    "number": "076",
    "name": "Judge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684323_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684323/pokemon-me03-perfect-order-judge",
    "product_id": 684323,
@@ -1473,6 +1619,7 @@
   {
    "number": "076",
    "name": "Judge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684323_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684323/pokemon-me03-perfect-order-judge",
    "product_id": 684323,
@@ -1483,6 +1630,7 @@
   {
    "number": "077",
    "name": "Lumiose City",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684348_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684348/pokemon-me03-perfect-order-lumiose-city-077-088",
    "product_id": 684348,
@@ -1493,6 +1641,7 @@
   {
    "number": "077",
    "name": "Lumiose City",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684348_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684348/pokemon-me03-perfect-order-lumiose-city-077-088",
    "product_id": 684348,
@@ -1503,6 +1652,7 @@
   {
    "number": "078",
    "name": "Lumiose Galette",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684389_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684389/pokemon-me03-perfect-order-lumiose-galette",
    "product_id": 684389,
@@ -1513,6 +1663,7 @@
   {
    "number": "078",
    "name": "Lumiose Galette",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684389_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684389/pokemon-me03-perfect-order-lumiose-galette",
    "product_id": 684389,
@@ -1523,6 +1674,7 @@
   {
    "number": "079",
    "name": "Naveen",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684346_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684346/pokemon-me03-perfect-order-naveen-079-088",
    "product_id": 684346,
@@ -1533,6 +1685,7 @@
   {
    "number": "079",
    "name": "Naveen",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684346_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684346/pokemon-me03-perfect-order-naveen-079-088",
    "product_id": 684346,
@@ -1543,6 +1696,7 @@
   {
    "number": "080",
    "name": "Poke Ball",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684321_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684321/pokemon-me03-perfect-order-poke-ball",
    "product_id": 684321,
@@ -1553,6 +1707,7 @@
   {
    "number": "080",
    "name": "Poke Ball",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684321_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684321/pokemon-me03-perfect-order-poke-ball",
    "product_id": 684321,
@@ -1563,6 +1718,7 @@
   {
    "number": "081",
    "name": "Poke Pad",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684332_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684332/pokemon-me03-perfect-order-poke-pad-081-088",
    "product_id": 684332,
@@ -1573,6 +1729,7 @@
   {
    "number": "081",
    "name": "Poke Pad",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684332_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684332/pokemon-me03-perfect-order-poke-pad-081-088",
    "product_id": 684332,
@@ -1583,6 +1740,7 @@
   {
    "number": "082",
    "name": "Pokemon Catcher",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684324_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684324/pokemon-me03-perfect-order-pokemon-catcher",
    "product_id": 684324,
@@ -1593,6 +1751,7 @@
   {
    "number": "082",
    "name": "Pokemon Catcher",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684324_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684324/pokemon-me03-perfect-order-pokemon-catcher",
    "product_id": 684324,
@@ -1603,6 +1762,7 @@
   {
    "number": "083",
    "name": "Potion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684320_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684320/pokemon-me03-perfect-order-potion",
    "product_id": 684320,
@@ -1613,6 +1773,7 @@
   {
    "number": "083",
    "name": "Potion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684320_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684320/pokemon-me03-perfect-order-potion",
    "product_id": 684320,
@@ -1623,6 +1784,7 @@
   {
    "number": "084",
    "name": "Rosa's Encouragement",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684390_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684390/pokemon-me03-perfect-order-rosas-encouragement-084-088",
    "product_id": 684390,
@@ -1633,6 +1795,7 @@
   {
    "number": "084",
    "name": "Rosa's Encouragement",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684390_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684390/pokemon-me03-perfect-order-rosas-encouragement-084-088",
    "product_id": 684390,
@@ -1643,6 +1806,7 @@
   {
    "number": "085",
    "name": "Tarragon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684344_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684344/pokemon-me03-perfect-order-tarragon-085-088",
    "product_id": 684344,
@@ -1653,6 +1817,7 @@
   {
    "number": "085",
    "name": "Tarragon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684344_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684344/pokemon-me03-perfect-order-tarragon-085-088",
    "product_id": 684344,
@@ -1663,6 +1828,7 @@
   {
    "number": "086",
    "name": "Growing Grass Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/689163_400w.jpg",
    "url": "https://www.tcgplayer.com/product/689163/pokemon-deck-exclusives-growing-grass-energy-086-088-non-holo",
    "product_id": 689163,
@@ -1674,6 +1840,7 @@
   {
    "number": "086",
    "name": "Growing Grass Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684375_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684375/pokemon-me03-perfect-order-growing-grass-energy",
    "product_id": 684375,
@@ -1685,6 +1852,7 @@
   {
    "number": "086",
    "name": "Growing Grass Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684375_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684375/pokemon-me03-perfect-order-growing-grass-energy",
    "product_id": 684375,
@@ -1696,6 +1864,7 @@
   {
    "number": "087",
    "name": "Rocky Fighting Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/688898_400w.jpg",
    "url": "https://www.tcgplayer.com/product/688898/pokemon-deck-exclusives-rocky-fighting-energy-087-088-non-holo",
    "product_id": 688898,
@@ -1707,6 +1876,7 @@
   {
    "number": "087",
    "name": "Rocky Fighting Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684350_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684350/pokemon-me03-perfect-order-rocky-fighting-energy",
    "product_id": 684350,
@@ -1718,6 +1888,7 @@
   {
    "number": "087",
    "name": "Rocky Fighting Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684350_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684350/pokemon-me03-perfect-order-rocky-fighting-energy",
    "product_id": 684350,
@@ -1729,6 +1900,7 @@
   {
    "number": "088",
    "name": "Telepathic Psychic Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/705021_400w.jpg",
    "url": "https://www.tcgplayer.com/product/705021/pokemon-deck-exclusives-telepathic-psychic-energy-088-088-non-holo",
    "product_id": 705021,
@@ -1740,6 +1912,7 @@
   {
    "number": "088",
    "name": "Telepathic Psychic Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684396_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684396/pokemon-me03-perfect-order-telepathic-psychic-energy",
    "product_id": 684396,
@@ -1751,6 +1924,7 @@
   {
    "number": "088",
    "name": "Telepathic Psychic Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684396_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684396/pokemon-me03-perfect-order-telepathic-psychic-energy",
    "product_id": 684396,
@@ -1762,6 +1936,7 @@
   {
    "number": "089",
    "name": "Spewpa",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684365_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684365/pokemon-me03-perfect-order-spewpa-089-088",
    "product_id": 684365,
@@ -1772,6 +1947,7 @@
   {
    "number": "090",
    "name": "Rowlet",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684368_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684368/pokemon-me03-perfect-order-rowlet-090-088",
    "product_id": 684368,
@@ -1782,6 +1958,7 @@
   {
    "number": "091",
    "name": "Talonflame",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684406_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684406/pokemon-me03-perfect-order-talonflame-091-088",
    "product_id": 684406,
@@ -1792,6 +1969,7 @@
   {
    "number": "092",
    "name": "Aurorus",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684357_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684357/pokemon-me03-perfect-order-aurorus-092-088",
    "product_id": 684357,
@@ -1802,6 +1980,7 @@
   {
    "number": "093",
    "name": "Dedenne",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684413_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684413/pokemon-me03-perfect-order-dedenne-093-088",
    "product_id": 684413,
@@ -1812,6 +1991,7 @@
   {
    "number": "094",
    "name": "Clefairy",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684415_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684415/pokemon-me03-perfect-order-clefairy-094-088",
    "product_id": 684415,
@@ -1822,6 +2002,7 @@
   {
    "number": "095",
    "name": "Espurr",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684418_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684418/pokemon-me03-perfect-order-espurr-095-088",
    "product_id": 684418,
@@ -1832,6 +2013,7 @@
   {
    "number": "096",
    "name": "Probopass",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684424_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684424/pokemon-me03-perfect-order-probopass-096-088",
    "product_id": 684424,
@@ -1842,6 +2024,7 @@
   {
    "number": "097",
    "name": "Drapion",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684434_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684434/pokemon-me03-perfect-order-drapion-097-088",
    "product_id": 684434,
@@ -1852,6 +2035,7 @@
   {
    "number": "098",
    "name": "Doublade",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684380_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684380/pokemon-me03-perfect-order-doublade-098-088",
    "product_id": 684380,
@@ -1862,6 +2046,7 @@
   {
    "number": "099",
    "name": "Raticate",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684439_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684439/pokemon-me03-perfect-order-raticate-099-088",
    "product_id": 684439,
@@ -1872,6 +2057,7 @@
   {
    "number": "100",
    "name": "Decidueye ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684371_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684371/pokemon-me03-perfect-order-decidueye-ex-100-088",
    "product_id": 684371,
@@ -1882,6 +2068,7 @@
   {
    "number": "101",
    "name": "Salazzle ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684377_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684377/pokemon-me03-perfect-order-salazzle-ex-101-088",
    "product_id": 684377,
@@ -1892,6 +2079,7 @@
   {
    "number": "102",
    "name": "Mega Starmie ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684361_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684361/pokemon-me03-perfect-order-mega-starmie-ex-102-088",
    "product_id": 684361,
@@ -1902,6 +2090,7 @@
   {
    "number": "103",
    "name": "Mega Clefable ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684384_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684384/pokemon-me03-perfect-order-mega-clefable-ex-103-088",
    "product_id": 684384,
@@ -1912,6 +2101,7 @@
   {
    "number": "104",
    "name": "Mega Zygarde ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684337_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684337/pokemon-me03-perfect-order-mega-zygarde-ex-104-088",
    "product_id": 684337,
@@ -1922,6 +2112,7 @@
   {
    "number": "105",
    "name": "Yveltal ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684387_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684387/pokemon-me03-perfect-order-yveltal-ex-105-088",
    "product_id": 684387,
@@ -1932,6 +2123,7 @@
   {
    "number": "106",
    "name": "Mega Skarmory ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684352_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684352/pokemon-me03-perfect-order-mega-skarmory-ex-106-088",
    "product_id": 684352,
@@ -1942,6 +2134,7 @@
   {
    "number": "107",
    "name": "Meowth ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684341_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684341/pokemon-me03-perfect-order-meowth-ex-107-088",
    "product_id": 684341,
@@ -1952,6 +2145,7 @@
   {
    "number": "108",
    "name": "Energy Recycler",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684327_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684327/pokemon-me03-perfect-order-energy-recycler",
    "product_id": 684327,
@@ -1962,6 +2156,7 @@
   {
    "number": "109",
    "name": "Forest of Vitality",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684328_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684328/pokemon-me03-perfect-order-forest-of-vitality",
    "product_id": 684328,
@@ -1972,6 +2167,7 @@
   {
    "number": "110",
    "name": "Jacinthe",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684394_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684394/pokemon-me03-perfect-order-jacinthe-110-088",
    "product_id": 684394,
@@ -1982,6 +2178,7 @@
   {
    "number": "111",
    "name": "Lumiose City",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684349_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684349/pokemon-me03-perfect-order-lumiose-city-111-088",
    "product_id": 684349,
@@ -1992,6 +2189,7 @@
   {
    "number": "112",
    "name": "Naveen",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684347_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684347/pokemon-me03-perfect-order-naveen-112-088",
    "product_id": 684347,
@@ -2002,6 +2200,7 @@
   {
    "number": "113",
    "name": "Poke Pad",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684333_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684333/pokemon-me03-perfect-order-poke-pad-113-088",
    "product_id": 684333,
@@ -2012,6 +2211,7 @@
   {
    "number": "114",
    "name": "Rosa's Encouragement",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684391_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684391/pokemon-me03-perfect-order-rosas-encouragement-114-088",
    "product_id": 684391,
@@ -2022,6 +2222,7 @@
   {
    "number": "115",
    "name": "Sacred Ash",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684326_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684326/pokemon-me03-perfect-order-sacred-ash",
    "product_id": 684326,
@@ -2032,6 +2233,7 @@
   {
    "number": "116",
    "name": "Tarragon",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684345_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684345/pokemon-me03-perfect-order-tarragon-116-088",
    "product_id": 684345,
@@ -2042,6 +2244,7 @@
   {
    "number": "117",
    "name": "Wondrous Patch",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684331_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684331/pokemon-me03-perfect-order-wondrous-patch",
    "product_id": 684331,
@@ -2052,6 +2255,7 @@
   {
    "number": "118",
    "name": "Mega Starmie ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684362_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684362/pokemon-me03-perfect-order-mega-starmie-ex-118-088",
    "product_id": 684362,
@@ -2062,6 +2266,7 @@
   {
    "number": "119",
    "name": "Mega Clefable ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684385_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684385/pokemon-me03-perfect-order-mega-clefable-ex-119-088",
    "product_id": 684385,
@@ -2072,6 +2277,7 @@
   {
    "number": "120",
    "name": "Mega Zygarde ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684338_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684338/pokemon-me03-perfect-order-mega-zygarde-ex-120-088",
    "product_id": 684338,
@@ -2082,6 +2288,7 @@
   {
    "number": "121",
    "name": "Meowth ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684342_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684342/pokemon-me03-perfect-order-meowth-ex-121-088",
    "product_id": 684342,
@@ -2092,6 +2299,7 @@
   {
    "number": "122",
    "name": "Jacinthe",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684395_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684395/pokemon-me03-perfect-order-jacinthe-122-088",
    "product_id": 684395,
@@ -2102,6 +2310,7 @@
   {
    "number": "123",
    "name": "Rosa's Encouragement",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684392_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684392/pokemon-me03-perfect-order-rosas-encouragement-123-088",
    "product_id": 684392,
@@ -2112,6 +2321,7 @@
   {
    "number": "124",
    "name": "Mega Zygarde ex",
+   "rarity": "Mega Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/684339_400w.jpg",
    "url": "https://www.tcgplayer.com/product/684339/pokemon-me03-perfect-order-mega-zygarde-ex-124-088",
    "product_id": 684339,

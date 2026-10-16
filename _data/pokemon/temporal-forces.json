@@ -10,10 +10,12 @@
  "owned_count": 203,
  "total_count": 365,
  "owned_qty": 349,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Scyther",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542646_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542646/pokemon-sv05-temporal-forces-scyther",
    "product_id": 542646,
@@ -24,6 +26,7 @@
   {
    "number": "001",
    "name": "Scyther",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542646_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542646/pokemon-sv05-temporal-forces-scyther",
    "product_id": 542646,
@@ -34,6 +37,7 @@
   {
    "number": "002",
    "name": "Pineco",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542647_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542647/pokemon-sv05-temporal-forces-pineco",
    "product_id": 542647,
@@ -44,6 +48,7 @@
   {
    "number": "002",
    "name": "Pineco",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542647_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542647/pokemon-sv05-temporal-forces-pineco",
    "product_id": 542647,
@@ -54,6 +59,7 @@
   {
    "number": "003",
    "name": "Seedot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542648_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542648/pokemon-sv05-temporal-forces-seedot",
    "product_id": 542648,
@@ -64,6 +70,7 @@
   {
    "number": "003",
    "name": "Seedot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542648_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542648/pokemon-sv05-temporal-forces-seedot",
    "product_id": 542648,
@@ -74,6 +81,7 @@
   {
    "number": "004",
    "name": "Nuzleaf",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542649_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542649/pokemon-sv05-temporal-forces-nuzleaf",
    "product_id": 542649,
@@ -84,6 +92,7 @@
   {
    "number": "004",
    "name": "Nuzleaf",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542649_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542649/pokemon-sv05-temporal-forces-nuzleaf",
    "product_id": 542649,
@@ -94,6 +103,7 @@
   {
    "number": "005",
    "name": "Shiftry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542650_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542650/pokemon-sv05-temporal-forces-shiftry-005-162",
    "product_id": 542650,
@@ -104,6 +114,7 @@
   {
    "number": "005",
    "name": "Shiftry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542650_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542650/pokemon-sv05-temporal-forces-shiftry-005-162",
    "product_id": 542650,
@@ -114,6 +125,7 @@
   {
    "number": "006",
    "name": "Shroomish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542652_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542652/pokemon-sv05-temporal-forces-shroomish",
    "product_id": 542652,
@@ -124,6 +136,7 @@
   {
    "number": "006",
    "name": "Shroomish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542652_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542652/pokemon-sv05-temporal-forces-shroomish",
    "product_id": 542652,
@@ -134,6 +147,7 @@
   {
    "number": "007",
    "name": "Breloom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542653_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542653/pokemon-sv05-temporal-forces-breloom",
    "product_id": 542653,
@@ -144,6 +158,7 @@
   {
    "number": "007",
    "name": "Breloom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542653_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542653/pokemon-sv05-temporal-forces-breloom",
    "product_id": 542653,
@@ -154,6 +169,7 @@
   {
    "number": "008",
    "name": "Roselia",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542655_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542655/pokemon-sv05-temporal-forces-roselia",
    "product_id": 542655,
@@ -164,6 +180,7 @@
   {
    "number": "008",
    "name": "Roselia",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542655_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542655/pokemon-sv05-temporal-forces-roselia",
    "product_id": 542655,
@@ -174,6 +191,7 @@
   {
    "number": "009",
    "name": "Roserade",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542759_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542759/pokemon-sv05-temporal-forces-roserade",
    "product_id": 542759,
@@ -184,6 +202,7 @@
   {
    "number": "009",
    "name": "Roserade",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542759_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542759/pokemon-sv05-temporal-forces-roserade",
    "product_id": 542759,
@@ -194,6 +213,7 @@
   {
    "number": "010",
    "name": "Turtwig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542760_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542760/pokemon-sv05-temporal-forces-turtwig",
    "product_id": 542760,
@@ -204,6 +224,7 @@
   {
    "number": "010",
    "name": "Turtwig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542760_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542760/pokemon-sv05-temporal-forces-turtwig",
    "product_id": 542760,
@@ -214,6 +235,7 @@
   {
    "number": "011",
    "name": "Grotle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542669_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542669/pokemon-sv05-temporal-forces-grotle-011-162",
    "product_id": 542669,
@@ -224,6 +246,7 @@
   {
    "number": "011",
    "name": "Grotle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542669_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542669/pokemon-sv05-temporal-forces-grotle-011-162",
    "product_id": 542669,
@@ -234,6 +257,7 @@
   {
    "number": "012",
    "name": "Torterra ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542658_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542658/pokemon-sv05-temporal-forces-torterra-ex-012-162",
    "product_id": 542658,
@@ -244,6 +268,7 @@
   {
    "number": "013",
    "name": "Shaymin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542761_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542761/pokemon-sv05-temporal-forces-shaymin",
    "product_id": 542761,
@@ -254,6 +279,7 @@
   {
    "number": "013",
    "name": "Shaymin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542761_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542761/pokemon-sv05-temporal-forces-shaymin",
    "product_id": 542761,
@@ -264,6 +290,7 @@
   {
    "number": "014",
    "name": "Cottonee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542672_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542672/pokemon-sv05-temporal-forces-cottonee",
    "product_id": 542672,
@@ -274,6 +301,7 @@
   {
    "number": "014",
    "name": "Cottonee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542672_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542672/pokemon-sv05-temporal-forces-cottonee",
    "product_id": 542672,
@@ -284,6 +312,7 @@
   {
    "number": "015",
    "name": "Whimsicott",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542676_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542676/pokemon-sv05-temporal-forces-whimsicott",
    "product_id": 542676,
@@ -294,6 +323,7 @@
   {
    "number": "015",
    "name": "Whimsicott",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542676_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542676/pokemon-sv05-temporal-forces-whimsicott",
    "product_id": 542676,
@@ -304,6 +334,7 @@
   {
    "number": "016",
    "name": "Deerling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542678_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542678/pokemon-sv05-temporal-forces-deerling-016-162",
    "product_id": 542678,
@@ -314,6 +345,7 @@
   {
    "number": "016",
    "name": "Deerling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542678_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542678/pokemon-sv05-temporal-forces-deerling-016-162",
    "product_id": 542678,
@@ -324,6 +356,7 @@
   {
    "number": "017",
    "name": "Sawsbuck",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542762_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542762/pokemon-sv05-temporal-forces-sawsbuck-017-162",
    "product_id": 542762,
@@ -334,6 +367,7 @@
   {
    "number": "017",
    "name": "Sawsbuck",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542762_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542762/pokemon-sv05-temporal-forces-sawsbuck-017-162",
    "product_id": 542762,
@@ -344,6 +378,7 @@
   {
    "number": "018",
    "name": "Grubbin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542763_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542763/pokemon-sv05-temporal-forces-grubbin",
    "product_id": 542763,
@@ -354,6 +389,7 @@
   {
    "number": "018",
    "name": "Grubbin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542763_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542763/pokemon-sv05-temporal-forces-grubbin",
    "product_id": 542763,
@@ -364,6 +400,7 @@
   {
    "number": "019",
    "name": "Dhelmise",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542764_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542764/pokemon-sv05-temporal-forces-dhelmise",
    "product_id": 542764,
@@ -374,6 +411,7 @@
   {
    "number": "019",
    "name": "Dhelmise",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542764_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542764/pokemon-sv05-temporal-forces-dhelmise",
    "product_id": 542764,
@@ -384,6 +422,7 @@
   {
    "number": "020",
    "name": "Bramblin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542680_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542680/pokemon-sv05-temporal-forces-bramblin",
    "product_id": 542680,
@@ -394,6 +433,7 @@
   {
    "number": "020",
    "name": "Bramblin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542680_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542680/pokemon-sv05-temporal-forces-bramblin",
    "product_id": 542680,
@@ -404,6 +444,7 @@
   {
    "number": "021",
    "name": "Brambleghast",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542765_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542765/pokemon-sv05-temporal-forces-brambleghast",
    "product_id": 542765,
@@ -414,6 +455,7 @@
   {
    "number": "021",
    "name": "Brambleghast",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542765_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542765/pokemon-sv05-temporal-forces-brambleghast",
    "product_id": 542765,
@@ -424,6 +466,7 @@
   {
    "number": "022",
    "name": "Scovillain ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542766_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542766/pokemon-sv05-temporal-forces-scovillain-ex",
    "product_id": 542766,
@@ -434,6 +477,7 @@
   {
    "number": "023",
    "name": "Rellor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542767_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542767/pokemon-sv05-temporal-forces-rellor",
    "product_id": 542767,
@@ -444,6 +488,7 @@
   {
    "number": "023",
    "name": "Rellor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542767_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542767/pokemon-sv05-temporal-forces-rellor",
    "product_id": 542767,
@@ -454,6 +499,7 @@
   {
    "number": "024",
    "name": "Rabsca",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542768_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542768/pokemon-sv05-temporal-forces-rabsca",
    "product_id": 542768,
@@ -464,6 +510,7 @@
   {
    "number": "024",
    "name": "Rabsca",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542768_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542768/pokemon-sv05-temporal-forces-rabsca",
    "product_id": 542768,
@@ -474,6 +521,7 @@
   {
    "number": "025",
    "name": "Iron Leaves ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542769_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542769/pokemon-sv05-temporal-forces-iron-leaves-ex-025-162",
    "product_id": 542769,
@@ -484,6 +532,7 @@
   {
    "number": "026",
    "name": "Ponyta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542770_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542770/pokemon-sv05-temporal-forces-ponyta",
    "product_id": 542770,
@@ -494,6 +543,7 @@
   {
    "number": "026",
    "name": "Ponyta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542770_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542770/pokemon-sv05-temporal-forces-ponyta",
    "product_id": 542770,
@@ -504,6 +554,7 @@
   {
    "number": "027",
    "name": "Rapidash",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542771_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542771/pokemon-sv05-temporal-forces-rapidash",
    "product_id": 542771,
@@ -514,6 +565,7 @@
   {
    "number": "027",
    "name": "Rapidash",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542771_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542771/pokemon-sv05-temporal-forces-rapidash",
    "product_id": 542771,
@@ -524,6 +576,7 @@
   {
    "number": "028",
    "name": "Slugma",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542772_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542772/pokemon-sv05-temporal-forces-slugma",
    "product_id": 542772,
@@ -534,6 +587,7 @@
   {
    "number": "028",
    "name": "Slugma",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542772_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542772/pokemon-sv05-temporal-forces-slugma",
    "product_id": 542772,
@@ -544,6 +598,7 @@
   {
    "number": "029",
    "name": "Magcargo",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542773_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542773/pokemon-sv05-temporal-forces-magcargo",
    "product_id": 542773,
@@ -554,6 +609,7 @@
   {
    "number": "029",
    "name": "Magcargo",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542773_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542773/pokemon-sv05-temporal-forces-magcargo",
    "product_id": 542773,
@@ -564,6 +620,7 @@
   {
    "number": "030",
    "name": "Victini",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542774_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542774/pokemon-sv05-temporal-forces-victini",
    "product_id": 542774,
@@ -574,6 +631,7 @@
   {
    "number": "030",
    "name": "Victini",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542774_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542774/pokemon-sv05-temporal-forces-victini",
    "product_id": 542774,
@@ -584,6 +642,7 @@
   {
    "number": "031",
    "name": "Heatmor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542775_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542775/pokemon-sv05-temporal-forces-heatmor",
    "product_id": 542775,
@@ -594,6 +653,7 @@
   {
    "number": "031",
    "name": "Heatmor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542775_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542775/pokemon-sv05-temporal-forces-heatmor",
    "product_id": 542775,
@@ -604,6 +664,7 @@
   {
    "number": "032",
    "name": "Litten",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542776_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542776/pokemon-sv05-temporal-forces-litten-032-162",
    "product_id": 542776,
@@ -614,6 +675,7 @@
   {
    "number": "032",
    "name": "Litten",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542776_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542776/pokemon-sv05-temporal-forces-litten-032-162",
    "product_id": 542776,
@@ -624,6 +686,7 @@
   {
    "number": "033",
    "name": "Torracat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542777_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542777/pokemon-sv05-temporal-forces-torracat",
    "product_id": 542777,
@@ -634,6 +697,7 @@
   {
    "number": "033",
    "name": "Torracat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542777_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542777/pokemon-sv05-temporal-forces-torracat",
    "product_id": 542777,
@@ -644,6 +708,7 @@
   {
    "number": "034",
    "name": "Incineroar ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542778_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542778/pokemon-sv05-temporal-forces-incineroar-ex-034-162",
    "product_id": 542778,
@@ -654,6 +719,7 @@
   {
    "number": "035",
    "name": "Turtonator",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542779_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542779/pokemon-sv05-temporal-forces-turtonator",
    "product_id": 542779,
@@ -664,6 +730,7 @@
   {
    "number": "035",
    "name": "Turtonator",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542779_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542779/pokemon-sv05-temporal-forces-turtonator",
    "product_id": 542779,
@@ -674,6 +741,7 @@
   {
    "number": "036",
    "name": "Sizzlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542780_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542780/pokemon-sv05-temporal-forces-sizzlipede",
    "product_id": 542780,
@@ -684,6 +752,7 @@
   {
    "number": "036",
    "name": "Sizzlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542780_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542780/pokemon-sv05-temporal-forces-sizzlipede",
    "product_id": 542780,
@@ -694,6 +763,7 @@
   {
    "number": "037",
    "name": "Centiskorch",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542781_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542781/pokemon-sv05-temporal-forces-centiskorch",
    "product_id": 542781,
@@ -704,6 +774,7 @@
   {
    "number": "037",
    "name": "Centiskorch",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542781_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542781/pokemon-sv05-temporal-forces-centiskorch",
    "product_id": 542781,
@@ -714,6 +785,7 @@
   {
    "number": "038",
    "name": "Gouging Fire ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542782_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542782/pokemon-sv05-temporal-forces-gouging-fire-ex-038-162",
    "product_id": 542782,
@@ -724,6 +796,7 @@
   {
    "number": "039",
    "name": "Totodile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542783_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542783/pokemon-sv05-temporal-forces-totodile",
    "product_id": 542783,
@@ -734,6 +807,7 @@
   {
    "number": "039",
    "name": "Totodile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542783_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542783/pokemon-sv05-temporal-forces-totodile",
    "product_id": 542783,
@@ -744,6 +818,7 @@
   {
    "number": "040",
    "name": "Croconaw",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542784_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542784/pokemon-sv05-temporal-forces-croconaw",
    "product_id": 542784,
@@ -754,6 +829,7 @@
   {
    "number": "040",
    "name": "Croconaw",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542784_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542784/pokemon-sv05-temporal-forces-croconaw",
    "product_id": 542784,
@@ -764,6 +840,7 @@
   {
    "number": "041",
    "name": "Feraligatr",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/543956_400w.jpg",
    "url": "https://www.tcgplayer.com/product/543956/pokemon-deck-exclusives-feraligatr-041-162",
    "product_id": 543956,
@@ -775,6 +852,7 @@
   {
    "number": "041",
    "name": "Feraligatr",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542785_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542785/pokemon-sv05-temporal-forces-feraligatr",
    "product_id": 542785,
@@ -786,6 +864,7 @@
   {
    "number": "041",
    "name": "Feraligatr",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542785_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542785/pokemon-sv05-temporal-forces-feraligatr",
    "product_id": 542785,
@@ -797,6 +876,7 @@
   {
    "number": "042",
    "name": "Carvanha",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542786_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542786/pokemon-sv05-temporal-forces-carvanha",
    "product_id": 542786,
@@ -807,6 +887,7 @@
   {
    "number": "042",
    "name": "Carvanha",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542786_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542786/pokemon-sv05-temporal-forces-carvanha",
    "product_id": 542786,
@@ -817,6 +898,7 @@
   {
    "number": "043",
    "name": "Sharpedo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542787_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542787/pokemon-sv05-temporal-forces-sharpedo",
    "product_id": 542787,
@@ -827,6 +909,7 @@
   {
    "number": "043",
    "name": "Sharpedo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542787_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542787/pokemon-sv05-temporal-forces-sharpedo",
    "product_id": 542787,
@@ -837,6 +920,7 @@
   {
    "number": "044",
    "name": "Keldeo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542788_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542788/pokemon-sv05-temporal-forces-keldeo",
    "product_id": 542788,
@@ -847,6 +931,7 @@
   {
    "number": "044",
    "name": "Keldeo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542788_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542788/pokemon-sv05-temporal-forces-keldeo",
    "product_id": 542788,
@@ -857,6 +942,7 @@
   {
    "number": "045",
    "name": "Snom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542789_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542789/pokemon-sv05-temporal-forces-snom-045-162",
    "product_id": 542789,
@@ -867,6 +953,7 @@
   {
    "number": "045",
    "name": "Snom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542789_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542789/pokemon-sv05-temporal-forces-snom-045-162",
    "product_id": 542789,
@@ -877,6 +964,7 @@
   {
    "number": "046",
    "name": "Frosmoth",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542790_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542790/pokemon-sv05-temporal-forces-frosmoth",
    "product_id": 542790,
@@ -887,6 +975,7 @@
   {
    "number": "046",
    "name": "Frosmoth",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542790_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542790/pokemon-sv05-temporal-forces-frosmoth",
    "product_id": 542790,
@@ -897,6 +986,7 @@
   {
    "number": "047",
    "name": "Wiglett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542791_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542791/pokemon-sv05-temporal-forces-wiglett",
    "product_id": 542791,
@@ -907,6 +997,7 @@
   {
    "number": "047",
    "name": "Wiglett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542791_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542791/pokemon-sv05-temporal-forces-wiglett",
    "product_id": 542791,
@@ -917,6 +1008,7 @@
   {
    "number": "048",
    "name": "Finizen",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542792_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542792/pokemon-sv05-temporal-forces-finizen",
    "product_id": 542792,
@@ -927,6 +1019,7 @@
   {
    "number": "048",
    "name": "Finizen",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542792_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542792/pokemon-sv05-temporal-forces-finizen",
    "product_id": 542792,
@@ -937,6 +1030,7 @@
   {
    "number": "049",
    "name": "Palafin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542793_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542793/pokemon-sv05-temporal-forces-palafin",
    "product_id": 542793,
@@ -947,6 +1041,7 @@
   {
    "number": "049",
    "name": "Palafin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542793_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542793/pokemon-sv05-temporal-forces-palafin",
    "product_id": 542793,
@@ -957,6 +1052,7 @@
   {
    "number": "050",
    "name": "Walking Wake ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542794_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542794/pokemon-sv05-temporal-forces-walking-wake-ex-050-162",
    "product_id": 542794,
@@ -967,6 +1063,7 @@
   {
    "number": "051",
    "name": "Pikachu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542795_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542795/pokemon-sv05-temporal-forces-pikachu",
    "product_id": 542795,
@@ -977,6 +1074,7 @@
   {
    "number": "051",
    "name": "Pikachu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542795_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542795/pokemon-sv05-temporal-forces-pikachu",
    "product_id": 542795,
@@ -987,6 +1085,7 @@
   {
    "number": "052",
    "name": "Raichu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542796_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542796/pokemon-sv05-temporal-forces-raichu",
    "product_id": 542796,
@@ -997,6 +1096,7 @@
   {
    "number": "052",
    "name": "Raichu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542796_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542796/pokemon-sv05-temporal-forces-raichu",
    "product_id": 542796,
@@ -1007,6 +1107,7 @@
   {
    "number": "053",
    "name": "Electabuzz",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542797_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542797/pokemon-sv05-temporal-forces-electabuzz",
    "product_id": 542797,
@@ -1017,6 +1118,7 @@
   {
    "number": "053",
    "name": "Electabuzz",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542797_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542797/pokemon-sv05-temporal-forces-electabuzz",
    "product_id": 542797,
@@ -1027,6 +1129,7 @@
   {
    "number": "054",
    "name": "Electivire",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542798_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542798/pokemon-sv05-temporal-forces-electivire",
    "product_id": 542798,
@@ -1037,6 +1140,7 @@
   {
    "number": "054",
    "name": "Electivire",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542798_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542798/pokemon-sv05-temporal-forces-electivire",
    "product_id": 542798,
@@ -1047,6 +1151,7 @@
   {
    "number": "055",
    "name": "Charjabug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542799_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542799/pokemon-sv05-temporal-forces-charjabug-055-162",
    "product_id": 542799,
@@ -1057,6 +1162,7 @@
   {
    "number": "055",
    "name": "Charjabug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542799_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542799/pokemon-sv05-temporal-forces-charjabug-055-162",
    "product_id": 542799,
@@ -1067,6 +1173,7 @@
   {
    "number": "056",
    "name": "Vikavolt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542800_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542800/pokemon-sv05-temporal-forces-vikavolt",
    "product_id": 542800,
@@ -1077,6 +1184,7 @@
   {
    "number": "056",
    "name": "Vikavolt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542800_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542800/pokemon-sv05-temporal-forces-vikavolt",
    "product_id": 542800,
@@ -1087,6 +1195,7 @@
   {
    "number": "057",
    "name": "Zeraora",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542801_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542801/pokemon-sv05-temporal-forces-zeraora",
    "product_id": 542801,
@@ -1097,6 +1206,7 @@
   {
    "number": "057",
    "name": "Zeraora",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542801_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542801/pokemon-sv05-temporal-forces-zeraora",
    "product_id": 542801,
@@ -1107,6 +1217,7 @@
   {
    "number": "058",
    "name": "Yamper",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542802_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542802/pokemon-sv05-temporal-forces-yamper",
    "product_id": 542802,
@@ -1117,6 +1228,7 @@
   {
    "number": "058",
    "name": "Yamper",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542802_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542802/pokemon-sv05-temporal-forces-yamper",
    "product_id": 542802,
@@ -1127,6 +1239,7 @@
   {
    "number": "059",
    "name": "Boltund",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542803_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542803/pokemon-sv05-temporal-forces-boltund",
    "product_id": 542803,
@@ -1137,6 +1250,7 @@
   {
    "number": "059",
    "name": "Boltund",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542803_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542803/pokemon-sv05-temporal-forces-boltund",
    "product_id": 542803,
@@ -1147,6 +1261,7 @@
   {
    "number": "060",
    "name": "Wugtrio ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542804_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542804/pokemon-sv05-temporal-forces-wugtrio-ex-060-162",
    "product_id": 542804,
@@ -1157,6 +1272,7 @@
   {
    "number": "061",
    "name": "Iron Hands",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542805_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542805/pokemon-sv05-temporal-forces-iron-hands",
    "product_id": 542805,
@@ -1167,6 +1283,7 @@
   {
    "number": "061",
    "name": "Iron Hands",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542805_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542805/pokemon-sv05-temporal-forces-iron-hands",
    "product_id": 542805,
@@ -1177,6 +1294,7 @@
   {
    "number": "062",
    "name": "Iron Thorns",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/543961_400w.jpg",
    "url": "https://www.tcgplayer.com/product/543961/pokemon-deck-exclusives-iron-thorns-062-162",
    "product_id": 543961,
@@ -1188,6 +1306,7 @@
   {
    "number": "062",
    "name": "Iron Thorns",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542806_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542806/pokemon-sv05-temporal-forces-iron-thorns",
    "product_id": 542806,
@@ -1199,6 +1318,7 @@
   {
    "number": "062",
    "name": "Iron Thorns",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542806_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542806/pokemon-sv05-temporal-forces-iron-thorns",
    "product_id": 542806,
@@ -1210,6 +1330,7 @@
   {
    "number": "063",
    "name": "Mr. Mime",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542807_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542807/pokemon-sv05-temporal-forces-mr-mime",
    "product_id": 542807,
@@ -1220,6 +1341,7 @@
   {
    "number": "063",
    "name": "Mr. Mime",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542807_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542807/pokemon-sv05-temporal-forces-mr-mime",
    "product_id": 542807,
@@ -1230,6 +1352,7 @@
   {
    "number": "064",
    "name": "Marill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542808_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542808/pokemon-sv05-temporal-forces-marill",
    "product_id": 542808,
@@ -1240,6 +1363,7 @@
   {
    "number": "064",
    "name": "Marill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542808_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542808/pokemon-sv05-temporal-forces-marill",
    "product_id": 542808,
@@ -1250,6 +1374,7 @@
   {
    "number": "065",
    "name": "Azumarill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542809_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542809/pokemon-sv05-temporal-forces-azumarill",
    "product_id": 542809,
@@ -1260,6 +1385,7 @@
   {
    "number": "065",
    "name": "Azumarill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542809_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542809/pokemon-sv05-temporal-forces-azumarill",
    "product_id": 542809,
@@ -1270,6 +1396,7 @@
   {
    "number": "066",
    "name": "Girafarig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542810_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542810/pokemon-sv05-temporal-forces-girafarig",
    "product_id": 542810,
@@ -1280,6 +1407,7 @@
   {
    "number": "066",
    "name": "Girafarig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542810_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542810/pokemon-sv05-temporal-forces-girafarig",
    "product_id": 542810,
@@ -1290,6 +1418,7 @@
   {
    "number": "067",
    "name": "Latias",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542811_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542811/pokemon-sv05-temporal-forces-latias",
    "product_id": 542811,
@@ -1300,6 +1429,7 @@
   {
    "number": "067",
    "name": "Latias",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542811_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542811/pokemon-sv05-temporal-forces-latias",
    "product_id": 542811,
@@ -1310,6 +1440,7 @@
   {
    "number": "068",
    "name": "Bronzor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542812_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542812/pokemon-sv05-temporal-forces-bronzor-068-162",
    "product_id": 542812,
@@ -1320,6 +1451,7 @@
   {
    "number": "068",
    "name": "Bronzor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542812_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542812/pokemon-sv05-temporal-forces-bronzor-068-162",
    "product_id": 542812,
@@ -1330,6 +1462,7 @@
   {
    "number": "069",
    "name": "Bronzong",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542813_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542813/pokemon-sv05-temporal-forces-bronzong",
    "product_id": 542813,
@@ -1340,6 +1473,7 @@
   {
    "number": "069",
    "name": "Bronzong",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542813_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542813/pokemon-sv05-temporal-forces-bronzong",
    "product_id": 542813,
@@ -1350,6 +1484,7 @@
   {
    "number": "070",
    "name": "Solosis",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542814_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542814/pokemon-sv05-temporal-forces-solosis",
    "product_id": 542814,
@@ -1360,6 +1495,7 @@
   {
    "number": "070",
    "name": "Solosis",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542814_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542814/pokemon-sv05-temporal-forces-solosis",
    "product_id": 542814,
@@ -1370,6 +1506,7 @@
   {
    "number": "071",
    "name": "Duosion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542815_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542815/pokemon-sv05-temporal-forces-duosion",
    "product_id": 542815,
@@ -1380,6 +1517,7 @@
   {
    "number": "071",
    "name": "Duosion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542815_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542815/pokemon-sv05-temporal-forces-duosion",
    "product_id": 542815,
@@ -1390,6 +1528,7 @@
   {
    "number": "072",
    "name": "Reuniclus",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542816_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542816/pokemon-sv05-temporal-forces-reuniclus-072-162",
    "product_id": 542816,
@@ -1400,6 +1539,7 @@
   {
    "number": "072",
    "name": "Reuniclus",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542816_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542816/pokemon-sv05-temporal-forces-reuniclus-072-162",
    "product_id": 542816,
@@ -1410,6 +1550,7 @@
   {
    "number": "073",
    "name": "Elgyem",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542817_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542817/pokemon-sv05-temporal-forces-elgyem",
    "product_id": 542817,
@@ -1420,6 +1561,7 @@
   {
    "number": "073",
    "name": "Elgyem",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542817_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542817/pokemon-sv05-temporal-forces-elgyem",
    "product_id": 542817,
@@ -1430,6 +1572,7 @@
   {
    "number": "074",
    "name": "Beheeyem",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542818_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542818/pokemon-sv05-temporal-forces-beheeyem",
    "product_id": 542818,
@@ -1440,6 +1583,7 @@
   {
    "number": "074",
    "name": "Beheeyem",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542818_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542818/pokemon-sv05-temporal-forces-beheeyem",
    "product_id": 542818,
@@ -1450,6 +1594,7 @@
   {
    "number": "075",
    "name": "Cutiefly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542819_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542819/pokemon-sv05-temporal-forces-cutiefly-075-162",
    "product_id": 542819,
@@ -1460,6 +1605,7 @@
   {
    "number": "075",
    "name": "Cutiefly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542819_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542819/pokemon-sv05-temporal-forces-cutiefly-075-162",
    "product_id": 542819,
@@ -1470,6 +1616,7 @@
   {
    "number": "076",
    "name": "Ribombee",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542820_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542820/pokemon-sv05-temporal-forces-ribombee",
    "product_id": 542820,
@@ -1480,6 +1627,7 @@
   {
    "number": "076",
    "name": "Ribombee",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542820_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542820/pokemon-sv05-temporal-forces-ribombee",
    "product_id": 542820,
@@ -1490,6 +1638,7 @@
   {
    "number": "077",
    "name": "Scream Tail",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542821_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542821/pokemon-sv05-temporal-forces-scream-tail",
    "product_id": 542821,
@@ -1500,6 +1649,7 @@
   {
    "number": "077",
    "name": "Scream Tail",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542821_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542821/pokemon-sv05-temporal-forces-scream-tail",
    "product_id": 542821,
@@ -1510,6 +1660,7 @@
   {
    "number": "078",
    "name": "Flutter Mane",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/543958_400w.jpg",
    "url": "https://www.tcgplayer.com/product/543958/pokemon-deck-exclusives-flutter-mane-078-162",
    "product_id": 543958,
@@ -1521,6 +1672,7 @@
   {
    "number": "078",
    "name": "Flutter Mane",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542822_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542822/pokemon-sv05-temporal-forces-flutter-mane",
    "product_id": 542822,
@@ -1532,6 +1684,7 @@
   {
    "number": "078",
    "name": "Flutter Mane",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542822_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542822/pokemon-sv05-temporal-forces-flutter-mane",
    "product_id": 542822,
@@ -1543,6 +1696,7 @@
   {
    "number": "079",
    "name": "Iron Valiant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542823_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542823/pokemon-sv05-temporal-forces-iron-valiant-079-162",
    "product_id": 542823,
@@ -1553,6 +1707,7 @@
   {
    "number": "079",
    "name": "Iron Valiant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542823_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542823/pokemon-sv05-temporal-forces-iron-valiant-079-162",
    "product_id": 542823,
@@ -1563,6 +1718,7 @@
   {
    "number": "080",
    "name": "Iron Valiant",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542824_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542824/pokemon-sv05-temporal-forces-iron-valiant-080-162",
    "product_id": 542824,
@@ -1573,6 +1729,7 @@
   {
    "number": "080",
    "name": "Iron Valiant",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542824_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542824/pokemon-sv05-temporal-forces-iron-valiant-080-162",
    "product_id": 542824,
@@ -1583,6 +1740,7 @@
   {
    "number": "081",
    "name": "Iron Crown ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542825_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542825/pokemon-sv05-temporal-forces-iron-crown-ex-081-162",
    "product_id": 542825,
@@ -1593,6 +1751,7 @@
   {
    "number": "082",
    "name": "Meditite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542826_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542826/pokemon-sv05-temporal-forces-meditite",
    "product_id": 542826,
@@ -1603,6 +1762,7 @@
   {
    "number": "082",
    "name": "Meditite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542826_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542826/pokemon-sv05-temporal-forces-meditite",
    "product_id": 542826,
@@ -1613,6 +1773,7 @@
   {
    "number": "083",
    "name": "Medicham",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542827_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542827/pokemon-sv05-temporal-forces-medicham",
    "product_id": 542827,
@@ -1623,6 +1784,7 @@
   {
    "number": "083",
    "name": "Medicham",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542827_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542827/pokemon-sv05-temporal-forces-medicham",
    "product_id": 542827,
@@ -1633,6 +1795,7 @@
   {
    "number": "084",
    "name": "Relicanth",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/543959_400w.jpg",
    "url": "https://www.tcgplayer.com/product/543959/pokemon-deck-exclusives-relicanth-084-162",
    "product_id": 543959,
@@ -1644,6 +1807,7 @@
   {
    "number": "084",
    "name": "Relicanth",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542828_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542828/pokemon-sv05-temporal-forces-relicanth-084-162",
    "product_id": 542828,
@@ -1655,6 +1819,7 @@
   {
    "number": "084",
    "name": "Relicanth",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542828_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542828/pokemon-sv05-temporal-forces-relicanth-084-162",
    "product_id": 542828,
@@ -1666,6 +1831,7 @@
   {
    "number": "085",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542829_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542829/pokemon-sv05-temporal-forces-drilbur",
    "product_id": 542829,
@@ -1676,6 +1842,7 @@
   {
    "number": "085",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542829_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542829/pokemon-sv05-temporal-forces-drilbur",
    "product_id": 542829,
@@ -1686,6 +1853,7 @@
   {
    "number": "086",
    "name": "Excadrill",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542830_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542830/pokemon-sv05-temporal-forces-excadrill-086-162",
    "product_id": 542830,
@@ -1696,6 +1864,7 @@
   {
    "number": "086",
    "name": "Excadrill",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542830_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542830/pokemon-sv05-temporal-forces-excadrill-086-162",
    "product_id": 542830,
@@ -1706,6 +1875,7 @@
   {
    "number": "087",
    "name": "Golett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542831_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542831/pokemon-sv05-temporal-forces-golett",
    "product_id": 542831,
@@ -1716,6 +1886,7 @@
   {
    "number": "087",
    "name": "Golett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542831_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542831/pokemon-sv05-temporal-forces-golett",
    "product_id": 542831,
@@ -1726,6 +1897,7 @@
   {
    "number": "088",
    "name": "Golurk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542832_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542832/pokemon-sv05-temporal-forces-golurk",
    "product_id": 542832,
@@ -1736,6 +1908,7 @@
   {
    "number": "088",
    "name": "Golurk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542832_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542832/pokemon-sv05-temporal-forces-golurk",
    "product_id": 542832,
@@ -1746,6 +1919,7 @@
   {
    "number": "089",
    "name": "Rockruff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542833_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542833/pokemon-sv05-temporal-forces-rockruff",
    "product_id": 542833,
@@ -1756,6 +1930,7 @@
   {
    "number": "089",
    "name": "Rockruff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542833_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542833/pokemon-sv05-temporal-forces-rockruff",
    "product_id": 542833,
@@ -1766,6 +1941,7 @@
   {
    "number": "090",
    "name": "Lycanroc",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542834_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542834/pokemon-sv05-temporal-forces-lycanroc",
    "product_id": 542834,
@@ -1776,6 +1952,7 @@
   {
    "number": "090",
    "name": "Lycanroc",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542834_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542834/pokemon-sv05-temporal-forces-lycanroc",
    "product_id": 542834,
@@ -1786,6 +1963,7 @@
   {
    "number": "091",
    "name": "Mudbray",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542835_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542835/pokemon-sv05-temporal-forces-mudbray",
    "product_id": 542835,
@@ -1796,6 +1974,7 @@
   {
    "number": "091",
    "name": "Mudbray",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542835_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542835/pokemon-sv05-temporal-forces-mudbray",
    "product_id": 542835,
@@ -1806,6 +1985,7 @@
   {
    "number": "092",
    "name": "Mudsdale",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542836_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542836/pokemon-sv05-temporal-forces-mudsdale-092-162",
    "product_id": 542836,
@@ -1816,6 +1996,7 @@
   {
    "number": "092",
    "name": "Mudsdale",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542836_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542836/pokemon-sv05-temporal-forces-mudsdale-092-162",
    "product_id": 542836,
@@ -1826,6 +2007,7 @@
   {
    "number": "093",
    "name": "Rolycoly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542837_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542837/pokemon-sv05-temporal-forces-rolycoly",
    "product_id": 542837,
@@ -1836,6 +2018,7 @@
   {
    "number": "093",
    "name": "Rolycoly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542837_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542837/pokemon-sv05-temporal-forces-rolycoly",
    "product_id": 542837,
@@ -1846,6 +2029,7 @@
   {
    "number": "094",
    "name": "Carkol",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542838_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542838/pokemon-sv05-temporal-forces-carkol",
    "product_id": 542838,
@@ -1856,6 +2040,7 @@
   {
    "number": "094",
    "name": "Carkol",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542838_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542838/pokemon-sv05-temporal-forces-carkol",
    "product_id": 542838,
@@ -1866,6 +2051,7 @@
   {
    "number": "095",
    "name": "Coalossal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542839_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542839/pokemon-sv05-temporal-forces-coalossal",
    "product_id": 542839,
@@ -1876,6 +2062,7 @@
   {
    "number": "095",
    "name": "Coalossal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542839_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542839/pokemon-sv05-temporal-forces-coalossal",
    "product_id": 542839,
@@ -1886,6 +2073,7 @@
   {
    "number": "096",
    "name": "Great Tusk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542840_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542840/pokemon-sv05-temporal-forces-great-tusk-096-162",
    "product_id": 542840,
@@ -1896,6 +2084,7 @@
   {
    "number": "096",
    "name": "Great Tusk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542840_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542840/pokemon-sv05-temporal-forces-great-tusk-096-162",
    "product_id": 542840,
@@ -1906,6 +2095,7 @@
   {
    "number": "097",
    "name": "Great Tusk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542841_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542841/pokemon-sv05-temporal-forces-great-tusk-097-162",
    "product_id": 542841,
@@ -1916,6 +2106,7 @@
   {
    "number": "097",
    "name": "Great Tusk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542841_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542841/pokemon-sv05-temporal-forces-great-tusk-097-162",
    "product_id": 542841,
@@ -1926,6 +2117,7 @@
   {
    "number": "098",
    "name": "Sandy Shocks",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542842_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542842/pokemon-sv05-temporal-forces-sandy-shocks",
    "product_id": 542842,
@@ -1936,6 +2128,7 @@
   {
    "number": "098",
    "name": "Sandy Shocks",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542842_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542842/pokemon-sv05-temporal-forces-sandy-shocks",
    "product_id": 542842,
@@ -1946,6 +2139,7 @@
   {
    "number": "099",
    "name": "Iron Boulder ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542843_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542843/pokemon-sv05-temporal-forces-iron-boulder-ex-099-162",
    "product_id": 542843,
@@ -1956,6 +2150,7 @@
   {
    "number": "100",
    "name": "Ekans",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542844_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542844/pokemon-sv05-temporal-forces-ekans",
    "product_id": 542844,
@@ -1966,6 +2161,7 @@
   {
    "number": "100",
    "name": "Ekans",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542844_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542844/pokemon-sv05-temporal-forces-ekans",
    "product_id": 542844,
@@ -1976,6 +2172,7 @@
   {
    "number": "101",
    "name": "Arbok",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542845_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542845/pokemon-sv05-temporal-forces-arbok-101-162",
    "product_id": 542845,
@@ -1986,6 +2183,7 @@
   {
    "number": "101",
    "name": "Arbok",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542845_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542845/pokemon-sv05-temporal-forces-arbok-101-162",
    "product_id": 542845,
@@ -1996,6 +2194,7 @@
   {
    "number": "102",
    "name": "Gastly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542846_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542846/pokemon-sv05-temporal-forces-gastly-102-162",
    "product_id": 542846,
@@ -2006,6 +2205,7 @@
   {
    "number": "102",
    "name": "Gastly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542846_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542846/pokemon-sv05-temporal-forces-gastly-102-162",
    "product_id": 542846,
@@ -2016,6 +2216,7 @@
   {
    "number": "103",
    "name": "Haunter",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542847_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542847/pokemon-sv05-temporal-forces-haunter",
    "product_id": 542847,
@@ -2026,6 +2227,7 @@
   {
    "number": "103",
    "name": "Haunter",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542847_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542847/pokemon-sv05-temporal-forces-haunter",
    "product_id": 542847,
@@ -2036,6 +2238,7 @@
   {
    "number": "104",
    "name": "Gengar ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542848_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542848/pokemon-sv05-temporal-forces-gengar-ex-104-162",
    "product_id": 542848,
@@ -2046,6 +2249,7 @@
   {
    "number": "105",
    "name": "Poochyena",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542849_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542849/pokemon-sv05-temporal-forces-poochyena",
    "product_id": 542849,
@@ -2056,6 +2260,7 @@
   {
    "number": "105",
    "name": "Poochyena",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542849_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542849/pokemon-sv05-temporal-forces-poochyena",
    "product_id": 542849,
@@ -2066,6 +2271,7 @@
   {
    "number": "106",
    "name": "Mightyena",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542850_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542850/pokemon-sv05-temporal-forces-mightyena",
    "product_id": 542850,
@@ -2076,6 +2282,7 @@
   {
    "number": "106",
    "name": "Mightyena",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542850_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542850/pokemon-sv05-temporal-forces-mightyena",
    "product_id": 542850,
@@ -2086,6 +2293,7 @@
   {
    "number": "107",
    "name": "Sableye",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542851_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542851/pokemon-sv05-temporal-forces-sableye",
    "product_id": 542851,
@@ -2096,6 +2304,7 @@
   {
    "number": "107",
    "name": "Sableye",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542851_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542851/pokemon-sv05-temporal-forces-sableye",
    "product_id": 542851,
@@ -2106,6 +2315,7 @@
   {
    "number": "108",
    "name": "Farigiraf ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542852_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542852/pokemon-sv05-temporal-forces-farigiraf-ex-108-162",
    "product_id": 542852,
@@ -2116,6 +2326,7 @@
   {
    "number": "109",
    "name": "Roaring Moon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542853_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542853/pokemon-sv05-temporal-forces-roaring-moon",
    "product_id": 542853,
@@ -2126,6 +2337,7 @@
   {
    "number": "109",
    "name": "Roaring Moon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542853_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542853/pokemon-sv05-temporal-forces-roaring-moon",
    "product_id": 542853,
@@ -2136,6 +2348,7 @@
   {
    "number": "110",
    "name": "Forretress",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542854_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542854/pokemon-sv05-temporal-forces-forretress",
    "product_id": 542854,
@@ -2146,6 +2359,7 @@
   {
    "number": "110",
    "name": "Forretress",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542854_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542854/pokemon-sv05-temporal-forces-forretress",
    "product_id": 542854,
@@ -2156,6 +2370,7 @@
   {
    "number": "111",
    "name": "Scizor ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542855_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542855/pokemon-sv05-temporal-forces-scizor-ex-111-162",
    "product_id": 542855,
@@ -2166,6 +2381,7 @@
   {
    "number": "112",
    "name": "Mawile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542856_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542856/pokemon-sv05-temporal-forces-mawile",
    "product_id": 542856,
@@ -2176,6 +2392,7 @@
   {
    "number": "112",
    "name": "Mawile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542856_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542856/pokemon-sv05-temporal-forces-mawile",
    "product_id": 542856,
@@ -2186,6 +2403,7 @@
   {
    "number": "113",
    "name": "Beldum",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542857_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542857/pokemon-sv05-temporal-forces-beldum",
    "product_id": 542857,
@@ -2196,6 +2414,7 @@
   {
    "number": "113",
    "name": "Beldum",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542857_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542857/pokemon-sv05-temporal-forces-beldum",
    "product_id": 542857,
@@ -2206,6 +2425,7 @@
   {
    "number": "114",
    "name": "Metang",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542858_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542858/pokemon-sv05-temporal-forces-metang",
    "product_id": 542858,
@@ -2216,6 +2436,7 @@
   {
    "number": "114",
    "name": "Metang",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542858_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542858/pokemon-sv05-temporal-forces-metang",
    "product_id": 542858,
@@ -2226,6 +2447,7 @@
   {
    "number": "115",
    "name": "Metagross",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542859_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542859/pokemon-sv05-temporal-forces-metagross-115-162",
    "product_id": 542859,
@@ -2236,6 +2458,7 @@
   {
    "number": "115",
    "name": "Metagross",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542859_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542859/pokemon-sv05-temporal-forces-metagross-115-162",
    "product_id": 542859,
@@ -2246,6 +2469,7 @@
   {
    "number": "116",
    "name": "Meltan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542860_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542860/pokemon-sv05-temporal-forces-meltan-116-162",
    "product_id": 542860,
@@ -2256,6 +2480,7 @@
   {
    "number": "116",
    "name": "Meltan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542860_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542860/pokemon-sv05-temporal-forces-meltan-116-162",
    "product_id": 542860,
@@ -2266,6 +2491,7 @@
   {
    "number": "117",
    "name": "Melmetal",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542861_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542861/pokemon-sv05-temporal-forces-melmetal",
    "product_id": 542861,
@@ -2276,6 +2502,7 @@
   {
    "number": "117",
    "name": "Melmetal",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542861_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542861/pokemon-sv05-temporal-forces-melmetal",
    "product_id": 542861,
@@ -2286,6 +2513,7 @@
   {
    "number": "118",
    "name": "Iron Treads",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542862_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542862/pokemon-sv05-temporal-forces-iron-treads",
    "product_id": 542862,
@@ -2296,6 +2524,7 @@
   {
    "number": "118",
    "name": "Iron Treads",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542862_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542862/pokemon-sv05-temporal-forces-iron-treads",
    "product_id": 542862,
@@ -2306,6 +2535,7 @@
   {
    "number": "119",
    "name": "Koraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/543957_400w.jpg",
    "url": "https://www.tcgplayer.com/product/543957/pokemon-deck-exclusives-koraidon-119-162",
    "product_id": 543957,
@@ -2317,6 +2547,7 @@
   {
    "number": "119",
    "name": "Koraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542863_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542863/pokemon-sv05-temporal-forces-koraidon",
    "product_id": 542863,
@@ -2328,6 +2559,7 @@
   {
    "number": "119",
    "name": "Koraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542863_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542863/pokemon-sv05-temporal-forces-koraidon",
    "product_id": 542863,
@@ -2339,6 +2571,7 @@
   {
    "number": "120",
    "name": "Koraidon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542864_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542864/pokemon-sv05-temporal-forces-koraidon-ex",
    "product_id": 542864,
@@ -2349,6 +2582,7 @@
   {
    "number": "121",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/543960_400w.jpg",
    "url": "https://www.tcgplayer.com/product/543960/pokemon-deck-exclusives-miraidon-121-162",
    "product_id": 543960,
@@ -2360,6 +2594,7 @@
   {
    "number": "121",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542865_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542865/pokemon-sv05-temporal-forces-miraidon",
    "product_id": 542865,
@@ -2371,6 +2606,7 @@
   {
    "number": "121",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542865_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542865/pokemon-sv05-temporal-forces-miraidon",
    "product_id": 542865,
@@ -2382,6 +2618,7 @@
   {
    "number": "122",
    "name": "Miraidon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542866_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542866/pokemon-sv05-temporal-forces-miraidon-ex",
    "product_id": 542866,
@@ -2392,6 +2629,7 @@
   {
    "number": "123",
    "name": "Raging Bolt ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542867_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542867/pokemon-sv05-temporal-forces-raging-bolt-ex-123-162",
    "product_id": 542867,
@@ -2402,6 +2640,7 @@
   {
    "number": "124",
    "name": "Lickitung",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542868_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542868/pokemon-sv05-temporal-forces-lickitung-124-162",
    "product_id": 542868,
@@ -2412,6 +2651,7 @@
   {
    "number": "124",
    "name": "Lickitung",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542868_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542868/pokemon-sv05-temporal-forces-lickitung-124-162",
    "product_id": 542868,
@@ -2422,6 +2662,7 @@
   {
    "number": "125",
    "name": "Lickilicky",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542869_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542869/pokemon-sv05-temporal-forces-lickilicky",
    "product_id": 542869,
@@ -2432,6 +2673,7 @@
   {
    "number": "125",
    "name": "Lickilicky",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542869_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542869/pokemon-sv05-temporal-forces-lickilicky",
    "product_id": 542869,
@@ -2442,6 +2684,7 @@
   {
    "number": "126",
    "name": "Hoothoot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542870_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542870/pokemon-sv05-temporal-forces-hoothoot",
    "product_id": 542870,
@@ -2452,6 +2695,7 @@
   {
    "number": "126",
    "name": "Hoothoot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542870_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542870/pokemon-sv05-temporal-forces-hoothoot",
    "product_id": 542870,
@@ -2462,6 +2706,7 @@
   {
    "number": "127",
    "name": "Noctowl",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542871_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542871/pokemon-sv05-temporal-forces-noctowl",
    "product_id": 542871,
@@ -2472,6 +2717,7 @@
   {
    "number": "127",
    "name": "Noctowl",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542871_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542871/pokemon-sv05-temporal-forces-noctowl",
    "product_id": 542871,
@@ -2482,6 +2728,7 @@
   {
    "number": "128",
    "name": "Dunsparce",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542872_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542872/pokemon-sv05-temporal-forces-dunsparce",
    "product_id": 542872,
@@ -2492,6 +2739,7 @@
   {
    "number": "128",
    "name": "Dunsparce",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542872_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542872/pokemon-sv05-temporal-forces-dunsparce",
    "product_id": 542872,
@@ -2502,6 +2750,7 @@
   {
    "number": "129",
    "name": "Dudunsparce",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/693135_400w.jpg",
    "url": "https://www.tcgplayer.com/product/693135/pokemon-deck-exclusives-dudunsparce-129-162-non-holo",
    "product_id": 693135,
@@ -2513,6 +2762,7 @@
   {
    "number": "129",
    "name": "Dudunsparce",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542873_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542873/pokemon-sv05-temporal-forces-dudunsparce",
    "product_id": 542873,
@@ -2524,6 +2774,7 @@
   {
    "number": "129",
    "name": "Dudunsparce",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542873_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542873/pokemon-sv05-temporal-forces-dudunsparce",
    "product_id": 542873,
@@ -2535,6 +2786,7 @@
   {
    "number": "130",
    "name": "Skitty",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542874_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542874/pokemon-sv05-temporal-forces-skitty",
    "product_id": 542874,
@@ -2545,6 +2797,7 @@
   {
    "number": "130",
    "name": "Skitty",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542874_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542874/pokemon-sv05-temporal-forces-skitty",
    "product_id": 542874,
@@ -2555,6 +2808,7 @@
   {
    "number": "131",
    "name": "Delcatty",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542875_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542875/pokemon-sv05-temporal-forces-delcatty",
    "product_id": 542875,
@@ -2565,6 +2819,7 @@
   {
    "number": "131",
    "name": "Delcatty",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542875_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542875/pokemon-sv05-temporal-forces-delcatty",
    "product_id": 542875,
@@ -2575,6 +2830,7 @@
   {
    "number": "132",
    "name": "Chatot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542876_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542876/pokemon-sv05-temporal-forces-chatot-132-162",
    "product_id": 542876,
@@ -2585,6 +2841,7 @@
   {
    "number": "132",
    "name": "Chatot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542876_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542876/pokemon-sv05-temporal-forces-chatot-132-162",
    "product_id": 542876,
@@ -2595,6 +2852,7 @@
   {
    "number": "133",
    "name": "Pidove",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542877_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542877/pokemon-sv05-temporal-forces-pidove",
    "product_id": 542877,
@@ -2605,6 +2863,7 @@
   {
    "number": "133",
    "name": "Pidove",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542877_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542877/pokemon-sv05-temporal-forces-pidove",
    "product_id": 542877,
@@ -2615,6 +2874,7 @@
   {
    "number": "134",
    "name": "Tranquill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542878_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542878/pokemon-sv05-temporal-forces-tranquill",
    "product_id": 542878,
@@ -2625,6 +2885,7 @@
   {
    "number": "134",
    "name": "Tranquill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542878_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542878/pokemon-sv05-temporal-forces-tranquill",
    "product_id": 542878,
@@ -2635,6 +2896,7 @@
   {
    "number": "135",
    "name": "Unfezant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542879_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542879/pokemon-sv05-temporal-forces-unfezant",
    "product_id": 542879,
@@ -2645,6 +2907,7 @@
   {
    "number": "135",
    "name": "Unfezant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542879_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542879/pokemon-sv05-temporal-forces-unfezant",
    "product_id": 542879,
@@ -2655,6 +2918,7 @@
   {
    "number": "136",
    "name": "Minccino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542880_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542880/pokemon-sv05-temporal-forces-minccino-136-162",
    "product_id": 542880,
@@ -2665,6 +2929,7 @@
   {
    "number": "136",
    "name": "Minccino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542880_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542880/pokemon-sv05-temporal-forces-minccino-136-162",
    "product_id": 542880,
@@ -2675,6 +2940,7 @@
   {
    "number": "137",
    "name": "Cinccino",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542881_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542881/pokemon-sv05-temporal-forces-cinccino-137-162",
    "product_id": 542881,
@@ -2685,6 +2951,7 @@
   {
    "number": "137",
    "name": "Cinccino",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542881_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542881/pokemon-sv05-temporal-forces-cinccino-137-162",
    "product_id": 542881,
@@ -2695,6 +2962,7 @@
   {
    "number": "138",
    "name": "Drampa",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542882_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542882/pokemon-sv05-temporal-forces-drampa-138-162",
    "product_id": 542882,
@@ -2705,6 +2973,7 @@
   {
    "number": "138",
    "name": "Drampa",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542882_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542882/pokemon-sv05-temporal-forces-drampa-138-162",
    "product_id": 542882,
@@ -2715,6 +2984,7 @@
   {
    "number": "139",
    "name": "Iron Jugulis",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542883_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542883/pokemon-sv05-temporal-forces-iron-jugulis",
    "product_id": 542883,
@@ -2725,6 +2995,7 @@
   {
    "number": "139",
    "name": "Iron Jugulis",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542883_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542883/pokemon-sv05-temporal-forces-iron-jugulis",
    "product_id": 542883,
@@ -2735,6 +3006,7 @@
   {
    "number": "140",
    "name": "Ancient Booster Energy Capsule",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542651_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542651/pokemon-sv05-temporal-forces-ancient-booster-energy-capsule",
    "product_id": 542651,
@@ -2745,6 +3017,7 @@
   {
    "number": "140",
    "name": "Ancient Booster Energy Capsule",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542651_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542651/pokemon-sv05-temporal-forces-ancient-booster-energy-capsule",
    "product_id": 542651,
@@ -2755,6 +3028,7 @@
   {
    "number": "141",
    "name": "Awakening Drum",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542654_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542654/pokemon-sv05-temporal-forces-awakening-drum",
    "product_id": 542654,
@@ -2765,6 +3039,7 @@
   {
    "number": "142",
    "name": "Bianca's Devotion",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542656_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542656/pokemon-sv05-temporal-forces-biancas-devotion-142-162",
    "product_id": 542656,
@@ -2775,6 +3050,7 @@
   {
    "number": "142",
    "name": "Bianca's Devotion",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542656_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542656/pokemon-sv05-temporal-forces-biancas-devotion-142-162",
    "product_id": 542656,
@@ -2785,6 +3061,7 @@
   {
    "number": "143",
    "name": "Boxed Order",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542657_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542657/pokemon-sv05-temporal-forces-boxed-order",
    "product_id": 542657,
@@ -2795,6 +3072,7 @@
   {
    "number": "143",
    "name": "Boxed Order",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542657_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542657/pokemon-sv05-temporal-forces-boxed-order",
    "product_id": 542657,
@@ -2805,6 +3083,7 @@
   {
    "number": "144",
    "name": "Buddy-Buddy Poffin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542659_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542659/pokemon-sv05-temporal-forces-buddy-buddy-poffin",
    "product_id": 542659,
@@ -2815,6 +3094,7 @@
   {
    "number": "144",
    "name": "Buddy-Buddy Poffin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542659_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542659/pokemon-sv05-temporal-forces-buddy-buddy-poffin",
    "product_id": 542659,
@@ -2825,6 +3105,7 @@
   {
    "number": "145",
    "name": "Ciphermaniac's Codebreaking",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542660_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542660/pokemon-sv05-temporal-forces-ciphermaniacs-codebreaking-145-162",
    "product_id": 542660,
@@ -2835,6 +3116,7 @@
   {
    "number": "145",
    "name": "Ciphermaniac's Codebreaking",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542660_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542660/pokemon-sv05-temporal-forces-ciphermaniacs-codebreaking-145-162",
    "product_id": 542660,
@@ -2845,6 +3127,7 @@
   {
    "number": "146",
    "name": "Eri",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542661_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542661/pokemon-sv05-temporal-forces-eri-146-162",
    "product_id": 542661,
@@ -2855,6 +3138,7 @@
   {
    "number": "146",
    "name": "Eri",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542661_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542661/pokemon-sv05-temporal-forces-eri-146-162",
    "product_id": 542661,
@@ -2865,6 +3149,7 @@
   {
    "number": "147",
    "name": "Explorer's Guidance",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542662_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542662/pokemon-sv05-temporal-forces-explorers-guidance-147-162",
    "product_id": 542662,
@@ -2875,6 +3160,7 @@
   {
    "number": "147",
    "name": "Explorer's Guidance",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542662_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542662/pokemon-sv05-temporal-forces-explorers-guidance-147-162",
    "product_id": 542662,
@@ -2885,6 +3171,7 @@
   {
    "number": "148",
    "name": "Full Metal Lab",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542663_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542663/pokemon-sv05-temporal-forces-full-metal-lab",
    "product_id": 542663,
@@ -2895,6 +3182,7 @@
   {
    "number": "148",
    "name": "Full Metal Lab",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542663_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542663/pokemon-sv05-temporal-forces-full-metal-lab",
    "product_id": 542663,
@@ -2905,6 +3193,7 @@
   {
    "number": "149",
    "name": "Future Booster Energy Capsule",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542664_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542664/pokemon-sv05-temporal-forces-future-booster-energy-capsule",
    "product_id": 542664,
@@ -2915,6 +3204,7 @@
   {
    "number": "149",
    "name": "Future Booster Energy Capsule",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542664_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542664/pokemon-sv05-temporal-forces-future-booster-energy-capsule",
    "product_id": 542664,
@@ -2925,6 +3215,7 @@
   {
    "number": "150",
    "name": "Hand Trimmer",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542665_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542665/pokemon-sv05-temporal-forces-hand-trimmer",
    "product_id": 542665,
@@ -2935,6 +3226,7 @@
   {
    "number": "150",
    "name": "Hand Trimmer",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542665_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542665/pokemon-sv05-temporal-forces-hand-trimmer",
    "product_id": 542665,
@@ -2945,6 +3237,7 @@
   {
    "number": "151",
    "name": "Heavy Baton",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542666_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542666/pokemon-sv05-temporal-forces-heavy-baton",
    "product_id": 542666,
@@ -2955,6 +3248,7 @@
   {
    "number": "151",
    "name": "Heavy Baton",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542666_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542666/pokemon-sv05-temporal-forces-heavy-baton",
    "product_id": 542666,
@@ -2965,6 +3259,7 @@
   {
    "number": "152",
    "name": "Hero's Cape",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542667_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542667/pokemon-sv05-temporal-forces-heros-cape",
    "product_id": 542667,
@@ -2975,6 +3270,7 @@
   {
    "number": "153",
    "name": "Master Ball",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542668_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542668/pokemon-sv05-temporal-forces-master-ball",
    "product_id": 542668,
@@ -2985,6 +3281,7 @@
   {
    "number": "154",
    "name": "Maximum Belt",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542670_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542670/pokemon-sv05-temporal-forces-maximum-belt",
    "product_id": 542670,
@@ -2995,6 +3292,7 @@
   {
    "number": "155",
    "name": "Morty's Conviction",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542671_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542671/pokemon-sv05-temporal-forces-mortys-conviction-155-162",
    "product_id": 542671,
@@ -3005,6 +3303,7 @@
   {
    "number": "155",
    "name": "Morty's Conviction",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542671_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542671/pokemon-sv05-temporal-forces-mortys-conviction-155-162",
    "product_id": 542671,
@@ -3015,6 +3314,7 @@
   {
    "number": "156",
    "name": "Perilous Jungle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542673_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542673/pokemon-sv05-temporal-forces-perilous-jungle",
    "product_id": 542673,
@@ -3025,6 +3325,7 @@
   {
    "number": "156",
    "name": "Perilous Jungle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542673_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542673/pokemon-sv05-temporal-forces-perilous-jungle",
    "product_id": 542673,
@@ -3035,6 +3336,7 @@
   {
    "number": "157",
    "name": "Prime Catcher",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542674_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542674/pokemon-sv05-temporal-forces-prime-catcher",
    "product_id": 542674,
@@ -3045,6 +3347,7 @@
   {
    "number": "158",
    "name": "Reboot Pod",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542675_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542675/pokemon-sv05-temporal-forces-reboot-pod",
    "product_id": 542675,
@@ -3055,6 +3358,7 @@
   {
    "number": "159",
    "name": "Rescue Board",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542677_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542677/pokemon-sv05-temporal-forces-rescue-board",
    "product_id": 542677,
@@ -3065,6 +3369,7 @@
   {
    "number": "159",
    "name": "Rescue Board",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542677_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542677/pokemon-sv05-temporal-forces-rescue-board",
    "product_id": 542677,
@@ -3075,6 +3380,7 @@
   {
    "number": "160",
    "name": "Salvatore",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542679_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542679/pokemon-sv05-temporal-forces-salvatore-160-162",
    "product_id": 542679,
@@ -3085,6 +3391,7 @@
   {
    "number": "160",
    "name": "Salvatore",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542679_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542679/pokemon-sv05-temporal-forces-salvatore-160-162",
    "product_id": 542679,
@@ -3095,6 +3402,7 @@
   {
    "number": "161",
    "name": "Mist Energy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542681_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542681/pokemon-sv05-temporal-forces-mist-energy",
    "product_id": 542681,
@@ -3105,6 +3413,7 @@
   {
    "number": "161",
    "name": "Mist Energy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542681_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542681/pokemon-sv05-temporal-forces-mist-energy",
    "product_id": 542681,
@@ -3115,6 +3424,7 @@
   {
    "number": "162",
    "name": "Neo Upper Energy",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542682_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542682/pokemon-sv05-temporal-forces-neo-upper-energy",
    "product_id": 542682,
@@ -3125,6 +3435,7 @@
   {
    "number": "163",
    "name": "Shiftry",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542884_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542884/pokemon-sv05-temporal-forces-shiftry-163-162",
    "product_id": 542884,
@@ -3135,6 +3446,7 @@
   {
    "number": "164",
    "name": "Grotle",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542885_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542885/pokemon-sv05-temporal-forces-grotle-164-162",
    "product_id": 542885,
@@ -3145,6 +3457,7 @@
   {
    "number": "165",
    "name": "Deerling",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542886_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542886/pokemon-sv05-temporal-forces-deerling-165-162",
    "product_id": 542886,
@@ -3155,6 +3468,7 @@
   {
    "number": "166",
    "name": "Sawsbuck",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542887_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542887/pokemon-sv05-temporal-forces-sawsbuck-166-162",
    "product_id": 542887,
@@ -3165,6 +3479,7 @@
   {
    "number": "167",
    "name": "Litten",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542888_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542888/pokemon-sv05-temporal-forces-litten-167-162",
    "product_id": 542888,
@@ -3175,6 +3490,7 @@
   {
    "number": "168",
    "name": "Snom",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542889_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542889/pokemon-sv05-temporal-forces-snom-168-162",
    "product_id": 542889,
@@ -3185,6 +3501,7 @@
   {
    "number": "169",
    "name": "Charjabug",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542890_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542890/pokemon-sv05-temporal-forces-charjabug-169-162",
    "product_id": 542890,
@@ -3195,6 +3512,7 @@
   {
    "number": "170",
    "name": "Bronzor",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542891_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542891/pokemon-sv05-temporal-forces-bronzor-170-162",
    "product_id": 542891,
@@ -3205,6 +3523,7 @@
   {
    "number": "171",
    "name": "Reuniclus",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542892_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542892/pokemon-sv05-temporal-forces-reuniclus-171-162",
    "product_id": 542892,
@@ -3215,6 +3534,7 @@
   {
    "number": "172",
    "name": "Cutiefly",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542893_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542893/pokemon-sv05-temporal-forces-cutiefly-172-162",
    "product_id": 542893,
@@ -3225,6 +3545,7 @@
   {
    "number": "173",
    "name": "Relicanth",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542894_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542894/pokemon-sv05-temporal-forces-relicanth-173-162",
    "product_id": 542894,
@@ -3235,6 +3556,7 @@
   {
    "number": "174",
    "name": "Excadrill",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542895_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542895/pokemon-sv05-temporal-forces-excadrill-174-162",
    "product_id": 542895,
@@ -3245,6 +3567,7 @@
   {
    "number": "175",
    "name": "Mudsdale",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542896_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542896/pokemon-sv05-temporal-forces-mudsdale-175-162",
    "product_id": 542896,
@@ -3255,6 +3578,7 @@
   {
    "number": "176",
    "name": "Arbok",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542897_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542897/pokemon-sv05-temporal-forces-arbok-176-162",
    "product_id": 542897,
@@ -3265,6 +3589,7 @@
   {
    "number": "177",
    "name": "Gastly",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542898_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542898/pokemon-sv05-temporal-forces-gastly-177-162",
    "product_id": 542898,
@@ -3275,6 +3600,7 @@
   {
    "number": "178",
    "name": "Metagross",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542899_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542899/pokemon-sv05-temporal-forces-metagross-178-162",
    "product_id": 542899,
@@ -3285,6 +3611,7 @@
   {
    "number": "179",
    "name": "Meltan",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542900_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542900/pokemon-sv05-temporal-forces-meltan-179-162",
    "product_id": 542900,
@@ -3295,6 +3622,7 @@
   {
    "number": "180",
    "name": "Lickitung",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542901_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542901/pokemon-sv05-temporal-forces-lickitung-180-162",
    "product_id": 542901,
@@ -3305,6 +3633,7 @@
   {
    "number": "181",
    "name": "Chatot",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542902_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542902/pokemon-sv05-temporal-forces-chatot-181-162",
    "product_id": 542902,
@@ -3315,6 +3644,7 @@
   {
    "number": "182",
    "name": "Minccino",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542903_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542903/pokemon-sv05-temporal-forces-minccino-182-162",
    "product_id": 542903,
@@ -3325,6 +3655,7 @@
   {
    "number": "183",
    "name": "Cinccino",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542904_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542904/pokemon-sv05-temporal-forces-cinccino-183-162",
    "product_id": 542904,
@@ -3335,6 +3666,7 @@
   {
    "number": "184",
    "name": "Drampa",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542905_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542905/pokemon-sv05-temporal-forces-drampa-184-162",
    "product_id": 542905,
@@ -3345,6 +3677,7 @@
   {
    "number": "185",
    "name": "Torterra ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542906_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542906/pokemon-sv05-temporal-forces-torterra-ex-185-162",
    "product_id": 542906,
@@ -3355,6 +3688,7 @@
   {
    "number": "186",
    "name": "Iron Leaves ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542907_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542907/pokemon-sv05-temporal-forces-iron-leaves-ex-186-162",
    "product_id": 542907,
@@ -3365,6 +3699,7 @@
   {
    "number": "187",
    "name": "Incineroar ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542908_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542908/pokemon-sv05-temporal-forces-incineroar-ex-187-162",
    "product_id": 542908,
@@ -3375,6 +3710,7 @@
   {
    "number": "188",
    "name": "Gouging Fire ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542909_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542909/pokemon-sv05-temporal-forces-gouging-fire-ex-188-162",
    "product_id": 542909,
@@ -3385,6 +3721,7 @@
   {
    "number": "189",
    "name": "Walking Wake ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542910_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542910/pokemon-sv05-temporal-forces-walking-wake-ex-189-162",
    "product_id": 542910,
@@ -3395,6 +3732,7 @@
   {
    "number": "190",
    "name": "Wugtrio ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542911_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542911/pokemon-sv05-temporal-forces-wugtrio-ex-190-162",
    "product_id": 542911,
@@ -3405,6 +3743,7 @@
   {
    "number": "191",
    "name": "Iron Crown ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542912_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542912/pokemon-sv05-temporal-forces-iron-crown-ex-191-162",
    "product_id": 542912,
@@ -3415,6 +3754,7 @@
   {
    "number": "192",
    "name": "Iron Boulder ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542913_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542913/pokemon-sv05-temporal-forces-iron-boulder-ex-192-162",
    "product_id": 542913,
@@ -3425,6 +3765,7 @@
   {
    "number": "193",
    "name": "Gengar ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542914_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542914/pokemon-sv05-temporal-forces-gengar-ex-193-162",
    "product_id": 542914,
@@ -3435,6 +3776,7 @@
   {
    "number": "194",
    "name": "Farigiraf ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542915_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542915/pokemon-sv05-temporal-forces-farigiraf-ex-194-162",
    "product_id": 542915,
@@ -3445,6 +3787,7 @@
   {
    "number": "195",
    "name": "Scizor ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542916_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542916/pokemon-sv05-temporal-forces-scizor-ex-195-162",
    "product_id": 542916,
@@ -3455,6 +3798,7 @@
   {
    "number": "196",
    "name": "Raging Bolt ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542917_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542917/pokemon-sv05-temporal-forces-raging-bolt-ex-196-162",
    "product_id": 542917,
@@ -3465,6 +3809,7 @@
   {
    "number": "197",
    "name": "Bianca's Devotion",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542918_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542918/pokemon-sv05-temporal-forces-biancas-devotion-197-162",
    "product_id": 542918,
@@ -3475,6 +3820,7 @@
   {
    "number": "198",
    "name": "Ciphermaniac's Codebreaking",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542919_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542919/pokemon-sv05-temporal-forces-ciphermaniacs-codebreaking-198-162",
    "product_id": 542919,
@@ -3485,6 +3831,7 @@
   {
    "number": "199",
    "name": "Eri",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542920_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542920/pokemon-sv05-temporal-forces-eri-199-162",
    "product_id": 542920,
@@ -3495,6 +3842,7 @@
   {
    "number": "200",
    "name": "Explorer's Guidance",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542921_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542921/pokemon-sv05-temporal-forces-explorers-guidance-200-162",
    "product_id": 542921,
@@ -3505,6 +3853,7 @@
   {
    "number": "201",
    "name": "Morty's Conviction",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542922_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542922/pokemon-sv05-temporal-forces-mortys-conviction-201-162",
    "product_id": 542922,
@@ -3515,6 +3864,7 @@
   {
    "number": "202",
    "name": "Salvatore",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542923_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542923/pokemon-sv05-temporal-forces-salvatore-202-162",
    "product_id": 542923,
@@ -3525,6 +3875,7 @@
   {
    "number": "203",
    "name": "Iron Leaves ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542924_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542924/pokemon-sv05-temporal-forces-iron-leaves-ex-203-162",
    "product_id": 542924,
@@ -3535,6 +3886,7 @@
   {
    "number": "204",
    "name": "Gouging Fire ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542925_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542925/pokemon-sv05-temporal-forces-gouging-fire-ex-204-162",
    "product_id": 542925,
@@ -3545,6 +3897,7 @@
   {
    "number": "205",
    "name": "Walking Wake ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542926_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542926/pokemon-sv05-temporal-forces-walking-wake-ex-205-162",
    "product_id": 542926,
@@ -3555,6 +3908,7 @@
   {
    "number": "206",
    "name": "Iron Crown ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542927_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542927/pokemon-sv05-temporal-forces-iron-crown-ex-206-162",
    "product_id": 542927,
@@ -3565,6 +3919,7 @@
   {
    "number": "207",
    "name": "Iron Boulder ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542928_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542928/pokemon-sv05-temporal-forces-iron-boulder-ex-207-162",
    "product_id": 542928,
@@ -3575,6 +3930,7 @@
   {
    "number": "208",
    "name": "Raging Bolt ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542929_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542929/pokemon-sv05-temporal-forces-raging-bolt-ex-208-162",
    "product_id": 542929,
@@ -3585,6 +3941,7 @@
   {
    "number": "209",
    "name": "Bianca's Devotion",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542930_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542930/pokemon-sv05-temporal-forces-biancas-devotion-209-162",
    "product_id": 542930,
@@ -3595,6 +3952,7 @@
   {
    "number": "210",
    "name": "Eri",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542931_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542931/pokemon-sv05-temporal-forces-eri-210-162",
    "product_id": 542931,
@@ -3605,6 +3963,7 @@
   {
    "number": "211",
    "name": "Morty's Conviction",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542932_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542932/pokemon-sv05-temporal-forces-mortys-conviction-211-162",
    "product_id": 542932,
@@ -3615,6 +3974,7 @@
   {
    "number": "212",
    "name": "Salvatore",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542933_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542933/pokemon-sv05-temporal-forces-salvatore-212-162",
    "product_id": 542933,
@@ -3625,6 +3985,7 @@
   {
    "number": "213",
    "name": "Iron Leaves ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542934_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542934/pokemon-sv05-temporal-forces-iron-leaves-ex-213-162",
    "product_id": 542934,
@@ -3635,6 +3996,7 @@
   {
    "number": "214",
    "name": "Gouging Fire ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542935_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542935/pokemon-sv05-temporal-forces-gouging-fire-ex-214-162",
    "product_id": 542935,
@@ -3645,6 +4007,7 @@
   {
    "number": "215",
    "name": "Walking Wake ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542936_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542936/pokemon-sv05-temporal-forces-walking-wake-ex-215-162",
    "product_id": 542936,
@@ -3655,6 +4018,7 @@
   {
    "number": "216",
    "name": "Iron Crown ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542937_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542937/pokemon-sv05-temporal-forces-iron-crown-ex-216-162",
    "product_id": 542937,
@@ -3665,6 +4029,7 @@
   {
    "number": "217",
    "name": "Iron Boulder ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542938_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542938/pokemon-sv05-temporal-forces-iron-boulder-ex-217-162",
    "product_id": 542938,
@@ -3675,6 +4040,7 @@
   {
    "number": "218",
    "name": "Raging Bolt ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/542939_400w.jpg",
    "url": "https://www.tcgplayer.com/product/542939/pokemon-sv05-temporal-forces-raging-bolt-ex-218-162",
    "product_id": 542939,

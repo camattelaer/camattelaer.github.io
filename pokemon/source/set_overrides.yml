@@ -3,6 +3,8 @@
 #   tcgplayer: TCGplayer groupId  (see https://tcgcsv.com/tcgplayer/3/groups)
 #   tcgdex:    TCGdex set id      (see https://api.tcgdex.net/v2/en/sets)
 #   logo:      image URL          used instead of the TCGdex / pokemontcg.io logo
+#   order:     [printed numbers]  card order on the site and in placeholder PDFs, e.g. a
+#                                 Classic Collection booklet's; unlisted cards go last
 #   tcgplayer_extra: [groupIds]   subset groups to merge in; replaces the automatic
 #                                 Trainer Gallery / Galarian Gallery / Shiny Vault /
 #                                 Radiant Collection detection ([] turns it off)
@@ -26,7 +28,42 @@
 "Sun & Moon":                 { tcgplayer: 1863 }
 "XY":                         { tcgplayer: 1387 }
 "Celebrations Classic Collection": { tcgplayer: 2931 }
-"30th Classic Collection":    { tcgplayer: 24837 }  # numbered as the original prints, e.g. Mew VMAX 114/264
+# numbered as the original prints (e.g. Mew VMAX 114/264); no logo of its own anywhere,
+# so it uses the 30th Celebration logo. Order: as in the booklet that comes with the ETB.
+"30th Classic Collection":
+  tcgplayer: 24837
+  logo: "https://images.scrydex.com/pokemon/me55-logo/logo"
+  order:
+    - "58/102"    # Pikachu
+    - "4/102"     # Charizard
+    - "18/132"    # Misty
+    - "69/132"    # Erika's Jigglypuff
+    - "25/111"    # Sneasel
+    - "106/105"   # Shining Celebi
+    - "149/147"   # Lugia
+    - "5/109"     # Delcatty
+    - "19/109"    # Dark Tyranitar
+    - "108/115"   # Scizor ex
+    - "11/113"    # Metagross
+    - "106/106"   # Palkia LV.X
+    - "43/146"    # Uxie
+    - "47/127"    # Crobat G
+    - "94/102"    # Gengar
+    - "99/102"    # Darkrai & Cresselia LEGEND (top)
+    - "100/102"   # Darkrai & Cresselia LEGEND (bottom)
+    - "101/101"   # N
+    - "85/124"    # Rayquaza EX
+    - "11/101"    # Genesect EX
+    - "106/160"   # M Gardevoir EX
+    - "41/122"    # Greninja BREAK
+    - "89/149"    # Solgaleo GX
+    - "57/111"    # Buzzwole GX
+    - "33/181"    # Pikachu & Zekrom GX
+    - "138/202"   # Zacian V
+    - "050/185"   # Raikou
+    - "114/264"   # Mew VMAX
+    - "123/172"   # Arceus VSTAR
+    - "203/193"   # Magikarp
 "Pokémon Rumble":             { tcgplayer: 1433 }
 "Best of game":               { tcgplayer: 1455 }
 "Expedition Base Set":        { tcgplayer: 1375 }

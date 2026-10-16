@@ -10,10 +10,12 @@
  "owned_count": 71,
  "total_count": 405,
  "owned_qty": 71,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Snivy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642450_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642450/pokemon-sv-black-bolt-snivy",
    "product_id": 642450,
@@ -24,6 +26,7 @@
   {
    "number": "001",
    "name": "Snivy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642450_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642450/pokemon-sv-black-bolt-snivy",
    "product_id": 642450,
@@ -34,6 +37,7 @@
   {
    "number": "001",
    "name": "Snivy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642450_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642450/pokemon-sv-black-bolt-snivy",
    "product_id": 642450,
@@ -44,6 +48,7 @@
   {
    "number": "001",
    "name": "Snivy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642696_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642696/pokemon-sv-black-bolt-snivy-poke-ball-pattern",
    "product_id": 642696,
@@ -55,6 +60,7 @@
   {
    "number": "001",
    "name": "Snivy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642450_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642624/pokemon-sv-black-bolt-snivy-master-ball-pattern",
    "product_id": 642624,
@@ -66,6 +72,7 @@
   {
    "number": "002",
    "name": "Servine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642451_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642451/pokemon-sv-black-bolt-servine",
    "product_id": 642451,
@@ -76,6 +83,7 @@
   {
    "number": "002",
    "name": "Servine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642451_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642451/pokemon-sv-black-bolt-servine",
    "product_id": 642451,
@@ -86,6 +94,7 @@
   {
    "number": "002",
    "name": "Servine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642451_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642697/pokemon-sv-black-bolt-servine-poke-ball-pattern",
    "product_id": 642697,
@@ -97,6 +106,7 @@
   {
    "number": "002",
    "name": "Servine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642625_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642625/pokemon-sv-black-bolt-servine-master-ball-pattern",
    "product_id": 642625,
@@ -108,6 +118,7 @@
   {
    "number": "003",
    "name": "Serperior ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642452_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642452/pokemon-sv-black-bolt-serperior-ex",
    "product_id": 642452,
@@ -118,6 +129,7 @@
   {
    "number": "004",
    "name": "Pansage",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642453_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642453/pokemon-sv-black-bolt-pansage",
    "product_id": 642453,
@@ -128,6 +140,7 @@
   {
    "number": "004",
    "name": "Pansage",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642453_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642453/pokemon-sv-black-bolt-pansage",
    "product_id": 642453,
@@ -138,6 +151,7 @@
   {
    "number": "004",
    "name": "Pansage",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642698_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642698/pokemon-sv-black-bolt-pansage-poke-ball-pattern",
    "product_id": 642698,
@@ -149,6 +163,7 @@
   {
    "number": "004",
    "name": "Pansage",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642626_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642626/pokemon-sv-black-bolt-pansage-master-ball-pattern",
    "product_id": 642626,
@@ -160,6 +175,7 @@
   {
    "number": "005",
    "name": "Simisage",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642454_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642454/pokemon-sv-black-bolt-simisage",
    "product_id": 642454,
@@ -170,6 +186,7 @@
   {
    "number": "005",
    "name": "Simisage",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642454_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642454/pokemon-sv-black-bolt-simisage",
    "product_id": 642454,
@@ -180,6 +197,7 @@
   {
    "number": "005",
    "name": "Simisage",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642454_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642699/pokemon-sv-black-bolt-simisage-poke-ball-pattern",
    "product_id": 642699,
@@ -191,6 +209,7 @@
   {
    "number": "005",
    "name": "Simisage",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642454_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642627/pokemon-sv-black-bolt-simisage-master-ball-pattern",
    "product_id": 642627,
@@ -202,6 +221,7 @@
   {
    "number": "006",
    "name": "Petilil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642455_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642455/pokemon-sv-black-bolt-petilil",
    "product_id": 642455,
@@ -212,6 +232,7 @@
   {
    "number": "006",
    "name": "Petilil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642455_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642455/pokemon-sv-black-bolt-petilil",
    "product_id": 642455,
@@ -222,6 +243,7 @@
   {
    "number": "006",
    "name": "Petilil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642700_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642700/pokemon-sv-black-bolt-petilil-poke-ball-pattern",
    "product_id": 642700,
@@ -233,6 +255,7 @@
   {
    "number": "006",
    "name": "Petilil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642455_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642628/pokemon-sv-black-bolt-petilil-master-ball-pattern",
    "product_id": 642628,
@@ -244,6 +267,7 @@
   {
    "number": "007",
    "name": "Lilligant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642456_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642456/pokemon-sv-black-bolt-lilligant",
    "product_id": 642456,
@@ -254,6 +278,7 @@
   {
    "number": "007",
    "name": "Lilligant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642456_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642456/pokemon-sv-black-bolt-lilligant",
    "product_id": 642456,
@@ -264,6 +289,7 @@
   {
    "number": "007",
    "name": "Lilligant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642456_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642701/pokemon-sv-black-bolt-lilligant-poke-ball-pattern",
    "product_id": 642701,
@@ -275,6 +301,7 @@
   {
    "number": "007",
    "name": "Lilligant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642456_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642629/pokemon-sv-black-bolt-lilligant-master-ball-pattern",
    "product_id": 642629,
@@ -286,6 +313,7 @@
   {
    "number": "008",
    "name": "Maractus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642457_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642457/pokemon-sv-black-bolt-maractus",
    "product_id": 642457,
@@ -296,6 +324,7 @@
   {
    "number": "008",
    "name": "Maractus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642457_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642457/pokemon-sv-black-bolt-maractus",
    "product_id": 642457,
@@ -306,6 +335,7 @@
   {
    "number": "008",
    "name": "Maractus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642702_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642702/pokemon-sv-black-bolt-maractus-poke-ball-pattern",
    "product_id": 642702,
@@ -317,6 +347,7 @@
   {
    "number": "008",
    "name": "Maractus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642630_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642630/pokemon-sv-black-bolt-maractus-master-ball-pattern",
    "product_id": 642630,
@@ -328,6 +359,7 @@
   {
    "number": "009",
    "name": "Karrablast",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642458_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642458/pokemon-sv-black-bolt-karrablast",
    "product_id": 642458,
@@ -338,6 +370,7 @@
   {
    "number": "009",
    "name": "Karrablast",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642458_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642458/pokemon-sv-black-bolt-karrablast",
    "product_id": 642458,
@@ -348,6 +381,7 @@
   {
    "number": "009",
    "name": "Karrablast",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642703_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642703/pokemon-sv-black-bolt-karrablast-poke-ball-pattern",
    "product_id": 642703,
@@ -359,6 +393,7 @@
   {
    "number": "009",
    "name": "Karrablast",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642458_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642631/pokemon-sv-black-bolt-karrablast-master-ball-pattern",
    "product_id": 642631,
@@ -370,6 +405,7 @@
   {
    "number": "010",
    "name": "Foongus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642459_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642459/pokemon-sv-black-bolt-foongus",
    "product_id": 642459,
@@ -380,6 +416,7 @@
   {
    "number": "010",
    "name": "Foongus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642459_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642459/pokemon-sv-black-bolt-foongus",
    "product_id": 642459,
@@ -390,6 +427,7 @@
   {
    "number": "010",
    "name": "Foongus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642459_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642704/pokemon-sv-black-bolt-foongus-poke-ball-pattern",
    "product_id": 642704,
@@ -401,6 +439,7 @@
   {
    "number": "010",
    "name": "Foongus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642459_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642632/pokemon-sv-black-bolt-foongus-master-ball-pattern",
    "product_id": 642632,
@@ -412,6 +451,7 @@
   {
    "number": "011",
    "name": "Amoonguss",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642460_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642460/pokemon-sv-black-bolt-amoonguss",
    "product_id": 642460,
@@ -422,6 +462,7 @@
   {
    "number": "011",
    "name": "Amoonguss",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642460_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642460/pokemon-sv-black-bolt-amoonguss",
    "product_id": 642460,
@@ -432,6 +473,7 @@
   {
    "number": "011",
    "name": "Amoonguss",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642705_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642705/pokemon-sv-black-bolt-amoonguss-poke-ball-pattern",
    "product_id": 642705,
@@ -443,6 +485,7 @@
   {
    "number": "011",
    "name": "Amoonguss",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642633_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642633/pokemon-sv-black-bolt-amoonguss-master-ball-pattern",
    "product_id": 642633,
@@ -454,6 +497,7 @@
   {
    "number": "012",
    "name": "Victini",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642461_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642461/pokemon-sv-black-bolt-victini",
    "product_id": 642461,
@@ -464,6 +508,7 @@
   {
    "number": "012",
    "name": "Victini",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642461_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642461/pokemon-sv-black-bolt-victini",
    "product_id": 642461,
@@ -474,6 +519,7 @@
   {
    "number": "012",
    "name": "Victini",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642706_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642706/pokemon-sv-black-bolt-victini-poke-ball-pattern",
    "product_id": 642706,
@@ -485,6 +531,7 @@
   {
    "number": "012",
    "name": "Victini",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642461_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642634/pokemon-sv-black-bolt-victini-master-ball-pattern",
    "product_id": 642634,
@@ -496,6 +543,7 @@
   {
    "number": "013",
    "name": "Darumaka",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642462_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642462/pokemon-sv-black-bolt-darumaka",
    "product_id": 642462,
@@ -506,6 +554,7 @@
   {
    "number": "013",
    "name": "Darumaka",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642462_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642462/pokemon-sv-black-bolt-darumaka",
    "product_id": 642462,
@@ -516,6 +565,7 @@
   {
    "number": "013",
    "name": "Darumaka",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642707_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642707/pokemon-sv-black-bolt-darumaka-poke-ball-pattern",
    "product_id": 642707,
@@ -527,6 +577,7 @@
   {
    "number": "013",
    "name": "Darumaka",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642635_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642635/pokemon-sv-black-bolt-darumaka-master-ball-pattern",
    "product_id": 642635,
@@ -538,6 +589,7 @@
   {
    "number": "014",
    "name": "Darmanitan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642463_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642463/pokemon-sv-black-bolt-darmanitan",
    "product_id": 642463,
@@ -548,6 +600,7 @@
   {
    "number": "014",
    "name": "Darmanitan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642463_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642463/pokemon-sv-black-bolt-darmanitan",
    "product_id": 642463,
@@ -558,6 +611,7 @@
   {
    "number": "014",
    "name": "Darmanitan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642708_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642708/pokemon-sv-black-bolt-darmanitan-poke-ball-pattern",
    "product_id": 642708,
@@ -569,6 +623,7 @@
   {
    "number": "014",
    "name": "Darmanitan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642463_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642636/pokemon-sv-black-bolt-darmanitan-master-ball-pattern",
    "product_id": 642636,
@@ -580,6 +635,7 @@
   {
    "number": "015",
    "name": "Larvesta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642467_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642467/pokemon-sv-black-bolt-larvesta",
    "product_id": 642467,
@@ -590,6 +646,7 @@
   {
    "number": "015",
    "name": "Larvesta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642467_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642467/pokemon-sv-black-bolt-larvesta",
    "product_id": 642467,
@@ -600,6 +657,7 @@
   {
    "number": "015",
    "name": "Larvesta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642712_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642712/pokemon-sv-black-bolt-larvesta-poke-ball-pattern",
    "product_id": 642712,
@@ -611,6 +669,7 @@
   {
    "number": "015",
    "name": "Larvesta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642640_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642640/pokemon-sv-black-bolt-larvesta-master-ball-pattern",
    "product_id": 642640,
@@ -622,6 +681,7 @@
   {
    "number": "016",
    "name": "Volcarona",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642468_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642468/pokemon-sv-black-bolt-volcarona",
    "product_id": 642468,
@@ -632,6 +692,7 @@
   {
    "number": "016",
    "name": "Volcarona",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642468_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642468/pokemon-sv-black-bolt-volcarona",
    "product_id": 642468,
@@ -642,6 +703,7 @@
   {
    "number": "016",
    "name": "Volcarona",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642468_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642713/pokemon-sv-black-bolt-volcarona-poke-ball-pattern",
    "product_id": 642713,
@@ -653,6 +715,7 @@
   {
    "number": "016",
    "name": "Volcarona",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642468_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642641/pokemon-sv-black-bolt-volcarona-master-ball-pattern",
    "product_id": 642641,
@@ -664,6 +727,7 @@
   {
    "number": "017",
    "name": "Panpour",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642469_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642469/pokemon-sv-black-bolt-panpour",
    "product_id": 642469,
@@ -674,6 +738,7 @@
   {
    "number": "017",
    "name": "Panpour",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642469_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642469/pokemon-sv-black-bolt-panpour",
    "product_id": 642469,
@@ -684,6 +749,7 @@
   {
    "number": "017",
    "name": "Panpour",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642469_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642714/pokemon-sv-black-bolt-panpour-poke-ball-pattern",
    "product_id": 642714,
@@ -695,6 +761,7 @@
   {
    "number": "017",
    "name": "Panpour",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642469_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642642/pokemon-sv-black-bolt-panpour-master-ball-pattern",
    "product_id": 642642,
@@ -706,6 +773,7 @@
   {
    "number": "018",
    "name": "Simipour",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642470_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642470/pokemon-sv-black-bolt-simipour",
    "product_id": 642470,
@@ -716,6 +784,7 @@
   {
    "number": "018",
    "name": "Simipour",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642470_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642470/pokemon-sv-black-bolt-simipour",
    "product_id": 642470,
@@ -726,6 +795,7 @@
   {
    "number": "018",
    "name": "Simipour",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642715_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642715/pokemon-sv-black-bolt-simipour-poke-ball-pattern",
    "product_id": 642715,
@@ -737,6 +807,7 @@
   {
    "number": "018",
    "name": "Simipour",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642470_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642643/pokemon-sv-black-bolt-simipour-master-ball-pattern",
    "product_id": 642643,
@@ -748,6 +819,7 @@
   {
    "number": "019",
    "name": "Tympole",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642471_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642471/pokemon-sv-black-bolt-tympole",
    "product_id": 642471,
@@ -758,6 +830,7 @@
   {
    "number": "019",
    "name": "Tympole",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642471_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642471/pokemon-sv-black-bolt-tympole",
    "product_id": 642471,
@@ -768,6 +841,7 @@
   {
    "number": "019",
    "name": "Tympole",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642716_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642716/pokemon-sv-black-bolt-tympole-poke-ball-pattern",
    "product_id": 642716,
@@ -779,6 +853,7 @@
   {
    "number": "019",
    "name": "Tympole",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642471_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642644/pokemon-sv-black-bolt-tympole-master-ball-pattern",
    "product_id": 642644,
@@ -790,6 +865,7 @@
   {
    "number": "020",
    "name": "Palpitoad",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642472_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642472/pokemon-sv-black-bolt-palpitoad",
    "product_id": 642472,
@@ -800,6 +876,7 @@
   {
    "number": "020",
    "name": "Palpitoad",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642472_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642472/pokemon-sv-black-bolt-palpitoad",
    "product_id": 642472,
@@ -810,6 +887,7 @@
   {
    "number": "020",
    "name": "Palpitoad",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642472_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642717/pokemon-sv-black-bolt-palpitoad-poke-ball-pattern",
    "product_id": 642717,
@@ -821,6 +899,7 @@
   {
    "number": "020",
    "name": "Palpitoad",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642472_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642645/pokemon-sv-black-bolt-palpitoad-master-ball-pattern",
    "product_id": 642645,
@@ -832,6 +911,7 @@
   {
    "number": "021",
    "name": "Seismitoad",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642473_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642473/pokemon-sv-black-bolt-seismitoad",
    "product_id": 642473,
@@ -842,6 +922,7 @@
   {
    "number": "021",
    "name": "Seismitoad",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642473_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642473/pokemon-sv-black-bolt-seismitoad",
    "product_id": 642473,
@@ -852,6 +933,7 @@
   {
    "number": "021",
    "name": "Seismitoad",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642718_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642718/pokemon-sv-black-bolt-seismitoad-poke-ball-pattern",
    "product_id": 642718,
@@ -863,6 +945,7 @@
   {
    "number": "021",
    "name": "Seismitoad",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642473_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642646/pokemon-sv-black-bolt-seismitoad-master-ball-pattern",
    "product_id": 642646,
@@ -874,6 +957,7 @@
   {
    "number": "022",
    "name": "Tirtouga",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642474_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642474/pokemon-sv-black-bolt-tirtouga",
    "product_id": 642474,
@@ -884,6 +968,7 @@
   {
    "number": "022",
    "name": "Tirtouga",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642474_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642474/pokemon-sv-black-bolt-tirtouga",
    "product_id": 642474,
@@ -894,6 +979,7 @@
   {
    "number": "022",
    "name": "Tirtouga",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642474_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642719/pokemon-sv-black-bolt-tirtouga-poke-ball-pattern",
    "product_id": 642719,
@@ -905,6 +991,7 @@
   {
    "number": "022",
    "name": "Tirtouga",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642647_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642647/pokemon-sv-black-bolt-tirtouga-master-ball-pattern",
    "product_id": 642647,
@@ -916,6 +1003,7 @@
   {
    "number": "023",
    "name": "Carracosta",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642475_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642475/pokemon-sv-black-bolt-carracosta",
    "product_id": 642475,
@@ -926,6 +1014,7 @@
   {
    "number": "023",
    "name": "Carracosta",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642475_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642475/pokemon-sv-black-bolt-carracosta",
    "product_id": 642475,
@@ -936,6 +1025,7 @@
   {
    "number": "023",
    "name": "Carracosta",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642720_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642720/pokemon-sv-black-bolt-carracosta-poke-ball-pattern",
    "product_id": 642720,
@@ -947,6 +1037,7 @@
   {
    "number": "023",
    "name": "Carracosta",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642475_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642648/pokemon-sv-black-bolt-carracosta-master-ball-pattern",
    "product_id": 642648,
@@ -958,6 +1049,7 @@
   {
    "number": "024",
    "name": "Alomomola",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642476_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642476/pokemon-sv-black-bolt-alomomola",
    "product_id": 642476,
@@ -968,6 +1060,7 @@
   {
    "number": "024",
    "name": "Alomomola",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642476_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642476/pokemon-sv-black-bolt-alomomola",
    "product_id": 642476,
@@ -978,6 +1071,7 @@
   {
    "number": "024",
    "name": "Alomomola",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642721_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642721/pokemon-sv-black-bolt-alomomola-poke-ball-pattern",
    "product_id": 642721,
@@ -989,6 +1083,7 @@
   {
    "number": "024",
    "name": "Alomomola",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642649_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642649/pokemon-sv-black-bolt-alomomola-master-ball-pattern",
    "product_id": 642649,
@@ -1000,6 +1095,7 @@
   {
    "number": "025",
    "name": "Cubchoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642477_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642477/pokemon-sv-black-bolt-cubchoo",
    "product_id": 642477,
@@ -1010,6 +1106,7 @@
   {
    "number": "025",
    "name": "Cubchoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642477_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642477/pokemon-sv-black-bolt-cubchoo",
    "product_id": 642477,
@@ -1020,6 +1117,7 @@
   {
    "number": "025",
    "name": "Cubchoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642477_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642722/pokemon-sv-black-bolt-cubchoo-poke-ball-pattern",
    "product_id": 642722,
@@ -1031,6 +1129,7 @@
   {
    "number": "025",
    "name": "Cubchoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642650_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642650/pokemon-sv-black-bolt-cubchoo-master-ball-pattern",
    "product_id": 642650,
@@ -1042,6 +1141,7 @@
   {
    "number": "026",
    "name": "Beartic",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642478_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642478/pokemon-sv-black-bolt-beartic",
    "product_id": 642478,
@@ -1052,6 +1152,7 @@
   {
    "number": "026",
    "name": "Beartic",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642478_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642478/pokemon-sv-black-bolt-beartic",
    "product_id": 642478,
@@ -1062,6 +1163,7 @@
   {
    "number": "026",
    "name": "Beartic",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642723_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642723/pokemon-sv-black-bolt-beartic-poke-ball-pattern",
    "product_id": 642723,
@@ -1073,6 +1175,7 @@
   {
    "number": "026",
    "name": "Beartic",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642478_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642651/pokemon-sv-black-bolt-beartic-master-ball-pattern",
    "product_id": 642651,
@@ -1084,6 +1187,7 @@
   {
    "number": "027",
    "name": "Cryogonal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642479_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642479/pokemon-sv-black-bolt-cryogonal",
    "product_id": 642479,
@@ -1094,6 +1198,7 @@
   {
    "number": "027",
    "name": "Cryogonal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642479_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642479/pokemon-sv-black-bolt-cryogonal",
    "product_id": 642479,
@@ -1104,6 +1209,7 @@
   {
    "number": "027",
    "name": "Cryogonal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642724_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642724/pokemon-sv-black-bolt-cryogonal-poke-ball-pattern",
    "product_id": 642724,
@@ -1115,6 +1221,7 @@
   {
    "number": "027",
    "name": "Cryogonal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642479_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642652/pokemon-sv-black-bolt-cryogonal-master-ball-pattern",
    "product_id": 642652,
@@ -1126,6 +1233,7 @@
   {
    "number": "028",
    "name": "Kyurem ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642480_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642480/pokemon-sv-black-bolt-kyurem-ex",
    "product_id": 642480,
@@ -1136,6 +1244,7 @@
   {
    "number": "029",
    "name": "Emolga",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642481_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642481/pokemon-sv-black-bolt-emolga",
    "product_id": 642481,
@@ -1146,6 +1255,7 @@
   {
    "number": "029",
    "name": "Emolga",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642481_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642481/pokemon-sv-black-bolt-emolga",
    "product_id": 642481,
@@ -1156,6 +1266,7 @@
   {
    "number": "029",
    "name": "Emolga",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642726_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642726/pokemon-sv-black-bolt-emolga-poke-ball-pattern",
    "product_id": 642726,
@@ -1167,6 +1278,7 @@
   {
    "number": "029",
    "name": "Emolga",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642481_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642653/pokemon-sv-black-bolt-emolga-master-ball-pattern",
    "product_id": 642653,
@@ -1178,6 +1290,7 @@
   {
    "number": "030",
    "name": "Tynamo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642482_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642482/pokemon-sv-black-bolt-tynamo",
    "product_id": 642482,
@@ -1188,6 +1301,7 @@
   {
    "number": "030",
    "name": "Tynamo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642482_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642482/pokemon-sv-black-bolt-tynamo",
    "product_id": 642482,
@@ -1198,6 +1312,7 @@
   {
    "number": "030",
    "name": "Tynamo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642482_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642727/pokemon-sv-black-bolt-tynamo-poke-ball-pattern",
    "product_id": 642727,
@@ -1209,6 +1324,7 @@
   {
    "number": "030",
    "name": "Tynamo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642654_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642654/pokemon-sv-black-bolt-tynamo-master-ball-pattern",
    "product_id": 642654,
@@ -1220,6 +1336,7 @@
   {
    "number": "031",
    "name": "Eelektrik",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642483_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642483/pokemon-sv-black-bolt-eelektrik",
    "product_id": 642483,
@@ -1230,6 +1347,7 @@
   {
    "number": "031",
    "name": "Eelektrik",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642483_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642483/pokemon-sv-black-bolt-eelektrik",
    "product_id": 642483,
@@ -1240,6 +1358,7 @@
   {
    "number": "031",
    "name": "Eelektrik",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642483_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642728/pokemon-sv-black-bolt-eelektrik-poke-ball-pattern",
    "product_id": 642728,
@@ -1251,6 +1370,7 @@
   {
    "number": "031",
    "name": "Eelektrik",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642483_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642655/pokemon-sv-black-bolt-eelektrik-master-ball-pattern",
    "product_id": 642655,
@@ -1262,6 +1382,7 @@
   {
    "number": "032",
    "name": "Eelektross",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642484_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642484/pokemon-sv-black-bolt-eelektross",
    "product_id": 642484,
@@ -1272,6 +1393,7 @@
   {
    "number": "032",
    "name": "Eelektross",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642484_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642484/pokemon-sv-black-bolt-eelektross",
    "product_id": 642484,
@@ -1282,6 +1404,7 @@
   {
    "number": "032",
    "name": "Eelektross",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642729_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642729/pokemon-sv-black-bolt-eelektross-poke-ball-pattern",
    "product_id": 642729,
@@ -1293,6 +1416,7 @@
   {
    "number": "032",
    "name": "Eelektross",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642484_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642656/pokemon-sv-black-bolt-eelektross-master-ball-pattern",
    "product_id": 642656,
@@ -1304,6 +1428,7 @@
   {
    "number": "033",
    "name": "Thundurus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642485_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642485/pokemon-sv-black-bolt-thundurus",
    "product_id": 642485,
@@ -1314,6 +1439,7 @@
   {
    "number": "033",
    "name": "Thundurus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642485_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642485/pokemon-sv-black-bolt-thundurus",
    "product_id": 642485,
@@ -1324,6 +1450,7 @@
   {
    "number": "033",
    "name": "Thundurus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642730_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642730/pokemon-sv-black-bolt-thundurus-poke-ball-pattern",
    "product_id": 642730,
@@ -1335,6 +1462,7 @@
   {
    "number": "033",
    "name": "Thundurus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642485_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642657/pokemon-sv-black-bolt-thundurus-master-ball-pattern",
    "product_id": 642657,
@@ -1346,6 +1474,7 @@
   {
    "number": "034",
    "name": "Zekrom ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642486_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642486/pokemon-sv-black-bolt-zekrom-ex",
    "product_id": 642486,
@@ -1356,6 +1485,7 @@
   {
    "number": "035",
    "name": "Munna",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642487_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642487/pokemon-sv-black-bolt-munna",
    "product_id": 642487,
@@ -1366,6 +1496,7 @@
   {
    "number": "035",
    "name": "Munna",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642487_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642487/pokemon-sv-black-bolt-munna",
    "product_id": 642487,
@@ -1376,6 +1507,7 @@
   {
    "number": "035",
    "name": "Munna",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642731_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642731/pokemon-sv-black-bolt-munna-poke-ball-pattern",
    "product_id": 642731,
@@ -1387,6 +1519,7 @@
   {
    "number": "035",
    "name": "Munna",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642487_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642658/pokemon-sv-black-bolt-munna-master-ball-pattern",
    "product_id": 642658,
@@ -1398,6 +1531,7 @@
   {
    "number": "036",
    "name": "Musharna",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642488_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642488/pokemon-sv-black-bolt-musharna",
    "product_id": 642488,
@@ -1408,6 +1542,7 @@
   {
    "number": "036",
    "name": "Musharna",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642488_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642488/pokemon-sv-black-bolt-musharna",
    "product_id": 642488,
@@ -1418,6 +1553,7 @@
   {
    "number": "036",
    "name": "Musharna",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642732_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642732/pokemon-sv-black-bolt-musharna-poke-ball-pattern",
    "product_id": 642732,
@@ -1429,6 +1565,7 @@
   {
    "number": "036",
    "name": "Musharna",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642488_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642659/pokemon-sv-black-bolt-musharna-master-ball-pattern",
    "product_id": 642659,
@@ -1440,6 +1577,7 @@
   {
    "number": "037",
    "name": "Solosis",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642489_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642489/pokemon-sv-black-bolt-solosis",
    "product_id": 642489,
@@ -1450,6 +1588,7 @@
   {
    "number": "037",
    "name": "Solosis",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642489_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642489/pokemon-sv-black-bolt-solosis",
    "product_id": 642489,
@@ -1460,6 +1599,7 @@
   {
    "number": "037",
    "name": "Solosis",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642733_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642733/pokemon-sv-black-bolt-solosis-poke-ball-pattern",
    "product_id": 642733,
@@ -1471,6 +1611,7 @@
   {
    "number": "037",
    "name": "Solosis",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642489_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642660/pokemon-sv-black-bolt-solosis-master-ball-pattern",
    "product_id": 642660,
@@ -1482,6 +1623,7 @@
   {
    "number": "038",
    "name": "Duosion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642490_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642490/pokemon-sv-black-bolt-duosion",
    "product_id": 642490,
@@ -1492,6 +1634,7 @@
   {
    "number": "038",
    "name": "Duosion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642490_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642490/pokemon-sv-black-bolt-duosion",
    "product_id": 642490,
@@ -1502,6 +1645,7 @@
   {
    "number": "038",
    "name": "Duosion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642734_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642734/pokemon-sv-black-bolt-duosion-poke-ball-pattern",
    "product_id": 642734,
@@ -1513,6 +1657,7 @@
   {
    "number": "038",
    "name": "Duosion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642490_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642661/pokemon-sv-black-bolt-duosion-master-ball-pattern",
    "product_id": 642661,
@@ -1524,6 +1669,7 @@
   {
    "number": "039",
    "name": "Reuniclus",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642491_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642491/pokemon-sv-black-bolt-reuniclus",
    "product_id": 642491,
@@ -1534,6 +1680,7 @@
   {
    "number": "039",
    "name": "Reuniclus",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642491_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642491/pokemon-sv-black-bolt-reuniclus",
    "product_id": 642491,
@@ -1544,6 +1691,7 @@
   {
    "number": "039",
    "name": "Reuniclus",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642735_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642735/pokemon-sv-black-bolt-reuniclus-poke-ball-pattern",
    "product_id": 642735,
@@ -1555,6 +1703,7 @@
   {
    "number": "039",
    "name": "Reuniclus",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642491_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642662/pokemon-sv-black-bolt-reuniclus-master-ball-pattern",
    "product_id": 642662,
@@ -1566,6 +1715,7 @@
   {
    "number": "040",
    "name": "Elgyem",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642492_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642492/pokemon-sv-black-bolt-elgyem",
    "product_id": 642492,
@@ -1576,6 +1726,7 @@
   {
    "number": "040",
    "name": "Elgyem",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642492_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642492/pokemon-sv-black-bolt-elgyem",
    "product_id": 642492,
@@ -1586,6 +1737,7 @@
   {
    "number": "040",
    "name": "Elgyem",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642736_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642736/pokemon-sv-black-bolt-elgyem-poke-ball-pattern",
    "product_id": 642736,
@@ -1597,6 +1749,7 @@
   {
    "number": "040",
    "name": "Elgyem",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642663_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642663/pokemon-sv-black-bolt-elgyem-master-ball-pattern",
    "product_id": 642663,
@@ -1608,6 +1761,7 @@
   {
    "number": "041",
    "name": "Beheeyem",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642493_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642493/pokemon-sv-black-bolt-beheeyem",
    "product_id": 642493,
@@ -1618,6 +1772,7 @@
   {
    "number": "041",
    "name": "Beheeyem",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642493_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642493/pokemon-sv-black-bolt-beheeyem",
    "product_id": 642493,
@@ -1628,6 +1783,7 @@
   {
    "number": "041",
    "name": "Beheeyem",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642737_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642737/pokemon-sv-black-bolt-beheeyem-poke-ball-pattern",
    "product_id": 642737,
@@ -1639,6 +1795,7 @@
   {
    "number": "041",
    "name": "Beheeyem",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642493_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642664/pokemon-sv-black-bolt-beheeyem-master-ball-pattern",
    "product_id": 642664,
@@ -1650,6 +1807,7 @@
   {
    "number": "042",
    "name": "Golett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642494_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642494/pokemon-sv-black-bolt-golett",
    "product_id": 642494,
@@ -1660,6 +1818,7 @@
   {
    "number": "042",
    "name": "Golett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642494_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642494/pokemon-sv-black-bolt-golett",
    "product_id": 642494,
@@ -1670,6 +1829,7 @@
   {
    "number": "042",
    "name": "Golett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642738_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642738/pokemon-sv-black-bolt-golett-poke-ball-pattern",
    "product_id": 642738,
@@ -1681,6 +1841,7 @@
   {
    "number": "042",
    "name": "Golett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642494_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642665/pokemon-sv-black-bolt-golett-master-ball-pattern",
    "product_id": 642665,
@@ -1692,6 +1853,7 @@
   {
    "number": "043",
    "name": "Golurk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642495_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642495/pokemon-sv-black-bolt-golurk",
    "product_id": 642495,
@@ -1702,6 +1864,7 @@
   {
    "number": "043",
    "name": "Golurk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642495_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642495/pokemon-sv-black-bolt-golurk",
    "product_id": 642495,
@@ -1712,6 +1875,7 @@
   {
    "number": "043",
    "name": "Golurk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642739_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642739/pokemon-sv-black-bolt-golurk-poke-ball-pattern",
    "product_id": 642739,
@@ -1723,6 +1887,7 @@
   {
    "number": "043",
    "name": "Golurk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642495_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642666/pokemon-sv-black-bolt-golurk-master-ball-pattern",
    "product_id": 642666,
@@ -1734,6 +1899,7 @@
   {
    "number": "044",
    "name": "Meloetta ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642496_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642496/pokemon-sv-black-bolt-meloetta-ex",
    "product_id": 642496,
@@ -1744,6 +1910,7 @@
   {
    "number": "045",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642497_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642497/pokemon-sv-black-bolt-drilbur",
    "product_id": 642497,
@@ -1754,6 +1921,7 @@
   {
    "number": "045",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642497_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642497/pokemon-sv-black-bolt-drilbur",
    "product_id": 642497,
@@ -1764,6 +1932,7 @@
   {
    "number": "045",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642740_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642740/pokemon-sv-black-bolt-drilbur-poke-ball-pattern",
    "product_id": 642740,
@@ -1775,6 +1944,7 @@
   {
    "number": "045",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642497_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642667/pokemon-sv-black-bolt-drilbur-master-ball-pattern",
    "product_id": 642667,
@@ -1786,6 +1956,7 @@
   {
    "number": "046",
    "name": "Excadrill ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642498_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642498/pokemon-sv-black-bolt-excadrill-ex",
    "product_id": 642498,
@@ -1796,6 +1967,7 @@
   {
    "number": "047",
    "name": "Timburr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642499_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642499/pokemon-sv-black-bolt-timburr",
    "product_id": 642499,
@@ -1806,6 +1978,7 @@
   {
    "number": "047",
    "name": "Timburr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642499_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642499/pokemon-sv-black-bolt-timburr",
    "product_id": 642499,
@@ -1816,6 +1989,7 @@
   {
    "number": "047",
    "name": "Timburr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642741_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642741/pokemon-sv-black-bolt-timburr-poke-ball-pattern",
    "product_id": 642741,
@@ -1827,6 +2001,7 @@
   {
    "number": "047",
    "name": "Timburr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642668_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642668/pokemon-sv-black-bolt-timburr-master-ball-pattern",
    "product_id": 642668,
@@ -1838,6 +2013,7 @@
   {
    "number": "048",
    "name": "Gurdurr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642500_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642500/pokemon-sv-black-bolt-gurdurr",
    "product_id": 642500,
@@ -1848,6 +2024,7 @@
   {
    "number": "048",
    "name": "Gurdurr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642500_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642500/pokemon-sv-black-bolt-gurdurr",
    "product_id": 642500,
@@ -1858,6 +2035,7 @@
   {
    "number": "048",
    "name": "Gurdurr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642500_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642742/pokemon-sv-black-bolt-gurdurr-poke-ball-pattern",
    "product_id": 642742,
@@ -1869,6 +2047,7 @@
   {
    "number": "048",
    "name": "Gurdurr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642500_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642669/pokemon-sv-black-bolt-gurdurr-master-ball-pattern",
    "product_id": 642669,
@@ -1880,6 +2059,7 @@
   {
    "number": "049",
    "name": "Conkeldurr",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642501_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642501/pokemon-sv-black-bolt-conkeldurr",
    "product_id": 642501,
@@ -1890,6 +2070,7 @@
   {
    "number": "049",
    "name": "Conkeldurr",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642501_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642501/pokemon-sv-black-bolt-conkeldurr",
    "product_id": 642501,
@@ -1900,6 +2081,7 @@
   {
    "number": "049",
    "name": "Conkeldurr",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642743_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642743/pokemon-sv-black-bolt-conkeldurr-poke-ball-pattern",
    "product_id": 642743,
@@ -1911,6 +2093,7 @@
   {
    "number": "049",
    "name": "Conkeldurr",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642501_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642670/pokemon-sv-black-bolt-conkeldurr-master-ball-pattern",
    "product_id": 642670,
@@ -1922,6 +2105,7 @@
   {
    "number": "050",
    "name": "Throh",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642502_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642502/pokemon-sv-black-bolt-throh",
    "product_id": 642502,
@@ -1932,6 +2116,7 @@
   {
    "number": "050",
    "name": "Throh",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642502_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642502/pokemon-sv-black-bolt-throh",
    "product_id": 642502,
@@ -1942,6 +2127,7 @@
   {
    "number": "050",
    "name": "Throh",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642744_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642744/pokemon-sv-black-bolt-throh-poke-ball-pattern",
    "product_id": 642744,
@@ -1953,6 +2139,7 @@
   {
    "number": "050",
    "name": "Throh",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642502_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642671/pokemon-sv-black-bolt-throh-master-ball-pattern",
    "product_id": 642671,
@@ -1964,6 +2151,7 @@
   {
    "number": "051",
    "name": "Dwebble",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642503_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642503/pokemon-sv-black-bolt-dwebble",
    "product_id": 642503,
@@ -1974,6 +2162,7 @@
   {
    "number": "051",
    "name": "Dwebble",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642503_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642503/pokemon-sv-black-bolt-dwebble",
    "product_id": 642503,
@@ -1984,6 +2173,7 @@
   {
    "number": "051",
    "name": "Dwebble",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642745_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642745/pokemon-sv-black-bolt-dwebble-poke-ball-pattern",
    "product_id": 642745,
@@ -1995,6 +2185,7 @@
   {
    "number": "051",
    "name": "Dwebble",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642503_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642672/pokemon-sv-black-bolt-dwebble-master-ball-pattern",
    "product_id": 642672,
@@ -2006,6 +2197,7 @@
   {
    "number": "052",
    "name": "Crustle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642504_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642504/pokemon-sv-black-bolt-crustle",
    "product_id": 642504,
@@ -2016,6 +2208,7 @@
   {
    "number": "052",
    "name": "Crustle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642504_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642504/pokemon-sv-black-bolt-crustle",
    "product_id": 642504,
@@ -2026,6 +2219,7 @@
   {
    "number": "052",
    "name": "Crustle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642504_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642746/pokemon-sv-black-bolt-crustle-poke-ball-pattern",
    "product_id": 642746,
@@ -2037,6 +2231,7 @@
   {
    "number": "052",
    "name": "Crustle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642504_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642673/pokemon-sv-black-bolt-crustle-master-ball-pattern",
    "product_id": 642673,
@@ -2048,6 +2243,7 @@
   {
    "number": "053",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642505_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642505/pokemon-sv-black-bolt-landorus",
    "product_id": 642505,
@@ -2058,6 +2254,7 @@
   {
    "number": "053",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642505_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642505/pokemon-sv-black-bolt-landorus",
    "product_id": 642505,
@@ -2068,6 +2265,7 @@
   {
    "number": "053",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642505_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642747/pokemon-sv-black-bolt-landorus-poke-ball-pattern",
    "product_id": 642747,
@@ -2079,6 +2277,7 @@
   {
    "number": "053",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642505_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642674/pokemon-sv-black-bolt-landorus-master-ball-pattern",
    "product_id": 642674,
@@ -2090,6 +2289,7 @@
   {
    "number": "054",
    "name": "Venipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642506_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642506/pokemon-sv-black-bolt-venipede",
    "product_id": 642506,
@@ -2100,6 +2300,7 @@
   {
    "number": "054",
    "name": "Venipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642506_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642506/pokemon-sv-black-bolt-venipede",
    "product_id": 642506,
@@ -2110,6 +2311,7 @@
   {
    "number": "054",
    "name": "Venipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642748_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642748/pokemon-sv-black-bolt-venipede-poke-ball-pattern",
    "product_id": 642748,
@@ -2121,6 +2323,7 @@
   {
    "number": "054",
    "name": "Venipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642506_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642675/pokemon-sv-black-bolt-venipede-master-ball-pattern",
    "product_id": 642675,
@@ -2132,6 +2335,7 @@
   {
    "number": "055",
    "name": "Whirlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642507_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642507/pokemon-sv-black-bolt-whirlipede",
    "product_id": 642507,
@@ -2142,6 +2346,7 @@
   {
    "number": "055",
    "name": "Whirlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642507_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642507/pokemon-sv-black-bolt-whirlipede",
    "product_id": 642507,
@@ -2152,6 +2357,7 @@
   {
    "number": "055",
    "name": "Whirlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642507_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642749/pokemon-sv-black-bolt-whirlipede-poke-ball-pattern",
    "product_id": 642749,
@@ -2163,6 +2369,7 @@
   {
    "number": "055",
    "name": "Whirlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642676_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642676/pokemon-sv-black-bolt-whirlipede-master-ball-pattern",
    "product_id": 642676,
@@ -2174,6 +2381,7 @@
   {
    "number": "056",
    "name": "Scolipede",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642508_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642508/pokemon-sv-black-bolt-scolipede",
    "product_id": 642508,
@@ -2184,6 +2392,7 @@
   {
    "number": "056",
    "name": "Scolipede",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642508_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642508/pokemon-sv-black-bolt-scolipede",
    "product_id": 642508,
@@ -2194,6 +2403,7 @@
   {
    "number": "056",
    "name": "Scolipede",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642750_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642750/pokemon-sv-black-bolt-scolipede-poke-ball-pattern",
    "product_id": 642750,
@@ -2205,6 +2415,7 @@
   {
    "number": "056",
    "name": "Scolipede",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642508_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642677/pokemon-sv-black-bolt-scolipede-master-ball-pattern",
    "product_id": 642677,
@@ -2216,6 +2427,7 @@
   {
    "number": "057",
    "name": "Sandile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642509_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642509/pokemon-sv-black-bolt-sandile",
    "product_id": 642509,
@@ -2226,6 +2438,7 @@
   {
    "number": "057",
    "name": "Sandile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642509_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642509/pokemon-sv-black-bolt-sandile",
    "product_id": 642509,
@@ -2236,6 +2449,7 @@
   {
    "number": "057",
    "name": "Sandile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642509_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642751/pokemon-sv-black-bolt-sandile-poke-ball-pattern",
    "product_id": 642751,
@@ -2247,6 +2461,7 @@
   {
    "number": "057",
    "name": "Sandile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642678_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642678/pokemon-sv-black-bolt-sandile-master-ball-pattern",
    "product_id": 642678,
@@ -2258,6 +2473,7 @@
   {
    "number": "058",
    "name": "Krokorok",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642510_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642510/pokemon-sv-black-bolt-krokorok",
    "product_id": 642510,
@@ -2268,6 +2484,7 @@
   {
    "number": "058",
    "name": "Krokorok",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642510_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642510/pokemon-sv-black-bolt-krokorok",
    "product_id": 642510,
@@ -2278,6 +2495,7 @@
   {
    "number": "058",
    "name": "Krokorok",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642752_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642752/pokemon-sv-black-bolt-krokorok-poke-ball-pattern",
    "product_id": 642752,
@@ -2289,6 +2507,7 @@
   {
    "number": "058",
    "name": "Krokorok",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642510_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642679/pokemon-sv-black-bolt-krokorok-master-ball-pattern",
    "product_id": 642679,
@@ -2300,6 +2519,7 @@
   {
    "number": "059",
    "name": "Krookodile",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642511_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642511/pokemon-sv-black-bolt-krookodile",
    "product_id": 642511,
@@ -2310,6 +2530,7 @@
   {
    "number": "059",
    "name": "Krookodile",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642511_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642511/pokemon-sv-black-bolt-krookodile",
    "product_id": 642511,
@@ -2320,6 +2541,7 @@
   {
    "number": "059",
    "name": "Krookodile",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642753_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642753/pokemon-sv-black-bolt-krookodile-poke-ball-pattern",
    "product_id": 642753,
@@ -2331,6 +2553,7 @@
   {
    "number": "059",
    "name": "Krookodile",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642511_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642680/pokemon-sv-black-bolt-krookodile-master-ball-pattern",
    "product_id": 642680,
@@ -2342,6 +2565,7 @@
   {
    "number": "060",
    "name": "Escavalier",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642514_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642514/pokemon-sv-black-bolt-escavalier",
    "product_id": 642514,
@@ -2352,6 +2576,7 @@
   {
    "number": "060",
    "name": "Escavalier",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642514_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642514/pokemon-sv-black-bolt-escavalier",
    "product_id": 642514,
@@ -2362,6 +2587,7 @@
   {
    "number": "060",
    "name": "Escavalier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642756_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642756/pokemon-sv-black-bolt-escavalier-poke-ball-pattern",
    "product_id": 642756,
@@ -2373,6 +2599,7 @@
   {
    "number": "060",
    "name": "Escavalier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642514_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642683/pokemon-sv-black-bolt-escavalier-master-ball-pattern",
    "product_id": 642683,
@@ -2384,6 +2611,7 @@
   {
    "number": "061",
    "name": "Klink",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642180_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642180/pokemon-sv-black-bolt-klink",
    "product_id": 642180,
@@ -2394,6 +2622,7 @@
   {
    "number": "061",
    "name": "Klink",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642180_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642180/pokemon-sv-black-bolt-klink",
    "product_id": 642180,
@@ -2404,6 +2633,7 @@
   {
    "number": "061",
    "name": "Klink",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642421_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642421/pokemon-sv-black-bolt-klink-poke-ball-pattern",
    "product_id": 642421,
@@ -2415,6 +2645,7 @@
   {
    "number": "061",
    "name": "Klink",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642180_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642349/pokemon-sv-black-bolt-klink-master-ball-pattern",
    "product_id": 642349,
@@ -2426,6 +2657,7 @@
   {
    "number": "062",
    "name": "Klang",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642181_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642181/pokemon-sv-black-bolt-klang",
    "product_id": 642181,
@@ -2436,6 +2668,7 @@
   {
    "number": "062",
    "name": "Klang",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642181_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642181/pokemon-sv-black-bolt-klang",
    "product_id": 642181,
@@ -2446,6 +2679,7 @@
   {
    "number": "062",
    "name": "Klang",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642422_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642422/pokemon-sv-black-bolt-klang-poke-ball-pattern",
    "product_id": 642422,
@@ -2457,6 +2691,7 @@
   {
    "number": "062",
    "name": "Klang",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642181_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642350/pokemon-sv-black-bolt-klang-master-ball-pattern",
    "product_id": 642350,
@@ -2468,6 +2703,7 @@
   {
    "number": "063",
    "name": "Klinklang",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642182_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642182/pokemon-sv-black-bolt-klinklang",
    "product_id": 642182,
@@ -2478,6 +2714,7 @@
   {
    "number": "063",
    "name": "Klinklang",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642182_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642182/pokemon-sv-black-bolt-klinklang",
    "product_id": 642182,
@@ -2488,6 +2725,7 @@
   {
    "number": "063",
    "name": "Klinklang",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642423_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642423/pokemon-sv-black-bolt-klinklang-poke-ball-pattern",
    "product_id": 642423,
@@ -2499,6 +2737,7 @@
   {
    "number": "063",
    "name": "Klinklang",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642182_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642351/pokemon-sv-black-bolt-klinklang-master-ball-pattern",
    "product_id": 642351,
@@ -2510,6 +2749,7 @@
   {
    "number": "064",
    "name": "Pawniard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642515_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642515/pokemon-sv-black-bolt-pawniard",
    "product_id": 642515,
@@ -2520,6 +2760,7 @@
   {
    "number": "064",
    "name": "Pawniard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642515_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642515/pokemon-sv-black-bolt-pawniard",
    "product_id": 642515,
@@ -2530,6 +2771,7 @@
   {
    "number": "064",
    "name": "Pawniard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642757_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642757/pokemon-sv-black-bolt-pawniard-poke-ball-pattern",
    "product_id": 642757,
@@ -2541,6 +2783,7 @@
   {
    "number": "064",
    "name": "Pawniard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642515_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642684/pokemon-sv-black-bolt-pawniard-master-ball-pattern",
    "product_id": 642684,
@@ -2552,6 +2795,7 @@
   {
    "number": "065",
    "name": "Bisharp",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642516_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642516/pokemon-sv-black-bolt-bisharp",
    "product_id": 642516,
@@ -2562,6 +2806,7 @@
   {
    "number": "065",
    "name": "Bisharp",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642516_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642516/pokemon-sv-black-bolt-bisharp",
    "product_id": 642516,
@@ -2572,6 +2817,7 @@
   {
    "number": "065",
    "name": "Bisharp",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642758_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642758/pokemon-sv-black-bolt-bisharp-poke-ball-pattern",
    "product_id": 642758,
@@ -2583,6 +2829,7 @@
   {
    "number": "065",
    "name": "Bisharp",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642516_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642685/pokemon-sv-black-bolt-bisharp-master-ball-pattern",
    "product_id": 642685,
@@ -2594,6 +2841,7 @@
   {
    "number": "066",
    "name": "Cobalion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642517_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642517/pokemon-sv-black-bolt-cobalion",
    "product_id": 642517,
@@ -2604,6 +2852,7 @@
   {
    "number": "066",
    "name": "Cobalion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642517_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642517/pokemon-sv-black-bolt-cobalion",
    "product_id": 642517,
@@ -2614,6 +2863,7 @@
   {
    "number": "066",
    "name": "Cobalion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642759_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642759/pokemon-sv-black-bolt-cobalion-poke-ball-pattern",
    "product_id": 642759,
@@ -2625,6 +2875,7 @@
   {
    "number": "066",
    "name": "Cobalion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642517_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642686/pokemon-sv-black-bolt-cobalion-master-ball-pattern",
    "product_id": 642686,
@@ -2636,6 +2887,7 @@
   {
    "number": "067",
    "name": "Genesect ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642518_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642518/pokemon-sv-black-bolt-genesect-ex",
    "product_id": 642518,
@@ -2646,6 +2898,7 @@
   {
    "number": "068",
    "name": "Axew",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642519_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642519/pokemon-sv-black-bolt-axew",
    "product_id": 642519,
@@ -2656,6 +2909,7 @@
   {
    "number": "068",
    "name": "Axew",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642519_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642519/pokemon-sv-black-bolt-axew",
    "product_id": 642519,
@@ -2666,6 +2920,7 @@
   {
    "number": "068",
    "name": "Axew",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642760_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642760/pokemon-sv-black-bolt-axew-poke-ball-pattern",
    "product_id": 642760,
@@ -2677,6 +2932,7 @@
   {
    "number": "068",
    "name": "Axew",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642519_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642687/pokemon-sv-black-bolt-axew-master-ball-pattern",
    "product_id": 642687,
@@ -2688,6 +2944,7 @@
   {
    "number": "069",
    "name": "Fraxure",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642520_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642520/pokemon-sv-black-bolt-fraxure",
    "product_id": 642520,
@@ -2698,6 +2955,7 @@
   {
    "number": "069",
    "name": "Fraxure",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642520_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642520/pokemon-sv-black-bolt-fraxure",
    "product_id": 642520,
@@ -2708,6 +2966,7 @@
   {
    "number": "069",
    "name": "Fraxure",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642520_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642761/pokemon-sv-black-bolt-fraxure-poke-ball-pattern",
    "product_id": 642761,
@@ -2719,6 +2978,7 @@
   {
    "number": "069",
    "name": "Fraxure",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642520_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642688/pokemon-sv-black-bolt-fraxure-master-ball-pattern",
    "product_id": 642688,
@@ -2730,6 +2990,7 @@
   {
    "number": "070",
    "name": "Haxorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642521_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642521/pokemon-sv-black-bolt-haxorus",
    "product_id": 642521,
@@ -2740,6 +3001,7 @@
   {
    "number": "070",
    "name": "Haxorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642521_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642521/pokemon-sv-black-bolt-haxorus",
    "product_id": 642521,
@@ -2750,6 +3012,7 @@
   {
    "number": "070",
    "name": "Haxorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642521_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642762/pokemon-sv-black-bolt-haxorus-poke-ball-pattern",
    "product_id": 642762,
@@ -2761,6 +3024,7 @@
   {
    "number": "070",
    "name": "Haxorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642521_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642689/pokemon-sv-black-bolt-haxorus-master-ball-pattern",
    "product_id": 642689,
@@ -2772,6 +3036,7 @@
   {
    "number": "071",
    "name": "Pidove",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642522_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642522/pokemon-sv-black-bolt-pidove",
    "product_id": 642522,
@@ -2782,6 +3047,7 @@
   {
    "number": "071",
    "name": "Pidove",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642522_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642522/pokemon-sv-black-bolt-pidove",
    "product_id": 642522,
@@ -2792,6 +3058,7 @@
   {
    "number": "071",
    "name": "Pidove",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642763_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642763/pokemon-sv-black-bolt-pidove-poke-ball-pattern",
    "product_id": 642763,
@@ -2803,6 +3070,7 @@
   {
    "number": "071",
    "name": "Pidove",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642690_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642690/pokemon-sv-black-bolt-pidove-master-ball-pattern",
    "product_id": 642690,
@@ -2814,6 +3082,7 @@
   {
    "number": "072",
    "name": "Tranquill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642523_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642523/pokemon-sv-black-bolt-tranquill",
    "product_id": 642523,
@@ -2824,6 +3093,7 @@
   {
    "number": "072",
    "name": "Tranquill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642523_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642523/pokemon-sv-black-bolt-tranquill",
    "product_id": 642523,
@@ -2834,6 +3104,7 @@
   {
    "number": "072",
    "name": "Tranquill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642764_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642764/pokemon-sv-black-bolt-tranquill-poke-ball-pattern",
    "product_id": 642764,
@@ -2845,6 +3116,7 @@
   {
    "number": "072",
    "name": "Tranquill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642523_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642691/pokemon-sv-black-bolt-tranquill-master-ball-pattern",
    "product_id": 642691,
@@ -2856,6 +3128,7 @@
   {
    "number": "073",
    "name": "Unfezant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642524_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642524/pokemon-sv-black-bolt-unfezant",
    "product_id": 642524,
@@ -2866,6 +3139,7 @@
   {
    "number": "073",
    "name": "Unfezant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642524_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642524/pokemon-sv-black-bolt-unfezant",
    "product_id": 642524,
@@ -2876,6 +3150,7 @@
   {
    "number": "073",
    "name": "Unfezant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642524_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642765/pokemon-sv-black-bolt-unfezant-poke-ball-pattern",
    "product_id": 642765,
@@ -2887,6 +3162,7 @@
   {
    "number": "073",
    "name": "Unfezant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642692_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642692/pokemon-sv-black-bolt-unfezant-master-ball-pattern",
    "product_id": 642692,
@@ -2898,6 +3174,7 @@
   {
    "number": "074",
    "name": "Audino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642525_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642525/pokemon-sv-black-bolt-audino-074-086",
    "product_id": 642525,
@@ -2908,6 +3185,7 @@
   {
    "number": "074",
    "name": "Audino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642525_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642525/pokemon-sv-black-bolt-audino-074-086",
    "product_id": 642525,
@@ -2918,6 +3196,7 @@
   {
    "number": "074",
    "name": "Audino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642766_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642766/pokemon-sv-black-bolt-audino-074-086-poke-ball-pattern",
    "product_id": 642766,
@@ -2929,6 +3208,7 @@
   {
    "number": "074",
    "name": "Audino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642693_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642693/pokemon-sv-black-bolt-audino-074-086-master-ball-pattern",
    "product_id": 642693,
@@ -2940,6 +3220,7 @@
   {
    "number": "075",
    "name": "Minccino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642526_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642526/pokemon-sv-black-bolt-minccino",
    "product_id": 642526,
@@ -2950,6 +3231,7 @@
   {
    "number": "075",
    "name": "Minccino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642526_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642526/pokemon-sv-black-bolt-minccino",
    "product_id": 642526,
@@ -2960,6 +3242,7 @@
   {
    "number": "075",
    "name": "Minccino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642767_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642767/pokemon-sv-black-bolt-minccino-poke-ball-pattern",
    "product_id": 642767,
@@ -2971,6 +3254,7 @@
   {
    "number": "075",
    "name": "Minccino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642526_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642694/pokemon-sv-black-bolt-minccino-master-ball-pattern",
    "product_id": 642694,
@@ -2982,6 +3266,7 @@
   {
    "number": "076",
    "name": "Cinccino",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642527_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642527/pokemon-sv-black-bolt-cinccino",
    "product_id": 642527,
@@ -2992,6 +3277,7 @@
   {
    "number": "076",
    "name": "Cinccino",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642527_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642527/pokemon-sv-black-bolt-cinccino",
    "product_id": 642527,
@@ -3002,6 +3288,7 @@
   {
    "number": "076",
    "name": "Cinccino",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642527_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642768/pokemon-sv-black-bolt-cinccino-poke-ball-pattern",
    "product_id": 642768,
@@ -3013,6 +3300,7 @@
   {
    "number": "076",
    "name": "Cinccino",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642695_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642695/pokemon-sv-black-bolt-cinccino-master-ball-pattern",
    "product_id": 642695,
@@ -3024,6 +3312,7 @@
   {
    "number": "077",
    "name": "Rufflet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642191_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642191/pokemon-sv-black-bolt-rufflet",
    "product_id": 642191,
@@ -3034,6 +3323,7 @@
   {
    "number": "077",
    "name": "Rufflet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642191_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642191/pokemon-sv-black-bolt-rufflet",
    "product_id": 642191,
@@ -3044,6 +3334,7 @@
   {
    "number": "077",
    "name": "Rufflet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642431_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642431/pokemon-sv-black-bolt-rufflet-poke-ball-pattern",
    "product_id": 642431,
@@ -3055,6 +3346,7 @@
   {
    "number": "077",
    "name": "Rufflet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642191_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642359/pokemon-sv-black-bolt-rufflet-master-ball-pattern",
    "product_id": 642359,
@@ -3066,6 +3358,7 @@
   {
    "number": "078",
    "name": "Braviary",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642192_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642192/pokemon-sv-black-bolt-braviary",
    "product_id": 642192,
@@ -3076,6 +3369,7 @@
   {
    "number": "078",
    "name": "Braviary",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642192_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642192/pokemon-sv-black-bolt-braviary",
    "product_id": 642192,
@@ -3086,6 +3380,7 @@
   {
    "number": "078",
    "name": "Braviary",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642432_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642432/pokemon-sv-black-bolt-braviary-poke-ball-pattern",
    "product_id": 642432,
@@ -3097,6 +3392,7 @@
   {
    "number": "078",
    "name": "Braviary",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642192_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642360/pokemon-sv-black-bolt-braviary-master-ball-pattern",
    "product_id": 642360,
@@ -3108,6 +3404,7 @@
   {
    "number": "079",
    "name": "Air Balloon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642531_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642531/pokemon-sv-black-bolt-air-balloon",
    "product_id": 642531,
@@ -3118,6 +3415,7 @@
   {
    "number": "079",
    "name": "Air Balloon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642531_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642531/pokemon-sv-black-bolt-air-balloon",
    "product_id": 642531,
@@ -3128,6 +3426,7 @@
   {
    "number": "079",
    "name": "Air Balloon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642531_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642771/pokemon-sv-black-bolt-air-balloon-poke-ball-pattern",
    "product_id": 642771,
@@ -3139,6 +3438,7 @@
   {
    "number": "080",
    "name": "Antique Cover Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642529_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642529/pokemon-sv-black-bolt-antique-cover-fossil",
    "product_id": 642529,
@@ -3149,6 +3449,7 @@
   {
    "number": "080",
    "name": "Antique Cover Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642529_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642529/pokemon-sv-black-bolt-antique-cover-fossil",
    "product_id": 642529,
@@ -3159,6 +3460,7 @@
   {
    "number": "080",
    "name": "Antique Cover Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642529_400w.jpg",
    "url": "https://www.tcgplayer.com/product/644864/pokemon-sv-black-bolt-antique-cover-fossil-poke-ball-pattern",
    "product_id": 644864,
@@ -3170,6 +3472,7 @@
   {
    "number": "081",
    "name": "Energy Coin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642528_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642528/pokemon-sv-black-bolt-energy-coin",
    "product_id": 642528,
@@ -3180,6 +3483,7 @@
   {
    "number": "081",
    "name": "Energy Coin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642528_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642528/pokemon-sv-black-bolt-energy-coin",
    "product_id": 642528,
@@ -3190,6 +3494,7 @@
   {
    "number": "081",
    "name": "Energy Coin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642770_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642770/pokemon-sv-black-bolt-energy-coin-poke-ball-pattern",
    "product_id": 642770,
@@ -3201,6 +3506,7 @@
   {
    "number": "082",
    "name": "Fennel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642534_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642534/pokemon-sv-black-bolt-fennel",
    "product_id": 642534,
@@ -3211,6 +3517,7 @@
   {
    "number": "082",
    "name": "Fennel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642534_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642534/pokemon-sv-black-bolt-fennel",
    "product_id": 642534,
@@ -3221,6 +3528,7 @@
   {
    "number": "082",
    "name": "Fennel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642534_400w.jpg",
    "url": "https://www.tcgplayer.com/product/644866/pokemon-sv-black-bolt-fennel-poke-ball-pattern",
    "product_id": 644866,
@@ -3232,6 +3540,7 @@
   {
    "number": "083",
    "name": "N's Plan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642532_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642532/pokemon-sv-black-bolt-ns-plan",
    "product_id": 642532,
@@ -3242,6 +3551,7 @@
   {
    "number": "083",
    "name": "N's Plan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642532_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642532/pokemon-sv-black-bolt-ns-plan",
    "product_id": 642532,
@@ -3252,6 +3562,7 @@
   {
    "number": "083",
    "name": "N's Plan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/644869_400w.jpg",
    "url": "https://www.tcgplayer.com/product/644869/pokemon-sv-black-bolt-ns-plan-poke-ball-pattern",
    "product_id": 644869,
@@ -3263,6 +3574,7 @@
   {
    "number": "084",
    "name": "Pokegear 3.0",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642530_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642530/pokemon-sv-black-bolt-pokegear-30",
    "product_id": 642530,
@@ -3273,6 +3585,7 @@
   {
    "number": "084",
    "name": "Pokegear 3.0",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642530_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642530/pokemon-sv-black-bolt-pokegear-30",
    "product_id": 642530,
@@ -3283,6 +3596,7 @@
   {
    "number": "084",
    "name": "Pokegear 3.0",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/644830_400w.jpg",
    "url": "https://www.tcgplayer.com/product/644830/pokemon-sv-black-bolt-pokegear-30-poke-ball-pattern",
    "product_id": 644830,
@@ -3294,6 +3608,7 @@
   {
    "number": "085",
    "name": "Professor's Research [Professor Juniper]",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642533_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642533/pokemon-sv-black-bolt-professors-research-professor-juniper",
    "product_id": 642533,
@@ -3304,6 +3619,7 @@
   {
    "number": "085",
    "name": "Professor's Research [Professor Juniper]",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642533_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642533/pokemon-sv-black-bolt-professors-research-professor-juniper",
    "product_id": 642533,
@@ -3314,6 +3630,7 @@
   {
    "number": "085",
    "name": "Professor's Research [Professor Juniper]",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642772_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642772/pokemon-sv-black-bolt-professors-research-professor-juniper-poke-ball-pattern",
    "product_id": 642772,
@@ -3325,6 +3642,7 @@
   {
    "number": "086",
    "name": "Prism Energy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642535_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642535/pokemon-sv-black-bolt-prism-energy",
    "product_id": 642535,
@@ -3335,6 +3653,7 @@
   {
    "number": "086",
    "name": "Prism Energy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642535_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642535/pokemon-sv-black-bolt-prism-energy",
    "product_id": 642535,
@@ -3345,6 +3664,7 @@
   {
    "number": "086",
    "name": "Prism Energy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642769_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642769/pokemon-sv-black-bolt-prism-energy-poke-ball-pattern",
    "product_id": 642769,
@@ -3356,6 +3676,7 @@
   {
    "number": "087",
    "name": "Snivy",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642536_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642536/pokemon-sv-black-bolt-snivy-087-086",
    "product_id": 642536,
@@ -3366,6 +3687,7 @@
   {
    "number": "088",
    "name": "Servine",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642537_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642537/pokemon-sv-black-bolt-servine-088-086",
    "product_id": 642537,
@@ -3376,6 +3698,7 @@
   {
    "number": "089",
    "name": "Pansage",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642538_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642538/pokemon-sv-black-bolt-pansage-089-086",
    "product_id": 642538,
@@ -3386,6 +3709,7 @@
   {
    "number": "090",
    "name": "Simisage",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642539_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642539/pokemon-sv-black-bolt-simisage-090-086",
    "product_id": 642539,
@@ -3396,6 +3720,7 @@
   {
    "number": "091",
    "name": "Petilil",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642540_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642540/pokemon-sv-black-bolt-petilil-091-086",
    "product_id": 642540,
@@ -3406,6 +3731,7 @@
   {
    "number": "092",
    "name": "Lilligant",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642541_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642541/pokemon-sv-black-bolt-lilligant-092-086",
    "product_id": 642541,
@@ -3416,6 +3742,7 @@
   {
    "number": "093",
    "name": "Maractus",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642542_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642542/pokemon-sv-black-bolt-maractus-093-086",
    "product_id": 642542,
@@ -3426,6 +3753,7 @@
   {
    "number": "094",
    "name": "Karrablast",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642543_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642543/pokemon-sv-black-bolt-karrablast-094-086",
    "product_id": 642543,
@@ -3436,6 +3764,7 @@
   {
    "number": "095",
    "name": "Foongus",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642544_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642544/pokemon-sv-black-bolt-foongus-095-086",
    "product_id": 642544,
@@ -3446,6 +3775,7 @@
   {
    "number": "096",
    "name": "Amoonguss",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642545_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642545/pokemon-sv-black-bolt-amoonguss-096-086",
    "product_id": 642545,
@@ -3456,6 +3786,7 @@
   {
    "number": "097",
    "name": "Darumaka",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642547_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642547/pokemon-sv-black-bolt-darumaka-097-086",
    "product_id": 642547,
@@ -3466,6 +3797,7 @@
   {
    "number": "098",
    "name": "Darmanitan",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642548_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642548/pokemon-sv-black-bolt-darmanitan-098-086",
    "product_id": 642548,
@@ -3476,6 +3808,7 @@
   {
    "number": "099",
    "name": "Larvesta",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642552_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642552/pokemon-sv-black-bolt-larvesta-099-086",
    "product_id": 642552,
@@ -3486,6 +3819,7 @@
   {
    "number": "100",
    "name": "Volcarona",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642553_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642553/pokemon-sv-black-bolt-volcarona-100-086",
    "product_id": 642553,
@@ -3496,6 +3830,7 @@
   {
    "number": "101",
    "name": "Panpour",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642554_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642554/pokemon-sv-black-bolt-panpour-101-086",
    "product_id": 642554,
@@ -3506,6 +3841,7 @@
   {
    "number": "102",
    "name": "Simipour",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642555_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642555/pokemon-sv-black-bolt-simipour-102-086",
    "product_id": 642555,
@@ -3516,6 +3852,7 @@
   {
    "number": "103",
    "name": "Tympole",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642556_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642556/pokemon-sv-black-bolt-tympole-103-086",
    "product_id": 642556,
@@ -3526,6 +3863,7 @@
   {
    "number": "104",
    "name": "Palpitoad",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642557_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642557/pokemon-sv-black-bolt-palpitoad-104-086",
    "product_id": 642557,
@@ -3536,6 +3874,7 @@
   {
    "number": "105",
    "name": "Seismitoad",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642558_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642558/pokemon-sv-black-bolt-seismitoad-105-086",
    "product_id": 642558,
@@ -3546,6 +3885,7 @@
   {
    "number": "106",
    "name": "Tirtouga",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642559_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642559/pokemon-sv-black-bolt-tirtouga-106-086",
    "product_id": 642559,
@@ -3556,6 +3896,7 @@
   {
    "number": "107",
    "name": "Carracosta",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642560_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642560/pokemon-sv-black-bolt-carracosta-107-086",
    "product_id": 642560,
@@ -3566,6 +3907,7 @@
   {
    "number": "108",
    "name": "Alomomola",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642561_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642561/pokemon-sv-black-bolt-alomomola-108-086",
    "product_id": 642561,
@@ -3576,6 +3918,7 @@
   {
    "number": "109",
    "name": "Cubchoo",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642562_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642562/pokemon-sv-black-bolt-cubchoo-109-086",
    "product_id": 642562,
@@ -3586,6 +3929,7 @@
   {
    "number": "110",
    "name": "Beartic",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642563_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642563/pokemon-sv-black-bolt-beartic-110-086",
    "product_id": 642563,
@@ -3596,6 +3940,7 @@
   {
    "number": "111",
    "name": "Cryogonal",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642564_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642564/pokemon-sv-black-bolt-cryogonal-111-086",
    "product_id": 642564,
@@ -3606,6 +3951,7 @@
   {
    "number": "112",
    "name": "Emolga",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642565_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642565/pokemon-sv-black-bolt-emolga-112-086",
    "product_id": 642565,
@@ -3616,6 +3962,7 @@
   {
    "number": "113",
    "name": "Tynamo",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642566_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642566/pokemon-sv-black-bolt-tynamo-113-086",
    "product_id": 642566,
@@ -3626,6 +3973,7 @@
   {
    "number": "114",
    "name": "Eelektrik",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642567_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642567/pokemon-sv-black-bolt-eelektrik-114-086",
    "product_id": 642567,
@@ -3636,6 +3984,7 @@
   {
    "number": "115",
    "name": "Eelektross",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642568_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642568/pokemon-sv-black-bolt-eelektross-115-086",
    "product_id": 642568,
@@ -3646,6 +3995,7 @@
   {
    "number": "116",
    "name": "Munna",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642570_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642570/pokemon-sv-black-bolt-munna-116-086",
    "product_id": 642570,
@@ -3656,6 +4006,7 @@
   {
    "number": "117",
    "name": "Musharna",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642571_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642571/pokemon-sv-black-bolt-musharna-117-086",
    "product_id": 642571,
@@ -3666,6 +4017,7 @@
   {
    "number": "118",
    "name": "Solosis",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642572_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642572/pokemon-sv-black-bolt-solosis-118-086",
    "product_id": 642572,
@@ -3676,6 +4028,7 @@
   {
    "number": "119",
    "name": "Duosion",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642573_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642573/pokemon-sv-black-bolt-duosion-119-086",
    "product_id": 642573,
@@ -3686,6 +4039,7 @@
   {
    "number": "120",
    "name": "Elgyem",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642575_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642575/pokemon-sv-black-bolt-elgyem-120-086",
    "product_id": 642575,
@@ -3696,6 +4050,7 @@
   {
    "number": "121",
    "name": "Beheeyem",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642576_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642576/pokemon-sv-black-bolt-beheeyem-121-086",
    "product_id": 642576,
@@ -3706,6 +4061,7 @@
   {
    "number": "122",
    "name": "Golett",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642577_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642577/pokemon-sv-black-bolt-golett-122-086",
    "product_id": 642577,
@@ -3716,6 +4072,7 @@
   {
    "number": "123",
    "name": "Golurk",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642578_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642578/pokemon-sv-black-bolt-golurk-123-086",
    "product_id": 642578,
@@ -3726,6 +4083,7 @@
   {
    "number": "124",
    "name": "Drilbur",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642579_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642579/pokemon-sv-black-bolt-drilbur-124-086",
    "product_id": 642579,
@@ -3736,6 +4094,7 @@
   {
    "number": "125",
    "name": "Timburr",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642580_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642580/pokemon-sv-black-bolt-timburr-125-086",
    "product_id": 642580,
@@ -3746,6 +4105,7 @@
   {
    "number": "126",
    "name": "Gurdurr",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642581_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642581/pokemon-sv-black-bolt-gurdurr-126-086",
    "product_id": 642581,
@@ -3756,6 +4116,7 @@
   {
    "number": "127",
    "name": "Conkeldurr",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642582_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642582/pokemon-sv-black-bolt-conkeldurr-127-086",
    "product_id": 642582,
@@ -3766,6 +4127,7 @@
   {
    "number": "128",
    "name": "Throh",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642583_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642583/pokemon-sv-black-bolt-throh-128-086",
    "product_id": 642583,
@@ -3776,6 +4138,7 @@
   {
    "number": "129",
    "name": "Dwebble",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642584_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642584/pokemon-sv-black-bolt-dwebble-129-086",
    "product_id": 642584,
@@ -3786,6 +4149,7 @@
   {
    "number": "130",
    "name": "Crustle",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642585_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642585/pokemon-sv-black-bolt-crustle-130-086",
    "product_id": 642585,
@@ -3796,6 +4160,7 @@
   {
    "number": "131",
    "name": "Landorus",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642586_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642586/pokemon-sv-black-bolt-landorus-131-086",
    "product_id": 642586,
@@ -3806,6 +4171,7 @@
   {
    "number": "132",
    "name": "Venipede",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642587_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642587/pokemon-sv-black-bolt-venipede-132-086",
    "product_id": 642587,
@@ -3816,6 +4182,7 @@
   {
    "number": "133",
    "name": "Whirlipede",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642588_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642588/pokemon-sv-black-bolt-whirlipede-133-086",
    "product_id": 642588,
@@ -3826,6 +4193,7 @@
   {
    "number": "134",
    "name": "Scolipede",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642589_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642589/pokemon-sv-black-bolt-scolipede-134-086",
    "product_id": 642589,
@@ -3836,6 +4204,7 @@
   {
    "number": "135",
    "name": "Sandile",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642590_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642590/pokemon-sv-black-bolt-sandile-135-086",
    "product_id": 642590,
@@ -3846,6 +4215,7 @@
   {
    "number": "136",
    "name": "Krokorok",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642591_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642591/pokemon-sv-black-bolt-krokorok-136-086",
    "product_id": 642591,
@@ -3856,6 +4226,7 @@
   {
    "number": "137",
    "name": "Krookodile",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642592_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642592/pokemon-sv-black-bolt-krookodile-137-086",
    "product_id": 642592,
@@ -3866,6 +4237,7 @@
   {
    "number": "138",
    "name": "Escavalier",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642595_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642595/pokemon-sv-black-bolt-escavalier-138-086",
    "product_id": 642595,
@@ -3876,6 +4248,7 @@
   {
    "number": "139",
    "name": "Klink",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642261_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642261/pokemon-sv-black-bolt-klink-139-086",
    "product_id": 642261,
@@ -3886,6 +4259,7 @@
   {
    "number": "140",
    "name": "Klang",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642262_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642262/pokemon-sv-black-bolt-klang-140-086",
    "product_id": 642262,
@@ -3896,6 +4270,7 @@
   {
    "number": "141",
    "name": "Klinklang",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642263_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642263/pokemon-sv-black-bolt-klinklang-141-086",
    "product_id": 642263,
@@ -3906,6 +4281,7 @@
   {
    "number": "142",
    "name": "Pawniard",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642596_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642596/pokemon-sv-black-bolt-pawniard-142-086",
    "product_id": 642596,
@@ -3916,6 +4292,7 @@
   {
    "number": "143",
    "name": "Bisharp",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642597_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642597/pokemon-sv-black-bolt-bisharp-143-086",
    "product_id": 642597,
@@ -3926,6 +4303,7 @@
   {
    "number": "144",
    "name": "Cobalion",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642598_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642598/pokemon-sv-black-bolt-cobalion-144-086",
    "product_id": 642598,
@@ -3936,6 +4314,7 @@
   {
    "number": "145",
    "name": "Axew",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642599_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642599/pokemon-sv-black-bolt-axew-145-086",
    "product_id": 642599,
@@ -3946,6 +4325,7 @@
   {
    "number": "146",
    "name": "Fraxure",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642600_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642600/pokemon-sv-black-bolt-fraxure-146-086",
    "product_id": 642600,
@@ -3956,6 +4336,7 @@
   {
    "number": "147",
    "name": "Haxorus",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642601_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642601/pokemon-sv-black-bolt-haxorus-147-086",
    "product_id": 642601,
@@ -3966,6 +4347,7 @@
   {
    "number": "148",
    "name": "Pidove",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642602_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642602/pokemon-sv-black-bolt-pidove-148-086",
    "product_id": 642602,
@@ -3976,6 +4358,7 @@
   {
    "number": "149",
    "name": "Tranquill",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642603_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642603/pokemon-sv-black-bolt-tranquill-149-086",
    "product_id": 642603,
@@ -3986,6 +4369,7 @@
   {
    "number": "150",
    "name": "Unfezant",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642604_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642604/pokemon-sv-black-bolt-unfezant-150-086",
    "product_id": 642604,
@@ -3996,6 +4380,7 @@
   {
    "number": "151",
    "name": "Audino",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642605_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642605/pokemon-sv-black-bolt-audino-151-086",
    "product_id": 642605,
@@ -4006,6 +4391,7 @@
   {
    "number": "152",
    "name": "Minccino",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642606_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642606/pokemon-sv-black-bolt-minccino-152-086",
    "product_id": 642606,
@@ -4016,6 +4402,7 @@
   {
    "number": "153",
    "name": "Cinccino",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642607_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642607/pokemon-sv-black-bolt-cinccino-153-086",
    "product_id": 642607,
@@ -4026,6 +4413,7 @@
   {
    "number": "154",
    "name": "Rufflet",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642271_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642271/pokemon-sv-black-bolt-rufflet-154-086",
    "product_id": 642271,
@@ -4036,6 +4424,7 @@
   {
    "number": "155",
    "name": "Braviary",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642272_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642272/pokemon-sv-black-bolt-braviary-155-086",
    "product_id": 642272,
@@ -4046,6 +4435,7 @@
   {
    "number": "156",
    "name": "Serperior ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642608_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642608/pokemon-sv-black-bolt-serperior-ex-156-086",
    "product_id": 642608,
@@ -4056,6 +4446,7 @@
   {
    "number": "157",
    "name": "Kyurem ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642609_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642609/pokemon-sv-black-bolt-kyurem-ex-157-086",
    "product_id": 642609,
@@ -4066,6 +4457,7 @@
   {
    "number": "158",
    "name": "Zekrom ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642610_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642610/pokemon-sv-black-bolt-zekrom-ex-158-086",
    "product_id": 642610,
@@ -4076,6 +4468,7 @@
   {
    "number": "159",
    "name": "Meloetta ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642611_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642611/pokemon-sv-black-bolt-meloetta-ex-159-086",
    "product_id": 642611,
@@ -4086,6 +4479,7 @@
   {
    "number": "160",
    "name": "Excadrill ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642612_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642612/pokemon-sv-black-bolt-excadrill-ex-160-086",
    "product_id": 642612,
@@ -4096,6 +4490,7 @@
   {
    "number": "161",
    "name": "Genesect ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642613_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642613/pokemon-sv-black-bolt-genesect-ex-161-086",
    "product_id": 642613,
@@ -4106,6 +4501,7 @@
   {
    "number": "162",
    "name": "Fennel",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642615_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642615/pokemon-sv-black-bolt-fennel-162-086",
    "product_id": 642615,
@@ -4116,6 +4512,7 @@
   {
    "number": "163",
    "name": "N's Plan",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642614_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642614/pokemon-sv-black-bolt-ns-plan-163-086",
    "product_id": 642614,
@@ -4126,6 +4523,7 @@
   {
    "number": "164",
    "name": "Serperior ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642616_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642616/pokemon-sv-black-bolt-serperior-ex-164-086",
    "product_id": 642616,
@@ -4136,6 +4534,7 @@
   {
    "number": "165",
    "name": "Kyurem ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642617_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642617/pokemon-sv-black-bolt-kyurem-ex-165-086",
    "product_id": 642617,
@@ -4146,6 +4545,7 @@
   {
    "number": "166",
    "name": "Zekrom ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642618_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642618/pokemon-sv-black-bolt-zekrom-ex-166-086",
    "product_id": 642618,
@@ -4156,6 +4556,7 @@
   {
    "number": "167",
    "name": "Meloetta ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642619_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642619/pokemon-sv-black-bolt-meloetta-ex-167-086",
    "product_id": 642619,
@@ -4166,6 +4567,7 @@
   {
    "number": "168",
    "name": "Excadrill ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642620_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642620/pokemon-sv-black-bolt-excadrill-ex-168-086",
    "product_id": 642620,
@@ -4176,6 +4578,7 @@
   {
    "number": "169",
    "name": "Genesect ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642621_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642621/pokemon-sv-black-bolt-genesect-ex-169-086",
    "product_id": 642621,
@@ -4186,6 +4589,7 @@
   {
    "number": "170",
    "name": "N's Plan",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642622_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642622/pokemon-sv-black-bolt-ns-plan-170-086",
    "product_id": 642622,
@@ -4196,6 +4600,7 @@
   {
    "number": "171",
    "name": "Victini",
+   "rarity": "Black White Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642546_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642546/pokemon-sv-black-bolt-victini-171-086",
    "product_id": 642546,
@@ -4206,6 +4611,7 @@
   {
    "number": "172",
    "name": "Zekrom ex",
+   "rarity": "Black White Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642623_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642623/pokemon-sv-black-bolt-zekrom-ex-172-086",
    "product_id": 642623,

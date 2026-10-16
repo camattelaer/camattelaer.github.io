@@ -146,5 +146,11 @@ Reruns add newly released cards and keep your quantities; rows you add yourself
   reruns are fast and offline. Use `--refresh` to refetch everything, e.g.
   after TCGplayer adds cards to a new set. Set lists are refetched
   automatically when a set isn't found in the cached copy.
+- **Classic Collection-style sets**, whose cards carry their original number
+  and set total (Mew VMAX 114/264, Zacian V 138/202), are detected
+  automatically and matched on the full printed number. `114` is enough when
+  only one card has that number; where several do (106/105, 106/106,
+  106/160) type the full number. `placeholders.py` prints a single checklist
+  for them and finds their TCGdex prices by name.
 - Deleting a set's sheet (or emptying it) removes its page and data file on
   the next run.

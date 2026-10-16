@@ -4,13 +4,14 @@
   "name": "30th Classic Collection",
   "series": "Mega Evolution",
   "release_date": "2026-09-16",
-  "logo": null,
+  "logo": "https://images.scrydex.com/pokemon/me55-logo/logo",
   "tcgdex_id": "30th-c",
   "tcgplayer_group_id": 24837,
   "tcgplayer_group_name": "ME: 30th Celebration Classic Collection",
-  "owned_count": 2,
-  "total_count": 27,
-  "owned_qty": 2
+  "owned_count": 6,
+  "total_count": 30,
+  "owned_qty": 6,
+  "reprint_numbers": true
  },
  {
   "slug": "30th-celebration",
@@ -21,9 +22,10 @@
   "tcgdex_id": "30th",
   "tcgplayer_group_id": 24722,
   "tcgplayer_group_name": "ME: 30th Celebration",
-  "owned_count": 92,
+  "owned_count": 127,
   "total_count": 161,
-  "owned_qty": 4278
+  "owned_qty": 8128,
+  "reprint_numbers": false
  },
  {
   "slug": "pitch-black",
@@ -36,7 +38,8 @@
   "tcgplayer_group_name": "ME05: Pitch Black",
   "owned_count": 108,
   "total_count": 199,
-  "owned_qty": 198
+  "owned_qty": 198,
+  "reprint_numbers": false
  },
  {
   "slug": "perfect-order",
@@ -49,7 +52,8 @@
   "tcgplayer_group_name": "ME03: Perfect Order",
   "owned_count": 40,
   "total_count": 209,
-  "owned_qty": 59
+  "owned_qty": 59,
+  "reprint_numbers": false
  },
  {
   "slug": "ascended-heroes",
@@ -62,7 +66,36 @@
   "tcgplayer_group_name": "ME: Ascended Heroes",
   "owned_count": 251,
   "total_count": 613,
-  "owned_qty": 454
+  "owned_qty": 454,
+  "reprint_numbers": false
+ },
+ {
+  "slug": "phantasmal-flames",
+  "name": "Phantasmal Flames",
+  "series": "Mega Evolution",
+  "release_date": "2025-11-14",
+  "logo": "https://assets.tcgdex.net/en/me/me02/logo.png",
+  "tcgdex_id": "me02",
+  "tcgplayer_group_id": 24448,
+  "tcgplayer_group_name": "ME02: Phantasmal Flames",
+  "owned_count": 73,
+  "total_count": 218,
+  "owned_qty": 101,
+  "reprint_numbers": false
+ },
+ {
+  "slug": "mega-evolution",
+  "name": "Mega Evolution",
+  "series": "Mega Evolution",
+  "release_date": "2025-09-26",
+  "logo": "https://assets.tcgdex.net/en/me/me01/logo.png",
+  "tcgdex_id": "me01",
+  "tcgplayer_group_id": 24380,
+  "tcgplayer_group_name": "ME01: Mega Evolution",
+  "owned_count": 105,
+  "total_count": 314,
+  "owned_qty": 123,
+  "reprint_numbers": false
  },
  {
   "slug": "white-flare",
@@ -75,7 +108,8 @@
   "tcgplayer_group_name": "SV: White Flare",
   "owned_count": 77,
   "total_count": 407,
-  "owned_qty": 78
+  "owned_qty": 78,
+  "reprint_numbers": false
  },
  {
   "slug": "black-bolt",
@@ -88,7 +122,8 @@
   "tcgplayer_group_name": "SV: Black Bolt",
   "owned_count": 71,
   "total_count": 405,
-  "owned_qty": 71
+  "owned_qty": 71,
+  "reprint_numbers": false
  },
  {
   "slug": "surging-sparks",
@@ -101,7 +136,8 @@
   "tcgplayer_group_name": "SV08: Surging Sparks",
   "owned_count": 95,
   "total_count": 420,
-  "owned_qty": 95
+  "owned_qty": 95,
+  "reprint_numbers": false
  },
  {
   "slug": "stellar-crown",
@@ -114,7 +150,8 @@
   "tcgplayer_group_name": "SV07: Stellar Crown",
   "owned_count": 90,
   "total_count": 304,
-  "owned_qty": 101
+  "owned_qty": 101,
+  "reprint_numbers": false
  },
  {
   "slug": "shrouded-fable",
@@ -127,7 +164,8 @@
   "tcgplayer_group_name": "SV: Shrouded Fable",
   "owned_count": 51,
   "total_count": 154,
-  "owned_qty": 51
+  "owned_qty": 51,
+  "reprint_numbers": false
  },
  {
   "slug": "temporal-forces",
@@ -140,7 +178,22 @@
   "tcgplayer_group_name": "SV05: Temporal Forces",
   "owned_count": 203,
   "total_count": 365,
-  "owned_qty": 349
+  "owned_qty": 349,
+  "reprint_numbers": false
+ },
+ {
+  "slug": "paradox-rift",
+  "name": "Paradox Rift",
+  "series": "Scarlet & Violet",
+  "release_date": "2023-11-03",
+  "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.png",
+  "tcgdex_id": "sv04",
+  "tcgplayer_group_id": 23286,
+  "tcgplayer_group_name": "SV04: Paradox Rift",
+  "owned_count": 87,
+  "total_count": 437,
+  "owned_qty": 87,
+  "reprint_numbers": false
  },
  {
   "slug": "scarlet-and-violet",
@@ -153,6 +206,21 @@
   "tcgplayer_group_name": "SV01: Scarlet & Violet Base Set",
   "owned_count": 90,
   "total_count": 458,
-  "owned_qty": 91
+  "owned_qty": 91,
+  "reprint_numbers": false
+ },
+ {
+  "slug": "lost-origin",
+  "name": "Lost Origin",
+  "series": "Sword & Shield",
+  "release_date": "2022-09-09",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.png",
+  "tcgdex_id": "swsh11",
+  "tcgplayer_group_id": 3118,
+  "tcgplayer_group_name": "SWSH11: Lost Origin",
+  "owned_count": 78,
+  "total_count": 400,
+  "owned_qty": 78,
+  "reprint_numbers": false
  }
 ]

@@ -248,7 +248,7 @@ def draw_placeholder(c, x, y, card, set_info, picture, badge):
 def card_badge(card, detail, limit):
     """(label, colour) of a placeholder's badge: the variant for cards up to the set
     limit, the rarity (e.g. ILLUSTRATION RARE) for the ones above it."""
-    rarity = (detail or {}).get("rarity")
+    rarity = card_rarity(card, detail)
     if not above_limit(card, limit) or not rarity:
         return card["variant_label"].upper(), VARIANT_COLOURS.get(card["variant"], DEFAULT_BADGE)
     label = rarity.upper()
@@ -300,12 +300,14 @@ def tcgdex_card(card_id, refresh):
 
 
 def card_details(cards, set_detail, refresh):
-    """[TCGdex card or None] for each card, matched on card number."""
+    """[TCGdex card or None] for each card, matched on card number; cards of a set numbered
+    as the original prints carry their TCGdex number (tcgdex_local) from build_catalogue."""
     ids = {bc.number_key(c["localId"]): c["id"] for c in set_detail.get("cards", [])}
-    wanted = {ids[k] for k in (bc.number_key(c["number"]) for c in cards) if k in ids}
+    card_ids = [ids.get(bc.number_key(c.get("tcgdex_local") or c["number"])) for c in cards]
+    wanted = {i for i in card_ids if i}
     with ThreadPoolExecutor(max_workers=8) as pool:
         found = dict(zip(wanted, pool.map(lambda i: tcgdex_card(i, refresh), wanted)))
-    return [found.get(ids.get(bc.number_key(c["number"]))) for c in cards]
+    return [found.get(i) for i in card_ids]
 
 
 def market_price(detail, variant, basis):
@@ -318,6 +320,15 @@ def market_price(detail, variant, basis):
         if value:
             return float(value), field, cm.get("updated")
     return None, None, None
+
+
+def card_rarity(card, detail):
+    """TCGdex's rarity, else TCGplayer's (stored by build_catalogue). TCGdex sends the
+    text 'None' for cards it has no rarity for (e.g. the 30th Classic Collection)."""
+    rarity = (detail or {}).get("rarity")
+    if not rarity or rarity.strip().lower() == "none":
+        rarity = card.get("rarity")
+    return rarity
 
 
 def rarity_abbr(rarity):
@@ -401,7 +412,7 @@ def checklist_drawer(cards, set_info, details, basis, target_pct, missing_only):
             continue
         # a deck-exclusive print isn't the product Cardmarket's guide prices for this card
         price, field, stamp = (None, None, None) if card.get("deck") else market_price(detail, card["variant"], basis)
-        rarity = rarity_abbr((detail or {}).get("rarity")) if detail else "?"
+        rarity = rarity_abbr(card_rarity(card, detail))
         if card["variant"] not in ("holo", "normal") or card.get("deck"):
             rarity += f" · {card['variant_label']}"
         target = round(price * target_pct / 100, 2) if price is not None else None
@@ -420,7 +431,7 @@ def checklist_drawer(cards, set_info, details, basis, target_pct, missing_only):
 
     bulk_cols = [("", 4 * mm, "left"), ("#", 9 * mm, "left"), ("Name", None, "left"),
                  ("Variant", 17 * mm, "left")]
-    secret_cols = [("", 4 * mm, "left"), ("#", 9 * mm, "left"), ("Name", None, "left"),
+    secret_cols = [("", 4 * mm, "left"), ("#", (9 if limit else 15) * mm, "left"), ("Name", None, "left"),
                    ("Rarity", 20 * mm, "left"), ("Market", 15 * mm, "right"),
                    (f"Target ({target_pct:g}%)", 18 * mm, "right")]
 
@@ -438,7 +449,43 @@ def checklist_drawer(cards, set_info, details, basis, target_pct, missing_only):
     if unpriced:
         note2 += f" {unpriced} card(s) without a Cardmarket price (–)."
 
+    def header(c, page, pages, page_w, page_h, extra):
+        c.setFillColorRGB(0.1, 0.1, 0.1)
+        c.setFont("Helvetica-Bold", 13)
+        title = f"{set_info['name']}: {'missing cards' if missing_only else 'checklist'}"
+        c.drawString(CL_MARGIN, page_h - CL_MARGIN - 4 * mm, title + (" (continued)" if page else ""))
+        c.setFont("Helvetica", 8)
+        c.drawRightString(page_w - CL_MARGIN, page_h - CL_MARGIN - 4 * mm,
+                          f"{len(cards)} card{'s' if len(cards) != 1 else ''} · {extra} · {date.today():%d %b %Y}"
+                          + (f" · page {page + 1}/{pages}" if pages > 1 else ""))
+
+    def draw_single(c):
+        """Sets numbered as the original prints have no 'set limit': one list."""
+        page_w, page_h = c._pagesize
+        width = page_w - 2 * CL_MARGIN
+        table_top = page_h - CL_MARGIN - CL_HEAD
+        foot_lines = [line for text in (note, note2) for line in simpleSplit(text, "Helvetica", CL_FOOT_FONT, width)]
+        foot_h = len(foot_lines) * CL_FOOT_FONT * 1.25 + 3 * mm
+        per_page = int((table_top - CL_MARGIN - foot_h) // CL_ROW) - 1
+        pages = max(-(-len(secret) // per_page), 1)
+        for page in range(pages):
+            if page:
+                c.showPage()
+            header(c, page, pages, page_w, page_h, "numbered as the original prints")
+            c.setFont("Helvetica-Bold", 9)
+            c.drawString(CL_MARGIN, page_h - CL_MARGIN - CL_HEAD + 2.5 * mm,
+                         f"All cards ({len(secret) - 1 if secret else 0})")
+            chunk = secret[page * per_page:(page + 1) * per_page]
+            if chunk:
+                draw_table(c, CL_MARGIN, table_top, width, secret_cols, chunk, page * per_page)
+            c.setFont("Helvetica", CL_FOOT_FONT)
+            c.setFillColorRGB(0.35, 0.35, 0.35)
+            for i, line in enumerate(reversed(foot_lines)):
+                c.drawString(CL_MARGIN, CL_MARGIN + i * CL_FOOT_FONT * 1.25, line)
+
     def draw(c):
+        if not limit:
+            return draw_single(c)
         page_w, page_h = c._pagesize
         half_w = (page_w - 2 * CL_MARGIN - CL_GAP) / 2
         table_top = page_h - CL_MARGIN - CL_HEAD
@@ -453,27 +500,16 @@ def checklist_drawer(cards, set_info, details, basis, target_pct, missing_only):
         bulk_frames = ([(CL_MARGIN, sub_w), (CL_MARGIN + sub_w + CL_GAP / 2, sub_w)]
                        if bulk_split else [(CL_MARGIN, half_w)])
         pages = max(-(-len(bulk) // (left_rows * len(bulk_frames))), -(-len(secret) // right_rows), 1)
-        title = f"{set_info['name']}: {'missing cards' if missing_only else 'checklist'}"
 
         b = s = 0
         for page in range(pages):
             if page:
                 c.showPage()
-            c.setFillColorRGB(0.1, 0.1, 0.1)
-            c.setFont("Helvetica-Bold", 13)
-            c.drawString(CL_MARGIN, page_h - CL_MARGIN - 4 * mm, title + (" (continued)" if page else ""))
-            c.setFont("Helvetica", 8)
-            c.drawRightString(page_w - CL_MARGIN, page_h - CL_MARGIN - 4 * mm,
-                              f"{len(cards)} card{'s' if len(cards) != 1 else ''} · set limit "
-                              f"{limit or '?'} · {date.today():%d %b %Y}"
-                              + (f" · page {page + 1}/{pages}" if pages > 1 else ""))
+            header(c, page, pages, page_w, page_h, f"set limit {limit}")
             heading_y = page_h - CL_MARGIN - CL_HEAD + 2.5 * mm
             c.setFont("Helvetica-Bold", 9)
-            c.drawString(CL_MARGIN, heading_y, f"Up to #{limit} ({len(bulk)})" if limit else
-                         "Set limit unknown: all cards on the right")
-            c.drawString(right_x, heading_y,
-                         f"Above #{limit} ({len(secret) - 1 if secret else 0})" if limit else
-                         f"All cards ({len(secret) - 1 if secret else 0})")
+            c.drawString(CL_MARGIN, heading_y, f"Up to #{limit} ({len(bulk)})")
+            c.drawString(right_x, heading_y, f"Above #{limit} ({len(secret) - 1 if secret else 0})")
             c.setStrokeColorRGB(0.75, 0.75, 0.75)
             c.setLineWidth(0.4)
             mid = CL_MARGIN + half_w + CL_GAP / 2
@@ -535,7 +571,9 @@ def main():
         return
 
     detail = tcgdex_detail(data.get("tcgdex_id"))
-    set_info = {"name": data["name"], "official": (detail.get("cardCount") or {}).get("official")}
+    reprint = data.get("reprint_numbers")  # numbered as the original prints: no set limit
+    set_info = {"name": data["name"],
+                "official": None if reprint else (detail.get("cardCount") or {}).get("official")}
 
     if args.no_images:
         pictures = [None] * len(cards)
@@ -551,8 +589,10 @@ def main():
     secret = [c for c in cards if above_limit(c, limit)]
     details = [None] * len(cards)
     if secret:
-        print(f"Fetching rarity + Cardmarket prices for {len(secret)} card(s) above #{limit} (via TCGdex)...")
-        by_id = {id(c): d for c, d in zip(secret, card_details(secret, detail, args.refresh_prices))}
+        print(f"Fetching rarity + Cardmarket prices for {len(secret)} card(s)"
+              f"{f' above #{limit}' if limit else ''} (via TCGdex)...")
+        found = card_details(secret, detail, args.refresh_prices)
+        by_id = {id(c): d for c, d in zip(secret, found)}
         details = [by_id.get(id(c)) for c in cards]
     badges = [card_badge(c, d, limit) for c, d in zip(cards, details)]
 

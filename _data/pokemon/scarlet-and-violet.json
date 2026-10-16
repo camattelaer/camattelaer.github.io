@@ -10,10 +10,12 @@
  "owned_count": 90,
  "total_count": 458,
  "owned_qty": 91,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Pineco",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487828_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487828/pokemon-sv01-scarlet-and-violet-base-set-pineco",
    "product_id": 487828,
@@ -24,6 +26,7 @@
   {
    "number": "001",
    "name": "Pineco",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487828_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487828/pokemon-sv01-scarlet-and-violet-base-set-pineco",
    "product_id": 487828,
@@ -34,6 +37,7 @@
   {
    "number": "002",
    "name": "Heracross",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487831_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487831/pokemon-sv01-scarlet-and-violet-base-set-heracross",
    "product_id": 487831,
@@ -44,6 +48,7 @@
   {
    "number": "002",
    "name": "Heracross",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487831_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487831/pokemon-sv01-scarlet-and-violet-base-set-heracross",
    "product_id": 487831,
@@ -54,6 +59,7 @@
   {
    "number": "003",
    "name": "Shroomish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487832_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487832/pokemon-sv01-scarlet-and-violet-base-set-shroomish",
    "product_id": 487832,
@@ -64,6 +70,7 @@
   {
    "number": "003",
    "name": "Shroomish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487832_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487832/pokemon-sv01-scarlet-and-violet-base-set-shroomish",
    "product_id": 487832,
@@ -74,6 +81,7 @@
   {
    "number": "004",
    "name": "Breloom",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487833_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487833/pokemon-sv01-scarlet-and-violet-base-set-breloom",
    "product_id": 487833,
@@ -84,6 +92,7 @@
   {
    "number": "004",
    "name": "Breloom",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487833_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487833/pokemon-sv01-scarlet-and-violet-base-set-breloom",
    "product_id": 487833,
@@ -94,6 +103,7 @@
   {
    "number": "005",
    "name": "Cacnea",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487834_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487834/pokemon-sv01-scarlet-and-violet-base-set-cacnea-005-198",
    "product_id": 487834,
@@ -104,6 +114,7 @@
   {
    "number": "005",
    "name": "Cacnea",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487834_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487834/pokemon-sv01-scarlet-and-violet-base-set-cacnea-005-198",
    "product_id": 487834,
@@ -114,6 +125,7 @@
   {
    "number": "006",
    "name": "Cacturne",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487836_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487836/pokemon-sv01-scarlet-and-violet-base-set-cacturne-006-198",
    "product_id": 487836,
@@ -124,6 +136,7 @@
   {
    "number": "006",
    "name": "Cacturne",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487836_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487836/pokemon-sv01-scarlet-and-violet-base-set-cacturne-006-198",
    "product_id": 487836,
@@ -134,6 +147,7 @@
   {
    "number": "007",
    "name": "Tropius",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487838_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487838/pokemon-sv01-scarlet-and-violet-base-set-tropius",
    "product_id": 487838,
@@ -144,6 +158,7 @@
   {
    "number": "007",
    "name": "Tropius",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487838_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487838/pokemon-sv01-scarlet-and-violet-base-set-tropius",
    "product_id": 487838,
@@ -154,6 +169,7 @@
   {
    "number": "008",
    "name": "Scatterbug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487839_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487839/pokemon-sv01-scarlet-and-violet-base-set-scatterbug",
    "product_id": 487839,
@@ -164,6 +180,7 @@
   {
    "number": "008",
    "name": "Scatterbug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487839_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487839/pokemon-sv01-scarlet-and-violet-base-set-scatterbug",
    "product_id": 487839,
@@ -174,6 +191,7 @@
   {
    "number": "009",
    "name": "Spewpa",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487840_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487840/pokemon-sv01-scarlet-and-violet-base-set-spewpa",
    "product_id": 487840,
@@ -184,6 +202,7 @@
   {
    "number": "009",
    "name": "Spewpa",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487840_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487840/pokemon-sv01-scarlet-and-violet-base-set-spewpa",
    "product_id": 487840,
@@ -194,6 +213,7 @@
   {
    "number": "010",
    "name": "Vivillon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487842_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487842/pokemon-sv01-scarlet-and-violet-base-set-vivillon",
    "product_id": 487842,
@@ -204,6 +224,7 @@
   {
    "number": "010",
    "name": "Vivillon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487842_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487842/pokemon-sv01-scarlet-and-violet-base-set-vivillon",
    "product_id": 487842,
@@ -214,6 +235,7 @@
   {
    "number": "011",
    "name": "Skiddo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487053_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487053/pokemon-sv01-scarlet-and-violet-base-set-skiddo",
    "product_id": 487053,
@@ -224,6 +246,7 @@
   {
    "number": "011",
    "name": "Skiddo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487053_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487053/pokemon-sv01-scarlet-and-violet-base-set-skiddo",
    "product_id": 487053,
@@ -234,6 +257,7 @@
   {
    "number": "012",
    "name": "Gogoat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487843_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487843/pokemon-sv01-scarlet-and-violet-base-set-gogoat",
    "product_id": 487843,
@@ -244,6 +268,7 @@
   {
    "number": "012",
    "name": "Gogoat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487843_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487843/pokemon-sv01-scarlet-and-violet-base-set-gogoat",
    "product_id": 487843,
@@ -254,6 +279,7 @@
   {
    "number": "013",
    "name": "Sprigatito",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475417_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475417/pokemon-sv01-scarlet-and-violet-base-set-sprigatito",
    "product_id": 475417,
@@ -264,6 +290,7 @@
   {
    "number": "013",
    "name": "Sprigatito",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475417_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475417/pokemon-sv01-scarlet-and-violet-base-set-sprigatito",
    "product_id": 475417,
@@ -274,6 +301,7 @@
   {
    "number": "014",
    "name": "Floragato",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487846_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487846/pokemon-sv01-scarlet-and-violet-base-set-floragato",
    "product_id": 487846,
@@ -284,6 +312,7 @@
   {
    "number": "014",
    "name": "Floragato",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487846_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487846/pokemon-sv01-scarlet-and-violet-base-set-floragato",
    "product_id": 487846,
@@ -294,6 +323,7 @@
   {
    "number": "015",
    "name": "Meowscarada",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487848_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487848/pokemon-sv01-scarlet-and-violet-base-set-meowscarada-015-198",
    "product_id": 487848,
@@ -304,6 +334,7 @@
   {
    "number": "015",
    "name": "Meowscarada",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487848_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487848/pokemon-sv01-scarlet-and-violet-base-set-meowscarada-015-198",
    "product_id": 487848,
@@ -314,6 +345,7 @@
   {
    "number": "016",
    "name": "Tarountula",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487851_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487851/pokemon-sv01-scarlet-and-violet-base-set-tarountula-016-198",
    "product_id": 487851,
@@ -324,6 +356,7 @@
   {
    "number": "016",
    "name": "Tarountula",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487851_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487851/pokemon-sv01-scarlet-and-violet-base-set-tarountula-016-198",
    "product_id": 487851,
@@ -334,6 +367,7 @@
   {
    "number": "017",
    "name": "Tarountula",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487854_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487854/pokemon-sv01-scarlet-and-violet-base-set-tarountula-017-198",
    "product_id": 487854,
@@ -344,6 +378,7 @@
   {
    "number": "017",
    "name": "Tarountula",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487854_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487854/pokemon-sv01-scarlet-and-violet-base-set-tarountula-017-198",
    "product_id": 487854,
@@ -354,6 +389,7 @@
   {
    "number": "018",
    "name": "Tarountula",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487855_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487855/pokemon-sv01-scarlet-and-violet-base-set-tarountula-018-198",
    "product_id": 487855,
@@ -364,6 +400,7 @@
   {
    "number": "018",
    "name": "Tarountula",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487855_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487855/pokemon-sv01-scarlet-and-violet-base-set-tarountula-018-198",
    "product_id": 487855,
@@ -374,6 +411,7 @@
   {
    "number": "019",
    "name": "Spidops ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487856_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487856/pokemon-sv01-scarlet-and-violet-base-set-spidops-ex-019-198",
    "product_id": 487856,
@@ -384,6 +422,7 @@
   {
    "number": "020",
    "name": "Smoliv",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487857_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487857/pokemon-sv01-scarlet-and-violet-base-set-smoliv-020-198",
    "product_id": 487857,
@@ -394,6 +433,7 @@
   {
    "number": "020",
    "name": "Smoliv",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487857_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487857/pokemon-sv01-scarlet-and-violet-base-set-smoliv-020-198",
    "product_id": 487857,
@@ -404,6 +444,7 @@
   {
    "number": "021",
    "name": "Smoliv",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487858_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487858/pokemon-sv01-scarlet-and-violet-base-set-smoliv-021-198",
    "product_id": 487858,
@@ -414,6 +455,7 @@
   {
    "number": "021",
    "name": "Smoliv",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487858_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487858/pokemon-sv01-scarlet-and-violet-base-set-smoliv-021-198",
    "product_id": 487858,
@@ -424,6 +466,7 @@
   {
    "number": "022",
    "name": "Dolliv",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487859_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487859/pokemon-sv01-scarlet-and-violet-base-set-dolliv-022-198",
    "product_id": 487859,
@@ -434,6 +477,7 @@
   {
    "number": "022",
    "name": "Dolliv",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487859_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487859/pokemon-sv01-scarlet-and-violet-base-set-dolliv-022-198",
    "product_id": 487859,
@@ -444,6 +488,7 @@
   {
    "number": "023",
    "name": "Arboliva",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487860_400w.jpg",
    "url": "https://www.tcgplayer.com/product/546428/pokemon-deck-exclusives-arboliva-023-198",
    "product_id": 546428,
@@ -456,6 +501,7 @@
   {
    "number": "023",
    "name": "Arboliva",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487860_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487860/pokemon-sv01-scarlet-and-violet-base-set-arboliva",
    "product_id": 487860,
@@ -466,6 +512,7 @@
   {
    "number": "023",
    "name": "Arboliva",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487860_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487860/pokemon-sv01-scarlet-and-violet-base-set-arboliva",
    "product_id": 487860,
@@ -476,6 +523,7 @@
   {
    "number": "024",
    "name": "Toedscool",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487861_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487861/pokemon-sv01-scarlet-and-violet-base-set-toedscool-024-198",
    "product_id": 487861,
@@ -486,6 +534,7 @@
   {
    "number": "024",
    "name": "Toedscool",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487861_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487861/pokemon-sv01-scarlet-and-violet-base-set-toedscool-024-198",
    "product_id": 487861,
@@ -496,6 +545,7 @@
   {
    "number": "025",
    "name": "Toedscool",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487862_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487862/pokemon-sv01-scarlet-and-violet-base-set-toedscool-025-198",
    "product_id": 487862,
@@ -506,6 +556,7 @@
   {
    "number": "025",
    "name": "Toedscool",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487862_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487862/pokemon-sv01-scarlet-and-violet-base-set-toedscool-025-198",
    "product_id": 487862,
@@ -516,6 +567,7 @@
   {
    "number": "026",
    "name": "Toedscruel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487864_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487864/pokemon-sv01-scarlet-and-violet-base-set-toedscruel",
    "product_id": 487864,
@@ -526,6 +578,7 @@
   {
    "number": "026",
    "name": "Toedscruel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487864_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487864/pokemon-sv01-scarlet-and-violet-base-set-toedscruel",
    "product_id": 487864,
@@ -536,6 +589,7 @@
   {
    "number": "027",
    "name": "Capsakid",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487866_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487866/pokemon-sv01-scarlet-and-violet-base-set-capsakid-027-198",
    "product_id": 487866,
@@ -546,6 +600,7 @@
   {
    "number": "027",
    "name": "Capsakid",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487866_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487866/pokemon-sv01-scarlet-and-violet-base-set-capsakid-027-198",
    "product_id": 487866,
@@ -556,6 +611,7 @@
   {
    "number": "028",
    "name": "Capsakid",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487867_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487867/pokemon-sv01-scarlet-and-violet-base-set-capsakid-028-198",
    "product_id": 487867,
@@ -566,6 +622,7 @@
   {
    "number": "028",
    "name": "Capsakid",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487867_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487867/pokemon-sv01-scarlet-and-violet-base-set-capsakid-028-198",
    "product_id": 487867,
@@ -576,6 +633,7 @@
   {
    "number": "029",
    "name": "Scovillain",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487868_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487868/pokemon-sv01-scarlet-and-violet-base-set-scovillain-029-198",
    "product_id": 487868,
@@ -586,6 +644,7 @@
   {
    "number": "029",
    "name": "Scovillain",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487868_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487868/pokemon-sv01-scarlet-and-violet-base-set-scovillain-029-198",
    "product_id": 487868,
@@ -596,6 +655,7 @@
   {
    "number": "030",
    "name": "Growlithe",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487869_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487869/pokemon-sv01-scarlet-and-violet-base-set-growlithe-030-198",
    "product_id": 487869,
@@ -606,6 +666,7 @@
   {
    "number": "030",
    "name": "Growlithe",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487869_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487869/pokemon-sv01-scarlet-and-violet-base-set-growlithe-030-198",
    "product_id": 487869,
@@ -616,6 +677,7 @@
   {
    "number": "031",
    "name": "Growlithe",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487870_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487870/pokemon-sv01-scarlet-and-violet-base-set-growlithe-031-198",
    "product_id": 487870,
@@ -626,6 +688,7 @@
   {
    "number": "031",
    "name": "Growlithe",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487870_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487870/pokemon-sv01-scarlet-and-violet-base-set-growlithe-031-198",
    "product_id": 487870,
@@ -636,6 +699,7 @@
   {
    "number": "032",
    "name": "Arcanine ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487872_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487872/pokemon-sv01-scarlet-and-violet-base-set-arcanine-ex-032-198",
    "product_id": 487872,
@@ -646,6 +710,7 @@
   {
    "number": "033",
    "name": "Houndour",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487873_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487873/pokemon-sv01-scarlet-and-violet-base-set-houndour-033-198",
    "product_id": 487873,
@@ -656,6 +721,7 @@
   {
    "number": "033",
    "name": "Houndour",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487873_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487873/pokemon-sv01-scarlet-and-violet-base-set-houndour-033-198",
    "product_id": 487873,
@@ -666,6 +732,7 @@
   {
    "number": "034",
    "name": "Houndoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487874_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487874/pokemon-sv01-scarlet-and-violet-base-set-houndoom-034-198",
    "product_id": 487874,
@@ -676,6 +743,7 @@
   {
    "number": "034",
    "name": "Houndoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487874_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487874/pokemon-sv01-scarlet-and-violet-base-set-houndoom-034-198",
    "product_id": 487874,
@@ -686,6 +754,7 @@
   {
    "number": "035",
    "name": "Torkoal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487875_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487875/pokemon-sv01-scarlet-and-violet-base-set-torkoal",
    "product_id": 487875,
@@ -696,6 +765,7 @@
   {
    "number": "035",
    "name": "Torkoal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487875_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487875/pokemon-sv01-scarlet-and-violet-base-set-torkoal",
    "product_id": 487875,
@@ -706,6 +776,7 @@
   {
    "number": "036",
    "name": "Fuecoco",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475418_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475418/pokemon-sv01-scarlet-and-violet-base-set-fuecoco",
    "product_id": 475418,
@@ -716,6 +787,7 @@
   {
    "number": "036",
    "name": "Fuecoco",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475418_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475418/pokemon-sv01-scarlet-and-violet-base-set-fuecoco",
    "product_id": 475418,
@@ -726,6 +798,7 @@
   {
    "number": "037",
    "name": "Crocalor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487877_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487877/pokemon-sv01-scarlet-and-violet-base-set-crocalor",
    "product_id": 487877,
@@ -736,6 +809,7 @@
   {
    "number": "037",
    "name": "Crocalor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487877_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487877/pokemon-sv01-scarlet-and-violet-base-set-crocalor",
    "product_id": 487877,
@@ -746,6 +820,7 @@
   {
    "number": "038",
    "name": "Skeledirge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/583519_400w.jpg",
    "url": "https://www.tcgplayer.com/product/583519/pokemon-deck-exclusives-skeledirge",
    "product_id": 583519,
@@ -757,6 +832,7 @@
   {
    "number": "038",
    "name": "Skeledirge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487879_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487879/pokemon-sv01-scarlet-and-violet-base-set-skeledirge",
    "product_id": 487879,
@@ -768,6 +844,7 @@
   {
    "number": "038",
    "name": "Skeledirge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487879_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487879/pokemon-sv01-scarlet-and-violet-base-set-skeledirge",
    "product_id": 487879,
@@ -779,6 +856,7 @@
   {
    "number": "039",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487881_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487881/pokemon-sv01-scarlet-and-violet-base-set-charcadet-039-198",
    "product_id": 487881,
@@ -789,6 +867,7 @@
   {
    "number": "039",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487881_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487881/pokemon-sv01-scarlet-and-violet-base-set-charcadet-039-198",
    "product_id": 487881,
@@ -799,6 +878,7 @@
   {
    "number": "040",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487882_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487882/pokemon-sv01-scarlet-and-violet-base-set-charcadet-040-198",
    "product_id": 487882,
@@ -809,6 +889,7 @@
   {
    "number": "040",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487882_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487882/pokemon-sv01-scarlet-and-violet-base-set-charcadet-040-198",
    "product_id": 487882,
@@ -819,6 +900,7 @@
   {
    "number": "041",
    "name": "Armarouge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487883_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487883/pokemon-sv01-scarlet-and-violet-base-set-armarouge-041-198",
    "product_id": 487883,
@@ -829,6 +911,7 @@
   {
    "number": "041",
    "name": "Armarouge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487883_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487883/pokemon-sv01-scarlet-and-violet-base-set-armarouge-041-198",
    "product_id": 487883,
@@ -839,6 +922,7 @@
   {
    "number": "042",
    "name": "Slowpoke",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487885_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487885/pokemon-sv01-scarlet-and-violet-base-set-slowpoke-042-198",
    "product_id": 487885,
@@ -849,6 +933,7 @@
   {
    "number": "042",
    "name": "Slowpoke",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487885_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487885/pokemon-sv01-scarlet-and-violet-base-set-slowpoke-042-198",
    "product_id": 487885,
@@ -859,6 +944,7 @@
   {
    "number": "043",
    "name": "Slowbro",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487887_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487887/pokemon-sv01-scarlet-and-violet-base-set-slowbro",
    "product_id": 487887,
@@ -869,6 +955,7 @@
   {
    "number": "043",
    "name": "Slowbro",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487887_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487887/pokemon-sv01-scarlet-and-violet-base-set-slowbro",
    "product_id": 487887,
@@ -879,6 +966,7 @@
   {
    "number": "044",
    "name": "Magikarp",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487888_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487888/pokemon-sv01-scarlet-and-violet-base-set-magikarp",
    "product_id": 487888,
@@ -889,6 +977,7 @@
   {
    "number": "044",
    "name": "Magikarp",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487888_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487888/pokemon-sv01-scarlet-and-violet-base-set-magikarp",
    "product_id": 487888,
@@ -899,6 +988,7 @@
   {
    "number": "045",
    "name": "Gyarados ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487889_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487889/pokemon-sv01-scarlet-and-violet-base-set-gyarados-ex-045-198",
    "product_id": 487889,
@@ -909,6 +999,7 @@
   {
    "number": "046",
    "name": "Buizel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487891_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487891/pokemon-sv01-scarlet-and-violet-base-set-buizel",
    "product_id": 487891,
@@ -919,6 +1010,7 @@
   {
    "number": "046",
    "name": "Buizel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487891_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487891/pokemon-sv01-scarlet-and-violet-base-set-buizel",
    "product_id": 487891,
@@ -929,6 +1021,7 @@
   {
    "number": "047",
    "name": "Floatzel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487893_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487893/pokemon-sv01-scarlet-and-violet-base-set-floatzel",
    "product_id": 487893,
@@ -939,6 +1032,7 @@
   {
    "number": "047",
    "name": "Floatzel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487893_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487893/pokemon-sv01-scarlet-and-violet-base-set-floatzel",
    "product_id": 487893,
@@ -949,6 +1043,7 @@
   {
    "number": "048",
    "name": "Alomomola",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487894_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487894/pokemon-sv01-scarlet-and-violet-base-set-alomomola",
    "product_id": 487894,
@@ -959,6 +1054,7 @@
   {
    "number": "048",
    "name": "Alomomola",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487894_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487894/pokemon-sv01-scarlet-and-violet-base-set-alomomola",
    "product_id": 487894,
@@ -969,6 +1065,7 @@
   {
    "number": "049",
    "name": "Clauncher",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487895_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487895/pokemon-sv01-scarlet-and-violet-base-set-clauncher-049-198",
    "product_id": 487895,
@@ -979,6 +1076,7 @@
   {
    "number": "049",
    "name": "Clauncher",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487895_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487895/pokemon-sv01-scarlet-and-violet-base-set-clauncher-049-198",
    "product_id": 487895,
@@ -989,6 +1087,7 @@
   {
    "number": "050",
    "name": "Clawitzer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487897_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487897/pokemon-sv01-scarlet-and-violet-base-set-clawitzer",
    "product_id": 487897,
@@ -999,6 +1098,7 @@
   {
    "number": "050",
    "name": "Clawitzer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487897_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487897/pokemon-sv01-scarlet-and-violet-base-set-clawitzer",
    "product_id": 487897,
@@ -1009,6 +1109,7 @@
   {
    "number": "051",
    "name": "Bruxish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487898_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487898/pokemon-sv01-scarlet-and-violet-base-set-bruxish",
    "product_id": 487898,
@@ -1019,6 +1120,7 @@
   {
    "number": "051",
    "name": "Bruxish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487898_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487898/pokemon-sv01-scarlet-and-violet-base-set-bruxish",
    "product_id": 487898,
@@ -1029,6 +1131,7 @@
   {
    "number": "052",
    "name": "Quaxly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475419_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475419/pokemon-sv01-scarlet-and-violet-base-set-quaxly",
    "product_id": 475419,
@@ -1039,6 +1142,7 @@
   {
    "number": "052",
    "name": "Quaxly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475419_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475419/pokemon-sv01-scarlet-and-violet-base-set-quaxly",
    "product_id": 475419,
@@ -1049,6 +1153,7 @@
   {
    "number": "053",
    "name": "Quaxwell",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487899_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487899/pokemon-sv01-scarlet-and-violet-base-set-quaxwell",
    "product_id": 487899,
@@ -1059,6 +1164,7 @@
   {
    "number": "053",
    "name": "Quaxwell",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487899_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487899/pokemon-sv01-scarlet-and-violet-base-set-quaxwell",
    "product_id": 487899,
@@ -1069,6 +1175,7 @@
   {
    "number": "054",
    "name": "Quaquaval",
+   "rarity": "Promo",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/494950_400w.jpg",
    "url": "https://www.tcgplayer.com/product/494950/pokemon-deck-exclusives-quaquaval-054-198",
    "product_id": 494950,
@@ -1080,6 +1187,7 @@
   {
    "number": "054",
    "name": "Quaquaval",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487902_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487902/pokemon-sv01-scarlet-and-violet-base-set-quaquaval",
    "product_id": 487902,
@@ -1091,6 +1199,7 @@
   {
    "number": "054",
    "name": "Quaquaval",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487902_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487902/pokemon-sv01-scarlet-and-violet-base-set-quaquaval",
    "product_id": 487902,
@@ -1102,6 +1211,7 @@
   {
    "number": "055",
    "name": "Wiglett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487903_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487903/pokemon-sv01-scarlet-and-violet-base-set-wiglett-055-198",
    "product_id": 487903,
@@ -1112,6 +1222,7 @@
   {
    "number": "055",
    "name": "Wiglett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487903_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487903/pokemon-sv01-scarlet-and-violet-base-set-wiglett-055-198",
    "product_id": 487903,
@@ -1122,6 +1233,7 @@
   {
    "number": "056",
    "name": "Wiglett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487905_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487905/pokemon-sv01-scarlet-and-violet-base-set-wiglett-056-198",
    "product_id": 487905,
@@ -1132,6 +1244,7 @@
   {
    "number": "056",
    "name": "Wiglett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487905_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487905/pokemon-sv01-scarlet-and-violet-base-set-wiglett-056-198",
    "product_id": 487905,
@@ -1142,6 +1255,7 @@
   {
    "number": "057",
    "name": "Wugtrio",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487906_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487906/pokemon-sv01-scarlet-and-violet-base-set-wugtrio",
    "product_id": 487906,
@@ -1152,6 +1266,7 @@
   {
    "number": "057",
    "name": "Wugtrio",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487906_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487906/pokemon-sv01-scarlet-and-violet-base-set-wugtrio",
    "product_id": 487906,
@@ -1162,6 +1277,7 @@
   {
    "number": "058",
    "name": "Cetoddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487908_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487908/pokemon-sv01-scarlet-and-violet-base-set-cetoddle-058-198",
    "product_id": 487908,
@@ -1172,6 +1288,7 @@
   {
    "number": "058",
    "name": "Cetoddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487908_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487908/pokemon-sv01-scarlet-and-violet-base-set-cetoddle-058-198",
    "product_id": 487908,
@@ -1182,6 +1299,7 @@
   {
    "number": "059",
    "name": "Cetoddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487910_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487910/pokemon-sv01-scarlet-and-violet-base-set-cetoddle-059-198",
    "product_id": 487910,
@@ -1192,6 +1310,7 @@
   {
    "number": "059",
    "name": "Cetoddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487910_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487910/pokemon-sv01-scarlet-and-violet-base-set-cetoddle-059-198",
    "product_id": 487910,
@@ -1202,6 +1321,7 @@
   {
    "number": "060",
    "name": "Cetitan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487912_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487912/pokemon-sv01-scarlet-and-violet-base-set-cetitan",
    "product_id": 487912,
@@ -1212,6 +1332,7 @@
   {
    "number": "060",
    "name": "Cetitan",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487912_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487912/pokemon-sv01-scarlet-and-violet-base-set-cetitan",
    "product_id": 487912,
@@ -1222,6 +1343,7 @@
   {
    "number": "061",
    "name": "Dondozo",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/494952_400w.jpg",
    "url": "https://www.tcgplayer.com/product/494952/pokemon-deck-exclusives-dondozo-061-198",
    "product_id": 494952,
@@ -1233,6 +1355,7 @@
   {
    "number": "061",
    "name": "Dondozo",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487913_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487913/pokemon-sv01-scarlet-and-violet-base-set-dondozo-061-198",
    "product_id": 487913,
@@ -1244,6 +1367,7 @@
   {
    "number": "061",
    "name": "Dondozo",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487913_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487913/pokemon-sv01-scarlet-and-violet-base-set-dondozo-061-198",
    "product_id": 487913,
@@ -1255,6 +1379,7 @@
   {
    "number": "062",
    "name": "Tatsugiri",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487914_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487914/pokemon-sv01-scarlet-and-violet-base-set-tatsugiri",
    "product_id": 487914,
@@ -1265,6 +1390,7 @@
   {
    "number": "062",
    "name": "Tatsugiri",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487914_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487914/pokemon-sv01-scarlet-and-violet-base-set-tatsugiri",
    "product_id": 487914,
@@ -1275,6 +1401,7 @@
   {
    "number": "063",
    "name": "Magnemite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487916_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487916/pokemon-sv01-scarlet-and-violet-base-set-magnemite",
    "product_id": 487916,
@@ -1285,6 +1412,7 @@
   {
    "number": "063",
    "name": "Magnemite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487916_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487916/pokemon-sv01-scarlet-and-violet-base-set-magnemite",
    "product_id": 487916,
@@ -1295,6 +1423,7 @@
   {
    "number": "064",
    "name": "Magneton",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487917_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487917/pokemon-sv01-scarlet-and-violet-base-set-magneton",
    "product_id": 487917,
@@ -1305,6 +1434,7 @@
   {
    "number": "064",
    "name": "Magneton",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487917_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487917/pokemon-sv01-scarlet-and-violet-base-set-magneton",
    "product_id": 487917,
@@ -1315,6 +1445,7 @@
   {
    "number": "065",
    "name": "Magnezone ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/486612_400w.jpg",
    "url": "https://www.tcgplayer.com/product/486612/pokemon-sv01-scarlet-and-violet-base-set-magnezone-ex-065-198",
    "product_id": 486612,
@@ -1325,6 +1456,7 @@
   {
    "number": "066",
    "name": "Mareep",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487919_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487919/pokemon-sv01-scarlet-and-violet-base-set-mareep",
    "product_id": 487919,
@@ -1335,6 +1467,7 @@
   {
    "number": "066",
    "name": "Mareep",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487919_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487919/pokemon-sv01-scarlet-and-violet-base-set-mareep",
    "product_id": 487919,
@@ -1345,6 +1478,7 @@
   {
    "number": "067",
    "name": "Flaaffy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487920_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487920/pokemon-sv01-scarlet-and-violet-base-set-flaaffy",
    "product_id": 487920,
@@ -1355,6 +1489,7 @@
   {
    "number": "067",
    "name": "Flaaffy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487920_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487920/pokemon-sv01-scarlet-and-violet-base-set-flaaffy",
    "product_id": 487920,
@@ -1365,6 +1500,7 @@
   {
    "number": "068",
    "name": "Pachirisu",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487922_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487922/pokemon-sv01-scarlet-and-violet-base-set-pachirisu-068-198",
    "product_id": 487922,
@@ -1375,6 +1511,7 @@
   {
    "number": "068",
    "name": "Pachirisu",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487922_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487922/pokemon-sv01-scarlet-and-violet-base-set-pachirisu-068-198",
    "product_id": 487922,
@@ -1385,6 +1522,7 @@
   {
    "number": "069",
    "name": "Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487923_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487923/pokemon-sv01-scarlet-and-violet-base-set-rotom-069-198",
    "product_id": 487923,
@@ -1395,6 +1533,7 @@
   {
    "number": "069",
    "name": "Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487923_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487923/pokemon-sv01-scarlet-and-violet-base-set-rotom-069-198",
    "product_id": 487923,
@@ -1405,6 +1544,7 @@
   {
    "number": "070",
    "name": "Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487924_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487924/pokemon-sv01-scarlet-and-violet-base-set-rotom-070-198",
    "product_id": 487924,
@@ -1415,6 +1555,7 @@
   {
    "number": "070",
    "name": "Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487924_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487924/pokemon-sv01-scarlet-and-violet-base-set-rotom-070-198",
    "product_id": 487924,
@@ -1425,6 +1566,7 @@
   {
    "number": "071",
    "name": "Toxel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487925_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487925/pokemon-sv01-scarlet-and-violet-base-set-toxel",
    "product_id": 487925,
@@ -1435,6 +1577,7 @@
   {
    "number": "071",
    "name": "Toxel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487925_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487925/pokemon-sv01-scarlet-and-violet-base-set-toxel",
    "product_id": 487925,
@@ -1445,6 +1588,7 @@
   {
    "number": "072",
    "name": "Toxtricity",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487926_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487926/pokemon-sv01-scarlet-and-violet-base-set-toxtricity",
    "product_id": 487926,
@@ -1455,6 +1599,7 @@
   {
    "number": "072",
    "name": "Toxtricity",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487926_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487926/pokemon-sv01-scarlet-and-violet-base-set-toxtricity",
    "product_id": 487926,
@@ -1465,6 +1610,7 @@
   {
    "number": "073",
    "name": "Pawmi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487927_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487927/pokemon-sv01-scarlet-and-violet-base-set-pawmi-073-198",
    "product_id": 487927,
@@ -1475,6 +1621,7 @@
   {
    "number": "073",
    "name": "Pawmi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487927_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487927/pokemon-sv01-scarlet-and-violet-base-set-pawmi-073-198",
    "product_id": 487927,
@@ -1485,6 +1632,7 @@
   {
    "number": "074",
    "name": "Pawmi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487929_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487929/pokemon-sv01-scarlet-and-violet-base-set-pawmi-074-198",
    "product_id": 487929,
@@ -1495,6 +1643,7 @@
   {
    "number": "074",
    "name": "Pawmi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487929_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487929/pokemon-sv01-scarlet-and-violet-base-set-pawmi-074-198",
    "product_id": 487929,
@@ -1505,6 +1654,7 @@
   {
    "number": "075",
    "name": "Pawmo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487930_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487930/pokemon-sv01-scarlet-and-violet-base-set-pawmo",
    "product_id": 487930,
@@ -1515,6 +1665,7 @@
   {
    "number": "075",
    "name": "Pawmo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487930_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487930/pokemon-sv01-scarlet-and-violet-base-set-pawmo",
    "product_id": 487930,
@@ -1525,6 +1676,7 @@
   {
    "number": "076",
    "name": "Pawmot",
+   "rarity": "Promo",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/494955_400w.jpg",
    "url": "https://www.tcgplayer.com/product/494955/pokemon-deck-exclusives-pawmot-076-198",
    "product_id": 494955,
@@ -1536,6 +1688,7 @@
   {
    "number": "076",
    "name": "Pawmot",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487931_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487931/pokemon-sv01-scarlet-and-violet-base-set-pawmot-076-198",
    "product_id": 487931,
@@ -1547,6 +1700,7 @@
   {
    "number": "076",
    "name": "Pawmot",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487931_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487931/pokemon-sv01-scarlet-and-violet-base-set-pawmot-076-198",
    "product_id": 487931,
@@ -1558,6 +1712,7 @@
   {
    "number": "077",
    "name": "Wattrel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487932_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487932/pokemon-sv01-scarlet-and-violet-base-set-wattrel-077-198",
    "product_id": 487932,
@@ -1568,6 +1723,7 @@
   {
    "number": "077",
    "name": "Wattrel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487932_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487932/pokemon-sv01-scarlet-and-violet-base-set-wattrel-077-198",
    "product_id": 487932,
@@ -1578,6 +1734,7 @@
   {
    "number": "078",
    "name": "Wattrel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487933_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487933/pokemon-sv01-scarlet-and-violet-base-set-wattrel-078-198",
    "product_id": 487933,
@@ -1588,6 +1745,7 @@
   {
    "number": "078",
    "name": "Wattrel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487933_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487933/pokemon-sv01-scarlet-and-violet-base-set-wattrel-078-198",
    "product_id": 487933,
@@ -1598,6 +1756,7 @@
   {
    "number": "079",
    "name": "Kilowattrel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487935_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487935/pokemon-sv01-scarlet-and-violet-base-set-kilowattrel",
    "product_id": 487935,
@@ -1608,6 +1767,7 @@
   {
    "number": "079",
    "name": "Kilowattrel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487935_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487935/pokemon-sv01-scarlet-and-violet-base-set-kilowattrel",
    "product_id": 487935,
@@ -1618,6 +1778,7 @@
   {
    "number": "080",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/498187_400w.jpg",
    "url": "https://www.tcgplayer.com/product/498187/pokemon-deck-exclusives-miraidon-080-198-rare",
    "product_id": 498187,
@@ -1629,6 +1790,7 @@
   {
    "number": "080",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487942_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487942/pokemon-sv01-scarlet-and-violet-base-set-miraidon",
    "product_id": 487942,
@@ -1640,6 +1802,7 @@
   {
    "number": "080",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487942_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487942/pokemon-sv01-scarlet-and-violet-base-set-miraidon",
    "product_id": 487942,
@@ -1651,6 +1814,7 @@
   {
    "number": "081",
    "name": "Miraidon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475420_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475420/pokemon-sv01-scarlet-and-violet-base-set-miraidon-ex-081-198",
    "product_id": 475420,
@@ -1661,6 +1825,7 @@
   {
    "number": "082",
    "name": "Drowzee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487944_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487944/pokemon-sv01-scarlet-and-violet-base-set-drowzee-082-198",
    "product_id": 487944,
@@ -1671,6 +1836,7 @@
   {
    "number": "082",
    "name": "Drowzee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487944_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487944/pokemon-sv01-scarlet-and-violet-base-set-drowzee-082-198",
    "product_id": 487944,
@@ -1681,6 +1847,7 @@
   {
    "number": "083",
    "name": "Hypno",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487946_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487946/pokemon-sv01-scarlet-and-violet-base-set-hypno",
    "product_id": 487946,
@@ -1691,6 +1858,7 @@
   {
    "number": "083",
    "name": "Hypno",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487946_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487946/pokemon-sv01-scarlet-and-violet-base-set-hypno",
    "product_id": 487946,
@@ -1701,6 +1869,7 @@
   {
    "number": "084",
    "name": "Ralts",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487948_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487948/pokemon-sv01-scarlet-and-violet-base-set-ralts-084-198",
    "product_id": 487948,
@@ -1711,6 +1880,7 @@
   {
    "number": "084",
    "name": "Ralts",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487948_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487948/pokemon-sv01-scarlet-and-violet-base-set-ralts-084-198",
    "product_id": 487948,
@@ -1721,6 +1891,7 @@
   {
    "number": "085",
    "name": "Kirlia",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487949_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487949/pokemon-sv01-scarlet-and-violet-base-set-kirlia-085-198",
    "product_id": 487949,
@@ -1731,6 +1902,7 @@
   {
    "number": "085",
    "name": "Kirlia",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487949_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487949/pokemon-sv01-scarlet-and-violet-base-set-kirlia-085-198",
    "product_id": 487949,
@@ -1741,6 +1913,7 @@
   {
    "number": "086",
    "name": "Gardevoir ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487951_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487951/pokemon-sv01-scarlet-and-violet-base-set-gardevoir-ex-086-198",
    "product_id": 487951,
@@ -1751,6 +1924,7 @@
   {
    "number": "087",
    "name": "Shuppet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487952_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487952/pokemon-sv01-scarlet-and-violet-base-set-shuppet",
    "product_id": 487952,
@@ -1761,6 +1935,7 @@
   {
    "number": "087",
    "name": "Shuppet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487952_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487952/pokemon-sv01-scarlet-and-violet-base-set-shuppet",
    "product_id": 487952,
@@ -1771,6 +1946,7 @@
   {
    "number": "088",
    "name": "Banette ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487954_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487954/pokemon-sv01-scarlet-and-violet-base-set-banette-ex-088-198",
    "product_id": 487954,
@@ -1781,6 +1957,7 @@
   {
    "number": "089",
    "name": "Drifloon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487955_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487955/pokemon-sv01-scarlet-and-violet-base-set-drifloon",
    "product_id": 487955,
@@ -1791,6 +1968,7 @@
   {
    "number": "089",
    "name": "Drifloon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487955_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487955/pokemon-sv01-scarlet-and-violet-base-set-drifloon",
    "product_id": 487955,
@@ -1801,6 +1979,7 @@
   {
    "number": "090",
    "name": "Drifblim",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487956_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487956/pokemon-sv01-scarlet-and-violet-base-set-drifblim",
    "product_id": 487956,
@@ -1811,6 +1990,7 @@
   {
    "number": "090",
    "name": "Drifblim",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487956_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487956/pokemon-sv01-scarlet-and-violet-base-set-drifblim",
    "product_id": 487956,
@@ -1821,6 +2001,7 @@
   {
    "number": "091",
    "name": "Flabebe",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487958_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487958/pokemon-sv01-scarlet-and-violet-base-set-flabebe",
    "product_id": 487958,
@@ -1831,6 +2012,7 @@
   {
    "number": "091",
    "name": "Flabebe",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487958_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487958/pokemon-sv01-scarlet-and-violet-base-set-flabebe",
    "product_id": 487958,
@@ -1841,6 +2023,7 @@
   {
    "number": "092",
    "name": "Floette",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487959_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487959/pokemon-sv01-scarlet-and-violet-base-set-floette",
    "product_id": 487959,
@@ -1851,6 +2034,7 @@
   {
    "number": "092",
    "name": "Floette",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487959_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487959/pokemon-sv01-scarlet-and-violet-base-set-floette",
    "product_id": 487959,
@@ -1861,6 +2045,7 @@
   {
    "number": "093",
    "name": "Florges",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487960_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487960/pokemon-sv01-scarlet-and-violet-base-set-florges",
    "product_id": 487960,
@@ -1871,6 +2056,7 @@
   {
    "number": "093",
    "name": "Florges",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487960_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487960/pokemon-sv01-scarlet-and-violet-base-set-florges",
    "product_id": 487960,
@@ -1881,6 +2067,7 @@
   {
    "number": "094",
    "name": "Dedenne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487961_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487961/pokemon-sv01-scarlet-and-violet-base-set-dedenne-094-198",
    "product_id": 487961,
@@ -1891,6 +2078,7 @@
   {
    "number": "094",
    "name": "Dedenne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487961_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487961/pokemon-sv01-scarlet-and-violet-base-set-dedenne-094-198",
    "product_id": 487961,
@@ -1901,6 +2089,7 @@
   {
    "number": "095",
    "name": "Dedenne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487054_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487054/pokemon-sv01-scarlet-and-violet-base-set-dedenne-095-198",
    "product_id": 487054,
@@ -1911,6 +2100,7 @@
   {
    "number": "095",
    "name": "Dedenne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487054_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487054/pokemon-sv01-scarlet-and-violet-base-set-dedenne-095-198",
    "product_id": 487054,
@@ -1921,6 +2111,7 @@
   {
    "number": "096",
    "name": "Klefki",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/486602_400w.jpg",
    "url": "https://www.tcgplayer.com/product/486602/pokemon-sv01-scarlet-and-violet-base-set-klefki",
    "product_id": 486602,
@@ -1931,6 +2122,7 @@
   {
    "number": "096",
    "name": "Klefki",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/486602_400w.jpg",
    "url": "https://www.tcgplayer.com/product/486602/pokemon-sv01-scarlet-and-violet-base-set-klefki",
    "product_id": 486602,
@@ -1941,6 +2133,7 @@
   {
    "number": "097",
    "name": "Fidough",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487968_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487968/pokemon-sv01-scarlet-and-violet-base-set-fidough-097-198",
    "product_id": 487968,
@@ -1951,6 +2144,7 @@
   {
    "number": "097",
    "name": "Fidough",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487968_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487968/pokemon-sv01-scarlet-and-violet-base-set-fidough-097-198",
    "product_id": 487968,
@@ -1961,6 +2155,7 @@
   {
    "number": "098",
    "name": "Fidough",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487969_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487969/pokemon-sv01-scarlet-and-violet-base-set-fidough-098-198",
    "product_id": 487969,
@@ -1971,6 +2166,7 @@
   {
    "number": "098",
    "name": "Fidough",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487969_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487969/pokemon-sv01-scarlet-and-violet-base-set-fidough-098-198",
    "product_id": 487969,
@@ -1981,6 +2177,7 @@
   {
    "number": "099",
    "name": "Dachsbun",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487971_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487971/pokemon-sv01-scarlet-and-violet-base-set-dachsbun",
    "product_id": 487971,
@@ -1991,6 +2188,7 @@
   {
    "number": "099",
    "name": "Dachsbun",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487971_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487971/pokemon-sv01-scarlet-and-violet-base-set-dachsbun",
    "product_id": 487971,
@@ -2001,6 +2199,7 @@
   {
    "number": "100",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487973_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487973/pokemon-sv01-scarlet-and-violet-base-set-flittle-100-198",
    "product_id": 487973,
@@ -2011,6 +2210,7 @@
   {
    "number": "100",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487973_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487973/pokemon-sv01-scarlet-and-violet-base-set-flittle-100-198",
    "product_id": 487973,
@@ -2021,6 +2221,7 @@
   {
    "number": "101",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487975_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487975/pokemon-sv01-scarlet-and-violet-base-set-flittle-101-198",
    "product_id": 487975,
@@ -2031,6 +2232,7 @@
   {
    "number": "101",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487975_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487975/pokemon-sv01-scarlet-and-violet-base-set-flittle-101-198",
    "product_id": 487975,
@@ -2041,6 +2243,7 @@
   {
    "number": "102",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487976_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487976/pokemon-sv01-scarlet-and-violet-base-set-flittle-102-198",
    "product_id": 487976,
@@ -2051,6 +2254,7 @@
   {
    "number": "102",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487976_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487976/pokemon-sv01-scarlet-and-violet-base-set-flittle-102-198",
    "product_id": 487976,
@@ -2061,6 +2265,7 @@
   {
    "number": "103",
    "name": "Espathra",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487978_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487978/pokemon-sv01-scarlet-and-violet-base-set-espathra",
    "product_id": 487978,
@@ -2071,6 +2276,7 @@
   {
    "number": "103",
    "name": "Espathra",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487978_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487978/pokemon-sv01-scarlet-and-violet-base-set-espathra",
    "product_id": 487978,
@@ -2081,6 +2287,7 @@
   {
    "number": "104",
    "name": "Greavard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487980_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487980/pokemon-sv01-scarlet-and-violet-base-set-greavard-104-198",
    "product_id": 487980,
@@ -2091,6 +2298,7 @@
   {
    "number": "104",
    "name": "Greavard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487980_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487980/pokemon-sv01-scarlet-and-violet-base-set-greavard-104-198",
    "product_id": 487980,
@@ -2101,6 +2309,7 @@
   {
    "number": "105",
    "name": "Greavard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487981_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487981/pokemon-sv01-scarlet-and-violet-base-set-greavard-105-198",
    "product_id": 487981,
@@ -2111,6 +2320,7 @@
   {
    "number": "105",
    "name": "Greavard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487981_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487981/pokemon-sv01-scarlet-and-violet-base-set-greavard-105-198",
    "product_id": 487981,
@@ -2121,6 +2331,7 @@
   {
    "number": "106",
    "name": "Houndstone",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487983_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487983/pokemon-sv01-scarlet-and-violet-base-set-houndstone",
    "product_id": 487983,
@@ -2131,6 +2342,7 @@
   {
    "number": "106",
    "name": "Houndstone",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487983_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487983/pokemon-sv01-scarlet-and-violet-base-set-houndstone",
    "product_id": 487983,
@@ -2141,6 +2353,7 @@
   {
    "number": "107",
    "name": "Mankey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487993_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487993/pokemon-sv01-scarlet-and-violet-base-set-mankey",
    "product_id": 487993,
@@ -2151,6 +2364,7 @@
   {
    "number": "107",
    "name": "Mankey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487993_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487993/pokemon-sv01-scarlet-and-violet-base-set-mankey",
    "product_id": 487993,
@@ -2161,6 +2375,7 @@
   {
    "number": "108",
    "name": "Primeape",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487994_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487994/pokemon-sv01-scarlet-and-violet-base-set-primeape",
    "product_id": 487994,
@@ -2171,6 +2386,7 @@
   {
    "number": "108",
    "name": "Primeape",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487994_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487994/pokemon-sv01-scarlet-and-violet-base-set-primeape",
    "product_id": 487994,
@@ -2181,6 +2397,7 @@
   {
    "number": "109",
    "name": "Annihilape",
+   "rarity": "Promo",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/505053_400w.jpg",
    "url": "https://www.tcgplayer.com/product/505053/pokemon-deck-exclusives-annihilape-109-198",
    "product_id": 505053,
@@ -2192,6 +2409,7 @@
   {
    "number": "109",
    "name": "Annihilape",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/486617_400w.jpg",
    "url": "https://www.tcgplayer.com/product/486617/pokemon-sv01-scarlet-and-violet-base-set-annihilape",
    "product_id": 486617,
@@ -2203,6 +2421,7 @@
   {
    "number": "109",
    "name": "Annihilape",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/486617_400w.jpg",
    "url": "https://www.tcgplayer.com/product/486617/pokemon-sv01-scarlet-and-violet-base-set-annihilape",
    "product_id": 486617,
@@ -2214,6 +2433,7 @@
   {
    "number": "110",
    "name": "Meditite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487999_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487999/pokemon-sv01-scarlet-and-violet-base-set-meditite-110-198",
    "product_id": 487999,
@@ -2224,6 +2444,7 @@
   {
    "number": "110",
    "name": "Meditite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487999_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487999/pokemon-sv01-scarlet-and-violet-base-set-meditite-110-198",
    "product_id": 487999,
@@ -2234,6 +2455,7 @@
   {
    "number": "111",
    "name": "Medicham",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488000_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488000/pokemon-sv01-scarlet-and-violet-base-set-medicham-111-198",
    "product_id": 488000,
@@ -2244,6 +2466,7 @@
   {
    "number": "111",
    "name": "Medicham",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488000_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488000/pokemon-sv01-scarlet-and-violet-base-set-medicham-111-198",
    "product_id": 488000,
@@ -2254,6 +2477,7 @@
   {
    "number": "112",
    "name": "Riolu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488001_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488001/pokemon-sv01-scarlet-and-violet-base-set-riolu-112-198",
    "product_id": 488001,
@@ -2264,6 +2488,7 @@
   {
    "number": "112",
    "name": "Riolu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488001_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488001/pokemon-sv01-scarlet-and-violet-base-set-riolu-112-198",
    "product_id": 488001,
@@ -2274,6 +2499,7 @@
   {
    "number": "113",
    "name": "Riolu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488002_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488002/pokemon-sv01-scarlet-and-violet-base-set-riolu-113-198",
    "product_id": 488002,
@@ -2284,6 +2510,7 @@
   {
    "number": "113",
    "name": "Riolu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488002_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488002/pokemon-sv01-scarlet-and-violet-base-set-riolu-113-198",
    "product_id": 488002,
@@ -2294,6 +2521,7 @@
   {
    "number": "114",
    "name": "Lucario",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488003_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488003/pokemon-sv01-scarlet-and-violet-base-set-lucario-114-198",
    "product_id": 488003,
@@ -2304,6 +2532,7 @@
   {
    "number": "114",
    "name": "Lucario",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488003_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488003/pokemon-sv01-scarlet-and-violet-base-set-lucario-114-198",
    "product_id": 488003,
@@ -2314,6 +2543,7 @@
   {
    "number": "115",
    "name": "Sandile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488004_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488004/pokemon-sv01-scarlet-and-violet-base-set-sandile-115-198",
    "product_id": 488004,
@@ -2324,6 +2554,7 @@
   {
    "number": "115",
    "name": "Sandile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488004_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488004/pokemon-sv01-scarlet-and-violet-base-set-sandile-115-198",
    "product_id": 488004,
@@ -2334,6 +2565,7 @@
   {
    "number": "116",
    "name": "Krokorok",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488005_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488005/pokemon-sv01-scarlet-and-violet-base-set-krokorok",
    "product_id": 488005,
@@ -2344,6 +2576,7 @@
   {
    "number": "116",
    "name": "Krokorok",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488005_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488005/pokemon-sv01-scarlet-and-violet-base-set-krokorok",
    "product_id": 488005,
@@ -2354,6 +2587,7 @@
   {
    "number": "117",
    "name": "Krookodile",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488006_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488006/pokemon-sv01-scarlet-and-violet-base-set-krookodile",
    "product_id": 488006,
@@ -2364,6 +2598,7 @@
   {
    "number": "117",
    "name": "Krookodile",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488006_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488006/pokemon-sv01-scarlet-and-violet-base-set-krookodile",
    "product_id": 488006,
@@ -2374,6 +2609,7 @@
   {
    "number": "118",
    "name": "Hawlucha",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/583734_400w.jpg",
    "url": "https://www.tcgplayer.com/product/583734/pokemon-deck-exclusives-hawlucha",
    "product_id": 583734,
@@ -2385,6 +2621,7 @@
   {
    "number": "118",
    "name": "Hawlucha",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488007_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488007/pokemon-sv01-scarlet-and-violet-base-set-hawlucha",
    "product_id": 488007,
@@ -2396,6 +2633,7 @@
   {
    "number": "118",
    "name": "Hawlucha",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488007_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488007/pokemon-sv01-scarlet-and-violet-base-set-hawlucha",
    "product_id": 488007,
@@ -2407,6 +2645,7 @@
   {
    "number": "119",
    "name": "Silicobra",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488008_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488008/pokemon-sv01-scarlet-and-violet-base-set-silicobra",
    "product_id": 488008,
@@ -2417,6 +2656,7 @@
   {
    "number": "119",
    "name": "Silicobra",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488008_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488008/pokemon-sv01-scarlet-and-violet-base-set-silicobra",
    "product_id": 488008,
@@ -2427,6 +2667,7 @@
   {
    "number": "120",
    "name": "Sandaconda",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488009_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488009/pokemon-sv01-scarlet-and-violet-base-set-sandaconda",
    "product_id": 488009,
@@ -2437,6 +2678,7 @@
   {
    "number": "120",
    "name": "Sandaconda",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488009_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488009/pokemon-sv01-scarlet-and-violet-base-set-sandaconda",
    "product_id": 488009,
@@ -2447,6 +2689,7 @@
   {
    "number": "121",
    "name": "Stonjourner",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488010_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488010/pokemon-sv01-scarlet-and-violet-base-set-stonjourner",
    "product_id": 488010,
@@ -2457,6 +2700,7 @@
   {
    "number": "121",
    "name": "Stonjourner",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488010_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488010/pokemon-sv01-scarlet-and-violet-base-set-stonjourner",
    "product_id": 488010,
@@ -2467,6 +2711,7 @@
   {
    "number": "122",
    "name": "Klawf",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488011_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488011/pokemon-sv01-scarlet-and-violet-base-set-klawf-122-198",
    "product_id": 488011,
@@ -2477,6 +2722,7 @@
   {
    "number": "122",
    "name": "Klawf",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488011_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488011/pokemon-sv01-scarlet-and-violet-base-set-klawf-122-198",
    "product_id": 488011,
@@ -2487,6 +2733,7 @@
   {
    "number": "123",
    "name": "Great Tusk ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488012_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488012/pokemon-sv01-scarlet-and-violet-base-set-great-tusk-ex-123-198",
    "product_id": 488012,
@@ -2497,6 +2744,7 @@
   {
    "number": "124",
    "name": "Koraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/497055_400w.jpg",
    "url": "https://www.tcgplayer.com/product/497055/pokemon-deck-exclusives-koraidon-124-198",
    "product_id": 497055,
@@ -2508,6 +2756,7 @@
   {
    "number": "124",
    "name": "Koraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488013_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488013/pokemon-sv01-scarlet-and-violet-base-set-koraidon",
    "product_id": 488013,
@@ -2519,6 +2768,7 @@
   {
    "number": "124",
    "name": "Koraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488013_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488013/pokemon-sv01-scarlet-and-violet-base-set-koraidon",
    "product_id": 488013,
@@ -2530,6 +2780,7 @@
   {
    "number": "125",
    "name": "Koraidon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475421_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475421/pokemon-sv01-scarlet-and-violet-base-set-koraidon-ex-125-198",
    "product_id": 475421,
@@ -2540,6 +2791,7 @@
   {
    "number": "126",
    "name": "Grimer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487055_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487055/pokemon-sv01-scarlet-and-violet-base-set-grimer",
    "product_id": 487055,
@@ -2550,6 +2802,7 @@
   {
    "number": "126",
    "name": "Grimer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487055_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487055/pokemon-sv01-scarlet-and-violet-base-set-grimer",
    "product_id": 487055,
@@ -2560,6 +2813,7 @@
   {
    "number": "127",
    "name": "Muk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488015_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488015/pokemon-sv01-scarlet-and-violet-base-set-muk",
    "product_id": 488015,
@@ -2570,6 +2824,7 @@
   {
    "number": "127",
    "name": "Muk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488015_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488015/pokemon-sv01-scarlet-and-violet-base-set-muk",
    "product_id": 488015,
@@ -2580,6 +2835,7 @@
   {
    "number": "128",
    "name": "Seviper",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488016_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488016/pokemon-sv01-scarlet-and-violet-base-set-seviper",
    "product_id": 488016,
@@ -2590,6 +2846,7 @@
   {
    "number": "128",
    "name": "Seviper",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488016_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488016/pokemon-sv01-scarlet-and-violet-base-set-seviper",
    "product_id": 488016,
@@ -2600,6 +2857,7 @@
   {
    "number": "129",
    "name": "Spiritomb",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488017_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488017/pokemon-sv01-scarlet-and-violet-base-set-spiritomb",
    "product_id": 488017,
@@ -2610,6 +2868,7 @@
   {
    "number": "129",
    "name": "Spiritomb",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488017_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488017/pokemon-sv01-scarlet-and-violet-base-set-spiritomb",
    "product_id": 488017,
@@ -2620,6 +2879,7 @@
   {
    "number": "130",
    "name": "Croagunk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487056_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487056/pokemon-sv01-scarlet-and-violet-base-set-croagunk",
    "product_id": 487056,
@@ -2630,6 +2890,7 @@
   {
    "number": "130",
    "name": "Croagunk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487056_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487056/pokemon-sv01-scarlet-and-violet-base-set-croagunk",
    "product_id": 487056,
@@ -2640,6 +2901,7 @@
   {
    "number": "131",
    "name": "Toxicroak ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488019_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488019/pokemon-sv01-scarlet-and-violet-base-set-toxicroak-ex-131-198",
    "product_id": 488019,
@@ -2650,6 +2912,7 @@
   {
    "number": "132",
    "name": "Pawniard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488021_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488021/pokemon-sv01-scarlet-and-violet-base-set-pawniard",
    "product_id": 488021,
@@ -2660,6 +2923,7 @@
   {
    "number": "132",
    "name": "Pawniard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488021_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488021/pokemon-sv01-scarlet-and-violet-base-set-pawniard",
    "product_id": 488021,
@@ -2670,6 +2934,7 @@
   {
    "number": "133",
    "name": "Bisharp",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488023_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488023/pokemon-sv01-scarlet-and-violet-base-set-bisharp",
    "product_id": 488023,
@@ -2680,6 +2945,7 @@
   {
    "number": "133",
    "name": "Bisharp",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488023_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488023/pokemon-sv01-scarlet-and-violet-base-set-bisharp",
    "product_id": 488023,
@@ -2690,6 +2956,7 @@
   {
    "number": "134",
    "name": "Kingambit",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488024_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488024/pokemon-sv01-scarlet-and-violet-base-set-kingambit-134-198",
    "product_id": 488024,
@@ -2700,6 +2967,7 @@
   {
    "number": "134",
    "name": "Kingambit",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488024_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488024/pokemon-sv01-scarlet-and-violet-base-set-kingambit-134-198",
    "product_id": 488024,
@@ -2710,6 +2978,7 @@
   {
    "number": "135",
    "name": "Maschiff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488025_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488025/pokemon-sv01-scarlet-and-violet-base-set-maschiff-135-198",
    "product_id": 488025,
@@ -2720,6 +2989,7 @@
   {
    "number": "135",
    "name": "Maschiff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488025_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488025/pokemon-sv01-scarlet-and-violet-base-set-maschiff-135-198",
    "product_id": 488025,
@@ -2730,6 +3000,7 @@
   {
    "number": "136",
    "name": "Maschiff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485867_400w.jpg",
    "url": "https://www.tcgplayer.com/product/485867/pokemon-sv01-scarlet-and-violet-base-set-maschiff-136-198",
    "product_id": 485867,
@@ -2740,6 +3011,7 @@
   {
    "number": "136",
    "name": "Maschiff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485867_400w.jpg",
    "url": "https://www.tcgplayer.com/product/485867/pokemon-sv01-scarlet-and-violet-base-set-maschiff-136-198",
    "product_id": 485867,
@@ -2750,6 +3022,7 @@
   {
    "number": "137",
    "name": "Mabosstiff",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485871_400w.jpg",
    "url": "https://www.tcgplayer.com/product/485871/pokemon-sv01-scarlet-and-violet-base-set-mabosstiff-137-198",
    "product_id": 485871,
@@ -2760,6 +3033,7 @@
   {
    "number": "137",
    "name": "Mabosstiff",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485871_400w.jpg",
    "url": "https://www.tcgplayer.com/product/485871/pokemon-sv01-scarlet-and-violet-base-set-mabosstiff-137-198",
    "product_id": 485871,
@@ -2770,6 +3044,7 @@
   {
    "number": "138",
    "name": "Bombirdier",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488026_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488026/pokemon-sv01-scarlet-and-violet-base-set-bombirdier-138-198",
    "product_id": 488026,
@@ -2780,6 +3055,7 @@
   {
    "number": "138",
    "name": "Bombirdier",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488026_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488026/pokemon-sv01-scarlet-and-violet-base-set-bombirdier-138-198",
    "product_id": 488026,
@@ -2790,6 +3066,7 @@
   {
    "number": "139",
    "name": "Forretress",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488027_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488027/pokemon-sv01-scarlet-and-violet-base-set-forretress",
    "product_id": 488027,
@@ -2800,6 +3077,7 @@
   {
    "number": "139",
    "name": "Forretress",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488027_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488027/pokemon-sv01-scarlet-and-violet-base-set-forretress",
    "product_id": 488027,
@@ -2810,6 +3088,7 @@
   {
    "number": "140",
    "name": "Varoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488028_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488028/pokemon-sv01-scarlet-and-violet-base-set-varoom-140-198",
    "product_id": 488028,
@@ -2820,6 +3099,7 @@
   {
    "number": "140",
    "name": "Varoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488028_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488028/pokemon-sv01-scarlet-and-violet-base-set-varoom-140-198",
    "product_id": 488028,
@@ -2830,6 +3110,7 @@
   {
    "number": "141",
    "name": "Varoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488029_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488029/pokemon-sv01-scarlet-and-violet-base-set-varoom-141-198",
    "product_id": 488029,
@@ -2840,6 +3121,7 @@
   {
    "number": "141",
    "name": "Varoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488029_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488029/pokemon-sv01-scarlet-and-violet-base-set-varoom-141-198",
    "product_id": 488029,
@@ -2850,6 +3132,7 @@
   {
    "number": "142",
    "name": "Revavroom",
+   "rarity": "Promo",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/494956_400w.jpg",
    "url": "https://www.tcgplayer.com/product/494956/pokemon-deck-exclusives-revavroom-142-198",
    "product_id": 494956,
@@ -2861,6 +3144,7 @@
   {
    "number": "142",
    "name": "Revavroom",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488030_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488030/pokemon-sv01-scarlet-and-violet-base-set-revavroom",
    "product_id": 488030,
@@ -2872,6 +3156,7 @@
   {
    "number": "142",
    "name": "Revavroom",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488030_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488030/pokemon-sv01-scarlet-and-violet-base-set-revavroom",
    "product_id": 488030,
@@ -2883,6 +3168,7 @@
   {
    "number": "143",
    "name": "Iron Treads ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485106_400w.jpg",
    "url": "https://www.tcgplayer.com/product/485106/pokemon-sv01-scarlet-and-violet-base-set-iron-treads-ex-143-198",
    "product_id": 485106,
@@ -2893,6 +3179,7 @@
   {
    "number": "144",
    "name": "Chansey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488031_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488031/pokemon-sv01-scarlet-and-violet-base-set-chansey",
    "product_id": 488031,
@@ -2903,6 +3190,7 @@
   {
    "number": "144",
    "name": "Chansey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488031_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488031/pokemon-sv01-scarlet-and-violet-base-set-chansey",
    "product_id": 488031,
@@ -2913,6 +3201,7 @@
   {
    "number": "145",
    "name": "Blissey",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488033_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488033/pokemon-sv01-scarlet-and-violet-base-set-blissey",
    "product_id": 488033,
@@ -2923,6 +3212,7 @@
   {
    "number": "145",
    "name": "Blissey",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488033_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488033/pokemon-sv01-scarlet-and-violet-base-set-blissey",
    "product_id": 488033,
@@ -2933,6 +3223,7 @@
   {
    "number": "146",
    "name": "Zangoose",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488035_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488035/pokemon-sv01-scarlet-and-violet-base-set-zangoose-146-198",
    "product_id": 488035,
@@ -2943,6 +3234,7 @@
   {
    "number": "146",
    "name": "Zangoose",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488035_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488035/pokemon-sv01-scarlet-and-violet-base-set-zangoose-146-198",
    "product_id": 488035,
@@ -2953,6 +3245,7 @@
   {
    "number": "147",
    "name": "Zangoose",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488036_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488036/pokemon-sv01-scarlet-and-violet-base-set-zangoose-147-198",
    "product_id": 488036,
@@ -2963,6 +3256,7 @@
   {
    "number": "147",
    "name": "Zangoose",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488036_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488036/pokemon-sv01-scarlet-and-violet-base-set-zangoose-147-198",
    "product_id": 488036,
@@ -2973,6 +3267,7 @@
   {
    "number": "148",
    "name": "Starly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488037_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488037/pokemon-sv01-scarlet-and-violet-base-set-starly-148-198",
    "product_id": 488037,
@@ -2983,6 +3278,7 @@
   {
    "number": "148",
    "name": "Starly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488037_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488037/pokemon-sv01-scarlet-and-violet-base-set-starly-148-198",
    "product_id": 488037,
@@ -2993,6 +3289,7 @@
   {
    "number": "149",
    "name": "Staravia",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488038_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488038/pokemon-sv01-scarlet-and-violet-base-set-staravia",
    "product_id": 488038,
@@ -3003,6 +3300,7 @@
   {
    "number": "149",
    "name": "Staravia",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488038_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488038/pokemon-sv01-scarlet-and-violet-base-set-staravia",
    "product_id": 488038,
@@ -3013,6 +3311,7 @@
   {
    "number": "150",
    "name": "Staraptor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488040_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488040/pokemon-sv01-scarlet-and-violet-base-set-staraptor",
    "product_id": 488040,
@@ -3023,6 +3322,7 @@
   {
    "number": "150",
    "name": "Staraptor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488040_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488040/pokemon-sv01-scarlet-and-violet-base-set-staraptor",
    "product_id": 488040,
@@ -3033,6 +3333,7 @@
   {
    "number": "151",
    "name": "Skwovet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488041_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488041/pokemon-sv01-scarlet-and-violet-base-set-skwovet-151-198",
    "product_id": 488041,
@@ -3043,6 +3344,7 @@
   {
    "number": "151",
    "name": "Skwovet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488041_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488041/pokemon-sv01-scarlet-and-violet-base-set-skwovet-151-198",
    "product_id": 488041,
@@ -3053,6 +3355,7 @@
   {
    "number": "152",
    "name": "Greedent",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488043_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488043/pokemon-sv01-scarlet-and-violet-base-set-greedent",
    "product_id": 488043,
@@ -3063,6 +3366,7 @@
   {
    "number": "152",
    "name": "Greedent",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488043_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488043/pokemon-sv01-scarlet-and-violet-base-set-greedent",
    "product_id": 488043,
@@ -3073,6 +3377,7 @@
   {
    "number": "153",
    "name": "Indeedee",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/583730_400w.jpg",
    "url": "https://www.tcgplayer.com/product/583730/pokemon-deck-exclusives-indeedee",
    "product_id": 583730,
@@ -3084,6 +3389,7 @@
   {
    "number": "153",
    "name": "Indeedee",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488045_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488045/pokemon-sv01-scarlet-and-violet-base-set-indeedee",
    "product_id": 488045,
@@ -3095,6 +3401,7 @@
   {
    "number": "153",
    "name": "Indeedee",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488045_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488045/pokemon-sv01-scarlet-and-violet-base-set-indeedee",
    "product_id": 488045,
@@ -3106,6 +3413,7 @@
   {
    "number": "154",
    "name": "Lechonk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488048_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488048/pokemon-sv01-scarlet-and-violet-base-set-lechonk-154-198",
    "product_id": 488048,
@@ -3116,6 +3424,7 @@
   {
    "number": "154",
    "name": "Lechonk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488048_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488048/pokemon-sv01-scarlet-and-violet-base-set-lechonk-154-198",
    "product_id": 488048,
@@ -3126,6 +3435,7 @@
   {
    "number": "155",
    "name": "Lechonk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485108_400w.jpg",
    "url": "https://www.tcgplayer.com/product/485108/pokemon-sv01-scarlet-and-violet-base-set-lechonk-155-198",
    "product_id": 485108,
@@ -3136,6 +3446,7 @@
   {
    "number": "155",
    "name": "Lechonk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485108_400w.jpg",
    "url": "https://www.tcgplayer.com/product/485108/pokemon-sv01-scarlet-and-violet-base-set-lechonk-155-198",
    "product_id": 485108,
@@ -3146,6 +3457,7 @@
   {
    "number": "156",
    "name": "Lechonk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488050_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488050/pokemon-sv01-scarlet-and-violet-base-set-lechonk-156-198",
    "product_id": 488050,
@@ -3156,6 +3468,7 @@
   {
    "number": "156",
    "name": "Lechonk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488050_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488050/pokemon-sv01-scarlet-and-violet-base-set-lechonk-156-198",
    "product_id": 488050,
@@ -3166,6 +3479,7 @@
   {
    "number": "157",
    "name": "Oinkologne",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488052_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488052/pokemon-sv01-scarlet-and-violet-base-set-oinkologne",
    "product_id": 488052,
@@ -3176,6 +3490,7 @@
   {
    "number": "157",
    "name": "Oinkologne",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488052_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488052/pokemon-sv01-scarlet-and-violet-base-set-oinkologne",
    "product_id": 488052,
@@ -3186,6 +3501,7 @@
   {
    "number": "158",
    "name": "Oinkologne ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488053_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488053/pokemon-sv01-scarlet-and-violet-base-set-oinkologne-ex-158-198",
    "product_id": 488053,
@@ -3196,6 +3512,7 @@
   {
    "number": "159",
    "name": "Tandemaus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488054_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488054/pokemon-sv01-scarlet-and-violet-base-set-tandemaus-159-198",
    "product_id": 488054,
@@ -3206,6 +3523,7 @@
   {
    "number": "159",
    "name": "Tandemaus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488054_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488054/pokemon-sv01-scarlet-and-violet-base-set-tandemaus-159-198",
    "product_id": 488054,
@@ -3216,6 +3534,7 @@
   {
    "number": "160",
    "name": "Tandemaus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488056_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488056/pokemon-sv01-scarlet-and-violet-base-set-tandemaus-160-198",
    "product_id": 488056,
@@ -3226,6 +3545,7 @@
   {
    "number": "160",
    "name": "Tandemaus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488056_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488056/pokemon-sv01-scarlet-and-violet-base-set-tandemaus-160-198",
    "product_id": 488056,
@@ -3236,6 +3556,7 @@
   {
    "number": "161",
    "name": "Maushold",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488057_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488057/pokemon-sv01-scarlet-and-violet-base-set-maushold",
    "product_id": 488057,
@@ -3246,6 +3567,7 @@
   {
    "number": "161",
    "name": "Maushold",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488057_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488057/pokemon-sv01-scarlet-and-violet-base-set-maushold",
    "product_id": 488057,
@@ -3256,6 +3578,7 @@
   {
    "number": "162",
    "name": "Squawkabilly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488058_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488058/pokemon-sv01-scarlet-and-violet-base-set-squawkabilly",
    "product_id": 488058,
@@ -3266,6 +3589,7 @@
   {
    "number": "162",
    "name": "Squawkabilly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488058_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488058/pokemon-sv01-scarlet-and-violet-base-set-squawkabilly",
    "product_id": 488058,
@@ -3276,6 +3600,7 @@
   {
    "number": "163",
    "name": "Cyclizar",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488059_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488059/pokemon-sv01-scarlet-and-violet-base-set-cyclizar-163-198",
    "product_id": 488059,
@@ -3286,6 +3611,7 @@
   {
    "number": "163",
    "name": "Cyclizar",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488059_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488059/pokemon-sv01-scarlet-and-violet-base-set-cyclizar-163-198",
    "product_id": 488059,
@@ -3296,6 +3622,7 @@
   {
    "number": "164",
    "name": "Cyclizar",
+   "rarity": "Promo",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/505059_400w.jpg",
    "url": "https://www.tcgplayer.com/product/505059/pokemon-deck-exclusives-cyclizar-164-198",
    "product_id": 505059,
@@ -3307,6 +3634,7 @@
   {
    "number": "164",
    "name": "Cyclizar",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487059_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487059/pokemon-sv01-scarlet-and-violet-base-set-cyclizar-164-198",
    "product_id": 487059,
@@ -3318,6 +3646,7 @@
   {
    "number": "164",
    "name": "Cyclizar",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487059_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487059/pokemon-sv01-scarlet-and-violet-base-set-cyclizar-164-198",
    "product_id": 487059,
@@ -3329,6 +3658,7 @@
   {
    "number": "165",
    "name": "Flamigo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488060_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488060/pokemon-sv01-scarlet-and-violet-base-set-flamigo",
    "product_id": 488060,
@@ -3339,6 +3669,7 @@
   {
    "number": "165",
    "name": "Flamigo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488060_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488060/pokemon-sv01-scarlet-and-violet-base-set-flamigo",
    "product_id": 488060,
@@ -3349,6 +3680,7 @@
   {
    "number": "166",
    "name": "Arven",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488071_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488071/pokemon-sv01-scarlet-and-violet-base-set-arven-166-198",
    "product_id": 488071,
@@ -3359,6 +3691,7 @@
   {
    "number": "166",
    "name": "Arven",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488071_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488071/pokemon-sv01-scarlet-and-violet-base-set-arven-166-198",
    "product_id": 488071,
@@ -3369,6 +3702,7 @@
   {
    "number": "167",
    "name": "Beach Court",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488072_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488072/pokemon-sv01-scarlet-and-violet-base-set-beach-court",
    "product_id": 488072,
@@ -3379,6 +3713,7 @@
   {
    "number": "167",
    "name": "Beach Court",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488072_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488072/pokemon-sv01-scarlet-and-violet-base-set-beach-court",
    "product_id": 488072,
@@ -3389,6 +3724,7 @@
   {
    "number": "168",
    "name": "Crushing Hammer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488073_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488073/pokemon-sv01-scarlet-and-violet-base-set-crushing-hammer",
    "product_id": 488073,
@@ -3399,6 +3735,7 @@
   {
    "number": "168",
    "name": "Crushing Hammer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488073_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488073/pokemon-sv01-scarlet-and-violet-base-set-crushing-hammer",
    "product_id": 488073,
@@ -3409,6 +3746,7 @@
   {
    "number": "169",
    "name": "Defiance Band",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488074_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488074/pokemon-sv01-scarlet-and-violet-base-set-defiance-band",
    "product_id": 488074,
@@ -3419,6 +3757,7 @@
   {
    "number": "169",
    "name": "Defiance Band",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488074_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488074/pokemon-sv01-scarlet-and-violet-base-set-defiance-band",
    "product_id": 488074,
@@ -3429,6 +3768,7 @@
   {
    "number": "170",
    "name": "Electric Generator",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488075_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488075/pokemon-sv01-scarlet-and-violet-base-set-electric-generator",
    "product_id": 488075,
@@ -3439,6 +3779,7 @@
   {
    "number": "170",
    "name": "Electric Generator",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488075_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488075/pokemon-sv01-scarlet-and-violet-base-set-electric-generator",
    "product_id": 488075,
@@ -3449,6 +3790,7 @@
   {
    "number": "171",
    "name": "Energy Retrieval",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488076_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488076/pokemon-sv01-scarlet-and-violet-base-set-energy-retrieval",
    "product_id": 488076,
@@ -3459,6 +3801,7 @@
   {
    "number": "171",
    "name": "Energy Retrieval",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488076_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488076/pokemon-sv01-scarlet-and-violet-base-set-energy-retrieval",
    "product_id": 488076,
@@ -3469,6 +3812,7 @@
   {
    "number": "172",
    "name": "Energy Search",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488077_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488077/pokemon-sv01-scarlet-and-violet-base-set-energy-search",
    "product_id": 488077,
@@ -3479,6 +3823,7 @@
   {
    "number": "172",
    "name": "Energy Search",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488077_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488077/pokemon-sv01-scarlet-and-violet-base-set-energy-search",
    "product_id": 488077,
@@ -3489,6 +3834,7 @@
   {
    "number": "173",
    "name": "Energy Switch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488078_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488078/pokemon-sv01-scarlet-and-violet-base-set-energy-switch",
    "product_id": 488078,
@@ -3499,6 +3845,7 @@
   {
    "number": "173",
    "name": "Energy Switch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488078_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488078/pokemon-sv01-scarlet-and-violet-base-set-energy-switch",
    "product_id": 488078,
@@ -3509,6 +3856,7 @@
   {
    "number": "174",
    "name": "Exp. Share",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488079_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488079/pokemon-sv01-scarlet-and-violet-base-set-exp-share",
    "product_id": 488079,
@@ -3519,6 +3867,7 @@
   {
    "number": "174",
    "name": "Exp. Share",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488079_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488079/pokemon-sv01-scarlet-and-violet-base-set-exp-share",
    "product_id": 488079,
@@ -3529,6 +3878,7 @@
   {
    "number": "175",
    "name": "Jacq",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488080_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488080/pokemon-sv01-scarlet-and-violet-base-set-jacq-175-198",
    "product_id": 488080,
@@ -3539,6 +3889,7 @@
   {
    "number": "175",
    "name": "Jacq",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488080_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488080/pokemon-sv01-scarlet-and-violet-base-set-jacq-175-198",
    "product_id": 488080,
@@ -3549,6 +3900,7 @@
   {
    "number": "176",
    "name": "Judge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488081_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488081/pokemon-sv01-scarlet-and-violet-base-set-judge",
    "product_id": 488081,
@@ -3559,6 +3911,7 @@
   {
    "number": "176",
    "name": "Judge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488081_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488081/pokemon-sv01-scarlet-and-violet-base-set-judge",
    "product_id": 488081,
@@ -3569,6 +3922,7 @@
   {
    "number": "177",
    "name": "Katy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488082_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488082/pokemon-sv01-scarlet-and-violet-base-set-katy-177-198",
    "product_id": 488082,
@@ -3579,6 +3933,7 @@
   {
    "number": "177",
    "name": "Katy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488082_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488082/pokemon-sv01-scarlet-and-violet-base-set-katy-177-198",
    "product_id": 488082,
@@ -3589,6 +3944,7 @@
   {
    "number": "178",
    "name": "Mesagoza",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488083_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488083/pokemon-sv01-scarlet-and-violet-base-set-mesagoza-178-198",
    "product_id": 488083,
@@ -3599,6 +3955,7 @@
   {
    "number": "178",
    "name": "Mesagoza",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488083_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488083/pokemon-sv01-scarlet-and-violet-base-set-mesagoza-178-198",
    "product_id": 488083,
@@ -3609,6 +3966,7 @@
   {
    "number": "179",
    "name": "Miriam",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488085_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488085/pokemon-sv01-scarlet-and-violet-base-set-miriam-179-198",
    "product_id": 488085,
@@ -3619,6 +3977,7 @@
   {
    "number": "179",
    "name": "Miriam",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488085_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488085/pokemon-sv01-scarlet-and-violet-base-set-miriam-179-198",
    "product_id": 488085,
@@ -3629,6 +3988,7 @@
   {
    "number": "180",
    "name": "Nemona",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488086_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488086/pokemon-sv01-scarlet-and-violet-base-set-nemona",
    "product_id": 488086,
@@ -3639,6 +3999,7 @@
   {
    "number": "180",
    "name": "Nemona",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488086_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488086/pokemon-sv01-scarlet-and-violet-base-set-nemona",
    "product_id": 488086,
@@ -3649,6 +4010,7 @@
   {
    "number": "181",
    "name": "Nest Ball",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488087_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488087/pokemon-sv01-scarlet-and-violet-base-set-nest-ball-181-198",
    "product_id": 488087,
@@ -3659,6 +4021,7 @@
   {
    "number": "181",
    "name": "Nest Ball",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488087_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488087/pokemon-sv01-scarlet-and-violet-base-set-nest-ball-181-198",
    "product_id": 488087,
@@ -3669,6 +4032,7 @@
   {
    "number": "182",
    "name": "Pal Pad",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488088_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488088/pokemon-sv01-scarlet-and-violet-base-set-pal-pad",
    "product_id": 488088,
@@ -3679,6 +4043,7 @@
   {
    "number": "182",
    "name": "Pal Pad",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488088_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488088/pokemon-sv01-scarlet-and-violet-base-set-pal-pad",
    "product_id": 488088,
@@ -3689,6 +4054,7 @@
   {
    "number": "183",
    "name": "Penny",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488089_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488089/pokemon-sv01-scarlet-and-violet-base-set-penny-183-198",
    "product_id": 488089,
@@ -3699,6 +4065,7 @@
   {
    "number": "183",
    "name": "Penny",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488089_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488089/pokemon-sv01-scarlet-and-violet-base-set-penny-183-198",
    "product_id": 488089,
@@ -3709,6 +4076,7 @@
   {
    "number": "184",
    "name": "Picnic Basket",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488090_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488090/pokemon-sv01-scarlet-and-violet-base-set-picnic-basket",
    "product_id": 488090,
@@ -3719,6 +4087,7 @@
   {
    "number": "184",
    "name": "Picnic Basket",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488090_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488090/pokemon-sv01-scarlet-and-violet-base-set-picnic-basket",
    "product_id": 488090,
@@ -3729,6 +4098,7 @@
   {
    "number": "185",
    "name": "Poke Ball",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488091_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488091/pokemon-sv01-scarlet-and-violet-base-set-poke-ball",
    "product_id": 488091,
@@ -3739,6 +4109,7 @@
   {
    "number": "185",
    "name": "Poke Ball",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488091_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488091/pokemon-sv01-scarlet-and-violet-base-set-poke-ball",
    "product_id": 488091,
@@ -3749,6 +4120,7 @@
   {
    "number": "186",
    "name": "Pokegear 3.0",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488092_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488092/pokemon-sv01-scarlet-and-violet-base-set-pokegear-30",
    "product_id": 488092,
@@ -3759,6 +4131,7 @@
   {
    "number": "186",
    "name": "Pokegear 3.0",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488092_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488092/pokemon-sv01-scarlet-and-violet-base-set-pokegear-30",
    "product_id": 488092,
@@ -3769,6 +4142,7 @@
   {
    "number": "187",
    "name": "Pokemon Catcher",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488093_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488093/pokemon-sv01-scarlet-and-violet-base-set-pokemon-catcher",
    "product_id": 488093,
@@ -3779,6 +4153,7 @@
   {
    "number": "187",
    "name": "Pokemon Catcher",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488093_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488093/pokemon-sv01-scarlet-and-violet-base-set-pokemon-catcher",
    "product_id": 488093,
@@ -3789,6 +4164,7 @@
   {
    "number": "188",
    "name": "Potion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488094_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488094/pokemon-sv01-scarlet-and-violet-base-set-potion",
    "product_id": 488094,
@@ -3799,6 +4175,7 @@
   {
    "number": "188",
    "name": "Potion",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488094_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488094/pokemon-sv01-scarlet-and-violet-base-set-potion",
    "product_id": 488094,
@@ -3809,6 +4186,7 @@
   {
    "number": "189",
    "name": "Professor's Research [Professor Sada]",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/494096_400w.jpg",
    "url": "https://www.tcgplayer.com/product/494096/pokemon-deck-exclusives-professors-research-professor-sada-189-198-non-holo",
    "product_id": 494096,
@@ -3820,6 +4198,7 @@
   {
    "number": "189",
    "name": "Professor's Research [Professor Sada]",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475423_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475423/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-sada-189-198",
    "product_id": 475423,
@@ -3831,6 +4210,7 @@
   {
    "number": "189",
    "name": "Professor's Research [Professor Sada]",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475423_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475423/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-sada-189-198",
    "product_id": 475423,
@@ -3842,6 +4222,7 @@
   {
    "number": "190",
    "name": "Professor's Research [Professor Turo]",
+   "rarity": "Promo",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/494957_400w.jpg",
    "url": "https://www.tcgplayer.com/product/494957/pokemon-deck-exclusives-professors-research-professor-turo-190-198-non-holo",
    "product_id": 494957,
@@ -3853,6 +4234,7 @@
   {
    "number": "190",
    "name": "Professor's Research [Professor Turo]",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475424_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475424/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-turo-190-198",
    "product_id": 475424,
@@ -3864,6 +4246,7 @@
   {
    "number": "190",
    "name": "Professor's Research [Professor Turo]",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475424_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475424/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-turo-190-198",
    "product_id": 475424,
@@ -3875,6 +4258,7 @@
   {
    "number": "191",
    "name": "Rare Candy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488098_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488098/pokemon-sv01-scarlet-and-violet-base-set-rare-candy-191-198",
    "product_id": 488098,
@@ -3885,6 +4269,7 @@
   {
    "number": "191",
    "name": "Rare Candy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488098_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488098/pokemon-sv01-scarlet-and-violet-base-set-rare-candy-191-198",
    "product_id": 488098,
@@ -3895,6 +4280,7 @@
   {
    "number": "192",
    "name": "Rock Chestplate",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475443_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475443/pokemon-sv01-scarlet-and-violet-base-set-rock-chestplate",
    "product_id": 475443,
@@ -3905,6 +4291,7 @@
   {
    "number": "192",
    "name": "Rock Chestplate",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/475443_400w.jpg",
    "url": "https://www.tcgplayer.com/product/475443/pokemon-sv01-scarlet-and-violet-base-set-rock-chestplate",
    "product_id": 475443,
@@ -3915,6 +4302,7 @@
   {
    "number": "193",
    "name": "Rocky Helmet",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488100_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488100/pokemon-sv01-scarlet-and-violet-base-set-rocky-helmet",
    "product_id": 488100,
@@ -3925,6 +4313,7 @@
   {
    "number": "193",
    "name": "Rocky Helmet",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488100_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488100/pokemon-sv01-scarlet-and-violet-base-set-rocky-helmet",
    "product_id": 488100,
@@ -3935,6 +4324,7 @@
   {
    "number": "194",
    "name": "Switch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488102_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488102/pokemon-sv01-scarlet-and-violet-base-set-switch",
    "product_id": 488102,
@@ -3945,6 +4335,7 @@
   {
    "number": "194",
    "name": "Switch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488102_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488102/pokemon-sv01-scarlet-and-violet-base-set-switch",
    "product_id": 488102,
@@ -3955,6 +4346,7 @@
   {
    "number": "195",
    "name": "Team Star Grunt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488104_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488104/pokemon-sv01-scarlet-and-violet-base-set-team-star-grunt-195-198",
    "product_id": 488104,
@@ -3965,6 +4357,7 @@
   {
    "number": "195",
    "name": "Team Star Grunt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488104_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488104/pokemon-sv01-scarlet-and-violet-base-set-team-star-grunt-195-198",
    "product_id": 488104,
@@ -3975,6 +4368,7 @@
   {
    "number": "196",
    "name": "Ultra Ball",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488105_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488105/pokemon-sv01-scarlet-and-violet-base-set-ultra-ball",
    "product_id": 488105,
@@ -3985,6 +4379,7 @@
   {
    "number": "196",
    "name": "Ultra Ball",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488105_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488105/pokemon-sv01-scarlet-and-violet-base-set-ultra-ball",
    "product_id": 488105,
@@ -3995,6 +4390,7 @@
   {
    "number": "197",
    "name": "Vitality Band",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488107_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488107/pokemon-sv01-scarlet-and-violet-base-set-vitality-band",
    "product_id": 488107,
@@ -4005,6 +4401,7 @@
   {
    "number": "197",
    "name": "Vitality Band",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488107_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488107/pokemon-sv01-scarlet-and-violet-base-set-vitality-band",
    "product_id": 488107,
@@ -4015,6 +4412,7 @@
   {
    "number": "198",
    "name": "Youngster",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488108_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488108/pokemon-sv01-scarlet-and-violet-base-set-youngster",
    "product_id": 488108,
@@ -4025,6 +4423,7 @@
   {
    "number": "198",
    "name": "Youngster",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/488108_400w.jpg",
    "url": "https://www.tcgplayer.com/product/488108/pokemon-sv01-scarlet-and-violet-base-set-youngster",
    "product_id": 488108,
@@ -4035,6 +4434,7 @@
   {
    "number": "199",
    "name": "Tarountula",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490293_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490293/pokemon-sv01-scarlet-and-violet-base-set-tarountula-199-198",
    "product_id": 490293,
@@ -4045,6 +4445,7 @@
   {
    "number": "200",
    "name": "Dolliv",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/486622_400w.jpg",
    "url": "https://www.tcgplayer.com/product/486622/pokemon-sv01-scarlet-and-violet-base-set-dolliv-200-198",
    "product_id": 486622,
@@ -4055,6 +4456,7 @@
   {
    "number": "201",
    "name": "Toedscool",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490049_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490049/pokemon-sv01-scarlet-and-violet-base-set-toedscool-201-198",
    "product_id": 490049,
@@ -4065,6 +4467,7 @@
   {
    "number": "202",
    "name": "Scovillain",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490062_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490062/pokemon-sv01-scarlet-and-violet-base-set-scovillain-202-198",
    "product_id": 490062,
@@ -4075,6 +4478,7 @@
   {
    "number": "203",
    "name": "Armarouge",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490063_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490063/pokemon-sv01-scarlet-and-violet-base-set-armarouge-203-198",
    "product_id": 490063,
@@ -4085,6 +4489,7 @@
   {
    "number": "204",
    "name": "Slowpoke",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490064_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490064/pokemon-sv01-scarlet-and-violet-base-set-slowpoke-204-198",
    "product_id": 490064,
@@ -4095,6 +4500,7 @@
   {
    "number": "205",
    "name": "Clauncher",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490066_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490066/pokemon-sv01-scarlet-and-violet-base-set-clauncher-205-198",
    "product_id": 490066,
@@ -4105,6 +4511,7 @@
   {
    "number": "206",
    "name": "Wiglett",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490067_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490067/pokemon-sv01-scarlet-and-violet-base-set-wiglett-206-198",
    "product_id": 490067,
@@ -4115,6 +4522,7 @@
   {
    "number": "207",
    "name": "Dondozo",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487060_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487060/pokemon-sv01-scarlet-and-violet-base-set-dondozo-207-198",
    "product_id": 487060,
@@ -4125,6 +4533,7 @@
   {
    "number": "208",
    "name": "Pachirisu",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490068_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490068/pokemon-sv01-scarlet-and-violet-base-set-pachirisu-208-198",
    "product_id": 490068,
@@ -4135,6 +4544,7 @@
   {
    "number": "209",
    "name": "Pawmot",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490069_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490069/pokemon-sv01-scarlet-and-violet-base-set-pawmot-209-198",
    "product_id": 490069,
@@ -4145,6 +4555,7 @@
   {
    "number": "210",
    "name": "Drowzee",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490070_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490070/pokemon-sv01-scarlet-and-violet-base-set-drowzee-210-198",
    "product_id": 490070,
@@ -4155,6 +4566,7 @@
   {
    "number": "211",
    "name": "Ralts",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490071_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490071/pokemon-sv01-scarlet-and-violet-base-set-ralts-211-198",
    "product_id": 490071,
@@ -4165,6 +4577,7 @@
   {
    "number": "212",
    "name": "Kirlia",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490072_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490072/pokemon-sv01-scarlet-and-violet-base-set-kirlia-212-198",
    "product_id": 490072,
@@ -4175,6 +4588,7 @@
   {
    "number": "213",
    "name": "Fidough",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487086_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487086/pokemon-sv01-scarlet-and-violet-base-set-fidough-213-198",
    "product_id": 487086,
@@ -4185,6 +4599,7 @@
   {
    "number": "214",
    "name": "Greavard",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490073_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490073/pokemon-sv01-scarlet-and-violet-base-set-greavard-214-198",
    "product_id": 490073,
@@ -4195,6 +4610,7 @@
   {
    "number": "215",
    "name": "Riolu",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490074_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490074/pokemon-sv01-scarlet-and-violet-base-set-riolu-215-198",
    "product_id": 490074,
@@ -4205,6 +4621,7 @@
   {
    "number": "216",
    "name": "Sandile",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/489631_400w.jpg",
    "url": "https://www.tcgplayer.com/product/489631/pokemon-sv01-scarlet-and-violet-base-set-sandile-216-198",
    "product_id": 489631,
@@ -4215,6 +4632,7 @@
   {
    "number": "217",
    "name": "Klawf",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490075_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490075/pokemon-sv01-scarlet-and-violet-base-set-klawf-217-198",
    "product_id": 490075,
@@ -4225,6 +4643,7 @@
   {
    "number": "218",
    "name": "Mabosstiff",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490076_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490076/pokemon-sv01-scarlet-and-violet-base-set-mabosstiff-218-198",
    "product_id": 490076,
@@ -4235,6 +4654,7 @@
   {
    "number": "219",
    "name": "Bombirdier",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490077_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490077/pokemon-sv01-scarlet-and-violet-base-set-bombirdier-219-198",
    "product_id": 490077,
@@ -4245,6 +4665,7 @@
   {
    "number": "220",
    "name": "Kingambit",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490078_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490078/pokemon-sv01-scarlet-and-violet-base-set-kingambit-220-198",
    "product_id": 490078,
@@ -4255,6 +4676,7 @@
   {
    "number": "221",
    "name": "Starly",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490079_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490079/pokemon-sv01-scarlet-and-violet-base-set-starly-221-198",
    "product_id": 490079,
@@ -4265,6 +4687,7 @@
   {
    "number": "222",
    "name": "Skwovet",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490080_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490080/pokemon-sv01-scarlet-and-violet-base-set-skwovet-222-198",
    "product_id": 490080,
@@ -4275,6 +4698,7 @@
   {
    "number": "223",
    "name": "Spidops ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490081_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490081/pokemon-sv01-scarlet-and-violet-base-set-spidops-ex-223-198",
    "product_id": 490081,
@@ -4285,6 +4709,7 @@
   {
    "number": "224",
    "name": "Arcanine ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490082_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490082/pokemon-sv01-scarlet-and-violet-base-set-arcanine-ex-224-198",
    "product_id": 490082,
@@ -4295,6 +4720,7 @@
   {
    "number": "225",
    "name": "Gyarados ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490083_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490083/pokemon-sv01-scarlet-and-violet-base-set-gyarados-ex-225-198",
    "product_id": 490083,
@@ -4305,6 +4731,7 @@
   {
    "number": "226",
    "name": "Magnezone ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490084_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490084/pokemon-sv01-scarlet-and-violet-base-set-magnezone-ex-226-198",
    "product_id": 490084,
@@ -4315,6 +4742,7 @@
   {
    "number": "227",
    "name": "Miraidon ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490085_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490085/pokemon-sv01-scarlet-and-violet-base-set-miraidon-ex-227-198",
    "product_id": 490085,
@@ -4325,6 +4753,7 @@
   {
    "number": "228",
    "name": "Gardevoir ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490086_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490086/pokemon-sv01-scarlet-and-violet-base-set-gardevoir-ex-228-198",
    "product_id": 490086,
@@ -4335,6 +4764,7 @@
   {
    "number": "229",
    "name": "Banette ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490087_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490087/pokemon-sv01-scarlet-and-violet-base-set-banette-ex-229-198",
    "product_id": 490087,
@@ -4345,6 +4775,7 @@
   {
    "number": "230",
    "name": "Great Tusk ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490088_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490088/pokemon-sv01-scarlet-and-violet-base-set-great-tusk-ex-230-198",
    "product_id": 490088,
@@ -4355,6 +4786,7 @@
   {
    "number": "231",
    "name": "Koraidon ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490089_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490089/pokemon-sv01-scarlet-and-violet-base-set-koraidon-ex-231-198",
    "product_id": 490089,
@@ -4365,6 +4797,7 @@
   {
    "number": "232",
    "name": "Toxicroak ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490090_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490090/pokemon-sv01-scarlet-and-violet-base-set-toxicroak-ex-232-198",
    "product_id": 490090,
@@ -4375,6 +4808,7 @@
   {
    "number": "233",
    "name": "Iron Treads ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490091_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490091/pokemon-sv01-scarlet-and-violet-base-set-iron-treads-ex-233-198",
    "product_id": 490091,
@@ -4385,6 +4819,7 @@
   {
    "number": "234",
    "name": "Oinkologne ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490092_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490092/pokemon-sv01-scarlet-and-violet-base-set-oinkologne-ex-234-198",
    "product_id": 490092,
@@ -4395,6 +4830,7 @@
   {
    "number": "235",
    "name": "Arven",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490093_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490093/pokemon-sv01-scarlet-and-violet-base-set-arven-235-198",
    "product_id": 490093,
@@ -4405,6 +4841,7 @@
   {
    "number": "236",
    "name": "Jacq",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490094_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490094/pokemon-sv01-scarlet-and-violet-base-set-jacq-236-198",
    "product_id": 490094,
@@ -4415,6 +4852,7 @@
   {
    "number": "237",
    "name": "Katy",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490095_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490095/pokemon-sv01-scarlet-and-violet-base-set-katy-237-198",
    "product_id": 490095,
@@ -4425,6 +4863,7 @@
   {
    "number": "238",
    "name": "Miriam",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490096_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490096/pokemon-sv01-scarlet-and-violet-base-set-miriam-238-198",
    "product_id": 490096,
@@ -4435,6 +4874,7 @@
   {
    "number": "239",
    "name": "Penny",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490097_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490097/pokemon-sv01-scarlet-and-violet-base-set-penny-239-198",
    "product_id": 490097,
@@ -4445,6 +4885,7 @@
   {
    "number": "240",
    "name": "Professor's Research [Professor Sada]",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490098_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490098/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-sada-240-198",
    "product_id": 490098,
@@ -4455,6 +4896,7 @@
   {
    "number": "241",
    "name": "Professor's Research [Professor Turo]",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490099_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490099/pokemon-sv01-scarlet-and-violet-base-set-professors-research-professor-turo-241-198",
    "product_id": 490099,
@@ -4465,6 +4907,7 @@
   {
    "number": "242",
    "name": "Team Star Grunt",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487149_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487149/pokemon-sv01-scarlet-and-violet-base-set-team-star-grunt-242-198",
    "product_id": 487149,
@@ -4475,6 +4918,7 @@
   {
    "number": "243",
    "name": "Spidops ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487147_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487147/pokemon-sv01-scarlet-and-violet-base-set-spidops-ex-243-198",
    "product_id": 487147,
@@ -4485,6 +4929,7 @@
   {
    "number": "244",
    "name": "Miraidon ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/485259_400w.jpg",
    "url": "https://www.tcgplayer.com/product/485259/pokemon-sv01-scarlet-and-violet-base-set-miraidon-ex-244-198",
    "product_id": 485259,
@@ -4495,6 +4940,7 @@
   {
    "number": "245",
    "name": "Gardevoir ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/486623_400w.jpg",
    "url": "https://www.tcgplayer.com/product/486623/pokemon-sv01-scarlet-and-violet-base-set-gardevoir-ex-245-198",
    "product_id": 486623,
@@ -4505,6 +4951,7 @@
   {
    "number": "246",
    "name": "Great Tusk ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490290_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490290/pokemon-sv01-scarlet-and-violet-base-set-great-tusk-ex-246-198",
    "product_id": 490290,
@@ -4515,6 +4962,7 @@
   {
    "number": "247",
    "name": "Koraidon ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490044_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490044/pokemon-sv01-scarlet-and-violet-base-set-koraidon-ex-247-198",
    "product_id": 490044,
@@ -4525,6 +4973,7 @@
   {
    "number": "248",
    "name": "Iron Treads ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490291_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490291/pokemon-sv01-scarlet-and-violet-base-set-iron-treads-ex-248-198",
    "product_id": 490291,
@@ -4535,6 +4984,7 @@
   {
    "number": "249",
    "name": "Arven",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490292_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490292/pokemon-sv01-scarlet-and-violet-base-set-arven-249-198",
    "product_id": 490292,
@@ -4545,6 +4995,7 @@
   {
    "number": "250",
    "name": "Jacq",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490289_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490289/pokemon-sv01-scarlet-and-violet-base-set-jacq-250-198",
    "product_id": 490289,
@@ -4555,6 +5006,7 @@
   {
    "number": "251",
    "name": "Miriam",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/487061_400w.jpg",
    "url": "https://www.tcgplayer.com/product/487061/pokemon-sv01-scarlet-and-violet-base-set-miriam-251-198",
    "product_id": 487061,
@@ -4565,6 +5017,7 @@
   {
    "number": "252",
    "name": "Penny",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490041_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490041/pokemon-sv01-scarlet-and-violet-base-set-penny-252-198",
    "product_id": 490041,
@@ -4575,6 +5028,7 @@
   {
    "number": "253",
    "name": "Miraidon ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490043_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490043/pokemon-sv01-scarlet-and-violet-base-set-miraidon-ex-253-198",
    "product_id": 490043,
@@ -4585,6 +5039,7 @@
   {
    "number": "254",
    "name": "Koraidon ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490045_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490045/pokemon-sv01-scarlet-and-violet-base-set-koraidon-ex-254-198",
    "product_id": 490045,
@@ -4595,6 +5050,7 @@
   {
    "number": "255",
    "name": "Nest Ball",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490297_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490297/pokemon-sv01-scarlet-and-violet-base-set-nest-ball-255-198",
    "product_id": 490297,
@@ -4605,6 +5061,7 @@
   {
    "number": "256",
    "name": "Rare Candy",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490296_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490296/pokemon-sv01-scarlet-and-violet-base-set-rare-candy-256-198",
    "product_id": 490296,
@@ -4615,6 +5072,7 @@
   {
    "number": "257",
    "name": "Basic Lightning Energy",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490295_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490295/pokemon-sv01-scarlet-and-violet-base-set-basic-lightning-energy-257-198",
    "product_id": 490295,
@@ -4625,6 +5083,7 @@
   {
    "number": "258",
    "name": "Basic Fighting Energy",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/490294_400w.jpg",
    "url": "https://www.tcgplayer.com/product/490294/pokemon-sv01-scarlet-and-violet-base-set-basic-fighting-energy-258-198",
    "product_id": 490294,

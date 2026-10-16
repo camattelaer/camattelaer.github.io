@@ -10,10 +10,12 @@
  "owned_count": 51,
  "total_count": 154,
  "owned_qty": 51,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Joltik",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560311_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560311/pokemon-sv-shrouded-fable-joltik",
    "product_id": 560311,
@@ -24,6 +26,7 @@
   {
    "number": "001",
    "name": "Joltik",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560311_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560311/pokemon-sv-shrouded-fable-joltik",
    "product_id": 560311,
@@ -34,6 +37,7 @@
   {
    "number": "002",
    "name": "Galvantula",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560312_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560312/pokemon-sv-shrouded-fable-galvantula",
    "product_id": 560312,
@@ -44,6 +48,7 @@
   {
    "number": "002",
    "name": "Galvantula",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560312_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560312/pokemon-sv-shrouded-fable-galvantula",
    "product_id": 560312,
@@ -54,6 +59,7 @@
   {
    "number": "003",
    "name": "Rowlet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560313_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560313/pokemon-sv-shrouded-fable-rowlet",
    "product_id": 560313,
@@ -64,6 +70,7 @@
   {
    "number": "003",
    "name": "Rowlet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560313_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560313/pokemon-sv-shrouded-fable-rowlet",
    "product_id": 560313,
@@ -74,6 +81,7 @@
   {
    "number": "004",
    "name": "Dartrix",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560314_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560314/pokemon-sv-shrouded-fable-dartrix",
    "product_id": 560314,
@@ -84,6 +92,7 @@
   {
    "number": "004",
    "name": "Dartrix",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560314_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560314/pokemon-sv-shrouded-fable-dartrix",
    "product_id": 560314,
@@ -94,6 +103,7 @@
   {
    "number": "005",
    "name": "Decidueye",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560315_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560315/pokemon-sv-shrouded-fable-decidueye",
    "product_id": 560315,
@@ -104,6 +114,7 @@
   {
    "number": "005",
    "name": "Decidueye",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560315_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560315/pokemon-sv-shrouded-fable-decidueye",
    "product_id": 560315,
@@ -114,6 +125,7 @@
   {
    "number": "006",
    "name": "Tapu Bulu",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560316_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560316/pokemon-sv-shrouded-fable-tapu-bulu-006-064",
    "product_id": 560316,
@@ -124,6 +136,7 @@
   {
    "number": "006",
    "name": "Tapu Bulu",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560316_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560316/pokemon-sv-shrouded-fable-tapu-bulu-006-064",
    "product_id": 560316,
@@ -134,6 +147,7 @@
   {
    "number": "007",
    "name": "Houndour",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560317_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560317/pokemon-sv-shrouded-fable-houndour",
    "product_id": 560317,
@@ -144,6 +158,7 @@
   {
    "number": "007",
    "name": "Houndour",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560317_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560317/pokemon-sv-shrouded-fable-houndour",
    "product_id": 560317,
@@ -154,6 +169,7 @@
   {
    "number": "008",
    "name": "Houndoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560318_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560318/pokemon-sv-shrouded-fable-houndoom-008-064",
    "product_id": 560318,
@@ -164,6 +180,7 @@
   {
    "number": "008",
    "name": "Houndoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560318_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560318/pokemon-sv-shrouded-fable-houndoom-008-064",
    "product_id": 560318,
@@ -174,6 +191,7 @@
   {
    "number": "009",
    "name": "Iron Moth",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560319_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560319/pokemon-sv-shrouded-fable-iron-moth",
    "product_id": 560319,
@@ -184,6 +202,7 @@
   {
    "number": "009",
    "name": "Iron Moth",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560319_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560319/pokemon-sv-shrouded-fable-iron-moth",
    "product_id": 560319,
@@ -194,6 +213,7 @@
   {
    "number": "010",
    "name": "Horsea",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560320_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560320/pokemon-sv-shrouded-fable-horsea-010-064",
    "product_id": 560320,
@@ -204,6 +224,7 @@
   {
    "number": "010",
    "name": "Horsea",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560320_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560320/pokemon-sv-shrouded-fable-horsea-010-064",
    "product_id": 560320,
@@ -214,6 +235,7 @@
   {
    "number": "011",
    "name": "Seadra",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560321_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560321/pokemon-sv-shrouded-fable-seadra",
    "product_id": 560321,
@@ -224,6 +246,7 @@
   {
    "number": "011",
    "name": "Seadra",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560321_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560321/pokemon-sv-shrouded-fable-seadra",
    "product_id": 560321,
@@ -234,6 +257,7 @@
   {
    "number": "012",
    "name": "Kingdra ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560322_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560322/pokemon-sv-shrouded-fable-kingdra-ex-012-064",
    "product_id": 560322,
@@ -244,6 +268,7 @@
   {
    "number": "013",
    "name": "Sneasel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560323_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560323/pokemon-sv-shrouded-fable-sneasel",
    "product_id": 560323,
@@ -254,6 +279,7 @@
   {
    "number": "013",
    "name": "Sneasel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560323_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560323/pokemon-sv-shrouded-fable-sneasel",
    "product_id": 560323,
@@ -264,6 +290,7 @@
   {
    "number": "014",
    "name": "Weavile",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560324_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560324/pokemon-sv-shrouded-fable-weavile",
    "product_id": 560324,
@@ -274,6 +301,7 @@
   {
    "number": "014",
    "name": "Weavile",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560324_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560324/pokemon-sv-shrouded-fable-weavile",
    "product_id": 560324,
@@ -284,6 +312,7 @@
   {
    "number": "015",
    "name": "Revavroom ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560325_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560325/pokemon-sv-shrouded-fable-revavroom-ex-015-064",
    "product_id": 560325,
@@ -294,6 +323,7 @@
   {
    "number": "016",
    "name": "Drowzee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560326_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560326/pokemon-sv-shrouded-fable-drowzee",
    "product_id": 560326,
@@ -304,6 +334,7 @@
   {
    "number": "016",
    "name": "Drowzee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560326_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560326/pokemon-sv-shrouded-fable-drowzee",
    "product_id": 560326,
@@ -314,6 +345,7 @@
   {
    "number": "017",
    "name": "Hypno",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560327_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560327/pokemon-sv-shrouded-fable-hypno",
    "product_id": 560327,
@@ -324,6 +356,7 @@
   {
    "number": "017",
    "name": "Hypno",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560327_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560327/pokemon-sv-shrouded-fable-hypno",
    "product_id": 560327,
@@ -334,6 +367,7 @@
   {
    "number": "018",
    "name": "Duskull",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560328_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560328/pokemon-sv-shrouded-fable-duskull-018-064",
    "product_id": 560328,
@@ -344,6 +378,7 @@
   {
    "number": "018",
    "name": "Duskull",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560328_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560328/pokemon-sv-shrouded-fable-duskull-018-064",
    "product_id": 560328,
@@ -354,6 +389,7 @@
   {
    "number": "019",
    "name": "Dusclops",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560329_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560329/pokemon-sv-shrouded-fable-dusclops-019-064",
    "product_id": 560329,
@@ -364,6 +400,7 @@
   {
    "number": "019",
    "name": "Dusclops",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560329_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560329/pokemon-sv-shrouded-fable-dusclops-019-064",
    "product_id": 560329,
@@ -374,6 +411,7 @@
   {
    "number": "020",
    "name": "Dusknoir",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560330_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560330/pokemon-sv-shrouded-fable-dusknoir-020-064",
    "product_id": 560330,
@@ -384,6 +422,7 @@
   {
    "number": "020",
    "name": "Dusknoir",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560330_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560330/pokemon-sv-shrouded-fable-dusknoir-020-064",
    "product_id": 560330,
@@ -394,6 +433,7 @@
   {
    "number": "021",
    "name": "Cresselia",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560331_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560331/pokemon-sv-shrouded-fable-cresselia-021-064",
    "product_id": 560331,
@@ -404,6 +444,7 @@
   {
    "number": "021",
    "name": "Cresselia",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560331_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560331/pokemon-sv-shrouded-fable-cresselia-021-064",
    "product_id": 560331,
@@ -414,6 +455,7 @@
   {
    "number": "022",
    "name": "Sylveon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560332_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560332/pokemon-sv-shrouded-fable-sylveon",
    "product_id": 560332,
@@ -424,6 +466,7 @@
   {
    "number": "022",
    "name": "Sylveon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560332_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560332/pokemon-sv-shrouded-fable-sylveon",
    "product_id": 560332,
@@ -434,6 +477,7 @@
   {
    "number": "023",
    "name": "Croagunk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560333_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560333/pokemon-sv-shrouded-fable-croagunk",
    "product_id": 560333,
@@ -444,6 +488,7 @@
   {
    "number": "023",
    "name": "Croagunk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560333_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560333/pokemon-sv-shrouded-fable-croagunk",
    "product_id": 560333,
@@ -454,6 +499,7 @@
   {
    "number": "024",
    "name": "Toxicroak",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560334_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560334/pokemon-sv-shrouded-fable-toxicroak",
    "product_id": 560334,
@@ -464,6 +510,7 @@
   {
    "number": "024",
    "name": "Toxicroak",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560334_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560334/pokemon-sv-shrouded-fable-toxicroak",
    "product_id": 560334,
@@ -474,6 +521,7 @@
   {
    "number": "025",
    "name": "Bloodmoon Ursaluna",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560335_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560335/pokemon-sv-shrouded-fable-bloodmoon-ursaluna",
    "product_id": 560335,
@@ -484,6 +532,7 @@
   {
    "number": "025",
    "name": "Bloodmoon Ursaluna",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560335_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560335/pokemon-sv-shrouded-fable-bloodmoon-ursaluna",
    "product_id": 560335,
@@ -494,6 +543,7 @@
   {
    "number": "026",
    "name": "Slither Wing",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560336_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560336/pokemon-sv-shrouded-fable-slither-wing",
    "product_id": 560336,
@@ -504,6 +554,7 @@
   {
    "number": "026",
    "name": "Slither Wing",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560336_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560336/pokemon-sv-shrouded-fable-slither-wing",
    "product_id": 560336,
@@ -514,6 +565,7 @@
   {
    "number": "027",
    "name": "Zubat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560337_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560337/pokemon-sv-shrouded-fable-zubat",
    "product_id": 560337,
@@ -524,6 +576,7 @@
   {
    "number": "027",
    "name": "Zubat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560337_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560337/pokemon-sv-shrouded-fable-zubat",
    "product_id": 560337,
@@ -534,6 +587,7 @@
   {
    "number": "028",
    "name": "Golbat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560338_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560338/pokemon-sv-shrouded-fable-golbat",
    "product_id": 560338,
@@ -544,6 +598,7 @@
   {
    "number": "028",
    "name": "Golbat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560338_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560338/pokemon-sv-shrouded-fable-golbat",
    "product_id": 560338,
@@ -554,6 +609,7 @@
   {
    "number": "029",
    "name": "Crobat",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560339_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560339/pokemon-sv-shrouded-fable-crobat",
    "product_id": 560339,
@@ -564,6 +620,7 @@
   {
    "number": "029",
    "name": "Crobat",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560339_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560339/pokemon-sv-shrouded-fable-crobat",
    "product_id": 560339,
@@ -574,6 +631,7 @@
   {
    "number": "030",
    "name": "Absol",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560340_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560340/pokemon-sv-shrouded-fable-absol",
    "product_id": 560340,
@@ -584,6 +642,7 @@
   {
    "number": "030",
    "name": "Absol",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560340_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560340/pokemon-sv-shrouded-fable-absol",
    "product_id": 560340,
@@ -594,6 +653,7 @@
   {
    "number": "031",
    "name": "Zorua",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560341_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560341/pokemon-sv-shrouded-fable-zorua-031-064",
    "product_id": 560341,
@@ -604,6 +664,7 @@
   {
    "number": "031",
    "name": "Zorua",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560341_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560341/pokemon-sv-shrouded-fable-zorua-031-064",
    "product_id": 560341,
@@ -614,6 +675,7 @@
   {
    "number": "032",
    "name": "Zoroark",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560342_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560342/pokemon-sv-shrouded-fable-zoroark",
    "product_id": 560342,
@@ -624,6 +686,7 @@
   {
    "number": "032",
    "name": "Zoroark",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560342_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560342/pokemon-sv-shrouded-fable-zoroark",
    "product_id": 560342,
@@ -634,6 +697,7 @@
   {
    "number": "033",
    "name": "Inkay",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560343_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560343/pokemon-sv-shrouded-fable-inkay",
    "product_id": 560343,
@@ -644,6 +708,7 @@
   {
    "number": "033",
    "name": "Inkay",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560343_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560343/pokemon-sv-shrouded-fable-inkay",
    "product_id": 560343,
@@ -654,6 +719,7 @@
   {
    "number": "034",
    "name": "Malamar",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560344_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560344/pokemon-sv-shrouded-fable-malamar",
    "product_id": 560344,
@@ -664,6 +730,7 @@
   {
    "number": "034",
    "name": "Malamar",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560344_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560344/pokemon-sv-shrouded-fable-malamar",
    "product_id": 560344,
@@ -674,6 +741,7 @@
   {
    "number": "035",
    "name": "Yveltal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560345_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560345/pokemon-sv-shrouded-fable-yveltal",
    "product_id": 560345,
@@ -684,6 +752,7 @@
   {
    "number": "035",
    "name": "Yveltal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560345_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560345/pokemon-sv-shrouded-fable-yveltal",
    "product_id": 560345,
@@ -694,6 +763,7 @@
   {
    "number": "036",
    "name": "Okidogi ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560346_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560346/pokemon-sv-shrouded-fable-okidogi-ex-036-064",
    "product_id": 560346,
@@ -704,6 +774,7 @@
   {
    "number": "037",
    "name": "Munkidori ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560347_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560347/pokemon-sv-shrouded-fable-munkidori-ex-037-064",
    "product_id": 560347,
@@ -714,6 +785,7 @@
   {
    "number": "038",
    "name": "Fezandipiti ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560348_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560348/pokemon-sv-shrouded-fable-fezandipiti-ex-038-064",
    "product_id": 560348,
@@ -724,6 +796,7 @@
   {
    "number": "039",
    "name": "Pecharunt ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560349_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560349/pokemon-sv-shrouded-fable-pecharunt-ex-039-064",
    "product_id": 560349,
@@ -734,6 +807,7 @@
   {
    "number": "040",
    "name": "Genesect",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560350_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560350/pokemon-sv-shrouded-fable-genesect",
    "product_id": 560350,
@@ -744,6 +818,7 @@
   {
    "number": "040",
    "name": "Genesect",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560350_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560350/pokemon-sv-shrouded-fable-genesect",
    "product_id": 560350,
@@ -754,6 +829,7 @@
   {
    "number": "041",
    "name": "Cufant",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560351_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560351/pokemon-sv-shrouded-fable-cufant-041-064",
    "product_id": 560351,
@@ -764,6 +840,7 @@
   {
    "number": "041",
    "name": "Cufant",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560351_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560351/pokemon-sv-shrouded-fable-cufant-041-064",
    "product_id": 560351,
@@ -774,6 +851,7 @@
   {
    "number": "042",
    "name": "Copperajah",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560352_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560352/pokemon-sv-shrouded-fable-copperajah",
    "product_id": 560352,
@@ -784,6 +862,7 @@
   {
    "number": "042",
    "name": "Copperajah",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560352_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560352/pokemon-sv-shrouded-fable-copperajah",
    "product_id": 560352,
@@ -794,6 +873,7 @@
   {
    "number": "043",
    "name": "Varoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560353_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560353/pokemon-sv-shrouded-fable-varoom",
    "product_id": 560353,
@@ -804,6 +884,7 @@
   {
    "number": "043",
    "name": "Varoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560353_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560353/pokemon-sv-shrouded-fable-varoom",
    "product_id": 560353,
@@ -814,6 +895,7 @@
   {
    "number": "044",
    "name": "Axew",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560354_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560354/pokemon-sv-shrouded-fable-axew",
    "product_id": 560354,
@@ -824,6 +906,7 @@
   {
    "number": "044",
    "name": "Axew",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560354_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560354/pokemon-sv-shrouded-fable-axew",
    "product_id": 560354,
@@ -834,6 +917,7 @@
   {
    "number": "045",
    "name": "Fraxure",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560355_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560355/pokemon-sv-shrouded-fable-fraxure-045-064",
    "product_id": 560355,
@@ -844,6 +928,7 @@
   {
    "number": "045",
    "name": "Fraxure",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560355_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560355/pokemon-sv-shrouded-fable-fraxure-045-064",
    "product_id": 560355,
@@ -854,6 +939,7 @@
   {
    "number": "046",
    "name": "Haxorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560356_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560356/pokemon-sv-shrouded-fable-haxorus",
    "product_id": 560356,
@@ -864,6 +950,7 @@
   {
    "number": "046",
    "name": "Haxorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560356_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560356/pokemon-sv-shrouded-fable-haxorus",
    "product_id": 560356,
@@ -874,6 +961,7 @@
   {
    "number": "047",
    "name": "Kyurem",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560358_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560358/pokemon-sv-shrouded-fable-kyurem",
    "product_id": 560358,
@@ -884,6 +972,7 @@
   {
    "number": "047",
    "name": "Kyurem",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560358_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560358/pokemon-sv-shrouded-fable-kyurem",
    "product_id": 560358,
@@ -894,6 +983,7 @@
   {
    "number": "048",
    "name": "Meowth",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560359_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560359/pokemon-sv-shrouded-fable-meowth",
    "product_id": 560359,
@@ -904,6 +994,7 @@
   {
    "number": "048",
    "name": "Meowth",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560359_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560359/pokemon-sv-shrouded-fable-meowth",
    "product_id": 560359,
@@ -914,6 +1005,7 @@
   {
    "number": "049",
    "name": "Persian",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560360_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560360/pokemon-sv-shrouded-fable-persian-049-064",
    "product_id": 560360,
@@ -924,6 +1016,7 @@
   {
    "number": "049",
    "name": "Persian",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560360_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560360/pokemon-sv-shrouded-fable-persian-049-064",
    "product_id": 560360,
@@ -934,6 +1027,7 @@
   {
    "number": "050",
    "name": "Eevee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560361_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560361/pokemon-sv-shrouded-fable-eevee",
    "product_id": 560361,
@@ -944,6 +1038,7 @@
   {
    "number": "050",
    "name": "Eevee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560361_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560361/pokemon-sv-shrouded-fable-eevee",
    "product_id": 560361,
@@ -954,6 +1049,7 @@
   {
    "number": "051",
    "name": "Furfrou",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560362_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560362/pokemon-sv-shrouded-fable-furfrou",
    "product_id": 560362,
@@ -964,6 +1060,7 @@
   {
    "number": "051",
    "name": "Furfrou",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560362_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560362/pokemon-sv-shrouded-fable-furfrou",
    "product_id": 560362,
@@ -974,6 +1071,7 @@
   {
    "number": "052",
    "name": "Stufful",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560363_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560363/pokemon-sv-shrouded-fable-stufful",
    "product_id": 560363,
@@ -984,6 +1082,7 @@
   {
    "number": "052",
    "name": "Stufful",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560363_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560363/pokemon-sv-shrouded-fable-stufful",
    "product_id": 560363,
@@ -994,6 +1093,7 @@
   {
    "number": "053",
    "name": "Bewear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560364_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560364/pokemon-sv-shrouded-fable-bewear-053-064",
    "product_id": 560364,
@@ -1004,6 +1104,7 @@
   {
    "number": "053",
    "name": "Bewear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560364_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560364/pokemon-sv-shrouded-fable-bewear-053-064",
    "product_id": 560364,
@@ -1014,6 +1115,7 @@
   {
    "number": "054",
    "name": "Academy at Night",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560365_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560365/pokemon-sv-shrouded-fable-academy-at-night",
    "product_id": 560365,
@@ -1024,6 +1126,7 @@
   {
    "number": "054",
    "name": "Academy at Night",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560365_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560365/pokemon-sv-shrouded-fable-academy-at-night",
    "product_id": 560365,
@@ -1034,6 +1137,7 @@
   {
    "number": "055",
    "name": "Binding Mochi",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560366_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560366/pokemon-sv-shrouded-fable-binding-mochi",
    "product_id": 560366,
@@ -1044,6 +1148,7 @@
   {
    "number": "055",
    "name": "Binding Mochi",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560366_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560366/pokemon-sv-shrouded-fable-binding-mochi",
    "product_id": 560366,
@@ -1054,6 +1159,7 @@
   {
    "number": "056",
    "name": "Cassiopeia",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560367_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560367/pokemon-sv-shrouded-fable-cassiopeia-056-064",
    "product_id": 560367,
@@ -1064,6 +1170,7 @@
   {
    "number": "056",
    "name": "Cassiopeia",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560367_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560367/pokemon-sv-shrouded-fable-cassiopeia-056-064",
    "product_id": 560367,
@@ -1074,6 +1181,7 @@
   {
    "number": "057",
    "name": "Colress's Tenacity",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560368_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560368/pokemon-sv-shrouded-fable-colresss-tenacity-057-064",
    "product_id": 560368,
@@ -1084,6 +1192,7 @@
   {
    "number": "057",
    "name": "Colress's Tenacity",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560368_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560368/pokemon-sv-shrouded-fable-colresss-tenacity-057-064",
    "product_id": 560368,
@@ -1094,6 +1203,7 @@
   {
    "number": "058",
    "name": "Dangerous Laser",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560369_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560369/pokemon-sv-shrouded-fable-dangerous-laser",
    "product_id": 560369,
@@ -1104,6 +1214,7 @@
   {
    "number": "059",
    "name": "Janine's Secret Art",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560370_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560370/pokemon-sv-shrouded-fable-janines-secret-art-059-064",
    "product_id": 560370,
@@ -1114,6 +1225,7 @@
   {
    "number": "059",
    "name": "Janine's Secret Art",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560370_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560370/pokemon-sv-shrouded-fable-janines-secret-art-059-064",
    "product_id": 560370,
@@ -1124,6 +1236,7 @@
   {
    "number": "060",
    "name": "Neutralization Zone",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560371_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560371/pokemon-sv-shrouded-fable-neutralization-zone",
    "product_id": 560371,
@@ -1134,6 +1247,7 @@
   {
    "number": "061",
    "name": "Night Stretcher",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560372_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560372/pokemon-sv-shrouded-fable-night-stretcher",
    "product_id": 560372,
@@ -1144,6 +1258,7 @@
   {
    "number": "061",
    "name": "Night Stretcher",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560372_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560372/pokemon-sv-shrouded-fable-night-stretcher",
    "product_id": 560372,
@@ -1154,6 +1269,7 @@
   {
    "number": "062",
    "name": "Poke Vital A",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560373_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560373/pokemon-sv-shrouded-fable-poke-vital-a",
    "product_id": 560373,
@@ -1164,6 +1280,7 @@
   {
    "number": "063",
    "name": "Powerglass",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560374_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560374/pokemon-sv-shrouded-fable-powerglass-063-064",
    "product_id": 560374,
@@ -1174,6 +1291,7 @@
   {
    "number": "063",
    "name": "Powerglass",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560374_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560374/pokemon-sv-shrouded-fable-powerglass-063-064",
    "product_id": 560374,
@@ -1184,6 +1302,7 @@
   {
    "number": "064",
    "name": "Xerosic's Machinations",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560375_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560375/pokemon-sv-shrouded-fable-xerosics-machinations-064-064",
    "product_id": 560375,
@@ -1194,6 +1313,7 @@
   {
    "number": "064",
    "name": "Xerosic's Machinations",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560375_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560375/pokemon-sv-shrouded-fable-xerosics-machinations-064-064",
    "product_id": 560375,
@@ -1204,6 +1324,7 @@
   {
    "number": "065",
    "name": "Tapu Bulu",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560376_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560376/pokemon-sv-shrouded-fable-tapu-bulu-065-064",
    "product_id": 560376,
@@ -1214,6 +1335,7 @@
   {
    "number": "066",
    "name": "Houndoom",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560377_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560377/pokemon-sv-shrouded-fable-houndoom-066-064",
    "product_id": 560377,
@@ -1224,6 +1346,7 @@
   {
    "number": "067",
    "name": "Horsea",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560378_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560378/pokemon-sv-shrouded-fable-horsea-067-064",
    "product_id": 560378,
@@ -1234,6 +1357,7 @@
   {
    "number": "068",
    "name": "Duskull",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560379_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560379/pokemon-sv-shrouded-fable-duskull-068-064",
    "product_id": 560379,
@@ -1244,6 +1368,7 @@
   {
    "number": "069",
    "name": "Dusclops",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560380_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560380/pokemon-sv-shrouded-fable-dusclops-069-064",
    "product_id": 560380,
@@ -1254,6 +1379,7 @@
   {
    "number": "070",
    "name": "Dusknoir",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560381_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560381/pokemon-sv-shrouded-fable-dusknoir-070-064",
    "product_id": 560381,
@@ -1264,6 +1390,7 @@
   {
    "number": "071",
    "name": "Cresselia",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560382_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560382/pokemon-sv-shrouded-fable-cresselia-071-064",
    "product_id": 560382,
@@ -1274,6 +1401,7 @@
   {
    "number": "072",
    "name": "Munkidori",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560383_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560383/pokemon-sv-shrouded-fable-munkidori",
    "product_id": 560383,
@@ -1284,6 +1412,7 @@
   {
    "number": "073",
    "name": "Fezandipiti",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560384_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560384/pokemon-sv-shrouded-fable-fezandipiti",
    "product_id": 560384,
@@ -1294,6 +1423,7 @@
   {
    "number": "074",
    "name": "Okidogi",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560385_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560385/pokemon-sv-shrouded-fable-okidogi",
    "product_id": 560385,
@@ -1304,6 +1434,7 @@
   {
    "number": "075",
    "name": "Zorua",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560386_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560386/pokemon-sv-shrouded-fable-zorua-075-064",
    "product_id": 560386,
@@ -1314,6 +1445,7 @@
   {
    "number": "076",
    "name": "Cufant",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560387_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560387/pokemon-sv-shrouded-fable-cufant-076-064",
    "product_id": 560387,
@@ -1324,6 +1456,7 @@
   {
    "number": "077",
    "name": "Fraxure",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560388_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560388/pokemon-sv-shrouded-fable-fraxure-077-064",
    "product_id": 560388,
@@ -1334,6 +1467,7 @@
   {
    "number": "078",
    "name": "Persian",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560389_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560389/pokemon-sv-shrouded-fable-persian-078-064",
    "product_id": 560389,
@@ -1344,6 +1478,7 @@
   {
    "number": "079",
    "name": "Bewear",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560390_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560390/pokemon-sv-shrouded-fable-bewear-079-064",
    "product_id": 560390,
@@ -1354,6 +1489,7 @@
   {
    "number": "080",
    "name": "Kingdra ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560391_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560391/pokemon-sv-shrouded-fable-kingdra-ex-080-064",
    "product_id": 560391,
@@ -1364,6 +1500,7 @@
   {
    "number": "081",
    "name": "Revavroom ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560392_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560392/pokemon-sv-shrouded-fable-revavroom-ex-081-064",
    "product_id": 560392,
@@ -1374,6 +1511,7 @@
   {
    "number": "082",
    "name": "Okidogi ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560393_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560393/pokemon-sv-shrouded-fable-okidogi-ex-082-064",
    "product_id": 560393,
@@ -1384,6 +1522,7 @@
   {
    "number": "083",
    "name": "Munkidori ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560394_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560394/pokemon-sv-shrouded-fable-munkidori-ex-083-064",
    "product_id": 560394,
@@ -1394,6 +1533,7 @@
   {
    "number": "084",
    "name": "Fezandipiti ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560395_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560395/pokemon-sv-shrouded-fable-fezandipiti-ex-084-064",
    "product_id": 560395,
@@ -1404,6 +1544,7 @@
   {
    "number": "085",
    "name": "Pecharunt ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560396_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560396/pokemon-sv-shrouded-fable-pecharunt-ex-085-064",
    "product_id": 560396,
@@ -1414,6 +1555,7 @@
   {
    "number": "086",
    "name": "Cassiopeia",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560397_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560397/pokemon-sv-shrouded-fable-cassiopeia-086-064",
    "product_id": 560397,
@@ -1424,6 +1566,7 @@
   {
    "number": "087",
    "name": "Colress's Tenacity",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560398_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560398/pokemon-sv-shrouded-fable-colresss-tenacity-087-064",
    "product_id": 560398,
@@ -1434,6 +1577,7 @@
   {
    "number": "088",
    "name": "Janine's Secret Art",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560399_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560399/pokemon-sv-shrouded-fable-janines-secret-art-088-064",
    "product_id": 560399,
@@ -1444,6 +1588,7 @@
   {
    "number": "089",
    "name": "Xerosic's Machinations",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560400_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560400/pokemon-sv-shrouded-fable-xerosics-machinations-089-064",
    "product_id": 560400,
@@ -1454,6 +1599,7 @@
   {
    "number": "090",
    "name": "Okidogi ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560401_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560401/pokemon-sv-shrouded-fable-okidogi-ex-090-064",
    "product_id": 560401,
@@ -1464,6 +1610,7 @@
   {
    "number": "091",
    "name": "Munkidori ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560402_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560402/pokemon-sv-shrouded-fable-munkidori-ex-091-064",
    "product_id": 560402,
@@ -1474,6 +1621,7 @@
   {
    "number": "092",
    "name": "Fezandipiti ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560403_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560403/pokemon-sv-shrouded-fable-fezandipiti-ex-092-064",
    "product_id": 560403,
@@ -1484,6 +1632,7 @@
   {
    "number": "093",
    "name": "Pecharunt ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560404_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560404/pokemon-sv-shrouded-fable-pecharunt-ex-093-064",
    "product_id": 560404,
@@ -1494,6 +1643,7 @@
   {
    "number": "094",
    "name": "Cassiopeia",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560405_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560405/pokemon-sv-shrouded-fable-cassiopeia-094-064",
    "product_id": 560405,
@@ -1504,6 +1654,7 @@
   {
    "number": "095",
    "name": "Pecharunt ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560406_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560406/pokemon-sv-shrouded-fable-pecharunt-ex-095-064",
    "product_id": 560406,
@@ -1514,6 +1665,7 @@
   {
    "number": "096",
    "name": "Earthen Vessel",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560407_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560407/pokemon-sv-shrouded-fable-earthen-vessel",
    "product_id": 560407,
@@ -1524,6 +1676,7 @@
   {
    "number": "097",
    "name": "Powerglass",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560408_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560408/pokemon-sv-shrouded-fable-powerglass-097-064",
    "product_id": 560408,
@@ -1534,6 +1687,7 @@
   {
    "number": "098",
    "name": "Basic Darkness Energy",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560409_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560409/pokemon-sv-shrouded-fable-basic-darkness-energy",
    "product_id": 560409,
@@ -1544,6 +1698,7 @@
   {
    "number": "099",
    "name": "Basic Metal Energy",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/560410_400w.jpg",
    "url": "https://www.tcgplayer.com/product/560410/pokemon-sv-shrouded-fable-basic-metal-energy",
    "product_id": 560410,
