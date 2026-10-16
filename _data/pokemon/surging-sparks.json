@@ -10,10 +10,12 @@
  "owned_count": 95,
  "total_count": 420,
  "owned_qty": 95,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Exeggcute",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589939_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589939/pokemon-sv08-surging-sparks-exeggcute-001-191",
    "product_id": 589939,
@@ -24,6 +26,7 @@
   {
    "number": "001",
    "name": "Exeggcute",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589939_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589939/pokemon-sv08-surging-sparks-exeggcute-001-191",
    "product_id": 589939,
@@ -34,6 +37,7 @@
   {
    "number": "002",
    "name": "Exeggcute",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589940_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589940/pokemon-sv08-surging-sparks-exeggcute-002-191",
    "product_id": 589940,
@@ -44,6 +48,7 @@
   {
    "number": "002",
    "name": "Exeggcute",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589940_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589940/pokemon-sv08-surging-sparks-exeggcute-002-191",
    "product_id": 589940,
@@ -54,6 +59,7 @@
   {
    "number": "003",
    "name": "Exeggutor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589942_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589942/pokemon-sv08-surging-sparks-exeggutor",
    "product_id": 589942,
@@ -64,6 +70,7 @@
   {
    "number": "003",
    "name": "Exeggutor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589942_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589942/pokemon-sv08-surging-sparks-exeggutor",
    "product_id": 589942,
@@ -74,6 +81,7 @@
   {
    "number": "004",
    "name": "Durant ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589928_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589928/pokemon-sv08-surging-sparks-durant-ex-004-191",
    "product_id": 589928,
@@ -84,6 +92,7 @@
   {
    "number": "005",
    "name": "Scatterbug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590039_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590039/pokemon-sv08-surging-sparks-scatterbug",
    "product_id": 590039,
@@ -94,6 +103,7 @@
   {
    "number": "005",
    "name": "Scatterbug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590039_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590039/pokemon-sv08-surging-sparks-scatterbug",
    "product_id": 590039,
@@ -104,6 +114,7 @@
   {
    "number": "006",
    "name": "Spewpa",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590061_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590061/pokemon-sv08-surging-sparks-spewpa",
    "product_id": 590061,
@@ -114,6 +125,7 @@
   {
    "number": "006",
    "name": "Spewpa",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590061_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590061/pokemon-sv08-surging-sparks-spewpa",
    "product_id": 590061,
@@ -124,6 +136,7 @@
   {
    "number": "007",
    "name": "Vivillon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590089_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590089/pokemon-sv08-surging-sparks-vivillon-007-191",
    "product_id": 590089,
@@ -134,6 +147,7 @@
   {
    "number": "007",
    "name": "Vivillon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590089_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590089/pokemon-sv08-surging-sparks-vivillon-007-191",
    "product_id": 590089,
@@ -144,6 +158,7 @@
   {
    "number": "008",
    "name": "Morelull",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590009_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590009/pokemon-sv08-surging-sparks-morelull",
    "product_id": 590009,
@@ -154,6 +169,7 @@
   {
    "number": "008",
    "name": "Morelull",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590009_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590009/pokemon-sv08-surging-sparks-morelull",
    "product_id": 590009,
@@ -164,6 +180,7 @@
   {
    "number": "009",
    "name": "Shiinotic",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590045_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590045/pokemon-sv08-surging-sparks-shiinotic-009-191",
    "product_id": 590045,
@@ -174,6 +191,7 @@
   {
    "number": "009",
    "name": "Shiinotic",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590045_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590045/pokemon-sv08-surging-sparks-shiinotic-009-191",
    "product_id": 590045,
@@ -184,6 +202,7 @@
   {
    "number": "010",
    "name": "Dhelmise",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589917_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589917/pokemon-sv08-surging-sparks-dhelmise",
    "product_id": 589917,
@@ -194,6 +213,7 @@
   {
    "number": "010",
    "name": "Dhelmise",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589917_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589917/pokemon-sv08-surging-sparks-dhelmise",
    "product_id": 589917,
@@ -204,6 +224,7 @@
   {
    "number": "011",
    "name": "Zarude",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590099_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590099/pokemon-sv08-surging-sparks-zarude",
    "product_id": 590099,
@@ -214,6 +235,7 @@
   {
    "number": "011",
    "name": "Zarude",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590099_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590099/pokemon-sv08-surging-sparks-zarude",
    "product_id": 590099,
@@ -224,6 +246,7 @@
   {
    "number": "012",
    "name": "Capsakid",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589886_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589886/pokemon-sv08-surging-sparks-capsakid",
    "product_id": 589886,
@@ -234,6 +257,7 @@
   {
    "number": "012",
    "name": "Capsakid",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589886_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589886/pokemon-sv08-surging-sparks-capsakid",
    "product_id": 589886,
@@ -244,6 +268,7 @@
   {
    "number": "013",
    "name": "Rellor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590035_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590035/pokemon-sv08-surging-sparks-rellor",
    "product_id": 590035,
@@ -254,6 +279,7 @@
   {
    "number": "013",
    "name": "Rellor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590035_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590035/pokemon-sv08-surging-sparks-rellor",
    "product_id": 590035,
@@ -264,6 +290,7 @@
   {
    "number": "014",
    "name": "Rabsca",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/594469_400w.jpg",
    "url": "https://www.tcgplayer.com/product/594469/pokemon-deck-exclusives-rabsca",
    "product_id": 594469,
@@ -275,6 +302,7 @@
   {
    "number": "014",
    "name": "Rabsca",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590033_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590033/pokemon-sv08-surging-sparks-rabsca",
    "product_id": 590033,
@@ -286,6 +314,7 @@
   {
    "number": "014",
    "name": "Rabsca",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590033_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590033/pokemon-sv08-surging-sparks-rabsca",
    "product_id": 590033,
@@ -297,6 +326,7 @@
   {
    "number": "015",
    "name": "Wo-Chien",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590095_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590095/pokemon-sv08-surging-sparks-wo-chien",
    "product_id": 590095,
@@ -307,6 +337,7 @@
   {
    "number": "015",
    "name": "Wo-Chien",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590095_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590095/pokemon-sv08-surging-sparks-wo-chien",
    "product_id": 590095,
@@ -317,6 +348,7 @@
   {
    "number": "016",
    "name": "Vulpix",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590092_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590092/pokemon-sv08-surging-sparks-vulpix",
    "product_id": 590092,
@@ -327,6 +359,7 @@
   {
    "number": "016",
    "name": "Vulpix",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590092_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590092/pokemon-sv08-surging-sparks-vulpix",
    "product_id": 590092,
@@ -337,6 +370,7 @@
   {
    "number": "017",
    "name": "Ninetales",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590010_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590010/pokemon-sv08-surging-sparks-ninetales",
    "product_id": 590010,
@@ -347,6 +381,7 @@
   {
    "number": "017",
    "name": "Ninetales",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590010_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590010/pokemon-sv08-surging-sparks-ninetales",
    "product_id": 590010,
@@ -357,6 +392,7 @@
   {
    "number": "018",
    "name": "Paldean Tauros",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590014_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590014/pokemon-sv08-surging-sparks-paldean-tauros-018-191",
    "product_id": 590014,
@@ -367,6 +403,7 @@
   {
    "number": "018",
    "name": "Paldean Tauros",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590014_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590014/pokemon-sv08-surging-sparks-paldean-tauros-018-191",
    "product_id": 590014,
@@ -377,6 +414,7 @@
   {
    "number": "019",
    "name": "Ho-Oh",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589964_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589964/pokemon-sv08-surging-sparks-ho-oh",
    "product_id": 589964,
@@ -387,6 +425,7 @@
   {
    "number": "019",
    "name": "Ho-Oh",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589964_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589964/pokemon-sv08-surging-sparks-ho-oh",
    "product_id": 589964,
@@ -397,6 +436,7 @@
   {
    "number": "020",
    "name": "Castform Sunny Form",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589887_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589887/pokemon-sv08-surging-sparks-castform-sunny-form-020-191",
    "product_id": 589887,
@@ -407,6 +447,7 @@
   {
    "number": "020",
    "name": "Castform Sunny Form",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589887_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589887/pokemon-sv08-surging-sparks-castform-sunny-form-020-191",
    "product_id": 589887,
@@ -417,6 +458,7 @@
   {
    "number": "021",
    "name": "Victini",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590087_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590087/pokemon-sv08-surging-sparks-victini",
    "product_id": 590087,
@@ -427,6 +469,7 @@
   {
    "number": "021",
    "name": "Victini",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590087_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590087/pokemon-sv08-surging-sparks-victini",
    "product_id": 590087,
@@ -437,6 +480,7 @@
   {
    "number": "022",
    "name": "Pansear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590020_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590020/pokemon-sv08-surging-sparks-pansear",
    "product_id": 590020,
@@ -447,6 +491,7 @@
   {
    "number": "022",
    "name": "Pansear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590020_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590020/pokemon-sv08-surging-sparks-pansear",
    "product_id": 590020,
@@ -457,6 +502,7 @@
   {
    "number": "023",
    "name": "Simisear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590049_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590049/pokemon-sv08-surging-sparks-simisear",
    "product_id": 590049,
@@ -467,6 +513,7 @@
   {
    "number": "023",
    "name": "Simisear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590049_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590049/pokemon-sv08-surging-sparks-simisear",
    "product_id": 590049,
@@ -477,6 +524,7 @@
   {
    "number": "024",
    "name": "Larvesta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589981_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589981/pokemon-sv08-surging-sparks-larvesta-024-191",
    "product_id": 589981,
@@ -487,6 +535,7 @@
   {
    "number": "024",
    "name": "Larvesta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589981_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589981/pokemon-sv08-surging-sparks-larvesta-024-191",
    "product_id": 589981,
@@ -497,6 +546,7 @@
   {
    "number": "025",
    "name": "Volcarona",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590091_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590091/pokemon-sv08-surging-sparks-volcarona",
    "product_id": 590091,
@@ -507,6 +557,7 @@
   {
    "number": "025",
    "name": "Volcarona",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590091_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590091/pokemon-sv08-surging-sparks-volcarona",
    "product_id": 590091,
@@ -517,6 +568,7 @@
   {
    "number": "026",
    "name": "Oricorio",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590012_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590012/pokemon-sv08-surging-sparks-oricorio-026-191",
    "product_id": 590012,
@@ -527,6 +579,7 @@
   {
    "number": "026",
    "name": "Oricorio",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590012_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590012/pokemon-sv08-surging-sparks-oricorio-026-191",
    "product_id": 590012,
@@ -537,6 +590,7 @@
   {
    "number": "027",
    "name": "Sizzlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590050_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590050/pokemon-sv08-surging-sparks-sizzlipede",
    "product_id": 590050,
@@ -547,6 +601,7 @@
   {
    "number": "027",
    "name": "Sizzlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590050_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590050/pokemon-sv08-surging-sparks-sizzlipede",
    "product_id": 590050,
@@ -557,6 +612,7 @@
   {
    "number": "028",
    "name": "Centiskorch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589889_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589889/pokemon-sv08-surging-sparks-centiskorch",
    "product_id": 589889,
@@ -567,6 +623,7 @@
   {
    "number": "028",
    "name": "Centiskorch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589889_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589889/pokemon-sv08-surging-sparks-centiskorch",
    "product_id": 589889,
@@ -577,6 +634,7 @@
   {
    "number": "029",
    "name": "Fuecoco",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589952_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589952/pokemon-sv08-surging-sparks-fuecoco",
    "product_id": 589952,
@@ -587,6 +645,7 @@
   {
    "number": "029",
    "name": "Fuecoco",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589952_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589952/pokemon-sv08-surging-sparks-fuecoco",
    "product_id": 589952,
@@ -597,6 +656,7 @@
   {
    "number": "030",
    "name": "Crocalor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589908_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589908/pokemon-sv08-surging-sparks-crocalor",
    "product_id": 589908,
@@ -607,6 +667,7 @@
   {
    "number": "030",
    "name": "Crocalor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589908_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589908/pokemon-sv08-surging-sparks-crocalor",
    "product_id": 589908,
@@ -617,6 +678,7 @@
   {
    "number": "031",
    "name": "Skeledirge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590053_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590053/pokemon-sv08-surging-sparks-skeledirge",
    "product_id": 590053,
@@ -627,6 +689,7 @@
   {
    "number": "031",
    "name": "Skeledirge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590053_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590053/pokemon-sv08-surging-sparks-skeledirge",
    "product_id": 590053,
@@ -637,6 +700,7 @@
   {
    "number": "032",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589896_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589896/pokemon-sv08-surging-sparks-charcadet-032-191",
    "product_id": 589896,
@@ -647,6 +711,7 @@
   {
    "number": "032",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589896_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589896/pokemon-sv08-surging-sparks-charcadet-032-191",
    "product_id": 589896,
@@ -657,6 +722,7 @@
   {
    "number": "033",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589897_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589897/pokemon-sv08-surging-sparks-charcadet-033-191",
    "product_id": 589897,
@@ -667,6 +733,7 @@
   {
    "number": "033",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589897_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589897/pokemon-sv08-surging-sparks-charcadet-033-191",
    "product_id": 589897,
@@ -677,6 +744,7 @@
   {
    "number": "034",
    "name": "Armarouge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589870_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589870/pokemon-sv08-surging-sparks-armarouge",
    "product_id": 589870,
@@ -687,6 +755,7 @@
   {
    "number": "034",
    "name": "Armarouge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589870_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589870/pokemon-sv08-surging-sparks-armarouge",
    "product_id": 589870,
@@ -697,6 +766,7 @@
   {
    "number": "035",
    "name": "Ceruledge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589890_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589890/pokemon-sv08-surging-sparks-ceruledge-035-191",
    "product_id": 589890,
@@ -707,6 +777,7 @@
   {
    "number": "035",
    "name": "Ceruledge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589890_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589890/pokemon-sv08-surging-sparks-ceruledge-035-191",
    "product_id": 589890,
@@ -717,6 +788,7 @@
   {
    "number": "036",
    "name": "Ceruledge ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589892_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589892/pokemon-sv08-surging-sparks-ceruledge-ex",
    "product_id": 589892,
@@ -727,6 +799,7 @@
   {
    "number": "037",
    "name": "Scovillain ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590040_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590040/pokemon-sv08-surging-sparks-scovillain-ex-037-191",
    "product_id": 590040,
@@ -737,6 +810,7 @@
   {
    "number": "038",
    "name": "Gouging Fire",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/594470_400w.jpg",
    "url": "https://www.tcgplayer.com/product/594470/pokemon-deck-exclusives-gouging-fire-038-191",
    "product_id": 594470,
@@ -748,6 +822,7 @@
   {
    "number": "038",
    "name": "Gouging Fire",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589958_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589958/pokemon-sv08-surging-sparks-gouging-fire",
    "product_id": 589958,
@@ -759,6 +834,7 @@
   {
    "number": "038",
    "name": "Gouging Fire",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589958_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589958/pokemon-sv08-surging-sparks-gouging-fire",
    "product_id": 589958,
@@ -770,6 +846,7 @@
   {
    "number": "039",
    "name": "Paldean Tauros",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590015_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590015/pokemon-sv08-surging-sparks-paldean-tauros-039-191",
    "product_id": 590015,
@@ -780,6 +857,7 @@
   {
    "number": "039",
    "name": "Paldean Tauros",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590015_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590015/pokemon-sv08-surging-sparks-paldean-tauros-039-191",
    "product_id": 590015,
@@ -790,6 +868,7 @@
   {
    "number": "040",
    "name": "Mantine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589996_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589996/pokemon-sv08-surging-sparks-mantine",
    "product_id": 589996,
@@ -800,6 +879,7 @@
   {
    "number": "040",
    "name": "Mantine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589996_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589996/pokemon-sv08-surging-sparks-mantine",
    "product_id": 589996,
@@ -810,6 +890,7 @@
   {
    "number": "041",
    "name": "Feebas",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589943_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589943/pokemon-sv08-surging-sparks-feebas-041-191",
    "product_id": 589943,
@@ -820,6 +901,7 @@
   {
    "number": "041",
    "name": "Feebas",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589943_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589943/pokemon-sv08-surging-sparks-feebas-041-191",
    "product_id": 589943,
@@ -830,6 +912,7 @@
   {
    "number": "042",
    "name": "Milotic ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590004_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590004/pokemon-sv08-surging-sparks-milotic-ex-042-191",
    "product_id": 590004,
@@ -840,6 +923,7 @@
   {
    "number": "043",
    "name": "Spheal",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590062_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590062/pokemon-sv08-surging-sparks-spheal-043-191",
    "product_id": 590062,
@@ -850,6 +934,7 @@
   {
    "number": "043",
    "name": "Spheal",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590062_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590062/pokemon-sv08-surging-sparks-spheal-043-191",
    "product_id": 590062,
@@ -860,6 +945,7 @@
   {
    "number": "044",
    "name": "Sealeo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590043_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590043/pokemon-sv08-surging-sparks-sealeo",
    "product_id": 590043,
@@ -870,6 +956,7 @@
   {
    "number": "044",
    "name": "Sealeo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590043_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590043/pokemon-sv08-surging-sparks-sealeo",
    "product_id": 590043,
@@ -880,6 +967,7 @@
   {
    "number": "045",
    "name": "Walrein",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590093_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590093/pokemon-sv08-surging-sparks-walrein",
    "product_id": 590093,
@@ -890,6 +978,7 @@
   {
    "number": "045",
    "name": "Walrein",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590093_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590093/pokemon-sv08-surging-sparks-walrein",
    "product_id": 590093,
@@ -900,6 +989,7 @@
   {
    "number": "046",
    "name": "Shellos",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590044_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590044/pokemon-sv08-surging-sparks-shellos",
    "product_id": 590044,
@@ -910,6 +1000,7 @@
   {
    "number": "046",
    "name": "Shellos",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590044_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590044/pokemon-sv08-surging-sparks-shellos",
    "product_id": 590044,
@@ -920,6 +1011,7 @@
   {
    "number": "047",
    "name": "Cryogonal",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589909_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589909/pokemon-sv08-surging-sparks-cryogonal",
    "product_id": 589909,
@@ -930,6 +1022,7 @@
   {
    "number": "047",
    "name": "Cryogonal",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589909_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589909/pokemon-sv08-surging-sparks-cryogonal",
    "product_id": 589909,
@@ -940,6 +1033,7 @@
   {
    "number": "048",
    "name": "Black Kyurem ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589874_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589874/pokemon-sv08-surging-sparks-black-kyurem-ex-048-191",
    "product_id": 589874,
@@ -950,6 +1044,7 @@
   {
    "number": "049",
    "name": "Bruxish",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589883_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589883/pokemon-sv08-surging-sparks-bruxish-049-191",
    "product_id": 589883,
@@ -960,6 +1055,7 @@
   {
    "number": "049",
    "name": "Bruxish",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589883_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589883/pokemon-sv08-surging-sparks-bruxish-049-191",
    "product_id": 589883,
@@ -970,6 +1066,7 @@
   {
    "number": "050",
    "name": "Quaxly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590031_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590031/pokemon-sv08-surging-sparks-quaxly",
    "product_id": 590031,
@@ -980,6 +1077,7 @@
   {
    "number": "050",
    "name": "Quaxly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590031_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590031/pokemon-sv08-surging-sparks-quaxly",
    "product_id": 590031,
@@ -990,6 +1088,7 @@
   {
    "number": "051",
    "name": "Quaxwell",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590032_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590032/pokemon-sv08-surging-sparks-quaxwell",
    "product_id": 590032,
@@ -1000,6 +1099,7 @@
   {
    "number": "051",
    "name": "Quaxwell",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590032_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590032/pokemon-sv08-surging-sparks-quaxwell",
    "product_id": 590032,
@@ -1010,6 +1110,7 @@
   {
    "number": "052",
    "name": "Quaquaval",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590030_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590030/pokemon-sv08-surging-sparks-quaquaval",
    "product_id": 590030,
@@ -1020,6 +1121,7 @@
   {
    "number": "052",
    "name": "Quaquaval",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590030_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590030/pokemon-sv08-surging-sparks-quaquaval",
    "product_id": 590030,
@@ -1030,6 +1132,7 @@
   {
    "number": "053",
    "name": "Cetoddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589895_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589895/pokemon-sv08-surging-sparks-cetoddle",
    "product_id": 589895,
@@ -1040,6 +1143,7 @@
   {
    "number": "053",
    "name": "Cetoddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589895_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589895/pokemon-sv08-surging-sparks-cetoddle",
    "product_id": 589895,
@@ -1050,6 +1154,7 @@
   {
    "number": "054",
    "name": "Cetitan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589893_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589893/pokemon-sv08-surging-sparks-cetitan-054-191",
    "product_id": 589893,
@@ -1060,6 +1165,7 @@
   {
    "number": "054",
    "name": "Cetitan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589893_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589893/pokemon-sv08-surging-sparks-cetitan-054-191",
    "product_id": 589893,
@@ -1070,6 +1176,7 @@
   {
    "number": "055",
    "name": "Iron Bundle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589969_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589969/pokemon-sv08-surging-sparks-iron-bundle",
    "product_id": 589969,
@@ -1080,6 +1187,7 @@
   {
    "number": "055",
    "name": "Iron Bundle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589969_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589969/pokemon-sv08-surging-sparks-iron-bundle",
    "product_id": 589969,
@@ -1090,6 +1198,7 @@
   {
    "number": "056",
    "name": "Chien-Pao",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589898_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589898/pokemon-sv08-surging-sparks-chien-pao",
    "product_id": 589898,
@@ -1100,6 +1209,7 @@
   {
    "number": "056",
    "name": "Chien-Pao",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589898_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589898/pokemon-sv08-surging-sparks-chien-pao",
    "product_id": 589898,
@@ -1110,6 +1220,7 @@
   {
    "number": "057",
    "name": "Pikachu ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590025_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590025/pokemon-sv08-surging-sparks-pikachu-ex-057-191",
    "product_id": 590025,
@@ -1120,6 +1231,7 @@
   {
    "number": "058",
    "name": "Magnemite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589992_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589992/pokemon-sv08-surging-sparks-magnemite",
    "product_id": 589992,
@@ -1130,6 +1242,7 @@
   {
    "number": "058",
    "name": "Magnemite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589992_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589992/pokemon-sv08-surging-sparks-magnemite",
    "product_id": 589992,
@@ -1140,6 +1253,7 @@
   {
    "number": "059",
    "name": "Magneton",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589993_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589993/pokemon-sv08-surging-sparks-magneton",
    "product_id": 589993,
@@ -1150,6 +1264,7 @@
   {
    "number": "059",
    "name": "Magneton",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589993_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589993/pokemon-sv08-surging-sparks-magneton",
    "product_id": 589993,
@@ -1160,6 +1275,7 @@
   {
    "number": "060",
    "name": "Magnezone",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589994_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589994/pokemon-sv08-surging-sparks-magnezone",
    "product_id": 589994,
@@ -1170,6 +1286,7 @@
   {
    "number": "060",
    "name": "Magnezone",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589994_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589994/pokemon-sv08-surging-sparks-magnezone",
    "product_id": 589994,
@@ -1180,6 +1297,7 @@
   {
    "number": "061",
    "name": "Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590036_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590036/pokemon-sv08-surging-sparks-rotom",
    "product_id": 590036,
@@ -1190,6 +1308,7 @@
   {
    "number": "061",
    "name": "Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590036_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590036/pokemon-sv08-surging-sparks-rotom",
    "product_id": 590036,
@@ -1200,6 +1319,7 @@
   {
    "number": "062",
    "name": "Blitzle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589876_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589876/pokemon-sv08-surging-sparks-blitzle",
    "product_id": 589876,
@@ -1210,6 +1330,7 @@
   {
    "number": "062",
    "name": "Blitzle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589876_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589876/pokemon-sv08-surging-sparks-blitzle",
    "product_id": 589876,
@@ -1220,6 +1341,7 @@
   {
    "number": "063",
    "name": "Zebstrika",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590100_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590100/pokemon-sv08-surging-sparks-zebstrika",
    "product_id": 590100,
@@ -1230,6 +1352,7 @@
   {
    "number": "063",
    "name": "Zebstrika",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590100_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590100/pokemon-sv08-surging-sparks-zebstrika",
    "product_id": 590100,
@@ -1240,6 +1363,7 @@
   {
    "number": "064",
    "name": "Stunfisk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590064_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590064/pokemon-sv08-surging-sparks-stunfisk-064-191",
    "product_id": 590064,
@@ -1250,6 +1374,7 @@
   {
    "number": "064",
    "name": "Stunfisk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590064_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590064/pokemon-sv08-surging-sparks-stunfisk-064-191",
    "product_id": 590064,
@@ -1260,6 +1385,7 @@
   {
    "number": "065",
    "name": "Tapu Koko",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/594471_400w.jpg",
    "url": "https://www.tcgplayer.com/product/594471/pokemon-deck-exclusives-tapu-koko-065-191-non-holo",
    "product_id": 594471,
@@ -1271,6 +1397,7 @@
   {
    "number": "065",
    "name": "Tapu Koko",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590071_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590071/pokemon-sv08-surging-sparks-tapu-koko",
    "product_id": 590071,
@@ -1282,6 +1409,7 @@
   {
    "number": "065",
    "name": "Tapu Koko",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590071_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590071/pokemon-sv08-surging-sparks-tapu-koko",
    "product_id": 590071,
@@ -1293,6 +1421,7 @@
   {
    "number": "066",
    "name": "Wattrel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590094_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590094/pokemon-sv08-surging-sparks-wattrel",
    "product_id": 590094,
@@ -1303,6 +1432,7 @@
   {
    "number": "066",
    "name": "Wattrel",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590094_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590094/pokemon-sv08-surging-sparks-wattrel",
    "product_id": 590094,
@@ -1313,6 +1443,7 @@
   {
    "number": "067",
    "name": "Kilowattrel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589976_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589976/pokemon-sv08-surging-sparks-kilowattrel",
    "product_id": 589976,
@@ -1323,6 +1454,7 @@
   {
    "number": "067",
    "name": "Kilowattrel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589976_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589976/pokemon-sv08-surging-sparks-kilowattrel",
    "product_id": 589976,
@@ -1333,6 +1465,7 @@
   {
    "number": "068",
    "name": "Kilowattrel ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589977_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589977/pokemon-sv08-surging-sparks-kilowattrel-ex",
    "product_id": 589977,
@@ -1343,6 +1476,7 @@
   {
    "number": "069",
    "name": "Miraidon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590008_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590008/pokemon-sv08-surging-sparks-miraidon",
    "product_id": 590008,
@@ -1353,6 +1487,7 @@
   {
    "number": "069",
    "name": "Miraidon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590008_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590008/pokemon-sv08-surging-sparks-miraidon",
    "product_id": 590008,
@@ -1363,6 +1498,7 @@
   {
    "number": "070",
    "name": "Togepi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590079_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590079/pokemon-sv08-surging-sparks-togepi",
    "product_id": 590079,
@@ -1373,6 +1509,7 @@
   {
    "number": "070",
    "name": "Togepi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590079_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590079/pokemon-sv08-surging-sparks-togepi",
    "product_id": 590079,
@@ -1383,6 +1520,7 @@
   {
    "number": "071",
    "name": "Togetic",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590080_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590080/pokemon-sv08-surging-sparks-togetic",
    "product_id": 590080,
@@ -1393,6 +1531,7 @@
   {
    "number": "071",
    "name": "Togetic",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590080_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590080/pokemon-sv08-surging-sparks-togetic",
    "product_id": 590080,
@@ -1403,6 +1542,7 @@
   {
    "number": "072",
    "name": "Togekiss",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590078_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590078/pokemon-sv08-surging-sparks-togekiss",
    "product_id": 590078,
@@ -1413,6 +1553,7 @@
   {
    "number": "072",
    "name": "Togekiss",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590078_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590078/pokemon-sv08-surging-sparks-togekiss",
    "product_id": 590078,
@@ -1423,6 +1564,7 @@
   {
    "number": "073",
    "name": "Marill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589997_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589997/pokemon-sv08-surging-sparks-marill",
    "product_id": 589997,
@@ -1433,6 +1575,7 @@
   {
    "number": "073",
    "name": "Marill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589997_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589997/pokemon-sv08-surging-sparks-marill",
    "product_id": 589997,
@@ -1443,6 +1586,7 @@
   {
    "number": "074",
    "name": "Azumarill",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589872_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589872/pokemon-sv08-surging-sparks-azumarill",
    "product_id": 589872,
@@ -1453,6 +1597,7 @@
   {
    "number": "074",
    "name": "Azumarill",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589872_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589872/pokemon-sv08-surging-sparks-azumarill",
    "product_id": 589872,
@@ -1463,6 +1608,7 @@
   {
    "number": "075",
    "name": "Smoochum",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590059_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590059/pokemon-sv08-surging-sparks-smoochum",
    "product_id": 590059,
@@ -1473,6 +1619,7 @@
   {
    "number": "075",
    "name": "Smoochum",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590059_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590059/pokemon-sv08-surging-sparks-smoochum",
    "product_id": 590059,
@@ -1483,6 +1630,7 @@
   {
    "number": "076",
    "name": "Latias ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589983_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589983/pokemon-sv08-surging-sparks-latias-ex-076-191",
    "product_id": 589983,
@@ -1493,6 +1641,7 @@
   {
    "number": "077",
    "name": "Latios",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589986_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589986/pokemon-sv08-surging-sparks-latios-077-191",
    "product_id": 589986,
@@ -1503,6 +1652,7 @@
   {
    "number": "077",
    "name": "Latios",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589986_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589986/pokemon-sv08-surging-sparks-latios-077-191",
    "product_id": 589986,
@@ -1513,6 +1663,7 @@
   {
    "number": "078",
    "name": "Uxie",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590084_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590084/pokemon-sv08-surging-sparks-uxie",
    "product_id": 590084,
@@ -1523,6 +1674,7 @@
   {
    "number": "078",
    "name": "Uxie",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590084_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590084/pokemon-sv08-surging-sparks-uxie",
    "product_id": 590084,
@@ -1533,6 +1685,7 @@
   {
    "number": "079",
    "name": "Mesprit",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590002_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590002/pokemon-sv08-surging-sparks-mesprit-079-191",
    "product_id": 590002,
@@ -1543,6 +1696,7 @@
   {
    "number": "079",
    "name": "Mesprit",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590002_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590002/pokemon-sv08-surging-sparks-mesprit-079-191",
    "product_id": 590002,
@@ -1553,6 +1707,7 @@
   {
    "number": "080",
    "name": "Azelf",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589871_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589871/pokemon-sv08-surging-sparks-azelf",
    "product_id": 589871,
@@ -1563,6 +1718,7 @@
   {
    "number": "080",
    "name": "Azelf",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589871_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589871/pokemon-sv08-surging-sparks-azelf",
    "product_id": 589871,
@@ -1573,6 +1729,7 @@
   {
    "number": "081",
    "name": "Sigilyph",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590048_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590048/pokemon-sv08-surging-sparks-sigilyph",
    "product_id": 590048,
@@ -1583,6 +1740,7 @@
   {
    "number": "081",
    "name": "Sigilyph",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590048_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590048/pokemon-sv08-surging-sparks-sigilyph",
    "product_id": 590048,
@@ -1593,6 +1751,7 @@
   {
    "number": "082",
    "name": "Yamask",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590097_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590097/pokemon-sv08-surging-sparks-yamask",
    "product_id": 590097,
@@ -1603,6 +1762,7 @@
   {
    "number": "082",
    "name": "Yamask",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590097_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590097/pokemon-sv08-surging-sparks-yamask",
    "product_id": 590097,
@@ -1613,6 +1773,7 @@
   {
    "number": "083",
    "name": "Cofagrigus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589905_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589905/pokemon-sv08-surging-sparks-cofagrigus",
    "product_id": 589905,
@@ -1623,6 +1784,7 @@
   {
    "number": "083",
    "name": "Cofagrigus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589905_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589905/pokemon-sv08-surging-sparks-cofagrigus",
    "product_id": 589905,
@@ -1633,6 +1795,7 @@
   {
    "number": "084",
    "name": "Espurr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589936_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589936/pokemon-sv08-surging-sparks-espurr",
    "product_id": 589936,
@@ -1643,6 +1806,7 @@
   {
    "number": "084",
    "name": "Espurr",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589936_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589936/pokemon-sv08-surging-sparks-espurr",
    "product_id": 589936,
@@ -1653,6 +1817,7 @@
   {
    "number": "085",
    "name": "Meowstic",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590001_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590001/pokemon-sv08-surging-sparks-meowstic",
    "product_id": 590001,
@@ -1663,6 +1828,7 @@
   {
    "number": "085",
    "name": "Meowstic",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590001_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590001/pokemon-sv08-surging-sparks-meowstic",
    "product_id": 590001,
@@ -1673,6 +1839,7 @@
   {
    "number": "086",
    "name": "Sylveon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590069_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590069/pokemon-sv08-surging-sparks-sylveon-ex",
    "product_id": 590069,
@@ -1683,6 +1850,7 @@
   {
    "number": "087",
    "name": "Dedenne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589914_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589914/pokemon-sv08-surging-sparks-dedenne",
    "product_id": 589914,
@@ -1693,6 +1861,7 @@
   {
    "number": "087",
    "name": "Dedenne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589914_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589914/pokemon-sv08-surging-sparks-dedenne",
    "product_id": 589914,
@@ -1703,6 +1872,7 @@
   {
    "number": "088",
    "name": "Xerneas",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590096_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590096/pokemon-sv08-surging-sparks-xerneas",
    "product_id": 590096,
@@ -1713,6 +1883,7 @@
   {
    "number": "088",
    "name": "Xerneas",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590096_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590096/pokemon-sv08-surging-sparks-xerneas",
    "product_id": 590096,
@@ -1723,6 +1894,7 @@
   {
    "number": "089",
    "name": "Oricorio",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590013_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590013/pokemon-sv08-surging-sparks-oricorio-089-191",
    "product_id": 590013,
@@ -1733,6 +1905,7 @@
   {
    "number": "089",
    "name": "Oricorio",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590013_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590013/pokemon-sv08-surging-sparks-oricorio-089-191",
    "product_id": 590013,
@@ -1743,6 +1916,7 @@
   {
    "number": "090",
    "name": "Sandygast",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590038_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590038/pokemon-sv08-surging-sparks-sandygast",
    "product_id": 590038,
@@ -1753,6 +1927,7 @@
   {
    "number": "090",
    "name": "Sandygast",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590038_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590038/pokemon-sv08-surging-sparks-sandygast",
    "product_id": 590038,
@@ -1763,6 +1938,7 @@
   {
    "number": "091",
    "name": "Palossand ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590018_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590018/pokemon-sv08-surging-sparks-palossand-ex-091-191",
    "product_id": 590018,
@@ -1773,6 +1949,7 @@
   {
    "number": "092",
    "name": "Tapu Lele",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590072_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590072/pokemon-sv08-surging-sparks-tapu-lele",
    "product_id": 590072,
@@ -1783,6 +1960,7 @@
   {
    "number": "092",
    "name": "Tapu Lele",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590072_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590072/pokemon-sv08-surging-sparks-tapu-lele",
    "product_id": 590072,
@@ -1793,6 +1971,7 @@
   {
    "number": "093",
    "name": "Indeedee",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589968_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589968/pokemon-sv08-surging-sparks-indeedee",
    "product_id": 589968,
@@ -1803,6 +1982,7 @@
   {
    "number": "093",
    "name": "Indeedee",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589968_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589968/pokemon-sv08-surging-sparks-indeedee",
    "product_id": 589968,
@@ -1813,6 +1993,7 @@
   {
    "number": "094",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589948_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589948/pokemon-sv08-surging-sparks-flittle",
    "product_id": 589948,
@@ -1823,6 +2004,7 @@
   {
    "number": "094",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589948_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589948/pokemon-sv08-surging-sparks-flittle",
    "product_id": 589948,
@@ -1833,6 +2015,7 @@
   {
    "number": "095",
    "name": "Espathra",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589935_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589935/pokemon-sv08-surging-sparks-espathra",
    "product_id": 589935,
@@ -1843,6 +2026,7 @@
   {
    "number": "095",
    "name": "Espathra",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589935_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589935/pokemon-sv08-surging-sparks-espathra",
    "product_id": 589935,
@@ -1853,6 +2037,7 @@
   {
    "number": "096",
    "name": "Flutter Mane",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589949_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589949/pokemon-sv08-surging-sparks-flutter-mane",
    "product_id": 589949,
@@ -1863,6 +2048,7 @@
   {
    "number": "096",
    "name": "Flutter Mane",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589949_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589949/pokemon-sv08-surging-sparks-flutter-mane",
    "product_id": 589949,
@@ -1873,6 +2059,7 @@
   {
    "number": "097",
    "name": "Gimmighoul",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589955_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589955/pokemon-sv08-surging-sparks-gimmighoul",
    "product_id": 589955,
@@ -1883,6 +2070,7 @@
   {
    "number": "097",
    "name": "Gimmighoul",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589955_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589955/pokemon-sv08-surging-sparks-gimmighoul",
    "product_id": 589955,
@@ -1893,6 +2081,7 @@
   {
    "number": "098",
    "name": "Mankey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589995_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589995/pokemon-sv08-surging-sparks-mankey",
    "product_id": 589995,
@@ -1903,6 +2092,7 @@
   {
    "number": "098",
    "name": "Mankey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589995_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589995/pokemon-sv08-surging-sparks-mankey",
    "product_id": 589995,
@@ -1913,6 +2103,7 @@
   {
    "number": "099",
    "name": "Primeape",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590029_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590029/pokemon-sv08-surging-sparks-primeape",
    "product_id": 590029,
@@ -1923,6 +2114,7 @@
   {
    "number": "099",
    "name": "Primeape",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590029_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590029/pokemon-sv08-surging-sparks-primeape",
    "product_id": 590029,
@@ -1933,6 +2125,7 @@
   {
    "number": "100",
    "name": "Annihilape",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589863_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589863/pokemon-sv08-surging-sparks-annihilape",
    "product_id": 589863,
@@ -1943,6 +2136,7 @@
   {
    "number": "100",
    "name": "Annihilape",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589863_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589863/pokemon-sv08-surging-sparks-annihilape",
    "product_id": 589863,
@@ -1953,6 +2147,7 @@
   {
    "number": "101",
    "name": "Paldean Tauros",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590016_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590016/pokemon-sv08-surging-sparks-paldean-tauros-101-191",
    "product_id": 590016,
@@ -1963,6 +2158,7 @@
   {
    "number": "101",
    "name": "Paldean Tauros",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590016_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590016/pokemon-sv08-surging-sparks-paldean-tauros-101-191",
    "product_id": 590016,
@@ -1973,6 +2169,7 @@
   {
    "number": "102",
    "name": "Phanpy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590023_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590023/pokemon-sv08-surging-sparks-phanpy-102-191",
    "product_id": 590023,
@@ -1983,6 +2180,7 @@
   {
    "number": "102",
    "name": "Phanpy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590023_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590023/pokemon-sv08-surging-sparks-phanpy-102-191",
    "product_id": 590023,
@@ -1993,6 +2191,7 @@
   {
    "number": "103",
    "name": "Donphan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589919_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589919/pokemon-sv08-surging-sparks-donphan",
    "product_id": 589919,
@@ -2003,6 +2202,7 @@
   {
    "number": "103",
    "name": "Donphan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589919_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589919/pokemon-sv08-surging-sparks-donphan",
    "product_id": 589919,
@@ -2013,6 +2213,7 @@
   {
    "number": "104",
    "name": "Trapinch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590081_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590081/pokemon-sv08-surging-sparks-trapinch",
    "product_id": 590081,
@@ -2023,6 +2224,7 @@
   {
    "number": "104",
    "name": "Trapinch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590081_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590081/pokemon-sv08-surging-sparks-trapinch",
    "product_id": 590081,
@@ -2033,6 +2235,7 @@
   {
    "number": "105",
    "name": "Vibrava",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590085_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590085/pokemon-sv08-surging-sparks-vibrava-105-191",
    "product_id": 590085,
@@ -2043,6 +2246,7 @@
   {
    "number": "105",
    "name": "Vibrava",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590085_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590085/pokemon-sv08-surging-sparks-vibrava-105-191",
    "product_id": 590085,
@@ -2053,6 +2257,7 @@
   {
    "number": "106",
    "name": "Flygon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589950_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589950/pokemon-sv08-surging-sparks-flygon-ex-106-191",
    "product_id": 589950,
@@ -2063,6 +2268,7 @@
   {
    "number": "107",
    "name": "Gastrodon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589953_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589953/pokemon-sv08-surging-sparks-gastrodon",
    "product_id": 589953,
@@ -2073,6 +2279,7 @@
   {
    "number": "107",
    "name": "Gastrodon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589953_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589953/pokemon-sv08-surging-sparks-gastrodon",
    "product_id": 589953,
@@ -2083,6 +2290,7 @@
   {
    "number": "108",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589926_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589926/pokemon-sv08-surging-sparks-drilbur",
    "product_id": 589926,
@@ -2093,6 +2301,7 @@
   {
    "number": "108",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589926_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589926/pokemon-sv08-surging-sparks-drilbur",
    "product_id": 589926,
@@ -2103,6 +2312,7 @@
   {
    "number": "109",
    "name": "Excadrill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589938_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589938/pokemon-sv08-surging-sparks-excadrill",
    "product_id": 589938,
@@ -2113,6 +2323,7 @@
   {
    "number": "109",
    "name": "Excadrill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589938_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589938/pokemon-sv08-surging-sparks-excadrill",
    "product_id": 589938,
@@ -2123,6 +2334,7 @@
   {
    "number": "110",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589980_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589980/pokemon-sv08-surging-sparks-landorus",
    "product_id": 589980,
@@ -2133,6 +2345,7 @@
   {
    "number": "110",
    "name": "Landorus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589980_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589980/pokemon-sv08-surging-sparks-landorus",
    "product_id": 589980,
@@ -2143,6 +2356,7 @@
   {
    "number": "111",
    "name": "Passimian",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590022_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590022/pokemon-sv08-surging-sparks-passimian",
    "product_id": 590022,
@@ -2153,6 +2367,7 @@
   {
    "number": "111",
    "name": "Passimian",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590022_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590022/pokemon-sv08-surging-sparks-passimian",
    "product_id": 590022,
@@ -2163,6 +2378,7 @@
   {
    "number": "112",
    "name": "Clobbopus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589903_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589903/pokemon-sv08-surging-sparks-clobbopus-112-191",
    "product_id": 589903,
@@ -2173,6 +2389,7 @@
   {
    "number": "112",
    "name": "Clobbopus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589903_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589903/pokemon-sv08-surging-sparks-clobbopus-112-191",
    "product_id": 589903,
@@ -2183,6 +2400,7 @@
   {
    "number": "113",
    "name": "Grapploct",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589960_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589960/pokemon-sv08-surging-sparks-grapploct",
    "product_id": 589960,
@@ -2193,6 +2411,7 @@
   {
    "number": "113",
    "name": "Grapploct",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589960_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589960/pokemon-sv08-surging-sparks-grapploct",
    "product_id": 589960,
@@ -2203,6 +2422,7 @@
   {
    "number": "114",
    "name": "Glimmet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589956_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589956/pokemon-sv08-surging-sparks-glimmet",
    "product_id": 589956,
@@ -2213,6 +2433,7 @@
   {
    "number": "114",
    "name": "Glimmet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589956_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589956/pokemon-sv08-surging-sparks-glimmet",
    "product_id": 589956,
@@ -2223,6 +2444,7 @@
   {
    "number": "115",
    "name": "Glimmora",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589957_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589957/pokemon-sv08-surging-sparks-glimmora",
    "product_id": 589957,
@@ -2233,6 +2455,7 @@
   {
    "number": "115",
    "name": "Glimmora",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589957_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589957/pokemon-sv08-surging-sparks-glimmora",
    "product_id": 589957,
@@ -2243,6 +2466,7 @@
   {
    "number": "116",
    "name": "Koraidon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589979_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589979/pokemon-sv08-surging-sparks-koraidon",
    "product_id": 589979,
@@ -2253,6 +2477,7 @@
   {
    "number": "116",
    "name": "Koraidon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589979_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589979/pokemon-sv08-surging-sparks-koraidon",
    "product_id": 589979,
@@ -2263,6 +2488,7 @@
   {
    "number": "117",
    "name": "Deino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589916_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589916/pokemon-sv08-surging-sparks-deino",
    "product_id": 589916,
@@ -2273,6 +2499,7 @@
   {
    "number": "117",
    "name": "Deino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589916_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589916/pokemon-sv08-surging-sparks-deino",
    "product_id": 589916,
@@ -2283,6 +2510,7 @@
   {
    "number": "118",
    "name": "Zweilous",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590101_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590101/pokemon-sv08-surging-sparks-zweilous",
    "product_id": 590101,
@@ -2293,6 +2521,7 @@
   {
    "number": "118",
    "name": "Zweilous",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590101_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590101/pokemon-sv08-surging-sparks-zweilous",
    "product_id": 590101,
@@ -2303,6 +2532,7 @@
   {
    "number": "119",
    "name": "Hydreigon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589965_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589965/pokemon-sv08-surging-sparks-hydreigon-ex-119-191",
    "product_id": 589965,
@@ -2313,6 +2543,7 @@
   {
    "number": "120",
    "name": "Shroodle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590047_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590047/pokemon-sv08-surging-sparks-shroodle",
    "product_id": 590047,
@@ -2323,6 +2554,7 @@
   {
    "number": "120",
    "name": "Shroodle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590047_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590047/pokemon-sv08-surging-sparks-shroodle",
    "product_id": 590047,
@@ -2333,6 +2565,7 @@
   {
    "number": "121",
    "name": "Grafaiai",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589959_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589959/pokemon-sv08-surging-sparks-grafaiai",
    "product_id": 589959,
@@ -2343,6 +2576,7 @@
   {
    "number": "121",
    "name": "Grafaiai",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589959_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589959/pokemon-sv08-surging-sparks-grafaiai",
    "product_id": 589959,
@@ -2353,6 +2587,7 @@
   {
    "number": "122",
    "name": "Alolan Diglett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589855_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589855/pokemon-sv08-surging-sparks-alolan-diglett",
    "product_id": 589855,
@@ -2363,6 +2598,7 @@
   {
    "number": "122",
    "name": "Alolan Diglett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589855_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589855/pokemon-sv08-surging-sparks-alolan-diglett",
    "product_id": 589855,
@@ -2373,6 +2609,7 @@
   {
    "number": "123",
    "name": "Alolan Dugtrio",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589856_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589856/pokemon-sv08-surging-sparks-alolan-dugtrio-123-191",
    "product_id": 589856,
@@ -2383,6 +2620,7 @@
   {
    "number": "123",
    "name": "Alolan Dugtrio",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589856_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589856/pokemon-sv08-surging-sparks-alolan-dugtrio-123-191",
    "product_id": 589856,
@@ -2393,6 +2631,7 @@
   {
    "number": "124",
    "name": "Skarmory",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590051_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590051/pokemon-sv08-surging-sparks-skarmory-124-191",
    "product_id": 590051,
@@ -2403,6 +2642,7 @@
   {
    "number": "124",
    "name": "Skarmory",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590051_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590051/pokemon-sv08-surging-sparks-skarmory-124-191",
    "product_id": 590051,
@@ -2413,6 +2653,7 @@
   {
    "number": "125",
    "name": "Registeel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590034_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590034/pokemon-sv08-surging-sparks-registeel",
    "product_id": 590034,
@@ -2423,6 +2664,7 @@
   {
    "number": "125",
    "name": "Registeel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590034_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590034/pokemon-sv08-surging-sparks-registeel",
    "product_id": 590034,
@@ -2433,6 +2675,7 @@
   {
    "number": "126",
    "name": "Bronzor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589882_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589882/pokemon-sv08-surging-sparks-bronzor",
    "product_id": 589882,
@@ -2443,6 +2686,7 @@
   {
    "number": "126",
    "name": "Bronzor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589882_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589882/pokemon-sv08-surging-sparks-bronzor",
    "product_id": 589882,
@@ -2453,6 +2697,7 @@
   {
    "number": "127",
    "name": "Bronzong",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589881_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589881/pokemon-sv08-surging-sparks-bronzong",
    "product_id": 589881,
@@ -2463,6 +2708,7 @@
   {
    "number": "127",
    "name": "Bronzong",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589881_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589881/pokemon-sv08-surging-sparks-bronzong",
    "product_id": 589881,
@@ -2473,6 +2719,7 @@
   {
    "number": "128",
    "name": "Klefki",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589978_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589978/pokemon-sv08-surging-sparks-klefki",
    "product_id": 589978,
@@ -2483,6 +2730,7 @@
   {
    "number": "128",
    "name": "Klefki",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589978_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589978/pokemon-sv08-surging-sparks-klefki",
    "product_id": 589978,
@@ -2493,6 +2741,7 @@
   {
    "number": "129",
    "name": "Duraludon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589927_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589927/pokemon-sv08-surging-sparks-duraludon",
    "product_id": 589927,
@@ -2503,6 +2752,7 @@
   {
    "number": "129",
    "name": "Duraludon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589927_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589927/pokemon-sv08-surging-sparks-duraludon",
    "product_id": 589927,
@@ -2513,6 +2763,7 @@
   {
    "number": "130",
    "name": "Archaludon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589867_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589867/pokemon-sv08-surging-sparks-archaludon-ex-130-191",
    "product_id": 589867,
@@ -2523,6 +2774,7 @@
   {
    "number": "131",
    "name": "Gholdengo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589954_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589954/pokemon-sv08-surging-sparks-gholdengo",
    "product_id": 589954,
@@ -2533,6 +2785,7 @@
   {
    "number": "131",
    "name": "Gholdengo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589954_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589954/pokemon-sv08-surging-sparks-gholdengo",
    "product_id": 589954,
@@ -2543,6 +2796,7 @@
   {
    "number": "132",
    "name": "Iron Crown",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589970_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589970/pokemon-sv08-surging-sparks-iron-crown",
    "product_id": 589970,
@@ -2553,6 +2807,7 @@
   {
    "number": "132",
    "name": "Iron Crown",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589970_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589970/pokemon-sv08-surging-sparks-iron-crown",
    "product_id": 589970,
@@ -2563,6 +2818,7 @@
   {
    "number": "133",
    "name": "Alolan Exeggutor ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589858_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589858/pokemon-sv08-surging-sparks-alolan-exeggutor-ex-133-191",
    "product_id": 589858,
@@ -2573,6 +2829,7 @@
   {
    "number": "134",
    "name": "Altaria",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589861_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589861/pokemon-sv08-surging-sparks-altaria",
    "product_id": 589861,
@@ -2583,6 +2840,7 @@
   {
    "number": "134",
    "name": "Altaria",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589861_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589861/pokemon-sv08-surging-sparks-altaria",
    "product_id": 589861,
@@ -2593,6 +2851,7 @@
   {
    "number": "135",
    "name": "Dialga",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589918_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589918/pokemon-sv08-surging-sparks-dialga",
    "product_id": 589918,
@@ -2603,6 +2862,7 @@
   {
    "number": "135",
    "name": "Dialga",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589918_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589918/pokemon-sv08-surging-sparks-dialga",
    "product_id": 589918,
@@ -2613,6 +2873,7 @@
   {
    "number": "136",
    "name": "Palkia",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590017_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590017/pokemon-sv08-surging-sparks-palkia",
    "product_id": 590017,
@@ -2623,6 +2884,7 @@
   {
    "number": "136",
    "name": "Palkia",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590017_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590017/pokemon-sv08-surging-sparks-palkia",
    "product_id": 590017,
@@ -2633,6 +2895,7 @@
   {
    "number": "137",
    "name": "Turtonator",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590082_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590082/pokemon-sv08-surging-sparks-turtonator",
    "product_id": 590082,
@@ -2643,6 +2906,7 @@
   {
    "number": "137",
    "name": "Turtonator",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590082_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590082/pokemon-sv08-surging-sparks-turtonator",
    "product_id": 590082,
@@ -2653,6 +2917,7 @@
   {
    "number": "138",
    "name": "Applin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589866_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589866/pokemon-sv08-surging-sparks-applin",
    "product_id": 589866,
@@ -2663,6 +2928,7 @@
   {
    "number": "138",
    "name": "Applin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589866_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589866/pokemon-sv08-surging-sparks-applin",
    "product_id": 589866,
@@ -2673,6 +2939,7 @@
   {
    "number": "139",
    "name": "Flapple",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589946_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589946/pokemon-sv08-surging-sparks-flapple-139-191",
    "product_id": 589946,
@@ -2683,6 +2950,7 @@
   {
    "number": "139",
    "name": "Flapple",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589946_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589946/pokemon-sv08-surging-sparks-flapple-139-191",
    "product_id": 589946,
@@ -2693,6 +2961,7 @@
   {
    "number": "140",
    "name": "Appletun",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589864_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589864/pokemon-sv08-surging-sparks-appletun-140-191",
    "product_id": 589864,
@@ -2703,6 +2972,7 @@
   {
    "number": "140",
    "name": "Appletun",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589864_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589864/pokemon-sv08-surging-sparks-appletun-140-191",
    "product_id": 589864,
@@ -2713,6 +2983,7 @@
   {
    "number": "141",
    "name": "Eternatus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589937_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589937/pokemon-sv08-surging-sparks-eternatus",
    "product_id": 589937,
@@ -2723,6 +2994,7 @@
   {
    "number": "141",
    "name": "Eternatus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589937_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589937/pokemon-sv08-surging-sparks-eternatus",
    "product_id": 589937,
@@ -2733,6 +3005,7 @@
   {
    "number": "142",
    "name": "Tatsugiri ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590073_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590073/pokemon-sv08-surging-sparks-tatsugiri-ex-142-191",
    "product_id": 590073,
@@ -2743,6 +3016,7 @@
   {
    "number": "143",
    "name": "Eevee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589932_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589932/pokemon-sv08-surging-sparks-eevee",
    "product_id": 589932,
@@ -2753,6 +3027,7 @@
   {
    "number": "143",
    "name": "Eevee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589932_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589932/pokemon-sv08-surging-sparks-eevee",
    "product_id": 589932,
@@ -2763,6 +3038,7 @@
   {
    "number": "144",
    "name": "Snorlax",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590060_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590060/pokemon-sv08-surging-sparks-snorlax",
    "product_id": 590060,
@@ -2773,6 +3049,7 @@
   {
    "number": "144",
    "name": "Snorlax",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590060_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590060/pokemon-sv08-surging-sparks-snorlax",
    "product_id": 590060,
@@ -2783,6 +3060,7 @@
   {
    "number": "145",
    "name": "Slakoth",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590056_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590056/pokemon-sv08-surging-sparks-slakoth-145-191",
    "product_id": 590056,
@@ -2793,6 +3071,7 @@
   {
    "number": "145",
    "name": "Slakoth",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590056_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590056/pokemon-sv08-surging-sparks-slakoth-145-191",
    "product_id": 590056,
@@ -2803,6 +3082,7 @@
   {
    "number": "146",
    "name": "Vigoroth",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590088_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590088/pokemon-sv08-surging-sparks-vigoroth",
    "product_id": 590088,
@@ -2813,6 +3093,7 @@
   {
    "number": "146",
    "name": "Vigoroth",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590088_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590088/pokemon-sv08-surging-sparks-vigoroth",
    "product_id": 590088,
@@ -2823,6 +3104,7 @@
   {
    "number": "147",
    "name": "Slaking ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590054_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590054/pokemon-sv08-surging-sparks-slaking-ex-147-191",
    "product_id": 590054,
@@ -2833,6 +3115,7 @@
   {
    "number": "148",
    "name": "Swablu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590068_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590068/pokemon-sv08-surging-sparks-swablu",
    "product_id": 590068,
@@ -2843,6 +3126,7 @@
   {
    "number": "148",
    "name": "Swablu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590068_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590068/pokemon-sv08-surging-sparks-swablu",
    "product_id": 590068,
@@ -2853,6 +3137,7 @@
   {
    "number": "149",
    "name": "Zangoose",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590098_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590098/pokemon-sv08-surging-sparks-zangoose",
    "product_id": 590098,
@@ -2863,6 +3148,7 @@
   {
    "number": "149",
    "name": "Zangoose",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590098_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590098/pokemon-sv08-surging-sparks-zangoose",
    "product_id": 590098,
@@ -2873,6 +3159,7 @@
   {
    "number": "150",
    "name": "Kecleon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589974_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589974/pokemon-sv08-surging-sparks-kecleon-150-191",
    "product_id": 589974,
@@ -2883,6 +3170,7 @@
   {
    "number": "150",
    "name": "Kecleon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589974_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589974/pokemon-sv08-surging-sparks-kecleon-150-191",
    "product_id": 589974,
@@ -2893,6 +3181,7 @@
   {
    "number": "151",
    "name": "Bouffalant",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589877_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589877/pokemon-sv08-surging-sparks-bouffalant",
    "product_id": 589877,
@@ -2903,6 +3192,7 @@
   {
    "number": "151",
    "name": "Bouffalant",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589877_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589877/pokemon-sv08-surging-sparks-bouffalant",
    "product_id": 589877,
@@ -2913,6 +3203,7 @@
   {
    "number": "152",
    "name": "Rufflet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590037_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590037/pokemon-sv08-surging-sparks-rufflet",
    "product_id": 590037,
@@ -2923,6 +3214,7 @@
   {
    "number": "152",
    "name": "Rufflet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590037_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590037/pokemon-sv08-surging-sparks-rufflet",
    "product_id": 590037,
@@ -2933,6 +3225,7 @@
   {
    "number": "153",
    "name": "Braviary",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589878_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589878/pokemon-sv08-surging-sparks-braviary-153-191",
    "product_id": 589878,
@@ -2943,6 +3236,7 @@
   {
    "number": "153",
    "name": "Braviary",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589878_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589878/pokemon-sv08-surging-sparks-braviary-153-191",
    "product_id": 589878,
@@ -2953,6 +3247,7 @@
   {
    "number": "154",
    "name": "Helioptile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589963_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589963/pokemon-sv08-surging-sparks-helioptile",
    "product_id": 589963,
@@ -2963,6 +3258,7 @@
   {
    "number": "154",
    "name": "Helioptile",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589963_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589963/pokemon-sv08-surging-sparks-helioptile",
    "product_id": 589963,
@@ -2973,6 +3269,7 @@
   {
    "number": "155",
    "name": "Heliolisk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589962_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589962/pokemon-sv08-surging-sparks-heliolisk",
    "product_id": 589962,
@@ -2983,6 +3280,7 @@
   {
    "number": "155",
    "name": "Heliolisk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589962_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589962/pokemon-sv08-surging-sparks-heliolisk",
    "product_id": 589962,
@@ -2993,6 +3291,7 @@
   {
    "number": "156",
    "name": "Oranguru",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590011_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590011/pokemon-sv08-surging-sparks-oranguru",
    "product_id": 590011,
@@ -3003,6 +3302,7 @@
   {
    "number": "156",
    "name": "Oranguru",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590011_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590011/pokemon-sv08-surging-sparks-oranguru",
    "product_id": 590011,
@@ -3013,6 +3313,7 @@
   {
    "number": "157",
    "name": "Tandemaus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590070_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590070/pokemon-sv08-surging-sparks-tandemaus",
    "product_id": 590070,
@@ -3023,6 +3324,7 @@
   {
    "number": "157",
    "name": "Tandemaus",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590070_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590070/pokemon-sv08-surging-sparks-tandemaus",
    "product_id": 590070,
@@ -3033,6 +3335,7 @@
   {
    "number": "158",
    "name": "Maushold",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589998_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589998/pokemon-sv08-surging-sparks-maushold",
    "product_id": 589998,
@@ -3043,6 +3346,7 @@
   {
    "number": "158",
    "name": "Maushold",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589998_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589998/pokemon-sv08-surging-sparks-maushold",
    "product_id": 589998,
@@ -3053,6 +3357,7 @@
   {
    "number": "159",
    "name": "Cyclizar ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589910_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589910/pokemon-sv08-surging-sparks-cyclizar-ex-159-191",
    "product_id": 589910,
@@ -3063,6 +3368,7 @@
   {
    "number": "160",
    "name": "Flamigo ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589945_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589945/pokemon-sv08-surging-sparks-flamigo-ex",
    "product_id": 589945,
@@ -3073,6 +3379,7 @@
   {
    "number": "161",
    "name": "Terapagos",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590077_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590077/pokemon-sv08-surging-sparks-terapagos",
    "product_id": 590077,
@@ -3083,6 +3390,7 @@
   {
    "number": "161",
    "name": "Terapagos",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590077_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590077/pokemon-sv08-surging-sparks-terapagos",
    "product_id": 590077,
@@ -3093,6 +3401,7 @@
   {
    "number": "162",
    "name": "Amulet of Hope",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589862_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589862/pokemon-sv08-surging-sparks-amulet-of-hope",
    "product_id": 589862,
@@ -3103,6 +3412,7 @@
   {
    "number": "163",
    "name": "Babiri Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589873_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589873/pokemon-sv08-surging-sparks-babiri-berry",
    "product_id": 589873,
@@ -3113,6 +3423,7 @@
   {
    "number": "163",
    "name": "Babiri Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589873_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589873/pokemon-sv08-surging-sparks-babiri-berry",
    "product_id": 589873,
@@ -3123,6 +3434,7 @@
   {
    "number": "164",
    "name": "Brilliant Blender",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589880_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589880/pokemon-sv08-surging-sparks-brilliant-blender",
    "product_id": 589880,
@@ -3133,6 +3445,7 @@
   {
    "number": "165",
    "name": "Call Bell",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589885_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589885/pokemon-sv08-surging-sparks-call-bell",
    "product_id": 589885,
@@ -3143,6 +3456,7 @@
   {
    "number": "165",
    "name": "Call Bell",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589885_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589885/pokemon-sv08-surging-sparks-call-bell",
    "product_id": 589885,
@@ -3153,6 +3467,7 @@
   {
    "number": "166",
    "name": "Chill Teaser Toy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589899_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589899/pokemon-sv08-surging-sparks-chill-teaser-toy",
    "product_id": 589899,
@@ -3163,6 +3478,7 @@
   {
    "number": "166",
    "name": "Chill Teaser Toy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589899_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589899/pokemon-sv08-surging-sparks-chill-teaser-toy",
    "product_id": 589899,
@@ -3173,6 +3489,7 @@
   {
    "number": "167",
    "name": "Clemont's Quick Wit",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589900_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589900/pokemon-sv08-surging-sparks-clemonts-quick-wit-167-191",
    "product_id": 589900,
@@ -3183,6 +3500,7 @@
   {
    "number": "167",
    "name": "Clemont's Quick Wit",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589900_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589900/pokemon-sv08-surging-sparks-clemonts-quick-wit-167-191",
    "product_id": 589900,
@@ -3193,6 +3511,7 @@
   {
    "number": "168",
    "name": "Colbur Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589906_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589906/pokemon-sv08-surging-sparks-colbur-berry",
    "product_id": 589906,
@@ -3203,6 +3522,7 @@
   {
    "number": "168",
    "name": "Colbur Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589906_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589906/pokemon-sv08-surging-sparks-colbur-berry",
    "product_id": 589906,
@@ -3213,6 +3533,7 @@
   {
    "number": "169",
    "name": "Counter Gain",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589907_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589907/pokemon-sv08-surging-sparks-counter-gain",
    "product_id": 589907,
@@ -3223,6 +3544,7 @@
   {
    "number": "169",
    "name": "Counter Gain",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589907_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589907/pokemon-sv08-surging-sparks-counter-gain",
    "product_id": 589907,
@@ -3233,6 +3555,7 @@
   {
    "number": "170",
    "name": "Cyrano",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589912_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589912/pokemon-sv08-surging-sparks-cyrano-170-191",
    "product_id": 589912,
@@ -3243,6 +3566,7 @@
   {
    "number": "170",
    "name": "Cyrano",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589912_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589912/pokemon-sv08-surging-sparks-cyrano-170-191",
    "product_id": 589912,
@@ -3253,6 +3577,7 @@
   {
    "number": "171",
    "name": "Deduction Kit",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589915_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589915/pokemon-sv08-surging-sparks-deduction-kit",
    "product_id": 589915,
@@ -3263,6 +3588,7 @@
   {
    "number": "171",
    "name": "Deduction Kit",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589915_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589915/pokemon-sv08-surging-sparks-deduction-kit",
    "product_id": 589915,
@@ -3273,6 +3599,7 @@
   {
    "number": "172",
    "name": "Dragon Elixir",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589920_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589920/pokemon-sv08-surging-sparks-dragon-elixir",
    "product_id": 589920,
@@ -3283,6 +3610,7 @@
   {
    "number": "172",
    "name": "Dragon Elixir",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589920_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589920/pokemon-sv08-surging-sparks-dragon-elixir",
    "product_id": 589920,
@@ -3293,6 +3621,7 @@
   {
    "number": "173",
    "name": "Drasna",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589921_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589921/pokemon-sv08-surging-sparks-drasna-173-191",
    "product_id": 589921,
@@ -3303,6 +3632,7 @@
   {
    "number": "173",
    "name": "Drasna",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589921_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589921/pokemon-sv08-surging-sparks-drasna-173-191",
    "product_id": 589921,
@@ -3313,6 +3643,7 @@
   {
    "number": "174",
    "name": "Drayton",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589923_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589923/pokemon-sv08-surging-sparks-drayton-174-191",
    "product_id": 589923,
@@ -3323,6 +3654,7 @@
   {
    "number": "174",
    "name": "Drayton",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589923_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589923/pokemon-sv08-surging-sparks-drayton-174-191",
    "product_id": 589923,
@@ -3333,6 +3665,7 @@
   {
    "number": "175",
    "name": "Dusk Ball",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589931_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589931/pokemon-sv08-surging-sparks-dusk-ball",
    "product_id": 589931,
@@ -3343,6 +3676,7 @@
   {
    "number": "175",
    "name": "Dusk Ball",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589931_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589931/pokemon-sv08-surging-sparks-dusk-ball",
    "product_id": 589931,
@@ -3353,6 +3687,7 @@
   {
    "number": "176",
    "name": "Energy Search Pro",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589933_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589933/pokemon-sv08-surging-sparks-energy-search-pro",
    "product_id": 589933,
@@ -3363,6 +3698,7 @@
   {
    "number": "177",
    "name": "Gravity Mountain",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589961_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589961/pokemon-sv08-surging-sparks-gravity-mountain",
    "product_id": 589961,
@@ -3373,6 +3709,7 @@
   {
    "number": "177",
    "name": "Gravity Mountain",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589961_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589961/pokemon-sv08-surging-sparks-gravity-mountain",
    "product_id": 589961,
@@ -3383,6 +3720,7 @@
   {
    "number": "178",
    "name": "Jasmine's Gaze",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589971_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589971/pokemon-sv08-surging-sparks-jasmines-gaze-178-191",
    "product_id": 589971,
@@ -3393,6 +3731,7 @@
   {
    "number": "178",
    "name": "Jasmine's Gaze",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589971_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589971/pokemon-sv08-surging-sparks-jasmines-gaze-178-191",
    "product_id": 589971,
@@ -3403,6 +3742,7 @@
   {
    "number": "179",
    "name": "Lisia's Appeal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589988_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589988/pokemon-sv08-surging-sparks-lisias-appeal-179-191",
    "product_id": 589988,
@@ -3413,6 +3753,7 @@
   {
    "number": "179",
    "name": "Lisia's Appeal",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589988_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589988/pokemon-sv08-surging-sparks-lisias-appeal-179-191",
    "product_id": 589988,
@@ -3423,6 +3764,7 @@
   {
    "number": "180",
    "name": "Lively Stadium",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589991_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589991/pokemon-sv08-surging-sparks-lively-stadium",
    "product_id": 589991,
@@ -3433,6 +3775,7 @@
   {
    "number": "180",
    "name": "Lively Stadium",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589991_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589991/pokemon-sv08-surging-sparks-lively-stadium",
    "product_id": 589991,
@@ -3443,6 +3786,7 @@
   {
    "number": "181",
    "name": "Meddling Memo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589999_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589999/pokemon-sv08-surging-sparks-meddling-memo",
    "product_id": 589999,
@@ -3453,6 +3797,7 @@
   {
    "number": "181",
    "name": "Meddling Memo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589999_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589999/pokemon-sv08-surging-sparks-meddling-memo",
    "product_id": 589999,
@@ -3463,6 +3808,7 @@
   {
    "number": "182",
    "name": "Megaton Blower",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590000_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590000/pokemon-sv08-surging-sparks-megaton-blower",
    "product_id": 590000,
@@ -3473,6 +3819,7 @@
   {
    "number": "183",
    "name": "Miracle Headset",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590007_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590007/pokemon-sv08-surging-sparks-miracle-headset",
    "product_id": 590007,
@@ -3483,6 +3830,7 @@
   {
    "number": "184",
    "name": "Passho Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590021_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590021/pokemon-sv08-surging-sparks-passho-berry",
    "product_id": 590021,
@@ -3493,6 +3841,7 @@
   {
    "number": "184",
    "name": "Passho Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590021_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590021/pokemon-sv08-surging-sparks-passho-berry",
    "product_id": 590021,
@@ -3503,6 +3852,7 @@
   {
    "number": "185",
    "name": "Precious Trolley",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590028_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590028/pokemon-sv08-surging-sparks-precious-trolley",
    "product_id": 590028,
@@ -3513,6 +3863,7 @@
   {
    "number": "186",
    "name": "Scramble Switch",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590042_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590042/pokemon-sv08-surging-sparks-scramble-switch",
    "product_id": 590042,
@@ -3523,6 +3874,7 @@
   {
    "number": "187",
    "name": "Surfer",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590066_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590066/pokemon-sv08-surging-sparks-surfer-187-191",
    "product_id": 590066,
@@ -3533,6 +3885,7 @@
   {
    "number": "187",
    "name": "Surfer",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590066_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590066/pokemon-sv08-surging-sparks-surfer-187-191",
    "product_id": 590066,
@@ -3543,6 +3896,7 @@
   {
    "number": "188",
    "name": "Technical Machine: Fluorite",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590075_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590075/pokemon-sv08-surging-sparks-technical-machine-fluorite",
    "product_id": 590075,
@@ -3553,6 +3907,7 @@
   {
    "number": "188",
    "name": "Technical Machine: Fluorite",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590075_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590075/pokemon-sv08-surging-sparks-technical-machine-fluorite",
    "product_id": 590075,
@@ -3563,6 +3918,7 @@
   {
    "number": "189",
    "name": "Tera Orb",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590076_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590076/pokemon-sv08-surging-sparks-tera-orb",
    "product_id": 590076,
@@ -3573,6 +3929,7 @@
   {
    "number": "189",
    "name": "Tera Orb",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590076_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590076/pokemon-sv08-surging-sparks-tera-orb",
    "product_id": 590076,
@@ -3583,6 +3940,7 @@
   {
    "number": "190",
    "name": "Tyme",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590083_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590083/pokemon-sv08-surging-sparks-tyme",
    "product_id": 590083,
@@ -3593,6 +3951,7 @@
   {
    "number": "190",
    "name": "Tyme",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590083_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590083/pokemon-sv08-surging-sparks-tyme",
    "product_id": 590083,
@@ -3603,6 +3962,7 @@
   {
    "number": "191",
    "name": "Enriching Energy",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589934_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589934/pokemon-sv08-surging-sparks-enriching-energy",
    "product_id": 589934,
@@ -3613,6 +3973,7 @@
   {
    "number": "192",
    "name": "Exeggcute",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589941_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589941/pokemon-sv08-surging-sparks-exeggcute-192-191",
    "product_id": 589941,
@@ -3623,6 +3984,7 @@
   {
    "number": "193",
    "name": "Vivillon",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590090_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590090/pokemon-sv08-surging-sparks-vivillon-193-191",
    "product_id": 590090,
@@ -3633,6 +3995,7 @@
   {
    "number": "194",
    "name": "Shiinotic",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590046_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590046/pokemon-sv08-surging-sparks-shiinotic-194-191",
    "product_id": 590046,
@@ -3643,6 +4006,7 @@
   {
    "number": "195",
    "name": "Castform Sunny Form",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589888_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589888/pokemon-sv08-surging-sparks-castform-sunny-form-195-191",
    "product_id": 589888,
@@ -3653,6 +4017,7 @@
   {
    "number": "196",
    "name": "Larvesta",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589982_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589982/pokemon-sv08-surging-sparks-larvesta-196-191",
    "product_id": 589982,
@@ -3663,6 +4028,7 @@
   {
    "number": "197",
    "name": "Ceruledge",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589891_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589891/pokemon-sv08-surging-sparks-ceruledge-197-191",
    "product_id": 589891,
@@ -3673,6 +4039,7 @@
   {
    "number": "198",
    "name": "Feebas",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589944_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589944/pokemon-sv08-surging-sparks-feebas-198-191",
    "product_id": 589944,
@@ -3683,6 +4050,7 @@
   {
    "number": "199",
    "name": "Spheal",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590063_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590063/pokemon-sv08-surging-sparks-spheal-199-191",
    "product_id": 590063,
@@ -3693,6 +4061,7 @@
   {
    "number": "200",
    "name": "Bruxish",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589884_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589884/pokemon-sv08-surging-sparks-bruxish-200-191",
    "product_id": 589884,
@@ -3703,6 +4072,7 @@
   {
    "number": "201",
    "name": "Cetitan",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589894_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589894/pokemon-sv08-surging-sparks-cetitan-201-191",
    "product_id": 589894,
@@ -3713,6 +4083,7 @@
   {
    "number": "202",
    "name": "Stunfisk",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590065_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590065/pokemon-sv08-surging-sparks-stunfisk-202-191",
    "product_id": 590065,
@@ -3723,6 +4094,7 @@
   {
    "number": "203",
    "name": "Latios",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589987_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589987/pokemon-sv08-surging-sparks-latios-203-191",
    "product_id": 589987,
@@ -3733,6 +4105,7 @@
   {
    "number": "204",
    "name": "Mesprit",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590003_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590003/pokemon-sv08-surging-sparks-mesprit-204-191",
    "product_id": 590003,
@@ -3743,6 +4116,7 @@
   {
    "number": "205",
    "name": "Phanpy",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590024_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590024/pokemon-sv08-surging-sparks-phanpy-205-191",
    "product_id": 590024,
@@ -3753,6 +4127,7 @@
   {
    "number": "206",
    "name": "Vibrava",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590086_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590086/pokemon-sv08-surging-sparks-vibrava-206-191",
    "product_id": 590086,
@@ -3763,6 +4138,7 @@
   {
    "number": "207",
    "name": "Clobbopus",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589904_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589904/pokemon-sv08-surging-sparks-clobbopus-207-191",
    "product_id": 589904,
@@ -3773,6 +4149,7 @@
   {
    "number": "208",
    "name": "Alolan Dugtrio",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589857_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589857/pokemon-sv08-surging-sparks-alolan-dugtrio-208-191",
    "product_id": 589857,
@@ -3783,6 +4160,7 @@
   {
    "number": "209",
    "name": "Skarmory",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590052_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590052/pokemon-sv08-surging-sparks-skarmory-209-191",
    "product_id": 590052,
@@ -3793,6 +4171,7 @@
   {
    "number": "210",
    "name": "Flapple",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589947_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589947/pokemon-sv08-surging-sparks-flapple-210-191",
    "product_id": 589947,
@@ -3803,6 +4182,7 @@
   {
    "number": "211",
    "name": "Appletun",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589865_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589865/pokemon-sv08-surging-sparks-appletun-211-191",
    "product_id": 589865,
@@ -3813,6 +4193,7 @@
   {
    "number": "212",
    "name": "Slakoth",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590057_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590057/pokemon-sv08-surging-sparks-slakoth-212-191",
    "product_id": 590057,
@@ -3823,6 +4204,7 @@
   {
    "number": "213",
    "name": "Kecleon",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589975_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589975/pokemon-sv08-surging-sparks-kecleon-213-191",
    "product_id": 589975,
@@ -3833,6 +4215,7 @@
   {
    "number": "214",
    "name": "Braviary",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589879_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589879/pokemon-sv08-surging-sparks-braviary-214-191",
    "product_id": 589879,
@@ -3843,6 +4226,7 @@
   {
    "number": "215",
    "name": "Durant ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589929_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589929/pokemon-sv08-surging-sparks-durant-ex-215-191",
    "product_id": 589929,
@@ -3853,6 +4237,7 @@
   {
    "number": "216",
    "name": "Scovillain ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590041_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590041/pokemon-sv08-surging-sparks-scovillain-ex-216-191",
    "product_id": 590041,
@@ -3863,6 +4248,7 @@
   {
    "number": "217",
    "name": "Milotic ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590005_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590005/pokemon-sv08-surging-sparks-milotic-ex-217-191",
    "product_id": 590005,
@@ -3873,6 +4259,7 @@
   {
    "number": "218",
    "name": "Black Kyurem ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589875_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589875/pokemon-sv08-surging-sparks-black-kyurem-ex-218-191",
    "product_id": 589875,
@@ -3883,6 +4270,7 @@
   {
    "number": "219",
    "name": "Pikachu ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590026_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590026/pokemon-sv08-surging-sparks-pikachu-ex-219-191",
    "product_id": 590026,
@@ -3893,6 +4281,7 @@
   {
    "number": "220",
    "name": "Latias ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589984_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589984/pokemon-sv08-surging-sparks-latias-ex-220-191",
    "product_id": 589984,
@@ -3903,6 +4292,7 @@
   {
    "number": "221",
    "name": "Palossand ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590019_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590019/pokemon-sv08-surging-sparks-palossand-ex-221-191",
    "product_id": 590019,
@@ -3913,6 +4303,7 @@
   {
    "number": "222",
    "name": "Flygon ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589951_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589951/pokemon-sv08-surging-sparks-flygon-ex-222-191",
    "product_id": 589951,
@@ -3923,6 +4314,7 @@
   {
    "number": "223",
    "name": "Hydreigon ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589966_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589966/pokemon-sv08-surging-sparks-hydreigon-ex-223-191",
    "product_id": 589966,
@@ -3933,6 +4325,7 @@
   {
    "number": "224",
    "name": "Archaludon ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589868_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589868/pokemon-sv08-surging-sparks-archaludon-ex-224-191",
    "product_id": 589868,
@@ -3943,6 +4336,7 @@
   {
    "number": "225",
    "name": "Alolan Exeggutor ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589859_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589859/pokemon-sv08-surging-sparks-alolan-exeggutor-ex-225-191",
    "product_id": 589859,
@@ -3953,6 +4347,7 @@
   {
    "number": "226",
    "name": "Tatsugiri ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590074_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590074/pokemon-sv08-surging-sparks-tatsugiri-ex-226-191",
    "product_id": 590074,
@@ -3963,6 +4358,7 @@
   {
    "number": "227",
    "name": "Slaking ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590055_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590055/pokemon-sv08-surging-sparks-slaking-ex-227-191",
    "product_id": 590055,
@@ -3973,6 +4369,7 @@
   {
    "number": "228",
    "name": "Cyclizar ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589911_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589911/pokemon-sv08-surging-sparks-cyclizar-ex-228-191",
    "product_id": 589911,
@@ -3983,6 +4380,7 @@
   {
    "number": "229",
    "name": "Clemont's Quick Wit",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589901_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589901/pokemon-sv08-surging-sparks-clemonts-quick-wit-229-191",
    "product_id": 589901,
@@ -3993,6 +4391,7 @@
   {
    "number": "230",
    "name": "Cyrano",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589913_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589913/pokemon-sv08-surging-sparks-cyrano-230-191",
    "product_id": 589913,
@@ -4003,6 +4402,7 @@
   {
    "number": "231",
    "name": "Drasna",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589922_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589922/pokemon-sv08-surging-sparks-drasna-231-191",
    "product_id": 589922,
@@ -4013,6 +4413,7 @@
   {
    "number": "232",
    "name": "Drayton",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589924_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589924/pokemon-sv08-surging-sparks-drayton-232-191",
    "product_id": 589924,
@@ -4023,6 +4424,7 @@
   {
    "number": "233",
    "name": "Jasmine's Gaze",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589972_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589972/pokemon-sv08-surging-sparks-jasmines-gaze-233-191",
    "product_id": 589972,
@@ -4033,6 +4435,7 @@
   {
    "number": "234",
    "name": "Lisia's Appeal",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589989_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589989/pokemon-sv08-surging-sparks-lisias-appeal-234-191",
    "product_id": 589989,
@@ -4043,6 +4446,7 @@
   {
    "number": "235",
    "name": "Surfer",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590067_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590067/pokemon-sv08-surging-sparks-surfer-235-191",
    "product_id": 590067,
@@ -4053,6 +4457,7 @@
   {
    "number": "236",
    "name": "Durant ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589930_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589930/pokemon-sv08-surging-sparks-durant-ex-236-191",
    "product_id": 589930,
@@ -4063,6 +4468,7 @@
   {
    "number": "237",
    "name": "Milotic ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590006_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590006/pokemon-sv08-surging-sparks-milotic-ex-237-191",
    "product_id": 590006,
@@ -4073,6 +4479,7 @@
   {
    "number": "238",
    "name": "Pikachu ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/590027_400w.jpg",
    "url": "https://www.tcgplayer.com/product/590027/pokemon-sv08-surging-sparks-pikachu-ex-238-191",
    "product_id": 590027,
@@ -4083,6 +4490,7 @@
   {
    "number": "239",
    "name": "Latias ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589985_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589985/pokemon-sv08-surging-sparks-latias-ex-239-191",
    "product_id": 589985,
@@ -4093,6 +4501,7 @@
   {
    "number": "240",
    "name": "Hydreigon ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589967_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589967/pokemon-sv08-surging-sparks-hydreigon-ex-240-191",
    "product_id": 589967,
@@ -4103,6 +4512,7 @@
   {
    "number": "241",
    "name": "Archaludon ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589869_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589869/pokemon-sv08-surging-sparks-archaludon-ex-241-191",
    "product_id": 589869,
@@ -4113,6 +4523,7 @@
   {
    "number": "242",
    "name": "Alolan Exeggutor ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589860_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589860/pokemon-sv08-surging-sparks-alolan-exeggutor-ex-242-191",
    "product_id": 589860,
@@ -4123,6 +4534,7 @@
   {
    "number": "243",
    "name": "Clemont's Quick Wit",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589902_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589902/pokemon-sv08-surging-sparks-clemonts-quick-wit-243-191",
    "product_id": 589902,
@@ -4133,6 +4545,7 @@
   {
    "number": "244",
    "name": "Drayton",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589925_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589925/pokemon-sv08-surging-sparks-drayton-244-191",
    "product_id": 589925,
@@ -4143,6 +4556,7 @@
   {
    "number": "245",
    "name": "Jasmine's Gaze",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589973_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589973/pokemon-sv08-surging-sparks-jasmines-gaze-245-191",
    "product_id": 589973,
@@ -4153,6 +4567,7 @@
   {
    "number": "246",
    "name": "Lisia's Appeal",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/589990_400w.jpg",
    "url": "https://www.tcgplayer.com/product/589990/pokemon-sv08-surging-sparks-lisias-appeal-246-191",
    "product_id": 589990,
@@ -4163,6 +4578,7 @@
   {
    "number": "247",
    "name": "Pikachu ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/593169_400w.jpg",
    "url": "https://www.tcgplayer.com/product/593169/pokemon-sv08-surging-sparks-pikachu-ex-247-191",
    "product_id": 593169,
@@ -4173,6 +4589,7 @@
   {
    "number": "248",
    "name": "Alolan Exeggutor ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/593855_400w.jpg",
    "url": "https://www.tcgplayer.com/product/593855/pokemon-sv08-surging-sparks-alolan-exeggutor-ex-248-191",
    "product_id": 593855,
@@ -4183,6 +4600,7 @@
   {
    "number": "249",
    "name": "Counter Gain",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/593856_400w.jpg",
    "url": "https://www.tcgplayer.com/product/593856/pokemon-sv08-surging-sparks-counter-gain-249-191",
    "product_id": 593856,
@@ -4193,6 +4611,7 @@
   {
    "number": "250",
    "name": "Gravity Mountain",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/593857_400w.jpg",
    "url": "https://www.tcgplayer.com/product/593857/pokemon-sv08-surging-sparks-gravity-mountain-250-191",
    "product_id": 593857,
@@ -4203,6 +4622,7 @@
   {
    "number": "251",
    "name": "Night Stretcher",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/593859_400w.jpg",
    "url": "https://www.tcgplayer.com/product/593859/pokemon-sv08-surging-sparks-night-stretcher-251-191",
    "product_id": 593859,
@@ -4213,6 +4633,7 @@
   {
    "number": "252",
    "name": "Jet Energy",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/593861_400w.jpg",
    "url": "https://www.tcgplayer.com/product/593861/pokemon-sv08-surging-sparks-jet-energy",
    "product_id": 593861,

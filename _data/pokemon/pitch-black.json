@@ -10,10 +10,12 @@
  "owned_count": 108,
  "total_count": 199,
  "owned_qty": 198,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Tropius",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704758_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704758/pokemon-me05-pitch-black-tropius",
    "product_id": 704758,
@@ -24,6 +26,7 @@
   {
    "number": "001",
    "name": "Tropius",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704758_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704758/pokemon-me05-pitch-black-tropius",
    "product_id": 704758,
@@ -34,6 +37,7 @@
   {
    "number": "002",
    "name": "Grubbin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704759_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704759/pokemon-me05-pitch-black-grubbin",
    "product_id": 704759,
@@ -44,6 +48,7 @@
   {
    "number": "002",
    "name": "Grubbin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704759_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704759/pokemon-me05-pitch-black-grubbin",
    "product_id": 704759,
@@ -54,6 +59,7 @@
   {
    "number": "003",
    "name": "Fomantis",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704760_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704760/pokemon-me05-pitch-black-fomantis-003-084",
    "product_id": 704760,
@@ -64,6 +70,7 @@
   {
    "number": "003",
    "name": "Fomantis",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704760_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704760/pokemon-me05-pitch-black-fomantis-003-084",
    "product_id": 704760,
@@ -74,6 +81,7 @@
   {
    "number": "004",
    "name": "Lurantis ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704761_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704761/pokemon-me05-pitch-black-lurantis-ex-004-084",
    "product_id": 704761,
@@ -84,6 +92,7 @@
   {
    "number": "005",
    "name": "Poltchageist",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704762_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704762/pokemon-me05-pitch-black-poltchageist",
    "product_id": 704762,
@@ -94,6 +103,7 @@
   {
    "number": "005",
    "name": "Poltchageist",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704762_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704762/pokemon-me05-pitch-black-poltchageist",
    "product_id": 704762,
@@ -104,6 +114,7 @@
   {
    "number": "006",
    "name": "Sinistcha",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704763_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704763/pokemon-me05-pitch-black-sinistcha",
    "product_id": 704763,
@@ -114,6 +125,7 @@
   {
    "number": "006",
    "name": "Sinistcha",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704763_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704763/pokemon-me05-pitch-black-sinistcha",
    "product_id": 704763,
@@ -124,6 +136,7 @@
   {
    "number": "007",
    "name": "Heatran",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704764_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704764/pokemon-me05-pitch-black-heatran",
    "product_id": 704764,
@@ -134,6 +147,7 @@
   {
    "number": "007",
    "name": "Heatran",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704764_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704764/pokemon-me05-pitch-black-heatran",
    "product_id": 704764,
@@ -144,6 +158,7 @@
   {
    "number": "008",
    "name": "Mega Delphox ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704765_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704765/pokemon-me05-pitch-black-mega-delphox-ex",
    "product_id": 704765,
@@ -154,6 +169,7 @@
   {
    "number": "009",
    "name": "Sizzlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704766_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704766/pokemon-me05-pitch-black-sizzlipede",
    "product_id": 704766,
@@ -164,6 +180,7 @@
   {
    "number": "009",
    "name": "Sizzlipede",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704766_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704766/pokemon-me05-pitch-black-sizzlipede",
    "product_id": 704766,
@@ -174,6 +191,7 @@
   {
    "number": "010",
    "name": "Centiskorch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704767_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704767/pokemon-me05-pitch-black-centiskorch",
    "product_id": 704767,
@@ -184,6 +202,7 @@
   {
    "number": "010",
    "name": "Centiskorch",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704767_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704767/pokemon-me05-pitch-black-centiskorch",
    "product_id": 704767,
@@ -194,6 +213,7 @@
   {
    "number": "011",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704768_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704768/pokemon-me05-pitch-black-charcadet",
    "product_id": 704768,
@@ -204,6 +224,7 @@
   {
    "number": "011",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704768_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704768/pokemon-me05-pitch-black-charcadet",
    "product_id": 704768,
@@ -214,6 +235,7 @@
   {
    "number": "012",
    "name": "Armarouge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704769_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704769/pokemon-me05-pitch-black-armarouge-012-084",
    "product_id": 704769,
@@ -224,6 +246,7 @@
   {
    "number": "012",
    "name": "Armarouge",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704769_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704769/pokemon-me05-pitch-black-armarouge-012-084",
    "product_id": 704769,
@@ -234,6 +257,7 @@
   {
    "number": "013",
    "name": "Goldeen",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704770_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704770/pokemon-me05-pitch-black-goldeen-013-084",
    "product_id": 704770,
@@ -244,6 +268,7 @@
   {
    "number": "013",
    "name": "Goldeen",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704770_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704770/pokemon-me05-pitch-black-goldeen-013-084",
    "product_id": 704770,
@@ -254,6 +279,7 @@
   {
    "number": "014",
    "name": "Seaking",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704771_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704771/pokemon-me05-pitch-black-seaking",
    "product_id": 704771,
@@ -264,6 +290,7 @@
   {
    "number": "014",
    "name": "Seaking",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704771_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704771/pokemon-me05-pitch-black-seaking",
    "product_id": 704771,
@@ -274,6 +301,7 @@
   {
    "number": "015",
    "name": "Wailmer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704772_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704772/pokemon-me05-pitch-black-wailmer",
    "product_id": 704772,
@@ -284,6 +312,7 @@
   {
    "number": "015",
    "name": "Wailmer",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704772_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704772/pokemon-me05-pitch-black-wailmer",
    "product_id": 704772,
@@ -294,6 +323,7 @@
   {
    "number": "016",
    "name": "Wailord ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704773_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704773/pokemon-me05-pitch-black-wailord-ex-016-084",
    "product_id": 704773,
@@ -304,6 +334,7 @@
   {
    "number": "017",
    "name": "Relicanth",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704774_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704774/pokemon-me05-pitch-black-relicanth",
    "product_id": 704774,
@@ -314,6 +345,7 @@
   {
    "number": "017",
    "name": "Relicanth",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704774_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704774/pokemon-me05-pitch-black-relicanth",
    "product_id": 704774,
@@ -324,6 +356,7 @@
   {
    "number": "018",
    "name": "Popplio",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704775_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704775/pokemon-me05-pitch-black-popplio",
    "product_id": 704775,
@@ -334,6 +367,7 @@
   {
    "number": "018",
    "name": "Popplio",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704775_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704775/pokemon-me05-pitch-black-popplio",
    "product_id": 704775,
@@ -344,6 +378,7 @@
   {
    "number": "019",
    "name": "Brionne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704776_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704776/pokemon-me05-pitch-black-brionne",
    "product_id": 704776,
@@ -354,6 +389,7 @@
   {
    "number": "019",
    "name": "Brionne",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704776_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704776/pokemon-me05-pitch-black-brionne",
    "product_id": 704776,
@@ -364,6 +400,7 @@
   {
    "number": "020",
    "name": "Primarina",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704777_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704777/pokemon-me05-pitch-black-primarina-020-084",
    "product_id": 704777,
@@ -374,6 +411,7 @@
   {
    "number": "020",
    "name": "Primarina",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704777_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704777/pokemon-me05-pitch-black-primarina-020-084",
    "product_id": 704777,
@@ -384,6 +422,7 @@
   {
    "number": "021",
    "name": "Finizen",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704778_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704778/pokemon-me05-pitch-black-finizen",
    "product_id": 704778,
@@ -394,6 +433,7 @@
   {
    "number": "021",
    "name": "Finizen",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704778_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704778/pokemon-me05-pitch-black-finizen",
    "product_id": 704778,
@@ -404,6 +444,7 @@
   {
    "number": "022",
    "name": "Palafin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704779_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704779/pokemon-me05-pitch-black-palafin",
    "product_id": 704779,
@@ -414,6 +455,7 @@
   {
    "number": "022",
    "name": "Palafin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704779_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704779/pokemon-me05-pitch-black-palafin",
    "product_id": 704779,
@@ -424,6 +466,7 @@
   {
    "number": "023",
    "name": "Electrike",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704780_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704780/pokemon-me05-pitch-black-electrike",
    "product_id": 704780,
@@ -434,6 +477,7 @@
   {
    "number": "023",
    "name": "Electrike",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704780_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704780/pokemon-me05-pitch-black-electrike",
    "product_id": 704780,
@@ -444,6 +488,7 @@
   {
    "number": "024",
    "name": "Manectric",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704781_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704781/pokemon-me05-pitch-black-manectric-024-084",
    "product_id": 704781,
@@ -454,6 +499,7 @@
   {
    "number": "024",
    "name": "Manectric",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704781_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704781/pokemon-me05-pitch-black-manectric-024-084",
    "product_id": 704781,
@@ -464,6 +510,7 @@
   {
    "number": "025",
    "name": "Charjabug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704782_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704782/pokemon-me05-pitch-black-charjabug",
    "product_id": 704782,
@@ -474,6 +521,7 @@
   {
    "number": "025",
    "name": "Charjabug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704782_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704782/pokemon-me05-pitch-black-charjabug",
    "product_id": 704782,
@@ -484,6 +532,7 @@
   {
    "number": "026",
    "name": "Vikavolt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704783_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704783/pokemon-me05-pitch-black-vikavolt",
    "product_id": 704783,
@@ -494,6 +543,7 @@
   {
    "number": "026",
    "name": "Vikavolt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704783_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704783/pokemon-me05-pitch-black-vikavolt",
    "product_id": 704783,
@@ -504,6 +554,7 @@
   {
    "number": "027",
    "name": "Mega Zeraora ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704784_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704784/pokemon-me05-pitch-black-mega-zeraora-ex-027-084",
    "product_id": 704784,
@@ -514,6 +565,7 @@
   {
    "number": "028",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/707026_400w.jpg",
    "url": "https://www.tcgplayer.com/product/707026/pokemon-deck-exclusives-miraidon-028-084-non-holo",
    "product_id": 707026,
@@ -525,6 +577,7 @@
   {
    "number": "028",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704785_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704785/pokemon-me05-pitch-black-miraidon",
    "product_id": 704785,
@@ -536,6 +589,7 @@
   {
    "number": "028",
    "name": "Miraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704785_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704785/pokemon-me05-pitch-black-miraidon",
    "product_id": 704785,
@@ -547,6 +601,7 @@
   {
    "number": "029",
    "name": "Slowpoke",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704786_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704786/pokemon-me05-pitch-black-slowpoke",
    "product_id": 704786,
@@ -557,6 +612,7 @@
   {
    "number": "029",
    "name": "Slowpoke",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704786_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704786/pokemon-me05-pitch-black-slowpoke",
    "product_id": 704786,
@@ -567,6 +623,7 @@
   {
    "number": "030",
    "name": "Slowbro",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704787_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704787/pokemon-me05-pitch-black-slowbro-030-084",
    "product_id": 704787,
@@ -577,6 +634,7 @@
   {
    "number": "030",
    "name": "Slowbro",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704787_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704787/pokemon-me05-pitch-black-slowbro-030-084",
    "product_id": 704787,
@@ -587,6 +645,7 @@
   {
    "number": "031",
    "name": "Mega Slowbro ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704788_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704788/pokemon-me05-pitch-black-mega-slowbro-ex",
    "product_id": 704788,
@@ -597,6 +656,7 @@
   {
    "number": "032",
    "name": "Jynx",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704789_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704789/pokemon-me05-pitch-black-jynx",
    "product_id": 704789,
@@ -607,6 +667,7 @@
   {
    "number": "032",
    "name": "Jynx",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704789_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704789/pokemon-me05-pitch-black-jynx",
    "product_id": 704789,
@@ -617,6 +678,7 @@
   {
    "number": "033",
    "name": "Shuppet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704790_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704790/pokemon-me05-pitch-black-shuppet",
    "product_id": 704790,
@@ -627,6 +689,7 @@
   {
    "number": "033",
    "name": "Shuppet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704790_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704790/pokemon-me05-pitch-black-shuppet",
    "product_id": 704790,
@@ -637,6 +700,7 @@
   {
    "number": "034",
    "name": "Banette",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704791_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704791/pokemon-me05-pitch-black-banette",
    "product_id": 704791,
@@ -647,6 +711,7 @@
   {
    "number": "034",
    "name": "Banette",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704791_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704791/pokemon-me05-pitch-black-banette",
    "product_id": 704791,
@@ -657,6 +722,7 @@
   {
    "number": "035",
    "name": "Spiritomb",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/707028_400w.jpg",
    "url": "https://www.tcgplayer.com/product/707028/pokemon-deck-exclusives-spiritomb-035-084-non-holo",
    "product_id": 707028,
@@ -668,6 +734,7 @@
   {
    "number": "035",
    "name": "Spiritomb",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704792_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704792/pokemon-me05-pitch-black-spiritomb",
    "product_id": 704792,
@@ -679,6 +746,7 @@
   {
    "number": "035",
    "name": "Spiritomb",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704792_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704792/pokemon-me05-pitch-black-spiritomb",
    "product_id": 704792,
@@ -690,6 +758,7 @@
   {
    "number": "036",
    "name": "Litwick",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704793_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704793/pokemon-me05-pitch-black-litwick",
    "product_id": 704793,
@@ -700,6 +769,7 @@
   {
    "number": "036",
    "name": "Litwick",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704793_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704793/pokemon-me05-pitch-black-litwick",
    "product_id": 704793,
@@ -710,6 +780,7 @@
   {
    "number": "037",
    "name": "Lampent",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704794_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704794/pokemon-me05-pitch-black-lampent",
    "product_id": 704794,
@@ -720,6 +791,7 @@
   {
    "number": "037",
    "name": "Lampent",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704794_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704794/pokemon-me05-pitch-black-lampent",
    "product_id": 704794,
@@ -730,6 +802,7 @@
   {
    "number": "038",
    "name": "Mega Chandelure ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704795_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704795/pokemon-me05-pitch-black-mega-chandelure-ex-038-084",
    "product_id": 704795,
@@ -740,6 +813,7 @@
   {
    "number": "039",
    "name": "Dhelmise",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704796_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704796/pokemon-me05-pitch-black-dhelmise-039-084",
    "product_id": 704796,
@@ -750,6 +824,7 @@
   {
    "number": "039",
    "name": "Dhelmise",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704796_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704796/pokemon-me05-pitch-black-dhelmise-039-084",
    "product_id": 704796,
@@ -760,6 +835,7 @@
   {
    "number": "040",
    "name": "Marshadow",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704797_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704797/pokemon-me05-pitch-black-marshadow",
    "product_id": 704797,
@@ -770,6 +846,7 @@
   {
    "number": "040",
    "name": "Marshadow",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704797_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704797/pokemon-me05-pitch-black-marshadow",
    "product_id": 704797,
@@ -780,6 +857,7 @@
   {
    "number": "041",
    "name": "Annihilape",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704798_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704798/pokemon-me05-pitch-black-annihilape",
    "product_id": 704798,
@@ -790,6 +868,7 @@
   {
    "number": "041",
    "name": "Annihilape",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704798_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704798/pokemon-me05-pitch-black-annihilape",
    "product_id": 704798,
@@ -800,6 +879,7 @@
   {
    "number": "042",
    "name": "Mankey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704799_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704799/pokemon-me05-pitch-black-mankey",
    "product_id": 704799,
@@ -810,6 +890,7 @@
   {
    "number": "042",
    "name": "Mankey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704799_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704799/pokemon-me05-pitch-black-mankey",
    "product_id": 704799,
@@ -820,6 +901,7 @@
   {
    "number": "043",
    "name": "Primeape",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704800_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704800/pokemon-me05-pitch-black-primeape",
    "product_id": 704800,
@@ -830,6 +912,7 @@
   {
    "number": "043",
    "name": "Primeape",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704800_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704800/pokemon-me05-pitch-black-primeape",
    "product_id": 704800,
@@ -840,6 +923,7 @@
   {
    "number": "044",
    "name": "Cranidos",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704801_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704801/pokemon-me05-pitch-black-cranidos",
    "product_id": 704801,
@@ -850,6 +934,7 @@
   {
    "number": "044",
    "name": "Cranidos",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704801_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704801/pokemon-me05-pitch-black-cranidos",
    "product_id": 704801,
@@ -860,6 +945,7 @@
   {
    "number": "045",
    "name": "Rampardos ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704802_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704802/pokemon-me05-pitch-black-rampardos-ex-045-084",
    "product_id": 704802,
@@ -870,6 +956,7 @@
   {
    "number": "046",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704803_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704803/pokemon-me05-pitch-black-drilbur",
    "product_id": 704803,
@@ -880,6 +967,7 @@
   {
    "number": "046",
    "name": "Drilbur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704803_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704803/pokemon-me05-pitch-black-drilbur",
    "product_id": 704803,
@@ -890,6 +978,7 @@
   {
    "number": "047",
    "name": "Koraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704804_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704804/pokemon-me05-pitch-black-koraidon",
    "product_id": 704804,
@@ -900,6 +989,7 @@
   {
    "number": "047",
    "name": "Koraidon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704804_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704804/pokemon-me05-pitch-black-koraidon",
    "product_id": 704804,
@@ -910,6 +1000,7 @@
   {
    "number": "048",
    "name": "Mega Darkrai ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704805_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704805/pokemon-me05-pitch-black-mega-darkrai-ex-048-084",
    "product_id": 704805,
@@ -920,6 +1011,7 @@
   {
    "number": "049",
    "name": "Vullaby",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704806_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704806/pokemon-me05-pitch-black-vullaby",
    "product_id": 704806,
@@ -930,6 +1022,7 @@
   {
    "number": "049",
    "name": "Vullaby",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704806_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704806/pokemon-me05-pitch-black-vullaby",
    "product_id": 704806,
@@ -940,6 +1033,7 @@
   {
    "number": "050",
    "name": "Mandibuzz",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704807_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704807/pokemon-me05-pitch-black-mandibuzz",
    "product_id": 704807,
@@ -950,6 +1044,7 @@
   {
    "number": "050",
    "name": "Mandibuzz",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704807_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704807/pokemon-me05-pitch-black-mandibuzz",
    "product_id": 704807,
@@ -960,6 +1055,7 @@
   {
    "number": "051",
    "name": "Inkay",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704808_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704808/pokemon-me05-pitch-black-inkay",
    "product_id": 704808,
@@ -970,6 +1066,7 @@
   {
    "number": "051",
    "name": "Inkay",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704808_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704808/pokemon-me05-pitch-black-inkay",
    "product_id": 704808,
@@ -980,6 +1077,7 @@
   {
    "number": "052",
    "name": "Malamar",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704809_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704809/pokemon-me05-pitch-black-malamar",
    "product_id": 704809,
@@ -990,6 +1088,7 @@
   {
    "number": "052",
    "name": "Malamar",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704809_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704809/pokemon-me05-pitch-black-malamar",
    "product_id": 704809,
@@ -1000,6 +1099,7 @@
   {
    "number": "053",
    "name": "Nickit",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704810_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704810/pokemon-me05-pitch-black-nickit",
    "product_id": 704810,
@@ -1010,6 +1110,7 @@
   {
    "number": "053",
    "name": "Nickit",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704810_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704810/pokemon-me05-pitch-black-nickit",
    "product_id": 704810,
@@ -1020,6 +1121,7 @@
   {
    "number": "054",
    "name": "Thievul",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704811_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704811/pokemon-me05-pitch-black-thievul-054-084",
    "product_id": 704811,
@@ -1030,6 +1132,7 @@
   {
    "number": "054",
    "name": "Thievul",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704811_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704811/pokemon-me05-pitch-black-thievul-054-084",
    "product_id": 704811,
@@ -1040,6 +1143,7 @@
   {
    "number": "055",
    "name": "Morpeko ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704812_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704812/pokemon-me05-pitch-black-morpeko-ex-055-084",
    "product_id": 704812,
@@ -1050,6 +1154,7 @@
   {
    "number": "056",
    "name": "Zarude",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704813_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704813/pokemon-me05-pitch-black-zarude",
    "product_id": 704813,
@@ -1060,6 +1165,7 @@
   {
    "number": "056",
    "name": "Zarude",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704813_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704813/pokemon-me05-pitch-black-zarude",
    "product_id": 704813,
@@ -1070,6 +1176,7 @@
   {
    "number": "057",
    "name": "Maschiff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704814_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704814/pokemon-me05-pitch-black-maschiff",
    "product_id": 704814,
@@ -1080,6 +1187,7 @@
   {
    "number": "057",
    "name": "Maschiff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704814_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704814/pokemon-me05-pitch-black-maschiff",
    "product_id": 704814,
@@ -1090,6 +1198,7 @@
   {
    "number": "058",
    "name": "Mabosstiff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704815_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704815/pokemon-me05-pitch-black-mabosstiff",
    "product_id": 704815,
@@ -1100,6 +1209,7 @@
   {
    "number": "058",
    "name": "Mabosstiff",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704815_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704815/pokemon-me05-pitch-black-mabosstiff",
    "product_id": 704815,
@@ -1110,6 +1220,7 @@
   {
    "number": "059",
    "name": "Chi-Yu",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704816_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704816/pokemon-me05-pitch-black-chi-yu",
    "product_id": 704816,
@@ -1120,6 +1231,7 @@
   {
    "number": "059",
    "name": "Chi-Yu",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704816_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704816/pokemon-me05-pitch-black-chi-yu",
    "product_id": 704816,
@@ -1130,6 +1242,7 @@
   {
    "number": "060",
    "name": "Skarmory",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704817_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704817/pokemon-me05-pitch-black-skarmory",
    "product_id": 704817,
@@ -1140,6 +1253,7 @@
   {
    "number": "060",
    "name": "Skarmory",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704817_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704817/pokemon-me05-pitch-black-skarmory",
    "product_id": 704817,
@@ -1150,6 +1264,7 @@
   {
    "number": "061",
    "name": "Shieldon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704818_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704818/pokemon-me05-pitch-black-shieldon",
    "product_id": 704818,
@@ -1160,6 +1275,7 @@
   {
    "number": "061",
    "name": "Shieldon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704818_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704818/pokemon-me05-pitch-black-shieldon",
    "product_id": 704818,
@@ -1170,6 +1286,7 @@
   {
    "number": "062",
    "name": "Bastiodon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/707025_400w.jpg",
    "url": "https://www.tcgplayer.com/product/707025/pokemon-deck-exclusives-bastiodon-062-084-non-holo",
    "product_id": 707025,
@@ -1181,6 +1298,7 @@
   {
    "number": "062",
    "name": "Bastiodon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704819_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704819/pokemon-me05-pitch-black-bastiodon-062-084",
    "product_id": 704819,
@@ -1192,6 +1310,7 @@
   {
    "number": "062",
    "name": "Bastiodon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704819_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704819/pokemon-me05-pitch-black-bastiodon-062-084",
    "product_id": 704819,
@@ -1203,6 +1322,7 @@
   {
    "number": "063",
    "name": "Bronzor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704820_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704820/pokemon-me05-pitch-black-bronzor",
    "product_id": 704820,
@@ -1213,6 +1333,7 @@
   {
    "number": "063",
    "name": "Bronzor",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704820_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704820/pokemon-me05-pitch-black-bronzor",
    "product_id": 704820,
@@ -1223,6 +1344,7 @@
   {
    "number": "064",
    "name": "Bronzong",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704821_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704821/pokemon-me05-pitch-black-bronzong",
    "product_id": 704821,
@@ -1233,6 +1355,7 @@
   {
    "number": "064",
    "name": "Bronzong",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704821_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704821/pokemon-me05-pitch-black-bronzong",
    "product_id": 704821,
@@ -1243,6 +1366,7 @@
   {
    "number": "065",
    "name": "Mega Excadrill ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704822_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704822/pokemon-me05-pitch-black-mega-excadrill-ex-065-084",
    "product_id": 704822,
@@ -1253,6 +1377,7 @@
   {
    "number": "066",
    "name": "Pikipek",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704823_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704823/pokemon-me05-pitch-black-pikipek",
    "product_id": 704823,
@@ -1263,6 +1388,7 @@
   {
    "number": "066",
    "name": "Pikipek",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704823_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704823/pokemon-me05-pitch-black-pikipek",
    "product_id": 704823,
@@ -1273,6 +1399,7 @@
   {
    "number": "067",
    "name": "Trumbeak",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704824_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704824/pokemon-me05-pitch-black-trumbeak",
    "product_id": 704824,
@@ -1283,6 +1410,7 @@
   {
    "number": "067",
    "name": "Trumbeak",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704824_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704824/pokemon-me05-pitch-black-trumbeak",
    "product_id": 704824,
@@ -1293,6 +1421,7 @@
   {
    "number": "068",
    "name": "Toucannon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704825_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704825/pokemon-me05-pitch-black-toucannon-068-084",
    "product_id": 704825,
@@ -1303,6 +1432,7 @@
   {
    "number": "068",
    "name": "Toucannon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704825_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704825/pokemon-me05-pitch-black-toucannon-068-084",
    "product_id": 704825,
@@ -1313,6 +1443,7 @@
   {
    "number": "069",
    "name": "Type: Null",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704826_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704826/pokemon-me05-pitch-black-type-null",
    "product_id": 704826,
@@ -1323,6 +1454,7 @@
   {
    "number": "069",
    "name": "Type: Null",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704826_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704826/pokemon-me05-pitch-black-type-null",
    "product_id": 704826,
@@ -1333,6 +1465,7 @@
   {
    "number": "070",
    "name": "Silvally",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/707027_400w.jpg",
    "url": "https://www.tcgplayer.com/product/707027/pokemon-deck-exclusives-silvally-070-084-non-holo",
    "product_id": 707027,
@@ -1344,6 +1477,7 @@
   {
    "number": "070",
    "name": "Silvally",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704827_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704827/pokemon-me05-pitch-black-silvally-070-084",
    "product_id": 704827,
@@ -1355,6 +1489,7 @@
   {
    "number": "070",
    "name": "Silvally",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704827_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704827/pokemon-me05-pitch-black-silvally-070-084",
    "product_id": 704827,
@@ -1366,6 +1501,7 @@
   {
    "number": "071",
    "name": "Bombirdier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704828_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704828/pokemon-me05-pitch-black-bombirdier",
    "product_id": 704828,
@@ -1376,6 +1512,7 @@
   {
    "number": "071",
    "name": "Bombirdier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704828_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704828/pokemon-me05-pitch-black-bombirdier",
    "product_id": 704828,
@@ -1386,6 +1523,7 @@
   {
    "number": "072",
    "name": "Antique Armor Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704829_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704829/pokemon-me05-pitch-black-antique-armor-fossil",
    "product_id": 704829,
@@ -1396,6 +1534,7 @@
   {
    "number": "072",
    "name": "Antique Armor Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704829_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704829/pokemon-me05-pitch-black-antique-armor-fossil",
    "product_id": 704829,
@@ -1406,6 +1545,7 @@
   {
    "number": "073",
    "name": "Antique Skull Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704830_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704830/pokemon-me05-pitch-black-antique-skull-fossil",
    "product_id": 704830,
@@ -1416,6 +1556,7 @@
   {
    "number": "073",
    "name": "Antique Skull Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704830_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704830/pokemon-me05-pitch-black-antique-skull-fossil",
    "product_id": 704830,
@@ -1426,6 +1567,7 @@
   {
    "number": "074",
    "name": "Backtrack Badge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704831_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704831/pokemon-me05-pitch-black-backtrack-badge",
    "product_id": 704831,
@@ -1436,6 +1578,7 @@
   {
    "number": "074",
    "name": "Backtrack Badge",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704831_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704831/pokemon-me05-pitch-black-backtrack-badge",
    "product_id": 704831,
@@ -1446,6 +1589,7 @@
   {
    "number": "075",
    "name": "Dark Bell",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704832_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704832/pokemon-me05-pitch-black-dark-bell-075-084",
    "product_id": 704832,
@@ -1456,6 +1600,7 @@
   {
    "number": "075",
    "name": "Dark Bell",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704832_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704832/pokemon-me05-pitch-black-dark-bell-075-084",
    "product_id": 704832,
@@ -1466,6 +1611,7 @@
   {
    "number": "076",
    "name": "Fossil Quarry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704833_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704833/pokemon-me05-pitch-black-fossil-quarry",
    "product_id": 704833,
@@ -1476,6 +1622,7 @@
   {
    "number": "076",
    "name": "Fossil Quarry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704833_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704833/pokemon-me05-pitch-black-fossil-quarry",
    "product_id": 704833,
@@ -1486,6 +1633,7 @@
   {
    "number": "077",
    "name": "Gladion's Final Battle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704834_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704834/pokemon-me05-pitch-black-gladions-final-battle-077-084",
    "product_id": 704834,
@@ -1496,6 +1644,7 @@
   {
    "number": "077",
    "name": "Gladion's Final Battle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704834_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704834/pokemon-me05-pitch-black-gladions-final-battle-077-084",
    "product_id": 704834,
@@ -1506,6 +1655,7 @@
   {
    "number": "078",
    "name": "Gwynn",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704835_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704835/pokemon-me05-pitch-black-gwynn-078-084",
    "product_id": 704835,
@@ -1516,6 +1666,7 @@
   {
    "number": "078",
    "name": "Gwynn",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704835_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704835/pokemon-me05-pitch-black-gwynn-078-084",
    "product_id": 704835,
@@ -1526,6 +1677,7 @@
   {
    "number": "079",
    "name": "Jett",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704836_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704836/pokemon-me05-pitch-black-jett",
    "product_id": 704836,
@@ -1536,6 +1688,7 @@
   {
    "number": "079",
    "name": "Jett",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704836_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704836/pokemon-me05-pitch-black-jett",
    "product_id": 704836,
@@ -1546,6 +1699,7 @@
   {
    "number": "080",
    "name": "Misty's Vitality",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704837_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704837/pokemon-me05-pitch-black-mistys-vitality-080-084",
    "product_id": 704837,
@@ -1556,6 +1710,7 @@
   {
    "number": "080",
    "name": "Misty's Vitality",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704837_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704837/pokemon-me05-pitch-black-mistys-vitality-080-084",
    "product_id": 704837,
@@ -1566,6 +1721,7 @@
   {
    "number": "081",
    "name": "Rust Syndicate Grunt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704838_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704838/pokemon-me05-pitch-black-rust-syndicate-grunt-081-084",
    "product_id": 704838,
@@ -1576,6 +1732,7 @@
   {
    "number": "081",
    "name": "Rust Syndicate Grunt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704838_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704838/pokemon-me05-pitch-black-rust-syndicate-grunt-081-084",
    "product_id": 704838,
@@ -1586,6 +1743,7 @@
   {
    "number": "082",
    "name": "Tremendous Bomb",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704839_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704839/pokemon-me05-pitch-black-tremendous-bomb-082-084",
    "product_id": 704839,
@@ -1596,6 +1754,7 @@
   {
    "number": "082",
    "name": "Tremendous Bomb",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704839_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704839/pokemon-me05-pitch-black-tremendous-bomb-082-084",
    "product_id": 704839,
@@ -1606,6 +1765,7 @@
   {
    "number": "083",
    "name": "Shadowy Darkness Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704840_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704840/pokemon-me05-pitch-black-shadowy-darkness-energy",
    "product_id": 704840,
@@ -1616,6 +1776,7 @@
   {
    "number": "083",
    "name": "Shadowy Darkness Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704840_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704840/pokemon-me05-pitch-black-shadowy-darkness-energy",
    "product_id": 704840,
@@ -1626,6 +1787,7 @@
   {
    "number": "084",
    "name": "Voltaic Lightning Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/707029_400w.jpg",
    "url": "https://www.tcgplayer.com/product/707029/pokemon-deck-exclusives-voltaic-lightning-energy-084-084-non-holo",
    "product_id": 707029,
@@ -1637,6 +1799,7 @@
   {
    "number": "084",
    "name": "Voltaic Lightning Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704841_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704841/pokemon-me05-pitch-black-voltaic-lightning-energy",
    "product_id": 704841,
@@ -1648,6 +1811,7 @@
   {
    "number": "084",
    "name": "Voltaic Lightning Energy",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704841_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704841/pokemon-me05-pitch-black-voltaic-lightning-energy",
    "product_id": 704841,
@@ -1659,6 +1823,7 @@
   {
    "number": "085",
    "name": "Fomantis",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704842_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704842/pokemon-me05-pitch-black-fomantis-085-084",
    "product_id": 704842,
@@ -1669,6 +1834,7 @@
   {
    "number": "086",
    "name": "Armarouge",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704843_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704843/pokemon-me05-pitch-black-armarouge-086-084",
    "product_id": 704843,
@@ -1679,6 +1845,7 @@
   {
    "number": "087",
    "name": "Goldeen",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704844_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704844/pokemon-me05-pitch-black-goldeen-087-084",
    "product_id": 704844,
@@ -1689,6 +1856,7 @@
   {
    "number": "088",
    "name": "Primarina",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704845_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704845/pokemon-me05-pitch-black-primarina-088-084",
    "product_id": 704845,
@@ -1699,6 +1867,7 @@
   {
    "number": "089",
    "name": "Manectric",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704846_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704846/pokemon-me05-pitch-black-manectric-089-084",
    "product_id": 704846,
@@ -1709,6 +1878,7 @@
   {
    "number": "090",
    "name": "Slowbro",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704847_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704847/pokemon-me05-pitch-black-slowbro-090-084",
    "product_id": 704847,
@@ -1719,6 +1889,7 @@
   {
    "number": "091",
    "name": "Dhelmise",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704848_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704848/pokemon-me05-pitch-black-dhelmise-091-084",
    "product_id": 704848,
@@ -1729,6 +1900,7 @@
   {
    "number": "092",
    "name": "Thievul",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704849_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704849/pokemon-me05-pitch-black-thievul-092-084",
    "product_id": 704849,
@@ -1739,6 +1911,7 @@
   {
    "number": "093",
    "name": "Bastiodon",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704850_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704850/pokemon-me05-pitch-black-bastiodon-093-084",
    "product_id": 704850,
@@ -1749,6 +1922,7 @@
   {
    "number": "094",
    "name": "Toucannon",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704851_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704851/pokemon-me05-pitch-black-toucannon-094-084",
    "product_id": 704851,
@@ -1759,6 +1933,7 @@
   {
    "number": "095",
    "name": "Silvally",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704852_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704852/pokemon-me05-pitch-black-silvally-095-084",
    "product_id": 704852,
@@ -1769,6 +1944,7 @@
   {
    "number": "096",
    "name": "Lurantis ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704853_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704853/pokemon-me05-pitch-black-lurantis-ex-096-084",
    "product_id": 704853,
@@ -1779,6 +1955,7 @@
   {
    "number": "097",
    "name": "Wailord ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704854_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704854/pokemon-me05-pitch-black-wailord-ex-097-084",
    "product_id": 704854,
@@ -1789,6 +1966,7 @@
   {
    "number": "098",
    "name": "Mega Zeraora ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704855_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704855/pokemon-me05-pitch-black-mega-zeraora-ex-098-084",
    "product_id": 704855,
@@ -1799,6 +1977,7 @@
   {
    "number": "099",
    "name": "Mega Chandelure ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704856_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704856/pokemon-me05-pitch-black-mega-chandelure-ex-099-084",
    "product_id": 704856,
@@ -1809,6 +1988,7 @@
   {
    "number": "100",
    "name": "Rampardos ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704857_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704857/pokemon-me05-pitch-black-rampardos-ex-100-084",
    "product_id": 704857,
@@ -1819,6 +1999,7 @@
   {
    "number": "101",
    "name": "Mega Darkrai ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704858_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704858/pokemon-me05-pitch-black-mega-darkrai-ex-101-084",
    "product_id": 704858,
@@ -1829,6 +2010,7 @@
   {
    "number": "102",
    "name": "Morpeko ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704859_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704859/pokemon-me05-pitch-black-morpeko-ex-102-084",
    "product_id": 704859,
@@ -1839,6 +2021,7 @@
   {
    "number": "103",
    "name": "Mega Excadrill ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704860_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704860/pokemon-me05-pitch-black-mega-excadrill-ex-103-084",
    "product_id": 704860,
@@ -1849,6 +2032,7 @@
   {
    "number": "104",
    "name": "Brave Bangle",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704861_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704861/pokemon-me05-pitch-black-brave-bangle",
    "product_id": 704861,
@@ -1859,6 +2043,7 @@
   {
    "number": "105",
    "name": "Crushing Hammer",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704862_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704862/pokemon-me05-pitch-black-crushing-hammer",
    "product_id": 704862,
@@ -1869,6 +2054,7 @@
   {
    "number": "106",
    "name": "Dark Bell",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704863_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704863/pokemon-me05-pitch-black-dark-bell-106-084",
    "product_id": 704863,
@@ -1879,6 +2065,7 @@
   {
    "number": "107",
    "name": "Energy Switch",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704864_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704864/pokemon-me05-pitch-black-energy-switch",
    "product_id": 704864,
@@ -1889,6 +2076,7 @@
   {
    "number": "108",
    "name": "Gladion's Final Battle",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704865_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704865/pokemon-me05-pitch-black-gladions-final-battle-108-084",
    "product_id": 704865,
@@ -1899,6 +2087,7 @@
   {
    "number": "109",
    "name": "Gwynn",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704866_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704866/pokemon-me05-pitch-black-gwynn-109-084",
    "product_id": 704866,
@@ -1909,6 +2098,7 @@
   {
    "number": "110",
    "name": "Iron Defender",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704867_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704867/pokemon-me05-pitch-black-iron-defender",
    "product_id": 704867,
@@ -1919,6 +2109,7 @@
   {
    "number": "111",
    "name": "Misty's Vitality",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704868_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704868/pokemon-me05-pitch-black-mistys-vitality-111-084",
    "product_id": 704868,
@@ -1929,6 +2120,7 @@
   {
    "number": "112",
    "name": "Rust Syndicate Grunt",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704869_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704869/pokemon-me05-pitch-black-rust-syndicate-grunt-112-084",
    "product_id": 704869,
@@ -1939,6 +2131,7 @@
   {
    "number": "113",
    "name": "Tremendous Bomb",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704870_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704870/pokemon-me05-pitch-black-tremendous-bomb-113-084",
    "product_id": 704870,
@@ -1949,6 +2142,7 @@
   {
    "number": "114",
    "name": "Mega Zeraora ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704871_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704871/pokemon-me05-pitch-black-mega-zeraora-ex-114-084",
    "product_id": 704871,
@@ -1959,6 +2153,7 @@
   {
    "number": "115",
    "name": "Mega Chandelure ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704872_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704872/pokemon-me05-pitch-black-mega-chandelure-ex-115-084",
    "product_id": 704872,
@@ -1969,6 +2164,7 @@
   {
    "number": "116",
    "name": "Mega Darkrai ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704873_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704873/pokemon-me05-pitch-black-mega-darkrai-ex-116-084",
    "product_id": 704873,
@@ -1979,6 +2175,7 @@
   {
    "number": "117",
    "name": "Morpeko ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704874_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704874/pokemon-me05-pitch-black-morpeko-ex-117-084",
    "product_id": 704874,
@@ -1989,6 +2186,7 @@
   {
    "number": "118",
    "name": "Gladion's Final Battle",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704875_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704875/pokemon-me05-pitch-black-gladions-final-battle-118-084",
    "product_id": 704875,
@@ -1999,6 +2197,7 @@
   {
    "number": "119",
    "name": "Gwynn",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704876_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704876/pokemon-me05-pitch-black-gwynn-119-084",
    "product_id": 704876,
@@ -2009,6 +2208,7 @@
   {
    "number": "120",
    "name": "Mega Darkrai ex",
+   "rarity": "Mega Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/704877_400w.jpg",
    "url": "https://www.tcgplayer.com/product/704877/pokemon-me05-pitch-black-mega-darkrai-ex-120-084",
    "product_id": 704877,

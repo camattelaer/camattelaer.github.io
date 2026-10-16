@@ -10,10 +10,12 @@
  "owned_count": 90,
  "total_count": 304,
  "owned_qty": 101,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Venusaur ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567227_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567227/pokemon-sv07-stellar-crown-venusaur-ex",
    "product_id": 567227,
@@ -24,6 +26,7 @@
   {
    "number": "002",
    "name": "Ledyba",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567228_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567228/pokemon-sv07-stellar-crown-ledyba",
    "product_id": 567228,
@@ -34,6 +37,7 @@
   {
    "number": "002",
    "name": "Ledyba",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567228_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567228/pokemon-sv07-stellar-crown-ledyba",
    "product_id": 567228,
@@ -44,6 +48,7 @@
   {
    "number": "003",
    "name": "Ledian",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/576968_400w.jpg",
    "url": "https://www.tcgplayer.com/product/576968/pokemon-deck-exclusives-ledian-003-142",
    "product_id": 576968,
@@ -55,6 +60,7 @@
   {
    "number": "003",
    "name": "Ledian",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567229_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567229/pokemon-sv07-stellar-crown-ledian-003-142",
    "product_id": 567229,
@@ -66,6 +72,7 @@
   {
    "number": "003",
    "name": "Ledian",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567229_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567229/pokemon-sv07-stellar-crown-ledian-003-142",
    "product_id": 567229,
@@ -77,6 +84,7 @@
   {
    "number": "004",
    "name": "Celebi",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567230_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567230/pokemon-sv07-stellar-crown-celebi",
    "product_id": 567230,
@@ -87,6 +95,7 @@
   {
    "number": "004",
    "name": "Celebi",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567230_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567230/pokemon-sv07-stellar-crown-celebi",
    "product_id": 567230,
@@ -97,6 +106,7 @@
   {
    "number": "005",
    "name": "Lileep",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567231_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567231/pokemon-sv07-stellar-crown-lileep-005-142",
    "product_id": 567231,
@@ -107,6 +117,7 @@
   {
    "number": "005",
    "name": "Lileep",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567231_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567231/pokemon-sv07-stellar-crown-lileep-005-142",
    "product_id": 567231,
@@ -117,6 +128,7 @@
   {
    "number": "006",
    "name": "Cradily",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567232_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567232/pokemon-sv07-stellar-crown-cradily",
    "product_id": 567232,
@@ -127,6 +139,7 @@
   {
    "number": "006",
    "name": "Cradily",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567232_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567232/pokemon-sv07-stellar-crown-cradily",
    "product_id": 567232,
@@ -137,6 +150,7 @@
   {
    "number": "007",
    "name": "Carnivine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567233_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567233/pokemon-sv07-stellar-crown-carnivine",
    "product_id": 567233,
@@ -147,6 +161,7 @@
   {
    "number": "007",
    "name": "Carnivine",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567233_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567233/pokemon-sv07-stellar-crown-carnivine",
    "product_id": 567233,
@@ -157,6 +172,7 @@
   {
    "number": "008",
    "name": "Mow Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567234_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567234/pokemon-sv07-stellar-crown-mow-rotom",
    "product_id": 567234,
@@ -167,6 +183,7 @@
   {
    "number": "008",
    "name": "Mow Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567234_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567234/pokemon-sv07-stellar-crown-mow-rotom",
    "product_id": 567234,
@@ -177,6 +194,7 @@
   {
    "number": "009",
    "name": "Grubbin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567235_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567235/pokemon-sv07-stellar-crown-grubbin",
    "product_id": 567235,
@@ -187,6 +205,7 @@
   {
    "number": "009",
    "name": "Grubbin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567235_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567235/pokemon-sv07-stellar-crown-grubbin",
    "product_id": 567235,
@@ -197,6 +216,7 @@
   {
    "number": "010",
    "name": "Gossifleur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567236_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567236/pokemon-sv07-stellar-crown-gossifleur",
    "product_id": 567236,
@@ -207,6 +227,7 @@
   {
    "number": "010",
    "name": "Gossifleur",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567236_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567236/pokemon-sv07-stellar-crown-gossifleur",
    "product_id": 567236,
@@ -217,6 +238,7 @@
   {
    "number": "011",
    "name": "Eldegoss",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567237_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567237/pokemon-sv07-stellar-crown-eldegoss",
    "product_id": 567237,
@@ -227,6 +249,7 @@
   {
    "number": "011",
    "name": "Eldegoss",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567237_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567237/pokemon-sv07-stellar-crown-eldegoss",
    "product_id": 567237,
@@ -237,6 +260,7 @@
   {
    "number": "012",
    "name": "Applin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567238_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567238/pokemon-sv07-stellar-crown-applin",
    "product_id": 567238,
@@ -247,6 +271,7 @@
   {
    "number": "012",
    "name": "Applin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567238_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567238/pokemon-sv07-stellar-crown-applin",
    "product_id": 567238,
@@ -257,6 +282,7 @@
   {
    "number": "013",
    "name": "Dipplin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567239_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567239/pokemon-sv07-stellar-crown-dipplin",
    "product_id": 567239,
@@ -267,6 +293,7 @@
   {
    "number": "013",
    "name": "Dipplin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567239_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567239/pokemon-sv07-stellar-crown-dipplin",
    "product_id": 567239,
@@ -277,6 +304,7 @@
   {
    "number": "014",
    "name": "Hydrapple ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567240_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567240/pokemon-sv07-stellar-crown-hydrapple-ex-014-142",
    "product_id": 567240,
@@ -287,6 +315,7 @@
   {
    "number": "015",
    "name": "Nymble",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567241_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567241/pokemon-sv07-stellar-crown-nymble",
    "product_id": 567241,
@@ -297,6 +326,7 @@
   {
    "number": "015",
    "name": "Nymble",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567241_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567241/pokemon-sv07-stellar-crown-nymble",
    "product_id": 567241,
@@ -307,6 +337,7 @@
   {
    "number": "016",
    "name": "Lokix",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567242_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567242/pokemon-sv07-stellar-crown-lokix",
    "product_id": 567242,
@@ -317,6 +348,7 @@
   {
    "number": "016",
    "name": "Lokix",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567242_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567242/pokemon-sv07-stellar-crown-lokix",
    "product_id": 567242,
@@ -327,6 +359,7 @@
   {
    "number": "017",
    "name": "Toedscool",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567243_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567243/pokemon-sv07-stellar-crown-toedscool",
    "product_id": 567243,
@@ -337,6 +370,7 @@
   {
    "number": "017",
    "name": "Toedscool",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567243_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567243/pokemon-sv07-stellar-crown-toedscool",
    "product_id": 567243,
@@ -347,6 +381,7 @@
   {
    "number": "018",
    "name": "Toedscruel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567244_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567244/pokemon-sv07-stellar-crown-toedscruel",
    "product_id": 567244,
@@ -357,6 +392,7 @@
   {
    "number": "018",
    "name": "Toedscruel",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567244_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567244/pokemon-sv07-stellar-crown-toedscruel",
    "product_id": 567244,
@@ -367,6 +403,7 @@
   {
    "number": "019",
    "name": "Ponyta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567245_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567245/pokemon-sv07-stellar-crown-ponyta",
    "product_id": 567245,
@@ -377,6 +414,7 @@
   {
    "number": "019",
    "name": "Ponyta",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567245_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567245/pokemon-sv07-stellar-crown-ponyta",
    "product_id": 567245,
@@ -387,6 +425,7 @@
   {
    "number": "020",
    "name": "Rapidash",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567246_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567246/pokemon-sv07-stellar-crown-rapidash",
    "product_id": 567246,
@@ -397,6 +436,7 @@
   {
    "number": "020",
    "name": "Rapidash",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567246_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567246/pokemon-sv07-stellar-crown-rapidash",
    "product_id": 567246,
@@ -407,6 +447,7 @@
   {
    "number": "021",
    "name": "Pansear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567247_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567247/pokemon-sv07-stellar-crown-pansear",
    "product_id": 567247,
@@ -417,6 +458,7 @@
   {
    "number": "021",
    "name": "Pansear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567247_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567247/pokemon-sv07-stellar-crown-pansear",
    "product_id": 567247,
@@ -427,6 +469,7 @@
   {
    "number": "022",
    "name": "Reshiram",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567248_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567248/pokemon-sv07-stellar-crown-reshiram",
    "product_id": 567248,
@@ -437,6 +480,7 @@
   {
    "number": "022",
    "name": "Reshiram",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567248_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567248/pokemon-sv07-stellar-crown-reshiram",
    "product_id": 567248,
@@ -447,6 +491,7 @@
   {
    "number": "023",
    "name": "Salandit",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567249_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567249/pokemon-sv07-stellar-crown-salandit",
    "product_id": 567249,
@@ -457,6 +502,7 @@
   {
    "number": "023",
    "name": "Salandit",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567249_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567249/pokemon-sv07-stellar-crown-salandit",
    "product_id": 567249,
@@ -467,6 +513,7 @@
   {
    "number": "024",
    "name": "Salazzle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567250_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567250/pokemon-sv07-stellar-crown-salazzle",
    "product_id": 567250,
@@ -477,6 +524,7 @@
   {
    "number": "024",
    "name": "Salazzle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567250_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567250/pokemon-sv07-stellar-crown-salazzle",
    "product_id": 567250,
@@ -487,6 +535,7 @@
   {
    "number": "025",
    "name": "Turtonator",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567251_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567251/pokemon-sv07-stellar-crown-turtonator-025-142",
    "product_id": 567251,
@@ -497,6 +546,7 @@
   {
    "number": "025",
    "name": "Turtonator",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567251_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567251/pokemon-sv07-stellar-crown-turtonator-025-142",
    "product_id": 567251,
@@ -507,6 +557,7 @@
   {
    "number": "026",
    "name": "Scorbunny",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567252_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567252/pokemon-sv07-stellar-crown-scorbunny",
    "product_id": 567252,
@@ -517,6 +568,7 @@
   {
    "number": "026",
    "name": "Scorbunny",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567252_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567252/pokemon-sv07-stellar-crown-scorbunny",
    "product_id": 567252,
@@ -527,6 +579,7 @@
   {
    "number": "027",
    "name": "Raboot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567253_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567253/pokemon-sv07-stellar-crown-raboot-027-142",
    "product_id": 567253,
@@ -537,6 +590,7 @@
   {
    "number": "027",
    "name": "Raboot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567253_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567253/pokemon-sv07-stellar-crown-raboot-027-142",
    "product_id": 567253,
@@ -547,6 +601,7 @@
   {
    "number": "028",
    "name": "Cinderace ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567254_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567254/pokemon-sv07-stellar-crown-cinderace-ex-028-142",
    "product_id": 567254,
@@ -557,6 +612,7 @@
   {
    "number": "029",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567255_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567255/pokemon-sv07-stellar-crown-charcadet",
    "product_id": 567255,
@@ -567,6 +623,7 @@
   {
    "number": "029",
    "name": "Charcadet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567255_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567255/pokemon-sv07-stellar-crown-charcadet",
    "product_id": 567255,
@@ -577,6 +634,7 @@
   {
    "number": "030",
    "name": "Blastoise ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567256_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567256/pokemon-sv07-stellar-crown-blastoise-ex",
    "product_id": 567256,
@@ -587,6 +645,7 @@
   {
    "number": "031",
    "name": "Lapras",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567257_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567257/pokemon-sv07-stellar-crown-lapras",
    "product_id": 567257,
@@ -597,6 +656,7 @@
   {
    "number": "031",
    "name": "Lapras",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567257_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567257/pokemon-sv07-stellar-crown-lapras",
    "product_id": 567257,
@@ -607,6 +667,7 @@
   {
    "number": "032",
    "name": "Lapras ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567258_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567258/pokemon-sv07-stellar-crown-lapras-ex-032-142",
    "product_id": 567258,
@@ -617,6 +678,7 @@
   {
    "number": "033",
    "name": "Marill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567259_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567259/pokemon-sv07-stellar-crown-marill",
    "product_id": 567259,
@@ -627,6 +689,7 @@
   {
    "number": "033",
    "name": "Marill",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567259_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567259/pokemon-sv07-stellar-crown-marill",
    "product_id": 567259,
@@ -637,6 +700,7 @@
   {
    "number": "034",
    "name": "Azumarill",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567260_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567260/pokemon-sv07-stellar-crown-azumarill",
    "product_id": 567260,
@@ -647,6 +711,7 @@
   {
    "number": "034",
    "name": "Azumarill",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567260_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567260/pokemon-sv07-stellar-crown-azumarill",
    "product_id": 567260,
@@ -657,6 +722,7 @@
   {
    "number": "035",
    "name": "Finneon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567261_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567261/pokemon-sv07-stellar-crown-finneon",
    "product_id": 567261,
@@ -667,6 +733,7 @@
   {
    "number": "035",
    "name": "Finneon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567261_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567261/pokemon-sv07-stellar-crown-finneon",
    "product_id": 567261,
@@ -677,6 +744,7 @@
   {
    "number": "036",
    "name": "Lumineon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567262_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567262/pokemon-sv07-stellar-crown-lumineon",
    "product_id": 567262,
@@ -687,6 +755,7 @@
   {
    "number": "036",
    "name": "Lumineon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567262_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567262/pokemon-sv07-stellar-crown-lumineon",
    "product_id": 567262,
@@ -697,6 +766,7 @@
   {
    "number": "037",
    "name": "Tirtouga",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567263_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567263/pokemon-sv07-stellar-crown-tirtouga",
    "product_id": 567263,
@@ -707,6 +777,7 @@
   {
    "number": "037",
    "name": "Tirtouga",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567263_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567263/pokemon-sv07-stellar-crown-tirtouga",
    "product_id": 567263,
@@ -717,6 +788,7 @@
   {
    "number": "038",
    "name": "Carracosta",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567264_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567264/pokemon-sv07-stellar-crown-carracosta",
    "product_id": 567264,
@@ -727,6 +799,7 @@
   {
    "number": "038",
    "name": "Carracosta",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567264_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567264/pokemon-sv07-stellar-crown-carracosta",
    "product_id": 567264,
@@ -737,6 +810,7 @@
   {
    "number": "039",
    "name": "Froakie",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567265_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567265/pokemon-sv07-stellar-crown-froakie",
    "product_id": 567265,
@@ -747,6 +821,7 @@
   {
    "number": "039",
    "name": "Froakie",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567265_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567265/pokemon-sv07-stellar-crown-froakie",
    "product_id": 567265,
@@ -757,6 +832,7 @@
   {
    "number": "040",
    "name": "Frogadier",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567266_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567266/pokemon-sv07-stellar-crown-frogadier",
    "product_id": 567266,
@@ -767,6 +843,7 @@
   {
    "number": "040",
    "name": "Frogadier",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567266_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567266/pokemon-sv07-stellar-crown-frogadier",
    "product_id": 567266,
@@ -777,6 +854,7 @@
   {
    "number": "041",
    "name": "Greninja ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567267_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567267/pokemon-sv07-stellar-crown-greninja-ex",
    "product_id": 567267,
@@ -787,6 +865,7 @@
   {
    "number": "042",
    "name": "Crabominable",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567268_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567268/pokemon-sv07-stellar-crown-crabominable-042-142",
    "product_id": 567268,
@@ -797,6 +876,7 @@
   {
    "number": "042",
    "name": "Crabominable",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567268_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567268/pokemon-sv07-stellar-crown-crabominable-042-142",
    "product_id": 567268,
@@ -807,6 +887,7 @@
   {
    "number": "043",
    "name": "Chewtle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567269_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567269/pokemon-sv07-stellar-crown-chewtle",
    "product_id": 567269,
@@ -817,6 +898,7 @@
   {
    "number": "043",
    "name": "Chewtle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567269_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567269/pokemon-sv07-stellar-crown-chewtle",
    "product_id": 567269,
@@ -827,6 +909,7 @@
   {
    "number": "044",
    "name": "Drednaw",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567270_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567270/pokemon-sv07-stellar-crown-drednaw",
    "product_id": 567270,
@@ -837,6 +920,7 @@
   {
    "number": "044",
    "name": "Drednaw",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567270_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567270/pokemon-sv07-stellar-crown-drednaw",
    "product_id": 567270,
@@ -847,6 +931,7 @@
   {
    "number": "045",
    "name": "Veluza",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567271_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567271/pokemon-sv07-stellar-crown-veluza",
    "product_id": 567271,
@@ -857,6 +942,7 @@
   {
    "number": "045",
    "name": "Veluza",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567271_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567271/pokemon-sv07-stellar-crown-veluza",
    "product_id": 567271,
@@ -867,6 +953,7 @@
   {
    "number": "046",
    "name": "Electabuzz",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567272_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567272/pokemon-sv07-stellar-crown-electabuzz",
    "product_id": 567272,
@@ -877,6 +964,7 @@
   {
    "number": "046",
    "name": "Electabuzz",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567272_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567272/pokemon-sv07-stellar-crown-electabuzz",
    "product_id": 567272,
@@ -887,6 +975,7 @@
   {
    "number": "047",
    "name": "Electivire",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567273_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567273/pokemon-sv07-stellar-crown-electivire",
    "product_id": 567273,
@@ -897,6 +986,7 @@
   {
    "number": "047",
    "name": "Electivire",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567273_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567273/pokemon-sv07-stellar-crown-electivire",
    "product_id": 567273,
@@ -907,6 +997,7 @@
   {
    "number": "048",
    "name": "Chinchou",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567274_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567274/pokemon-sv07-stellar-crown-chinchou",
    "product_id": 567274,
@@ -917,6 +1008,7 @@
   {
    "number": "048",
    "name": "Chinchou",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567274_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567274/pokemon-sv07-stellar-crown-chinchou",
    "product_id": 567274,
@@ -927,6 +1019,7 @@
   {
    "number": "049",
    "name": "Lanturn",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567275_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567275/pokemon-sv07-stellar-crown-lanturn",
    "product_id": 567275,
@@ -937,6 +1030,7 @@
   {
    "number": "049",
    "name": "Lanturn",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567275_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567275/pokemon-sv07-stellar-crown-lanturn",
    "product_id": 567275,
@@ -947,6 +1041,7 @@
   {
    "number": "050",
    "name": "Joltik",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567276_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567276/pokemon-sv07-stellar-crown-joltik-050-142",
    "product_id": 567276,
@@ -957,6 +1052,7 @@
   {
    "number": "050",
    "name": "Joltik",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567276_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567276/pokemon-sv07-stellar-crown-joltik-050-142",
    "product_id": 567276,
@@ -967,6 +1063,7 @@
   {
    "number": "051",
    "name": "Galvantula ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567277_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567277/pokemon-sv07-stellar-crown-galvantula-ex-051-142",
    "product_id": 567277,
@@ -977,6 +1074,7 @@
   {
    "number": "052",
    "name": "Charjabug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567278_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567278/pokemon-sv07-stellar-crown-charjabug",
    "product_id": 567278,
@@ -987,6 +1085,7 @@
   {
    "number": "052",
    "name": "Charjabug",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567278_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567278/pokemon-sv07-stellar-crown-charjabug",
    "product_id": 567278,
@@ -997,6 +1096,7 @@
   {
    "number": "053",
    "name": "Vikavolt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567279_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567279/pokemon-sv07-stellar-crown-vikavolt",
    "product_id": 567279,
@@ -1007,6 +1107,7 @@
   {
    "number": "053",
    "name": "Vikavolt",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567279_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567279/pokemon-sv07-stellar-crown-vikavolt",
    "product_id": 567279,
@@ -1017,6 +1118,7 @@
   {
    "number": "054",
    "name": "Togedemaru",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567280_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567280/pokemon-sv07-stellar-crown-togedemaru",
    "product_id": 567280,
@@ -1027,6 +1129,7 @@
   {
    "number": "054",
    "name": "Togedemaru",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567280_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567280/pokemon-sv07-stellar-crown-togedemaru",
    "product_id": 567280,
@@ -1037,6 +1140,7 @@
   {
    "number": "055",
    "name": "Zeraora",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567281_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567281/pokemon-sv07-stellar-crown-zeraora-055-142",
    "product_id": 567281,
@@ -1047,6 +1151,7 @@
   {
    "number": "055",
    "name": "Zeraora",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567281_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567281/pokemon-sv07-stellar-crown-zeraora-055-142",
    "product_id": 567281,
@@ -1057,6 +1162,7 @@
   {
    "number": "056",
    "name": "Pawmi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567282_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567282/pokemon-sv07-stellar-crown-pawmi",
    "product_id": 567282,
@@ -1067,6 +1173,7 @@
   {
    "number": "056",
    "name": "Pawmi",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567282_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567282/pokemon-sv07-stellar-crown-pawmi",
    "product_id": 567282,
@@ -1077,6 +1184,7 @@
   {
    "number": "057",
    "name": "Slowpoke",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567283_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567283/pokemon-sv07-stellar-crown-slowpoke",
    "product_id": 567283,
@@ -1087,6 +1195,7 @@
   {
    "number": "057",
    "name": "Slowpoke",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567283_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567283/pokemon-sv07-stellar-crown-slowpoke",
    "product_id": 567283,
@@ -1097,6 +1206,7 @@
   {
    "number": "058",
    "name": "Slowking",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567284_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567284/pokemon-sv07-stellar-crown-slowking",
    "product_id": 567284,
@@ -1107,6 +1217,7 @@
   {
    "number": "058",
    "name": "Slowking",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567284_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567284/pokemon-sv07-stellar-crown-slowking",
    "product_id": 567284,
@@ -1117,6 +1228,7 @@
   {
    "number": "059",
    "name": "Mewtwo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567285_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567285/pokemon-sv07-stellar-crown-mewtwo",
    "product_id": 567285,
@@ -1127,6 +1239,7 @@
   {
    "number": "059",
    "name": "Mewtwo",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567285_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567285/pokemon-sv07-stellar-crown-mewtwo",
    "product_id": 567285,
@@ -1137,6 +1250,7 @@
   {
    "number": "060",
    "name": "Drifloon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567286_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567286/pokemon-sv07-stellar-crown-drifloon",
    "product_id": 567286,
@@ -1147,6 +1261,7 @@
   {
    "number": "060",
    "name": "Drifloon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567286_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567286/pokemon-sv07-stellar-crown-drifloon",
    "product_id": 567286,
@@ -1157,6 +1272,7 @@
   {
    "number": "061",
    "name": "Drifblim",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567287_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567287/pokemon-sv07-stellar-crown-drifblim",
    "product_id": 567287,
@@ -1167,6 +1283,7 @@
   {
    "number": "061",
    "name": "Drifblim",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567287_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567287/pokemon-sv07-stellar-crown-drifblim",
    "product_id": 567287,
@@ -1177,6 +1294,7 @@
   {
    "number": "062",
    "name": "Yamask",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567288_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567288/pokemon-sv07-stellar-crown-yamask",
    "product_id": 567288,
@@ -1187,6 +1305,7 @@
   {
    "number": "062",
    "name": "Yamask",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567288_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567288/pokemon-sv07-stellar-crown-yamask",
    "product_id": 567288,
@@ -1197,6 +1316,7 @@
   {
    "number": "063",
    "name": "Comfey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567289_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567289/pokemon-sv07-stellar-crown-comfey",
    "product_id": 567289,
@@ -1207,6 +1327,7 @@
   {
    "number": "063",
    "name": "Comfey",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567289_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567289/pokemon-sv07-stellar-crown-comfey",
    "product_id": 567289,
@@ -1217,6 +1338,7 @@
   {
    "number": "064",
    "name": "Milcery",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567290_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567290/pokemon-sv07-stellar-crown-milcery-064-142",
    "product_id": 567290,
@@ -1227,6 +1349,7 @@
   {
    "number": "064",
    "name": "Milcery",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567290_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567290/pokemon-sv07-stellar-crown-milcery-064-142",
    "product_id": 567290,
@@ -1237,6 +1360,7 @@
   {
    "number": "065",
    "name": "Alcremie",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567291_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567291/pokemon-sv07-stellar-crown-alcremie",
    "product_id": 567291,
@@ -1247,6 +1371,7 @@
   {
    "number": "065",
    "name": "Alcremie",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567291_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567291/pokemon-sv07-stellar-crown-alcremie",
    "product_id": 567291,
@@ -1257,6 +1382,7 @@
   {
    "number": "066",
    "name": "Fidough",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567292_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567292/pokemon-sv07-stellar-crown-fidough",
    "product_id": 567292,
@@ -1267,6 +1393,7 @@
   {
    "number": "066",
    "name": "Fidough",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567292_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567292/pokemon-sv07-stellar-crown-fidough",
    "product_id": 567292,
@@ -1277,6 +1404,7 @@
   {
    "number": "067",
    "name": "Dachsbun ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567293_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567293/pokemon-sv07-stellar-crown-dachsbun-ex-067-142",
    "product_id": 567293,
@@ -1287,6 +1415,7 @@
   {
    "number": "068",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567294_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567294/pokemon-sv07-stellar-crown-flittle",
    "product_id": 567294,
@@ -1297,6 +1426,7 @@
   {
    "number": "068",
    "name": "Flittle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567294_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567294/pokemon-sv07-stellar-crown-flittle",
    "product_id": 567294,
@@ -1307,6 +1437,7 @@
   {
    "number": "069",
    "name": "Espathra",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567295_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567295/pokemon-sv07-stellar-crown-espathra",
    "product_id": 567295,
@@ -1317,6 +1448,7 @@
   {
    "number": "069",
    "name": "Espathra",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567295_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567295/pokemon-sv07-stellar-crown-espathra",
    "product_id": 567295,
@@ -1327,6 +1459,7 @@
   {
    "number": "070",
    "name": "Greavard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567296_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567296/pokemon-sv07-stellar-crown-greavard",
    "product_id": 567296,
@@ -1337,6 +1470,7 @@
   {
    "number": "070",
    "name": "Greavard",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567296_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567296/pokemon-sv07-stellar-crown-greavard",
    "product_id": 567296,
@@ -1347,6 +1481,7 @@
   {
    "number": "071",
    "name": "Iron Boulder",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567297_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567297/pokemon-sv07-stellar-crown-iron-boulder",
    "product_id": 567297,
@@ -1357,6 +1492,7 @@
   {
    "number": "071",
    "name": "Iron Boulder",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567297_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567297/pokemon-sv07-stellar-crown-iron-boulder",
    "product_id": 567297,
@@ -1367,6 +1503,7 @@
   {
    "number": "072",
    "name": "Cubone",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567298_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567298/pokemon-sv07-stellar-crown-cubone",
    "product_id": 567298,
@@ -1377,6 +1514,7 @@
   {
    "number": "072",
    "name": "Cubone",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567298_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567298/pokemon-sv07-stellar-crown-cubone",
    "product_id": 567298,
@@ -1387,6 +1525,7 @@
   {
    "number": "073",
    "name": "Marowak",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567299_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567299/pokemon-sv07-stellar-crown-marowak",
    "product_id": 567299,
@@ -1397,6 +1536,7 @@
   {
    "number": "073",
    "name": "Marowak",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567299_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567299/pokemon-sv07-stellar-crown-marowak",
    "product_id": 567299,
@@ -1407,6 +1547,7 @@
   {
    "number": "074",
    "name": "Rhyhorn",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567300_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567300/pokemon-sv07-stellar-crown-rhyhorn",
    "product_id": 567300,
@@ -1417,6 +1558,7 @@
   {
    "number": "074",
    "name": "Rhyhorn",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567300_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567300/pokemon-sv07-stellar-crown-rhyhorn",
    "product_id": 567300,
@@ -1427,6 +1569,7 @@
   {
    "number": "075",
    "name": "Rhydon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567301_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567301/pokemon-sv07-stellar-crown-rhydon",
    "product_id": 567301,
@@ -1437,6 +1580,7 @@
   {
    "number": "075",
    "name": "Rhydon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567301_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567301/pokemon-sv07-stellar-crown-rhydon",
    "product_id": 567301,
@@ -1447,6 +1591,7 @@
   {
    "number": "076",
    "name": "Rhyperior",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567302_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567302/pokemon-sv07-stellar-crown-rhyperior",
    "product_id": 567302,
@@ -1457,6 +1602,7 @@
   {
    "number": "076",
    "name": "Rhyperior",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567302_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567302/pokemon-sv07-stellar-crown-rhyperior",
    "product_id": 567302,
@@ -1467,6 +1613,7 @@
   {
    "number": "077",
    "name": "Meditite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567303_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567303/pokemon-sv07-stellar-crown-meditite-077-142",
    "product_id": 567303,
@@ -1477,6 +1624,7 @@
   {
    "number": "077",
    "name": "Meditite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567303_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567303/pokemon-sv07-stellar-crown-meditite-077-142",
    "product_id": 567303,
@@ -1487,6 +1635,7 @@
   {
    "number": "078",
    "name": "Meditite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567304_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567304/pokemon-sv07-stellar-crown-meditite-078-142",
    "product_id": 567304,
@@ -1497,6 +1646,7 @@
   {
    "number": "078",
    "name": "Meditite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567304_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567304/pokemon-sv07-stellar-crown-meditite-078-142",
    "product_id": 567304,
@@ -1507,6 +1657,7 @@
   {
    "number": "079",
    "name": "Medicham",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567305_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567305/pokemon-sv07-stellar-crown-medicham",
    "product_id": 567305,
@@ -1517,6 +1668,7 @@
   {
    "number": "079",
    "name": "Medicham",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567305_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567305/pokemon-sv07-stellar-crown-medicham",
    "product_id": 567305,
@@ -1527,6 +1679,7 @@
   {
    "number": "080",
    "name": "Medicham ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567306_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567306/pokemon-sv07-stellar-crown-medicham-ex-080-142",
    "product_id": 567306,
@@ -1537,6 +1690,7 @@
   {
    "number": "081",
    "name": "Riolu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567307_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567307/pokemon-sv07-stellar-crown-riolu",
    "product_id": 567307,
@@ -1547,6 +1701,7 @@
   {
    "number": "081",
    "name": "Riolu",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567307_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567307/pokemon-sv07-stellar-crown-riolu",
    "product_id": 567307,
@@ -1557,6 +1712,7 @@
   {
    "number": "082",
    "name": "Lucario ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567308_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567308/pokemon-sv07-stellar-crown-lucario-ex",
    "product_id": 567308,
@@ -1567,6 +1723,7 @@
   {
    "number": "083",
    "name": "Mienfoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567309_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567309/pokemon-sv07-stellar-crown-mienfoo",
    "product_id": 567309,
@@ -1577,6 +1734,7 @@
   {
    "number": "083",
    "name": "Mienfoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567309_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567309/pokemon-sv07-stellar-crown-mienfoo",
    "product_id": 567309,
@@ -1587,6 +1745,7 @@
   {
    "number": "084",
    "name": "Mienshao",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567310_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567310/pokemon-sv07-stellar-crown-mienshao",
    "product_id": 567310,
@@ -1597,6 +1756,7 @@
   {
    "number": "084",
    "name": "Mienshao",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567310_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567310/pokemon-sv07-stellar-crown-mienshao",
    "product_id": 567310,
@@ -1607,6 +1767,7 @@
   {
    "number": "085",
    "name": "Pancham",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567311_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567311/pokemon-sv07-stellar-crown-pancham",
    "product_id": 567311,
@@ -1617,6 +1778,7 @@
   {
    "number": "085",
    "name": "Pancham",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567311_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567311/pokemon-sv07-stellar-crown-pancham",
    "product_id": 567311,
@@ -1627,6 +1789,7 @@
   {
    "number": "086",
    "name": "Diancie",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567312_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567312/pokemon-sv07-stellar-crown-diancie",
    "product_id": 567312,
@@ -1637,6 +1800,7 @@
   {
    "number": "086",
    "name": "Diancie",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567312_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567312/pokemon-sv07-stellar-crown-diancie",
    "product_id": 567312,
@@ -1647,6 +1811,7 @@
   {
    "number": "087",
    "name": "Crabrawler",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567313_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567313/pokemon-sv07-stellar-crown-crabrawler",
    "product_id": 567313,
@@ -1657,6 +1822,7 @@
   {
    "number": "087",
    "name": "Crabrawler",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567313_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567313/pokemon-sv07-stellar-crown-crabrawler",
    "product_id": 567313,
@@ -1667,6 +1833,7 @@
   {
    "number": "088",
    "name": "Falinks",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567314_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567314/pokemon-sv07-stellar-crown-falinks",
    "product_id": 567314,
@@ -1677,6 +1844,7 @@
   {
    "number": "088",
    "name": "Falinks",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567314_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567314/pokemon-sv07-stellar-crown-falinks",
    "product_id": 567314,
@@ -1687,6 +1855,7 @@
   {
    "number": "089",
    "name": "Garganacl ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567315_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567315/pokemon-sv07-stellar-crown-garganacl-ex",
    "product_id": 567315,
@@ -1697,6 +1866,7 @@
   {
    "number": "090",
    "name": "Koraidon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567316_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567316/pokemon-sv07-stellar-crown-koraidon",
    "product_id": 567316,
@@ -1707,6 +1877,7 @@
   {
    "number": "090",
    "name": "Koraidon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567316_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567316/pokemon-sv07-stellar-crown-koraidon",
    "product_id": 567316,
@@ -1717,6 +1888,7 @@
   {
    "number": "091",
    "name": "Gulpin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567317_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567317/pokemon-sv07-stellar-crown-gulpin-091-142",
    "product_id": 567317,
@@ -1727,6 +1899,7 @@
   {
    "number": "091",
    "name": "Gulpin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567317_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567317/pokemon-sv07-stellar-crown-gulpin-091-142",
    "product_id": 567317,
@@ -1737,6 +1910,7 @@
   {
    "number": "092",
    "name": "Swalot",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567318_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567318/pokemon-sv07-stellar-crown-swalot",
    "product_id": 567318,
@@ -1747,6 +1921,7 @@
   {
    "number": "092",
    "name": "Swalot",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567318_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567318/pokemon-sv07-stellar-crown-swalot",
    "product_id": 567318,
@@ -1757,6 +1932,7 @@
   {
    "number": "093",
    "name": "Pangoro",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567319_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567319/pokemon-sv07-stellar-crown-pangoro",
    "product_id": 567319,
@@ -1767,6 +1943,7 @@
   {
    "number": "093",
    "name": "Pangoro",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567319_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567319/pokemon-sv07-stellar-crown-pangoro",
    "product_id": 567319,
@@ -1777,6 +1954,7 @@
   {
    "number": "094",
    "name": "Impidimp",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567320_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567320/pokemon-sv07-stellar-crown-impidimp",
    "product_id": 567320,
@@ -1787,6 +1965,7 @@
   {
    "number": "094",
    "name": "Impidimp",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567320_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567320/pokemon-sv07-stellar-crown-impidimp",
    "product_id": 567320,
@@ -1797,6 +1976,7 @@
   {
    "number": "095",
    "name": "Morgrem",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567321_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567321/pokemon-sv07-stellar-crown-morgrem",
    "product_id": 567321,
@@ -1807,6 +1987,7 @@
   {
    "number": "095",
    "name": "Morgrem",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567321_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567321/pokemon-sv07-stellar-crown-morgrem",
    "product_id": 567321,
@@ -1817,6 +1998,7 @@
   {
    "number": "096",
    "name": "Grimmsnarl",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/693137_400w.jpg",
    "url": "https://www.tcgplayer.com/product/693137/pokemon-deck-exclusives-grimmsnarl-096-142-non-holo",
    "product_id": 693137,
@@ -1828,6 +2010,7 @@
   {
    "number": "096",
    "name": "Grimmsnarl",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567322_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567322/pokemon-sv07-stellar-crown-grimmsnarl",
    "product_id": 567322,
@@ -1839,6 +2022,7 @@
   {
    "number": "096",
    "name": "Grimmsnarl",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567322_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567322/pokemon-sv07-stellar-crown-grimmsnarl",
    "product_id": 567322,
@@ -1850,6 +2034,7 @@
   {
    "number": "097",
    "name": "Bombirdier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567323_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567323/pokemon-sv07-stellar-crown-bombirdier",
    "product_id": 567323,
@@ -1860,6 +2045,7 @@
   {
    "number": "097",
    "name": "Bombirdier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567323_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567323/pokemon-sv07-stellar-crown-bombirdier",
    "product_id": 567323,
@@ -1870,6 +2056,7 @@
   {
    "number": "098",
    "name": "Jirachi",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567324_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567324/pokemon-sv07-stellar-crown-jirachi",
    "product_id": 567324,
@@ -1880,6 +2067,7 @@
   {
    "number": "098",
    "name": "Jirachi",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567324_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567324/pokemon-sv07-stellar-crown-jirachi",
    "product_id": 567324,
@@ -1890,6 +2078,7 @@
   {
    "number": "099",
    "name": "Klink",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567325_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567325/pokemon-sv07-stellar-crown-klink",
    "product_id": 567325,
@@ -1900,6 +2089,7 @@
   {
    "number": "099",
    "name": "Klink",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567325_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567325/pokemon-sv07-stellar-crown-klink",
    "product_id": 567325,
@@ -1910,6 +2100,7 @@
   {
    "number": "100",
    "name": "Klang",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567326_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567326/pokemon-sv07-stellar-crown-klang",
    "product_id": 567326,
@@ -1920,6 +2111,7 @@
   {
    "number": "100",
    "name": "Klang",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567326_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567326/pokemon-sv07-stellar-crown-klang",
    "product_id": 567326,
@@ -1930,6 +2122,7 @@
   {
    "number": "101",
    "name": "Klinklang",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567327_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567327/pokemon-sv07-stellar-crown-klinklang",
    "product_id": 567327,
@@ -1940,6 +2133,7 @@
   {
    "number": "101",
    "name": "Klinklang",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567327_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567327/pokemon-sv07-stellar-crown-klinklang",
    "product_id": 567327,
@@ -1950,6 +2144,7 @@
   {
    "number": "102",
    "name": "Meltan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567328_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567328/pokemon-sv07-stellar-crown-meltan-102-142",
    "product_id": 567328,
@@ -1960,6 +2155,7 @@
   {
    "number": "102",
    "name": "Meltan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567328_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567328/pokemon-sv07-stellar-crown-meltan-102-142",
    "product_id": 567328,
@@ -1970,6 +2166,7 @@
   {
    "number": "103",
    "name": "Meltan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567329_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567329/pokemon-sv07-stellar-crown-meltan-103-142",
    "product_id": 567329,
@@ -1980,6 +2177,7 @@
   {
    "number": "103",
    "name": "Meltan",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567329_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567329/pokemon-sv07-stellar-crown-meltan-103-142",
    "product_id": 567329,
@@ -1990,6 +2188,7 @@
   {
    "number": "104",
    "name": "Melmetal",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567330_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567330/pokemon-sv07-stellar-crown-melmetal",
    "product_id": 567330,
@@ -2000,6 +2199,7 @@
   {
    "number": "104",
    "name": "Melmetal",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567330_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567330/pokemon-sv07-stellar-crown-melmetal",
    "product_id": 567330,
@@ -2010,6 +2210,7 @@
   {
    "number": "105",
    "name": "Melmetal ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567331_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567331/pokemon-sv07-stellar-crown-melmetal-ex",
    "product_id": 567331,
@@ -2020,6 +2221,7 @@
   {
    "number": "106",
    "name": "Duraludon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567332_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567332/pokemon-sv07-stellar-crown-duraludon",
    "product_id": 567332,
@@ -2030,6 +2232,7 @@
   {
    "number": "106",
    "name": "Duraludon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567332_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567332/pokemon-sv07-stellar-crown-duraludon",
    "product_id": 567332,
@@ -2040,6 +2243,7 @@
   {
    "number": "107",
    "name": "Archaludon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/693134_400w.jpg",
    "url": "https://www.tcgplayer.com/product/693134/pokemon-deck-exclusives-archaludon-107-142-non-holo",
    "product_id": 693134,
@@ -2051,6 +2255,7 @@
   {
    "number": "107",
    "name": "Archaludon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567333_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567333/pokemon-sv07-stellar-crown-archaludon-107-142",
    "product_id": 567333,
@@ -2062,6 +2267,7 @@
   {
    "number": "107",
    "name": "Archaludon",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567333_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567333/pokemon-sv07-stellar-crown-archaludon-107-142",
    "product_id": 567333,
@@ -2073,6 +2279,7 @@
   {
    "number": "108",
    "name": "Varoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567334_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567334/pokemon-sv07-stellar-crown-varoom",
    "product_id": 567334,
@@ -2083,6 +2290,7 @@
   {
    "number": "108",
    "name": "Varoom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567334_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567334/pokemon-sv07-stellar-crown-varoom",
    "product_id": 567334,
@@ -2093,6 +2301,7 @@
   {
    "number": "109",
    "name": "Revavroom",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567335_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567335/pokemon-sv07-stellar-crown-revavroom",
    "product_id": 567335,
@@ -2103,6 +2312,7 @@
   {
    "number": "109",
    "name": "Revavroom",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567335_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567335/pokemon-sv07-stellar-crown-revavroom",
    "product_id": 567335,
@@ -2113,6 +2323,7 @@
   {
    "number": "110",
    "name": "Orthworm ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567336_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567336/pokemon-sv07-stellar-crown-orthworm-ex-110-142",
    "product_id": 567336,
@@ -2123,6 +2334,7 @@
   {
    "number": "111",
    "name": "Raging Bolt",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567337_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567337/pokemon-sv07-stellar-crown-raging-bolt",
    "product_id": 567337,
@@ -2133,6 +2345,7 @@
   {
    "number": "111",
    "name": "Raging Bolt",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567337_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567337/pokemon-sv07-stellar-crown-raging-bolt",
    "product_id": 567337,
@@ -2143,6 +2356,7 @@
   {
    "number": "112",
    "name": "Tauros",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567338_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567338/pokemon-sv07-stellar-crown-tauros",
    "product_id": 567338,
@@ -2153,6 +2367,7 @@
   {
    "number": "112",
    "name": "Tauros",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567338_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567338/pokemon-sv07-stellar-crown-tauros",
    "product_id": 567338,
@@ -2163,6 +2378,7 @@
   {
    "number": "113",
    "name": "Eevee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567339_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567339/pokemon-sv07-stellar-crown-eevee",
    "product_id": 567339,
@@ -2173,6 +2389,7 @@
   {
    "number": "113",
    "name": "Eevee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567339_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567339/pokemon-sv07-stellar-crown-eevee",
    "product_id": 567339,
@@ -2183,6 +2400,7 @@
   {
    "number": "114",
    "name": "Hoothoot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567340_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567340/pokemon-sv07-stellar-crown-hoothoot",
    "product_id": 567340,
@@ -2193,6 +2411,7 @@
   {
    "number": "114",
    "name": "Hoothoot",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567340_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567340/pokemon-sv07-stellar-crown-hoothoot",
    "product_id": 567340,
@@ -2203,6 +2422,7 @@
   {
    "number": "115",
    "name": "Noctowl",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567341_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567341/pokemon-sv07-stellar-crown-noctowl",
    "product_id": 567341,
@@ -2213,6 +2433,7 @@
   {
    "number": "115",
    "name": "Noctowl",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567341_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567341/pokemon-sv07-stellar-crown-noctowl",
    "product_id": 567341,
@@ -2223,6 +2444,7 @@
   {
    "number": "116",
    "name": "Glameow",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567342_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567342/pokemon-sv07-stellar-crown-glameow",
    "product_id": 567342,
@@ -2233,6 +2455,7 @@
   {
    "number": "116",
    "name": "Glameow",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567342_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567342/pokemon-sv07-stellar-crown-glameow",
    "product_id": 567342,
@@ -2243,6 +2466,7 @@
   {
    "number": "117",
    "name": "Purugly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567343_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567343/pokemon-sv07-stellar-crown-purugly",
    "product_id": 567343,
@@ -2253,6 +2477,7 @@
   {
    "number": "117",
    "name": "Purugly",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567343_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567343/pokemon-sv07-stellar-crown-purugly",
    "product_id": 567343,
@@ -2263,6 +2488,7 @@
   {
    "number": "118",
    "name": "Fan Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567344_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567344/pokemon-sv07-stellar-crown-fan-rotom",
    "product_id": 567344,
@@ -2273,6 +2499,7 @@
   {
    "number": "118",
    "name": "Fan Rotom",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567344_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567344/pokemon-sv07-stellar-crown-fan-rotom",
    "product_id": 567344,
@@ -2283,6 +2510,7 @@
   {
    "number": "119",
    "name": "Bouffalant",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/576969_400w.jpg",
    "url": "https://www.tcgplayer.com/product/576969/pokemon-deck-exclusives-bouffalant-119-142",
    "product_id": 576969,
@@ -2294,6 +2522,7 @@
   {
    "number": "119",
    "name": "Bouffalant",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567345_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567345/pokemon-sv07-stellar-crown-bouffalant",
    "product_id": 567345,
@@ -2305,6 +2534,7 @@
   {
    "number": "119",
    "name": "Bouffalant",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567345_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567345/pokemon-sv07-stellar-crown-bouffalant",
    "product_id": 567345,
@@ -2316,6 +2546,7 @@
   {
    "number": "120",
    "name": "Tornadus",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567346_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567346/pokemon-sv07-stellar-crown-tornadus",
    "product_id": 567346,
@@ -2326,6 +2557,7 @@
   {
    "number": "120",
    "name": "Tornadus",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567346_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567346/pokemon-sv07-stellar-crown-tornadus",
    "product_id": 567346,
@@ -2336,6 +2568,7 @@
   {
    "number": "121",
    "name": "Fletchling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567348_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567348/pokemon-sv07-stellar-crown-fletchling",
    "product_id": 567348,
@@ -2346,6 +2579,7 @@
   {
    "number": "121",
    "name": "Fletchling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567348_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567348/pokemon-sv07-stellar-crown-fletchling",
    "product_id": 567348,
@@ -2356,6 +2590,7 @@
   {
    "number": "122",
    "name": "Fletchinder",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567353_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567353/pokemon-sv07-stellar-crown-fletchinder",
    "product_id": 567353,
@@ -2366,6 +2601,7 @@
   {
    "number": "122",
    "name": "Fletchinder",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567353_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567353/pokemon-sv07-stellar-crown-fletchinder",
    "product_id": 567353,
@@ -2376,6 +2612,7 @@
   {
    "number": "123",
    "name": "Talonflame",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567356_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567356/pokemon-sv07-stellar-crown-talonflame",
    "product_id": 567356,
@@ -2386,6 +2623,7 @@
   {
    "number": "123",
    "name": "Talonflame",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567356_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567356/pokemon-sv07-stellar-crown-talonflame",
    "product_id": 567356,
@@ -2396,6 +2634,7 @@
   {
    "number": "124",
    "name": "Wooloo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567358_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567358/pokemon-sv07-stellar-crown-wooloo",
    "product_id": 567358,
@@ -2406,6 +2645,7 @@
   {
    "number": "124",
    "name": "Wooloo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567358_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567358/pokemon-sv07-stellar-crown-wooloo",
    "product_id": 567358,
@@ -2416,6 +2656,7 @@
   {
    "number": "125",
    "name": "Dubwool",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567365_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567365/pokemon-sv07-stellar-crown-dubwool",
    "product_id": 567365,
@@ -2426,6 +2667,7 @@
   {
    "number": "125",
    "name": "Dubwool",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567365_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567365/pokemon-sv07-stellar-crown-dubwool",
    "product_id": 567365,
@@ -2436,6 +2678,7 @@
   {
    "number": "126",
    "name": "Lechonk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567369_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567369/pokemon-sv07-stellar-crown-lechonk",
    "product_id": 567369,
@@ -2446,6 +2689,7 @@
   {
    "number": "126",
    "name": "Lechonk",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567369_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567369/pokemon-sv07-stellar-crown-lechonk",
    "product_id": 567369,
@@ -2456,6 +2700,7 @@
   {
    "number": "127",
    "name": "Cyclizar",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567372_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567372/pokemon-sv07-stellar-crown-cyclizar",
    "product_id": 567372,
@@ -2466,6 +2711,7 @@
   {
    "number": "127",
    "name": "Cyclizar",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567372_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567372/pokemon-sv07-stellar-crown-cyclizar",
    "product_id": 567372,
@@ -2476,6 +2722,7 @@
   {
    "number": "128",
    "name": "Terapagos ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567376_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567376/pokemon-sv07-stellar-crown-terapagos-ex-128-142",
    "product_id": 567376,
@@ -2486,6 +2733,7 @@
   {
    "number": "129",
    "name": "Antique Cover Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567378_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567378/pokemon-sv07-stellar-crown-antique-cover-fossil",
    "product_id": 567378,
@@ -2496,6 +2744,7 @@
   {
    "number": "129",
    "name": "Antique Cover Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567378_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567378/pokemon-sv07-stellar-crown-antique-cover-fossil",
    "product_id": 567378,
@@ -2506,6 +2755,7 @@
   {
    "number": "130",
    "name": "Antique Root Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567380_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567380/pokemon-sv07-stellar-crown-antique-root-fossil",
    "product_id": 567380,
@@ -2516,6 +2766,7 @@
   {
    "number": "130",
    "name": "Antique Root Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567380_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567380/pokemon-sv07-stellar-crown-antique-root-fossil",
    "product_id": 567380,
@@ -2526,6 +2777,7 @@
   {
    "number": "131",
    "name": "Area Zero Underdepths",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567384_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567384/pokemon-sv07-stellar-crown-area-zero-underdepths-131-142",
    "product_id": 567384,
@@ -2536,6 +2788,7 @@
   {
    "number": "131",
    "name": "Area Zero Underdepths",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567384_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567384/pokemon-sv07-stellar-crown-area-zero-underdepths-131-142",
    "product_id": 567384,
@@ -2546,6 +2799,7 @@
   {
    "number": "132",
    "name": "Briar",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567385_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567385/pokemon-sv07-stellar-crown-briar-132-142",
    "product_id": 567385,
@@ -2556,6 +2810,7 @@
   {
    "number": "132",
    "name": "Briar",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567385_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567385/pokemon-sv07-stellar-crown-briar-132-142",
    "product_id": 567385,
@@ -2566,6 +2821,7 @@
   {
    "number": "133",
    "name": "Crispin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567390_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567390/pokemon-sv07-stellar-crown-crispin-133-142",
    "product_id": 567390,
@@ -2576,6 +2832,7 @@
   {
    "number": "133",
    "name": "Crispin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567390_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567390/pokemon-sv07-stellar-crown-crispin-133-142",
    "product_id": 567390,
@@ -2586,6 +2843,7 @@
   {
    "number": "134",
    "name": "Deluxe Bomb",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567392_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567392/pokemon-sv07-stellar-crown-deluxe-bomb",
    "product_id": 567392,
@@ -2596,6 +2854,7 @@
   {
    "number": "135",
    "name": "Glass Trumpet",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567394_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567394/pokemon-sv07-stellar-crown-glass-trumpet",
    "product_id": 567394,
@@ -2606,6 +2865,7 @@
   {
    "number": "135",
    "name": "Glass Trumpet",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567394_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567394/pokemon-sv07-stellar-crown-glass-trumpet",
    "product_id": 567394,
@@ -2616,6 +2876,7 @@
   {
    "number": "136",
    "name": "Grand Tree",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567397_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567397/pokemon-sv07-stellar-crown-grand-tree",
    "product_id": 567397,
@@ -2626,6 +2887,7 @@
   {
    "number": "137",
    "name": "Gravity Gemstone",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567400_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567400/pokemon-sv07-stellar-crown-gravity-gemstone",
    "product_id": 567400,
@@ -2636,6 +2898,7 @@
   {
    "number": "137",
    "name": "Gravity Gemstone",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567400_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567400/pokemon-sv07-stellar-crown-gravity-gemstone",
    "product_id": 567400,
@@ -2646,6 +2909,7 @@
   {
    "number": "138",
    "name": "Kofu",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567404_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567404/pokemon-sv07-stellar-crown-kofu-138-142",
    "product_id": 567404,
@@ -2656,6 +2920,7 @@
   {
    "number": "138",
    "name": "Kofu",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567404_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567404/pokemon-sv07-stellar-crown-kofu-138-142",
    "product_id": 567404,
@@ -2666,6 +2931,7 @@
   {
    "number": "139",
    "name": "Lacey",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567407_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567407/pokemon-sv07-stellar-crown-lacey-139-142",
    "product_id": 567407,
@@ -2676,6 +2942,7 @@
   {
    "number": "139",
    "name": "Lacey",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567407_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567407/pokemon-sv07-stellar-crown-lacey-139-142",
    "product_id": 567407,
@@ -2686,6 +2953,7 @@
   {
    "number": "140",
    "name": "Occa Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567409_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567409/pokemon-sv07-stellar-crown-occa-berry",
    "product_id": 567409,
@@ -2696,6 +2964,7 @@
   {
    "number": "140",
    "name": "Occa Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567409_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567409/pokemon-sv07-stellar-crown-occa-berry",
    "product_id": 567409,
@@ -2706,6 +2975,7 @@
   {
    "number": "141",
    "name": "Payapa Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567414_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567414/pokemon-sv07-stellar-crown-payapa-berry",
    "product_id": 567414,
@@ -2716,6 +2986,7 @@
   {
    "number": "141",
    "name": "Payapa Berry",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567414_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567414/pokemon-sv07-stellar-crown-payapa-berry",
    "product_id": 567414,
@@ -2726,6 +2997,7 @@
   {
    "number": "142",
    "name": "Sparkling Crystal",
+   "rarity": "ACE SPEC Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567416_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567416/pokemon-sv07-stellar-crown-sparkling-crystal",
    "product_id": 567416,
@@ -2736,6 +3008,7 @@
   {
    "number": "143",
    "name": "Bulbasaur",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567418_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567418/pokemon-sv07-stellar-crown-bulbasaur",
    "product_id": 567418,
@@ -2746,6 +3019,7 @@
   {
    "number": "144",
    "name": "Ledian",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567420_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567420/pokemon-sv07-stellar-crown-ledian-144-142",
    "product_id": 567420,
@@ -2756,6 +3030,7 @@
   {
    "number": "145",
    "name": "Lileep",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567421_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567421/pokemon-sv07-stellar-crown-lileep-145-142",
    "product_id": 567421,
@@ -2766,6 +3041,7 @@
   {
    "number": "146",
    "name": "Turtonator",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567424_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567424/pokemon-sv07-stellar-crown-turtonator-146-142",
    "product_id": 567424,
@@ -2776,6 +3052,7 @@
   {
    "number": "147",
    "name": "Raboot",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567427_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567427/pokemon-sv07-stellar-crown-raboot-147-142",
    "product_id": 567427,
@@ -2786,6 +3063,7 @@
   {
    "number": "148",
    "name": "Squirtle",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567429_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567429/pokemon-sv07-stellar-crown-squirtle",
    "product_id": 567429,
@@ -2796,6 +3074,7 @@
   {
    "number": "149",
    "name": "Crabominable",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567431_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567431/pokemon-sv07-stellar-crown-crabominable-149-142",
    "product_id": 567431,
@@ -2806,6 +3085,7 @@
   {
    "number": "150",
    "name": "Joltik",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567433_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567433/pokemon-sv07-stellar-crown-joltik-150-142",
    "product_id": 567433,
@@ -2816,6 +3096,7 @@
   {
    "number": "151",
    "name": "Zeraora",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567434_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567434/pokemon-sv07-stellar-crown-zeraora-151-142",
    "product_id": 567434,
@@ -2826,6 +3107,7 @@
   {
    "number": "152",
    "name": "Milcery",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567435_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567435/pokemon-sv07-stellar-crown-milcery-152-142",
    "product_id": 567435,
@@ -2836,6 +3118,7 @@
   {
    "number": "153",
    "name": "Meditite",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567436_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567436/pokemon-sv07-stellar-crown-meditite-153-142",
    "product_id": 567436,
@@ -2846,6 +3129,7 @@
   {
    "number": "154",
    "name": "Gulpin",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567439_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567439/pokemon-sv07-stellar-crown-gulpin-154-142",
    "product_id": 567439,
@@ -2856,6 +3140,7 @@
   {
    "number": "155",
    "name": "Archaludon",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567441_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567441/pokemon-sv07-stellar-crown-archaludon-155-142",
    "product_id": 567441,
@@ -2866,6 +3151,7 @@
   {
    "number": "156",
    "name": "Hydrapple ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567443_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567443/pokemon-sv07-stellar-crown-hydrapple-ex-156-142",
    "product_id": 567443,
@@ -2876,6 +3162,7 @@
   {
    "number": "157",
    "name": "Cinderace ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567447_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567447/pokemon-sv07-stellar-crown-cinderace-ex-157-142",
    "product_id": 567447,
@@ -2886,6 +3173,7 @@
   {
    "number": "158",
    "name": "Lapras ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567448_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567448/pokemon-sv07-stellar-crown-lapras-ex-158-142",
    "product_id": 567448,
@@ -2896,6 +3184,7 @@
   {
    "number": "159",
    "name": "Galvantula ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567449_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567449/pokemon-sv07-stellar-crown-galvantula-ex-159-142",
    "product_id": 567449,
@@ -2906,6 +3195,7 @@
   {
    "number": "160",
    "name": "Dachsbun ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567452_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567452/pokemon-sv07-stellar-crown-dachsbun-ex-160-142",
    "product_id": 567452,
@@ -2916,6 +3206,7 @@
   {
    "number": "161",
    "name": "Medicham ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567455_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567455/pokemon-sv07-stellar-crown-medicham-ex-161-142",
    "product_id": 567455,
@@ -2926,6 +3217,7 @@
   {
    "number": "162",
    "name": "Orthworm ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567457_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567457/pokemon-sv07-stellar-crown-orthworm-ex-162-142",
    "product_id": 567457,
@@ -2936,6 +3228,7 @@
   {
    "number": "163",
    "name": "Briar",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567460_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567460/pokemon-sv07-stellar-crown-briar-163-142",
    "product_id": 567460,
@@ -2946,6 +3239,7 @@
   {
    "number": "164",
    "name": "Crispin",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567465_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567465/pokemon-sv07-stellar-crown-crispin-164-142",
    "product_id": 567465,
@@ -2956,6 +3250,7 @@
   {
    "number": "165",
    "name": "Kofu",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567467_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567467/pokemon-sv07-stellar-crown-kofu-165-142",
    "product_id": 567467,
@@ -2966,6 +3261,7 @@
   {
    "number": "166",
    "name": "Lacey",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567470_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567470/pokemon-sv07-stellar-crown-lacey-166-142",
    "product_id": 567470,
@@ -2976,6 +3272,7 @@
   {
    "number": "167",
    "name": "Hydrapple ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567472_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567472/pokemon-sv07-stellar-crown-hydrapple-ex-167-142",
    "product_id": 567472,
@@ -2986,6 +3283,7 @@
   {
    "number": "168",
    "name": "Galvantula ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567474_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567474/pokemon-sv07-stellar-crown-galvantula-ex-168-142",
    "product_id": 567474,
@@ -2996,6 +3294,7 @@
   {
    "number": "169",
    "name": "Dachsbun ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567476_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567476/pokemon-sv07-stellar-crown-dachsbun-ex-169-142",
    "product_id": 567476,
@@ -3006,6 +3305,7 @@
   {
    "number": "170",
    "name": "Terapagos ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567478_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567478/pokemon-sv07-stellar-crown-terapagos-ex-170-142",
    "product_id": 567478,
@@ -3016,6 +3316,7 @@
   {
    "number": "171",
    "name": "Briar",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567482_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567482/pokemon-sv07-stellar-crown-briar-171-142",
    "product_id": 567482,
@@ -3026,6 +3327,7 @@
   {
    "number": "172",
    "name": "Lacey",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567484_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567484/pokemon-sv07-stellar-crown-lacey-172-142",
    "product_id": 567484,
@@ -3036,6 +3338,7 @@
   {
    "number": "173",
    "name": "Terapagos ex",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567486_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567486/pokemon-sv07-stellar-crown-terapagos-ex-173-142",
    "product_id": 567486,
@@ -3046,6 +3349,7 @@
   {
    "number": "174",
    "name": "Area Zero Underdepths",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567490_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567490/pokemon-sv07-stellar-crown-area-zero-underdepths-174-142",
    "product_id": 567490,
@@ -3056,6 +3360,7 @@
   {
    "number": "175",
    "name": "Bravery Charm",
+   "rarity": "Hyper Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/567491_400w.jpg",
    "url": "https://www.tcgplayer.com/product/567491/pokemon-sv07-stellar-crown-bravery-charm",
    "product_id": 567491,

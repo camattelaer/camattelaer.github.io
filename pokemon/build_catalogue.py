@@ -142,13 +142,29 @@ def number_key(raw):
     return raw
 
 
+def full_key(raw):
+    """number_key plus the printed set total when there is one: '106/105' -> '106/105',
+    '025' -> '25'. Needed for sets numbered as the original prints (Classic Collection),
+    where several cards share a number."""
+    text = str(raw).strip()
+    total = text.split("/")[1].strip() if "/" in text else ""
+    return f"{number_key(text)}/{number_key(total)}" if total else number_key(text)
+
+
+def key_of_number(number, reprint):
+    """Card key of a printed number as build_card_list keys it."""
+    return full_key(number) if reprint else number_key(number)
+
+
 def number_sort(key):
-    """Plain numbers first in numeric order, then prefixed ones (TG, GG, SV...)."""
+    """Plain numbers first in numeric order, then prefixed ones (TG, GG, SV...);
+    full keys ('106/105') by number, then set total."""
+    key, _, total = key.partition("/")
     m = re.fullmatch(r"([A-Z-]*)(\d+)([A-Z]*)", key)
     if not m:
-        return (2, key, 0, "")
+        return (2, key, 0, "", total)
     prefix, digits, suffix = m.groups()
-    return (0 if not prefix else 1, prefix, int(digits), suffix)
+    return (0 if not prefix else 1, prefix, int(digits), suffix, number_sort(total) if total else ())
 
 
 def strip_group_prefix(name):
@@ -217,8 +233,8 @@ def read_catalogue():
                 continue
             if qty <= 0:
                 continue
-            owned[(set_name, number_key(number), variant)] += qty
-            rows_of[(set_name, number_key(number), variant)].append(where)
+            owned[(set_name, full_key(number), variant)] += qty
+            rows_of[(set_name, full_key(number), variant)].append(where)
         if found_rows and not set_name:
             problems.append(f"sheet '{ws.title}': no set_name in cell B1; its rows are skipped")
         if set_name:
@@ -338,6 +354,27 @@ class Catalogues:
 
 # ---------------------------------------------------------------- set build
 
+def match_by_name(cards, tcgdex_cards):
+    """{(number, name): TCGdex card} for a set numbered as the original prints, whose
+    TCGdex numbers (001, 002, ...) differ from the printed ones. Same-named cards
+    (Darkrai & Cresselia LEGEND top and bottom) pair up in number order; 'Palkia' on
+    TCGdex matches 'Palkia LV.X'."""
+    pool = sorted(tcgdex_cards, key=lambda t: number_sort(number_key(t["localId"])))
+    result = {}
+    unique = sorted({(c["number"], c["name"]) for c in cards}, key=lambda nc: number_sort(full_key(nc[0])))
+    for exact in (True, False):
+        for number, name in unique:
+            if (number, name) in result:
+                continue
+            want = fold(name)
+            hit = next((t for t in pool if (fold(t["name"]) == want if exact else
+                                             want.startswith(fold(t["name"]) + " "))), None)
+            if hit:
+                result[(number, name)] = hit
+                pool.remove(hit)
+    return result
+
+
 def check_images(urls, refresh):
     """url -> whether the CDN serves it. Cached in pokemon/.cache/image_status.json."""
     path = CACHE_DIR / "image_status.json"
@@ -365,7 +402,8 @@ def check_images(urls, refresh):
 
 def build_card_list(group_ids, refresh, deck_group_id=None, official=None):
     """Every card + variant in the given TCGplayer groups, keyed by (number_key, variant),
-    plus the set's deck-exclusive prints (official = the set's official card count)."""
+    plus the set's deck-exclusive prints (official = the set's official card count).
+    Also returns whether the set uses original-print numbering (keys are then full_key)."""
     products, subtypes = [], defaultdict(set)
     for group_id in group_ids:
         products += get_json(f"{TCGCSV}/{group_id}/products", f"tcgcsv_{group_id}_products", refresh)["results"]
@@ -391,20 +429,27 @@ def build_card_list(group_ids, refresh, deck_group_id=None, official=None):
         else:
             plain.append(entry)
 
-    plain_numbers = {number_key(n) for _, n, _ in plain}
+    # Sets like a Classic Collection print each card with its original number and set
+    # total (114/264, 138/202, ...), so numbers repeat: key those by the full number.
+    totals = {n.split("/")[1].strip() for _, n, _ in plain + labelled if "/" in n}
+    reprint = len(totals) > 3
+    key_of = full_key if reprint else number_key
+
+    plain_numbers = {key_of(n) for _, n, _ in plain}
     unrecognised = defaultdict(int)
     for prod, raw_number, labels in labelled:
-        if number_key(raw_number) in plain_numbers:
+        if key_of(raw_number) in plain_numbers:
             unrecognised[", ".join(labels)] += 1
         else:
             plain.append((prod, raw_number, labels))
-            plain_numbers.add(number_key(raw_number))
+            plain_numbers.add(key_of(raw_number))
 
     def card(prod, raw_number, variant):
         return {
-            "number": raw_number.split("/")[0].strip(),
-            "key": number_key(raw_number),
+            "number": raw_number.strip() if reprint else raw_number.split("/")[0].strip(),
+            "key": key_of(raw_number),
             "name": clean_card_name(prod["name"]),
+            "rarity": next((f["value"] for f in prod.get("extendedData", []) if f["name"] == "Rarity"), None),
             "image": (prod.get("imageUrl") or "").replace("_200w.", "_400w.") if prod.get("imageCount") else None,
             "url": prod.get("url"),
             "product_id": prod["productId"],
@@ -416,14 +461,14 @@ def build_card_list(group_ids, refresh, deck_group_id=None, official=None):
         found = subtypes.get(prod["productId"], set())
         variants = [SUBTYPES[s] for s in found if s in SUBTYPES] or ["normal"]  # unpriced: assume plain print
         for variant in variants:
-            cards.setdefault((number_key(raw_number), variant), card(prod, raw_number, variant))
+            cards.setdefault((key_of(raw_number), variant), card(prod, raw_number, variant))
     for prod, raw_number, _, variant in patterned:
-        cards.setdefault((number_key(raw_number), variant), card(prod, raw_number, variant))
+        cards.setdefault((key_of(raw_number), variant), card(prod, raw_number, variant))
 
     # Deck-exclusive prints (e.g. a non-holo of a holo rare from a pre-built deck) live in
     # TCGplayer's "Deck Exclusives" group; they belong to this set when the printed total
     # is the set's official count and the number + name match one of its cards.
-    if deck_group_id and official:
+    if deck_group_id and official and not reprint:
         names = {(c["key"], fold(c["name"])) for c in cards.values()}
         deck_prices = defaultdict(set)
         for p in get_json(f"{TCGCSV}/{deck_group_id}/prices", f"tcgcsv_{deck_group_id}_prices", refresh)["results"]:
@@ -461,7 +506,7 @@ def build_card_list(group_ids, refresh, deck_group_id=None, official=None):
         if plain and plain != card["image"]:
             card["image_fallback"] = plain
 
-    return cards, dict(unrecognised)
+    return cards, dict(unrecognised), reprint
 
 
 def write_stub(slug, name):
@@ -537,28 +582,68 @@ def main():
         extra = cats.subset_groups(group, ov.get("tcgplayer_extra"))
         for g in extra:
             print(f"  TCGplayer: + subset {g['name']} ({g['groupId']})")
-        cards, unrecognised = build_card_list([group["groupId"]] + [g["groupId"] for g in extra], args.refresh,
-                                              deck_group, (detail.get("cardCount") or {}).get("official"))
+        cards, unrecognised, reprint = build_card_list(
+            [group["groupId"]] + [g["groupId"] for g in extra], args.refresh,
+            deck_group, (detail.get("cardCount") or {}).get("official"))
         for label, n in sorted(unrecognised.items()):
             print(f"  note: skipped {n} product(s) labelled '({label})' (duplicate of a plain card number)")
         decks = sum(1 for c in cards.values() if c.get("deck"))
         if decks:
             print(f"  + {decks} deck-exclusive print(s)")
+        if reprint:
+            print("  cards carry their original numbers (e.g. 114/264): matched on the full number")
 
+        # xlsx numbers -> card keys: '25' and '025/217' both mean card 25 in a normal set;
+        # in a reprint-numbered set '114' works when only one card is numbered 114.
         numbers = {k for k, _ in cards}
-        for (key, variant), qty in sorted(by_set[set_name].items(), key=lambda kv: number_sort(kv[0][0])):
+        resolved, where = defaultdict(int), defaultdict(list)
+        for (key, variant), qty in by_set[set_name].items():
+            bare = key.split("/")[0]
+            matches = [key] if key in numbers else [bare] if bare in numbers else                 sorted({k for k in numbers if k.split("/")[0] == bare}, key=number_sort)
+            if len(matches) != 1:
+                if matches:
+                    report.append(f"{rows(set_name, key, variant)}: {set_name} #{key}: several cards have this "
+                                  f"number ({', '.join(matches)}); type the full printed number; qty {qty} skipped")
+                else:
+                    report.append(f"{rows(set_name, key, variant)}: {set_name} #{key} ({variant}): card number not "
+                                  f"found in '{group['name']}'; qty {qty} skipped")
+                continue
+            resolved[(matches[0], variant)] += qty
+            where[(matches[0], variant)] += rows_of[(set_name, key, variant)]
+
+        for (key, variant), qty in sorted(resolved.items(), key=lambda kv: number_sort(kv[0][0])):
             if (key, variant) in cards:
                 cards[(key, variant)]["qty"] = qty
-            elif key in numbers:
-                have = sorted({v for k, v in cards if k == key}, key=list(VARIANTS).index)
-                report.append(f"{rows(set_name, key, variant)}: {set_name} #{key}: no '{variant}' variant on TCGplayer "
-                              f"(known: {', '.join(have)}); qty {qty} skipped")
             else:
-                report.append(f"{rows(set_name, key, variant)}: {set_name} #{key} ({variant}): card number not found in "
-                              f"'{group['name']}'; qty {qty} skipped")
+                have = sorted({v for k, v in cards if k == key}, key=list(VARIANTS).index)
+                report.append(f"{', '.join(where[(key, variant)])}: {set_name} #{key}: no '{variant}' variant on "
+                              f"TCGplayer (known: {', '.join(have)}); qty {qty} skipped")
 
         order = list(VARIANTS)
         card_list = sorted(cards.values(), key=lambda c: (number_sort(c["key"]), order.index(c["variant"])))
+        if reprint:  # list them in TCGdex's set order (001, 002, ...) rather than by original number
+            by_name = match_by_name(card_list, detail.get("cards", []))
+            for c in card_list:
+                if (c["number"], c["name"]) in by_name:
+                    c["tcgdex_local"] = by_name[(c["number"], c["name"])]["localId"]
+            missing = sorted({c["name"] for c in card_list if "tcgdex_local" not in c})
+            if missing:
+                print(f"  note: not on TCGdex, listed last: {', '.join(missing)}")
+            card_list.sort(key=lambda c: ("tcgdex_local" not in c, number_sort(number_key(c.get("tcgdex_local", "0"))),
+                                          number_sort(c["key"]), order.index(c["variant"])))
+        if ov.get("order"):  # explicit order (e.g. the ETB booklet's), by printed number; unlisted cards last
+            keys = {c["key"] for c in card_list}
+
+            def to_key(n):  # like the xlsx: '114' is enough when only one card has that number
+                k = key_of_number(n, reprint)
+                same = [x for x in keys if x.split("/")[0] == k.split("/")[0]]
+                return k if k in keys or len(same) != 1 else same[0]
+            wanted = [to_key(n) for n in ov["order"]]
+            unknown = [n for n, k in zip(ov["order"], wanted) if k not in keys]
+            if unknown:
+                print(f"  note: 'order' in {OVERRIDES.name} lists numbers not in this set: {', '.join(map(str, unknown))}")
+            position = {k: i for i, k in reversed(list(enumerate(wanted)))}
+            card_list.sort(key=lambda c: position.get(c["key"], len(position)))  # stable: keeps variant order
         for c in card_list:
             c["qty"] = c.get("qty", 0)
             c["variant_label"] = VARIANTS[c["variant"]] + (" (deck)" if c.get("deck") else "")
@@ -593,6 +678,7 @@ def main():
             "owned_count": sum(1 for c in card_list if c["qty"] > 0),
             "total_count": len(card_list),
             "owned_qty": sum(c["qty"] for c in card_list),
+            "reprint_numbers": reprint,  # numbered as the original prints (Classic Collection)
         }
         summaries.append(summary)
         (DATA_DIR / f"{slug}.json").write_text(

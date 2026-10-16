@@ -10,10 +10,12 @@
  "owned_count": 77,
  "total_count": 407,
  "owned_qty": 78,
+ "reprint_numbers": false,
  "cards": [
   {
    "number": "001",
    "name": "Sewaddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642116_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642116/pokemon-sv-white-flare-sewaddle",
    "product_id": 642116,
@@ -24,6 +26,7 @@
   {
    "number": "001",
    "name": "Sewaddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642116_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642116/pokemon-sv-white-flare-sewaddle",
    "product_id": 642116,
@@ -34,6 +37,7 @@
   {
    "number": "001",
    "name": "Sewaddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642116_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642362/pokemon-sv-white-flare-sewaddle-poke-ball-pattern",
    "product_id": 642362,
@@ -45,6 +49,7 @@
   {
    "number": "001",
    "name": "Sewaddle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642116_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642290/pokemon-sv-white-flare-sewaddle-master-ball-pattern",
    "product_id": 642290,
@@ -56,6 +61,7 @@
   {
    "number": "002",
    "name": "Swadloon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642117_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642117/pokemon-sv-white-flare-swadloon",
    "product_id": 642117,
@@ -66,6 +72,7 @@
   {
    "number": "002",
    "name": "Swadloon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642117_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642117/pokemon-sv-white-flare-swadloon",
    "product_id": 642117,
@@ -76,6 +83,7 @@
   {
    "number": "002",
    "name": "Swadloon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642117_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642363/pokemon-sv-white-flare-swadloon-poke-ball-pattern",
    "product_id": 642363,
@@ -87,6 +95,7 @@
   {
    "number": "002",
    "name": "Swadloon",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642117_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642291/pokemon-sv-white-flare-swadloon-master-ball-pattern",
    "product_id": 642291,
@@ -98,6 +107,7 @@
   {
    "number": "003",
    "name": "Leavanny",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642118_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642118/pokemon-sv-white-flare-leavanny",
    "product_id": 642118,
@@ -108,6 +118,7 @@
   {
    "number": "003",
    "name": "Leavanny",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642118_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642118/pokemon-sv-white-flare-leavanny",
    "product_id": 642118,
@@ -118,6 +129,7 @@
   {
    "number": "003",
    "name": "Leavanny",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642118_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642364/pokemon-sv-white-flare-leavanny-poke-ball-pattern",
    "product_id": 642364,
@@ -129,6 +141,7 @@
   {
    "number": "003",
    "name": "Leavanny",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642118_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642292/pokemon-sv-white-flare-leavanny-master-ball-pattern",
    "product_id": 642292,
@@ -140,6 +153,7 @@
   {
    "number": "004",
    "name": "Cottonee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642119_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642119/pokemon-sv-white-flare-cottonee",
    "product_id": 642119,
@@ -150,6 +164,7 @@
   {
    "number": "004",
    "name": "Cottonee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642119_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642119/pokemon-sv-white-flare-cottonee",
    "product_id": 642119,
@@ -160,6 +175,7 @@
   {
    "number": "004",
    "name": "Cottonee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642119_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642365/pokemon-sv-white-flare-cottonee-poke-ball-pattern",
    "product_id": 642365,
@@ -171,6 +187,7 @@
   {
    "number": "004",
    "name": "Cottonee",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642119_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642293/pokemon-sv-white-flare-cottonee-master-ball-pattern",
    "product_id": 642293,
@@ -182,6 +199,7 @@
   {
    "number": "005",
    "name": "Whimsicott ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642120_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642120/pokemon-sv-white-flare-whimsicott-ex",
    "product_id": 642120,
@@ -192,6 +210,7 @@
   {
    "number": "006",
    "name": "Deerling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642121_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642121/pokemon-sv-white-flare-deerling",
    "product_id": 642121,
@@ -202,6 +221,7 @@
   {
    "number": "006",
    "name": "Deerling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642121_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642121/pokemon-sv-white-flare-deerling",
    "product_id": 642121,
@@ -212,6 +232,7 @@
   {
    "number": "006",
    "name": "Deerling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642121_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642366/pokemon-sv-white-flare-deerling-poke-ball-pattern",
    "product_id": 642366,
@@ -223,6 +244,7 @@
   {
    "number": "006",
    "name": "Deerling",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642121_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642294/pokemon-sv-white-flare-deerling-master-ball-pattern",
    "product_id": 642294,
@@ -234,6 +256,7 @@
   {
    "number": "007",
    "name": "Sawsbuck",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642122_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642122/pokemon-sv-white-flare-sawsbuck",
    "product_id": 642122,
@@ -244,6 +267,7 @@
   {
    "number": "007",
    "name": "Sawsbuck",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642122_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642122/pokemon-sv-white-flare-sawsbuck",
    "product_id": 642122,
@@ -254,6 +278,7 @@
   {
    "number": "007",
    "name": "Sawsbuck",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642122_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642367/pokemon-sv-white-flare-sawsbuck-poke-ball-pattern",
    "product_id": 642367,
@@ -265,6 +290,7 @@
   {
    "number": "007",
    "name": "Sawsbuck",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642122_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642295/pokemon-sv-white-flare-sawsbuck-master-ball-pattern",
    "product_id": 642295,
@@ -276,6 +302,7 @@
   {
    "number": "008",
    "name": "Shelmet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642123_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642123/pokemon-sv-white-flare-shelmet",
    "product_id": 642123,
@@ -286,6 +313,7 @@
   {
    "number": "008",
    "name": "Shelmet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642123_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642123/pokemon-sv-white-flare-shelmet",
    "product_id": 642123,
@@ -296,6 +324,7 @@
   {
    "number": "008",
    "name": "Shelmet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642123_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642368/pokemon-sv-white-flare-shelmet-poke-ball-pattern",
    "product_id": 642368,
@@ -307,6 +336,7 @@
   {
    "number": "008",
    "name": "Shelmet",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642123_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642296/pokemon-sv-white-flare-shelmet-master-ball-pattern",
    "product_id": 642296,
@@ -318,6 +348,7 @@
   {
    "number": "009",
    "name": "Accelgor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642124_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642124/pokemon-sv-white-flare-accelgor",
    "product_id": 642124,
@@ -328,6 +359,7 @@
   {
    "number": "009",
    "name": "Accelgor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642124_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642124/pokemon-sv-white-flare-accelgor",
    "product_id": 642124,
@@ -338,6 +370,7 @@
   {
    "number": "009",
    "name": "Accelgor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642124_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642369/pokemon-sv-white-flare-accelgor-poke-ball-pattern",
    "product_id": 642369,
@@ -349,6 +382,7 @@
   {
    "number": "009",
    "name": "Accelgor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642124_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642297/pokemon-sv-white-flare-accelgor-master-ball-pattern",
    "product_id": 642297,
@@ -360,6 +394,7 @@
   {
    "number": "010",
    "name": "Virizion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642125_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642125/pokemon-sv-white-flare-virizion",
    "product_id": 642125,
@@ -370,6 +405,7 @@
   {
    "number": "010",
    "name": "Virizion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642125_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642125/pokemon-sv-white-flare-virizion",
    "product_id": 642125,
@@ -380,6 +416,7 @@
   {
    "number": "010",
    "name": "Virizion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642125_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642370/pokemon-sv-white-flare-virizion-poke-ball-pattern",
    "product_id": 642370,
@@ -391,6 +428,7 @@
   {
    "number": "010",
    "name": "Virizion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642125_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642298/pokemon-sv-white-flare-virizion-master-ball-pattern",
    "product_id": 642298,
@@ -402,6 +440,7 @@
   {
    "number": "011",
    "name": "Tepig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642126_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642126/pokemon-sv-white-flare-tepig",
    "product_id": 642126,
@@ -412,6 +451,7 @@
   {
    "number": "011",
    "name": "Tepig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642126_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642126/pokemon-sv-white-flare-tepig",
    "product_id": 642126,
@@ -422,6 +462,7 @@
   {
    "number": "011",
    "name": "Tepig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642126_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642126/pokemon-sv-white-flare-tepig",
    "product_id": 642126,
@@ -432,6 +473,7 @@
   {
    "number": "011",
    "name": "Tepig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642126_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642371/pokemon-sv-white-flare-tepig-poke-ball-pattern",
    "product_id": 642371,
@@ -443,6 +485,7 @@
   {
    "number": "011",
    "name": "Tepig",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642126_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642299/pokemon-sv-white-flare-tepig-master-ball-pattern",
    "product_id": 642299,
@@ -454,6 +497,7 @@
   {
    "number": "012",
    "name": "Pignite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642127_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642127/pokemon-sv-white-flare-pignite",
    "product_id": 642127,
@@ -464,6 +508,7 @@
   {
    "number": "012",
    "name": "Pignite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642127_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642127/pokemon-sv-white-flare-pignite",
    "product_id": 642127,
@@ -474,6 +519,7 @@
   {
    "number": "012",
    "name": "Pignite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642127_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642372/pokemon-sv-white-flare-pignite-poke-ball-pattern",
    "product_id": 642372,
@@ -485,6 +531,7 @@
   {
    "number": "012",
    "name": "Pignite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642127_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642300/pokemon-sv-white-flare-pignite-master-ball-pattern",
    "product_id": 642300,
@@ -496,6 +543,7 @@
   {
    "number": "013",
    "name": "Emboar",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642128_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642128/pokemon-sv-white-flare-emboar",
    "product_id": 642128,
@@ -506,6 +554,7 @@
   {
    "number": "013",
    "name": "Emboar",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642128_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642128/pokemon-sv-white-flare-emboar",
    "product_id": 642128,
@@ -516,6 +565,7 @@
   {
    "number": "013",
    "name": "Emboar",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642128_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642373/pokemon-sv-white-flare-emboar-poke-ball-pattern",
    "product_id": 642373,
@@ -527,6 +577,7 @@
   {
    "number": "013",
    "name": "Emboar",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642128_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642301/pokemon-sv-white-flare-emboar-master-ball-pattern",
    "product_id": 642301,
@@ -538,6 +589,7 @@
   {
    "number": "014",
    "name": "Pansear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642129_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642129/pokemon-sv-white-flare-pansear",
    "product_id": 642129,
@@ -548,6 +600,7 @@
   {
    "number": "014",
    "name": "Pansear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642129_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642129/pokemon-sv-white-flare-pansear",
    "product_id": 642129,
@@ -558,6 +611,7 @@
   {
    "number": "014",
    "name": "Pansear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642129_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642374/pokemon-sv-white-flare-pansear-poke-ball-pattern",
    "product_id": 642374,
@@ -569,6 +623,7 @@
   {
    "number": "014",
    "name": "Pansear",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642129_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642302/pokemon-sv-white-flare-pansear-master-ball-pattern",
    "product_id": 642302,
@@ -580,6 +635,7 @@
   {
    "number": "015",
    "name": "Simisear",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642130_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642130/pokemon-sv-white-flare-simisear",
    "product_id": 642130,
@@ -590,6 +646,7 @@
   {
    "number": "015",
    "name": "Simisear",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642130_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642130/pokemon-sv-white-flare-simisear",
    "product_id": 642130,
@@ -600,6 +657,7 @@
   {
    "number": "015",
    "name": "Simisear",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642130_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642375/pokemon-sv-white-flare-simisear-poke-ball-pattern",
    "product_id": 642375,
@@ -611,6 +669,7 @@
   {
    "number": "015",
    "name": "Simisear",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642130_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642303/pokemon-sv-white-flare-simisear-master-ball-pattern",
    "product_id": 642303,
@@ -622,6 +681,7 @@
   {
    "number": "016",
    "name": "Litwick",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642464_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642464/pokemon-sv-white-flare-litwick",
    "product_id": 642464,
@@ -632,6 +692,7 @@
   {
    "number": "016",
    "name": "Litwick",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642464_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642464/pokemon-sv-white-flare-litwick",
    "product_id": 642464,
@@ -642,6 +703,7 @@
   {
    "number": "016",
    "name": "Litwick",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642464_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642709/pokemon-sv-white-flare-litwick-poke-ball-pattern",
    "product_id": 642709,
@@ -653,6 +715,7 @@
   {
    "number": "016",
    "name": "Litwick",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642464_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642637/pokemon-sv-white-flare-litwick-master-ball-pattern",
    "product_id": 642637,
@@ -664,6 +727,7 @@
   {
    "number": "017",
    "name": "Lampent",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642465_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642465/pokemon-sv-white-flare-lampent",
    "product_id": 642465,
@@ -674,6 +738,7 @@
   {
    "number": "017",
    "name": "Lampent",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642465_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642465/pokemon-sv-white-flare-lampent",
    "product_id": 642465,
@@ -684,6 +749,7 @@
   {
    "number": "017",
    "name": "Lampent",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642465_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642710/pokemon-sv-white-flare-lampent-poke-ball-pattern",
    "product_id": 642710,
@@ -695,6 +761,7 @@
   {
    "number": "017",
    "name": "Lampent",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642465_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642638/pokemon-sv-white-flare-lampent-master-ball-pattern",
    "product_id": 642638,
@@ -706,6 +773,7 @@
   {
    "number": "018",
    "name": "Chandelure",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642466_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642466/pokemon-sv-white-flare-chandelure",
    "product_id": 642466,
@@ -716,6 +784,7 @@
   {
    "number": "018",
    "name": "Chandelure",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642466_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642466/pokemon-sv-white-flare-chandelure",
    "product_id": 642466,
@@ -726,6 +795,7 @@
   {
    "number": "018",
    "name": "Chandelure",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642466_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642711/pokemon-sv-white-flare-chandelure-poke-ball-pattern",
    "product_id": 642711,
@@ -737,6 +807,7 @@
   {
    "number": "018",
    "name": "Chandelure",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642466_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642639/pokemon-sv-white-flare-chandelure-master-ball-pattern",
    "product_id": 642639,
@@ -748,6 +819,7 @@
   {
    "number": "019",
    "name": "Heatmor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642131_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642131/pokemon-sv-white-flare-heatmor",
    "product_id": 642131,
@@ -758,6 +830,7 @@
   {
    "number": "019",
    "name": "Heatmor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642131_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642131/pokemon-sv-white-flare-heatmor",
    "product_id": 642131,
@@ -768,6 +841,7 @@
   {
    "number": "019",
    "name": "Heatmor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642131_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642376/pokemon-sv-white-flare-heatmor-poke-ball-pattern",
    "product_id": 642376,
@@ -779,6 +853,7 @@
   {
    "number": "019",
    "name": "Heatmor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642131_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642304/pokemon-sv-white-flare-heatmor-master-ball-pattern",
    "product_id": 642304,
@@ -790,6 +865,7 @@
   {
    "number": "020",
    "name": "Reshiram ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642132_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642132/pokemon-sv-white-flare-reshiram-ex",
    "product_id": 642132,
@@ -800,6 +876,7 @@
   {
    "number": "021",
    "name": "Oshawott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642133_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642133/pokemon-sv-white-flare-oshawott",
    "product_id": 642133,
@@ -810,6 +887,7 @@
   {
    "number": "021",
    "name": "Oshawott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642133_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642133/pokemon-sv-white-flare-oshawott",
    "product_id": 642133,
@@ -820,6 +898,7 @@
   {
    "number": "021",
    "name": "Oshawott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642133_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642133/pokemon-sv-white-flare-oshawott",
    "product_id": 642133,
@@ -830,6 +909,7 @@
   {
    "number": "021",
    "name": "Oshawott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642133_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642377/pokemon-sv-white-flare-oshawott-poke-ball-pattern",
    "product_id": 642377,
@@ -841,6 +921,7 @@
   {
    "number": "021",
    "name": "Oshawott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642133_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642305/pokemon-sv-white-flare-oshawott-master-ball-pattern",
    "product_id": 642305,
@@ -852,6 +933,7 @@
   {
    "number": "022",
    "name": "Dewott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642134_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642134/pokemon-sv-white-flare-dewott",
    "product_id": 642134,
@@ -862,6 +944,7 @@
   {
    "number": "022",
    "name": "Dewott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642134_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642134/pokemon-sv-white-flare-dewott",
    "product_id": 642134,
@@ -872,6 +955,7 @@
   {
    "number": "022",
    "name": "Dewott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642134_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642378/pokemon-sv-white-flare-dewott-poke-ball-pattern",
    "product_id": 642378,
@@ -883,6 +967,7 @@
   {
    "number": "022",
    "name": "Dewott",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642134_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642306/pokemon-sv-white-flare-dewott-master-ball-pattern",
    "product_id": 642306,
@@ -894,6 +979,7 @@
   {
    "number": "023",
    "name": "Samurott",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642135_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642135/pokemon-sv-white-flare-samurott",
    "product_id": 642135,
@@ -904,6 +990,7 @@
   {
    "number": "023",
    "name": "Samurott",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642135_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642135/pokemon-sv-white-flare-samurott",
    "product_id": 642135,
@@ -914,6 +1001,7 @@
   {
    "number": "023",
    "name": "Samurott",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642135_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642379/pokemon-sv-white-flare-samurott-poke-ball-pattern",
    "product_id": 642379,
@@ -925,6 +1013,7 @@
   {
    "number": "023",
    "name": "Samurott",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642135_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642307/pokemon-sv-white-flare-samurott-master-ball-pattern",
    "product_id": 642307,
@@ -936,6 +1025,7 @@
   {
    "number": "024",
    "name": "Basculin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642136_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642136/pokemon-sv-white-flare-basculin",
    "product_id": 642136,
@@ -946,6 +1036,7 @@
   {
    "number": "024",
    "name": "Basculin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642136_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642136/pokemon-sv-white-flare-basculin",
    "product_id": 642136,
@@ -956,6 +1047,7 @@
   {
    "number": "024",
    "name": "Basculin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642136_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642380/pokemon-sv-white-flare-basculin-poke-ball-pattern",
    "product_id": 642380,
@@ -967,6 +1059,7 @@
   {
    "number": "024",
    "name": "Basculin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642136_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642308/pokemon-sv-white-flare-basculin-master-ball-pattern",
    "product_id": 642308,
@@ -978,6 +1071,7 @@
   {
    "number": "025",
    "name": "Ducklett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642137_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642137/pokemon-sv-white-flare-ducklett",
    "product_id": 642137,
@@ -988,6 +1082,7 @@
   {
    "number": "025",
    "name": "Ducklett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642137_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642137/pokemon-sv-white-flare-ducklett",
    "product_id": 642137,
@@ -998,6 +1093,7 @@
   {
    "number": "025",
    "name": "Ducklett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642137_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642381/pokemon-sv-white-flare-ducklett-poke-ball-pattern",
    "product_id": 642381,
@@ -1009,6 +1105,7 @@
   {
    "number": "025",
    "name": "Ducklett",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642137_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642309/pokemon-sv-white-flare-ducklett-master-ball-pattern",
    "product_id": 642309,
@@ -1020,6 +1117,7 @@
   {
    "number": "026",
    "name": "Swanna",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642138_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642138/pokemon-sv-white-flare-swanna",
    "product_id": 642138,
@@ -1030,6 +1128,7 @@
   {
    "number": "026",
    "name": "Swanna",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642138_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642138/pokemon-sv-white-flare-swanna",
    "product_id": 642138,
@@ -1040,6 +1139,7 @@
   {
    "number": "026",
    "name": "Swanna",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642138_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642382/pokemon-sv-white-flare-swanna-poke-ball-pattern",
    "product_id": 642382,
@@ -1051,6 +1151,7 @@
   {
    "number": "026",
    "name": "Swanna",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642138_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642310/pokemon-sv-white-flare-swanna-master-ball-pattern",
    "product_id": 642310,
@@ -1062,6 +1163,7 @@
   {
    "number": "027",
    "name": "Vanillite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642139_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642139/pokemon-sv-white-flare-vanillite",
    "product_id": 642139,
@@ -1072,6 +1174,7 @@
   {
    "number": "027",
    "name": "Vanillite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642139_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642139/pokemon-sv-white-flare-vanillite",
    "product_id": 642139,
@@ -1082,6 +1185,7 @@
   {
    "number": "027",
    "name": "Vanillite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642139_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642383/pokemon-sv-white-flare-vanillite-poke-ball-pattern",
    "product_id": 642383,
@@ -1093,6 +1197,7 @@
   {
    "number": "027",
    "name": "Vanillite",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642139_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642311/pokemon-sv-white-flare-vanillite-master-ball-pattern",
    "product_id": 642311,
@@ -1104,6 +1209,7 @@
   {
    "number": "028",
    "name": "Vanillish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642140_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642140/pokemon-sv-white-flare-vanillish",
    "product_id": 642140,
@@ -1114,6 +1220,7 @@
   {
    "number": "028",
    "name": "Vanillish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642140_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642140/pokemon-sv-white-flare-vanillish",
    "product_id": 642140,
@@ -1124,6 +1231,7 @@
   {
    "number": "028",
    "name": "Vanillish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642140_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642384/pokemon-sv-white-flare-vanillish-poke-ball-pattern",
    "product_id": 642384,
@@ -1135,6 +1243,7 @@
   {
    "number": "028",
    "name": "Vanillish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642140_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642312/pokemon-sv-white-flare-vanillish-master-ball-pattern",
    "product_id": 642312,
@@ -1146,6 +1255,7 @@
   {
    "number": "029",
    "name": "Vanilluxe",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642141_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642141/pokemon-sv-white-flare-vanilluxe",
    "product_id": 642141,
@@ -1156,6 +1266,7 @@
   {
    "number": "029",
    "name": "Vanilluxe",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642141_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642141/pokemon-sv-white-flare-vanilluxe",
    "product_id": 642141,
@@ -1166,6 +1277,7 @@
   {
    "number": "029",
    "name": "Vanilluxe",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642141_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642385/pokemon-sv-white-flare-vanilluxe-poke-ball-pattern",
    "product_id": 642385,
@@ -1177,6 +1289,7 @@
   {
    "number": "029",
    "name": "Vanilluxe",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642141_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642313/pokemon-sv-white-flare-vanilluxe-master-ball-pattern",
    "product_id": 642313,
@@ -1188,6 +1301,7 @@
   {
    "number": "030",
    "name": "Keldeo ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642142_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642142/pokemon-sv-white-flare-keldeo-ex",
    "product_id": 642142,
@@ -1198,6 +1312,7 @@
   {
    "number": "031",
    "name": "Blitzle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642143_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642143/pokemon-sv-white-flare-blitzle",
    "product_id": 642143,
@@ -1208,6 +1323,7 @@
   {
    "number": "031",
    "name": "Blitzle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642143_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642143/pokemon-sv-white-flare-blitzle",
    "product_id": 642143,
@@ -1218,6 +1334,7 @@
   {
    "number": "031",
    "name": "Blitzle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642143_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642386/pokemon-sv-white-flare-blitzle-poke-ball-pattern",
    "product_id": 642386,
@@ -1229,6 +1346,7 @@
   {
    "number": "031",
    "name": "Blitzle",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642143_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642314/pokemon-sv-white-flare-blitzle-master-ball-pattern",
    "product_id": 642314,
@@ -1240,6 +1358,7 @@
   {
    "number": "032",
    "name": "Zebstrika",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642144_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642144/pokemon-sv-white-flare-zebstrika",
    "product_id": 642144,
@@ -1250,6 +1369,7 @@
   {
    "number": "032",
    "name": "Zebstrika",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642144_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642144/pokemon-sv-white-flare-zebstrika",
    "product_id": 642144,
@@ -1260,6 +1380,7 @@
   {
    "number": "032",
    "name": "Zebstrika",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642144_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642387/pokemon-sv-white-flare-zebstrika-poke-ball-pattern",
    "product_id": 642387,
@@ -1271,6 +1392,7 @@
   {
    "number": "032",
    "name": "Zebstrika",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642144_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642315/pokemon-sv-white-flare-zebstrika-master-ball-pattern",
    "product_id": 642315,
@@ -1282,6 +1404,7 @@
   {
    "number": "033",
    "name": "Joltik",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642145_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642145/pokemon-sv-white-flare-joltik",
    "product_id": 642145,
@@ -1292,6 +1415,7 @@
   {
    "number": "033",
    "name": "Joltik",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642145_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642145/pokemon-sv-white-flare-joltik",
    "product_id": 642145,
@@ -1302,6 +1426,7 @@
   {
    "number": "033",
    "name": "Joltik",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642145_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642388/pokemon-sv-white-flare-joltik-poke-ball-pattern",
    "product_id": 642388,
@@ -1313,6 +1438,7 @@
   {
    "number": "033",
    "name": "Joltik",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642145_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642316/pokemon-sv-white-flare-joltik-master-ball-pattern",
    "product_id": 642316,
@@ -1324,6 +1450,7 @@
   {
    "number": "034",
    "name": "Galvantula",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642146_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642146/pokemon-sv-white-flare-galvantula",
    "product_id": 642146,
@@ -1334,6 +1461,7 @@
   {
    "number": "034",
    "name": "Galvantula",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642146_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642146/pokemon-sv-white-flare-galvantula",
    "product_id": 642146,
@@ -1344,6 +1472,7 @@
   {
    "number": "034",
    "name": "Galvantula",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642146_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642389/pokemon-sv-white-flare-galvantula-poke-ball-pattern",
    "product_id": 642389,
@@ -1355,6 +1484,7 @@
   {
    "number": "034",
    "name": "Galvantula",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642146_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642317/pokemon-sv-white-flare-galvantula-master-ball-pattern",
    "product_id": 642317,
@@ -1366,6 +1496,7 @@
   {
    "number": "035",
    "name": "Stunfisk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642147_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642147/pokemon-sv-white-flare-stunfisk",
    "product_id": 642147,
@@ -1376,6 +1507,7 @@
   {
    "number": "035",
    "name": "Stunfisk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642147_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642147/pokemon-sv-white-flare-stunfisk",
    "product_id": 642147,
@@ -1386,6 +1518,7 @@
   {
    "number": "035",
    "name": "Stunfisk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642147_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642390/pokemon-sv-white-flare-stunfisk-poke-ball-pattern",
    "product_id": 642390,
@@ -1397,6 +1530,7 @@
   {
    "number": "035",
    "name": "Stunfisk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642147_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642318/pokemon-sv-white-flare-stunfisk-master-ball-pattern",
    "product_id": 642318,
@@ -1408,6 +1542,7 @@
   {
    "number": "036",
    "name": "Woobat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642148_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642148/pokemon-sv-white-flare-woobat",
    "product_id": 642148,
@@ -1418,6 +1553,7 @@
   {
    "number": "036",
    "name": "Woobat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642148_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642148/pokemon-sv-white-flare-woobat",
    "product_id": 642148,
@@ -1428,6 +1564,7 @@
   {
    "number": "036",
    "name": "Woobat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642148_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642391/pokemon-sv-white-flare-woobat-poke-ball-pattern",
    "product_id": 642391,
@@ -1439,6 +1576,7 @@
   {
    "number": "036",
    "name": "Woobat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642148_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642319/pokemon-sv-white-flare-woobat-master-ball-pattern",
    "product_id": 642319,
@@ -1450,6 +1588,7 @@
   {
    "number": "037",
    "name": "Swoobat",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642149_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642149/pokemon-sv-white-flare-swoobat",
    "product_id": 642149,
@@ -1460,6 +1599,7 @@
   {
    "number": "037",
    "name": "Swoobat",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642149_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642149/pokemon-sv-white-flare-swoobat",
    "product_id": 642149,
@@ -1470,6 +1610,7 @@
   {
    "number": "037",
    "name": "Swoobat",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642149_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642392/pokemon-sv-white-flare-swoobat-poke-ball-pattern",
    "product_id": 642392,
@@ -1481,6 +1622,7 @@
   {
    "number": "037",
    "name": "Swoobat",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642149_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642320/pokemon-sv-white-flare-swoobat-master-ball-pattern",
    "product_id": 642320,
@@ -1492,6 +1634,7 @@
   {
    "number": "038",
    "name": "Sigilyph",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642150_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642150/pokemon-sv-white-flare-sigilyph",
    "product_id": 642150,
@@ -1502,6 +1645,7 @@
   {
    "number": "038",
    "name": "Sigilyph",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642150_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642150/pokemon-sv-white-flare-sigilyph",
    "product_id": 642150,
@@ -1512,6 +1656,7 @@
   {
    "number": "038",
    "name": "Sigilyph",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642150_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642393/pokemon-sv-white-flare-sigilyph-poke-ball-pattern",
    "product_id": 642393,
@@ -1523,6 +1668,7 @@
   {
    "number": "038",
    "name": "Sigilyph",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642150_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642321/pokemon-sv-white-flare-sigilyph-master-ball-pattern",
    "product_id": 642321,
@@ -1534,6 +1680,7 @@
   {
    "number": "039",
    "name": "Yamask",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642151_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642151/pokemon-sv-white-flare-yamask",
    "product_id": 642151,
@@ -1544,6 +1691,7 @@
   {
    "number": "039",
    "name": "Yamask",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642151_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642151/pokemon-sv-white-flare-yamask",
    "product_id": 642151,
@@ -1554,6 +1702,7 @@
   {
    "number": "039",
    "name": "Yamask",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642151_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642394/pokemon-sv-white-flare-yamask-poke-ball-pattern",
    "product_id": 642394,
@@ -1565,6 +1714,7 @@
   {
    "number": "039",
    "name": "Yamask",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642151_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642322/pokemon-sv-white-flare-yamask-master-ball-pattern",
    "product_id": 642322,
@@ -1576,6 +1726,7 @@
   {
    "number": "040",
    "name": "Cofagrigus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642152_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642152/pokemon-sv-white-flare-cofagrigus",
    "product_id": 642152,
@@ -1586,6 +1737,7 @@
   {
    "number": "040",
    "name": "Cofagrigus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642152_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642152/pokemon-sv-white-flare-cofagrigus",
    "product_id": 642152,
@@ -1596,6 +1748,7 @@
   {
    "number": "040",
    "name": "Cofagrigus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642152_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642395/pokemon-sv-white-flare-cofagrigus-poke-ball-pattern",
    "product_id": 642395,
@@ -1607,6 +1760,7 @@
   {
    "number": "040",
    "name": "Cofagrigus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642152_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642323/pokemon-sv-white-flare-cofagrigus-master-ball-pattern",
    "product_id": 642323,
@@ -1618,6 +1772,7 @@
   {
    "number": "041",
    "name": "Gothita",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642153_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642153/pokemon-sv-white-flare-gothita",
    "product_id": 642153,
@@ -1628,6 +1783,7 @@
   {
    "number": "041",
    "name": "Gothita",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642153_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642153/pokemon-sv-white-flare-gothita",
    "product_id": 642153,
@@ -1638,6 +1794,7 @@
   {
    "number": "041",
    "name": "Gothita",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642153_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642396/pokemon-sv-white-flare-gothita-poke-ball-pattern",
    "product_id": 642396,
@@ -1649,6 +1806,7 @@
   {
    "number": "041",
    "name": "Gothita",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642153_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642324/pokemon-sv-white-flare-gothita-master-ball-pattern",
    "product_id": 642324,
@@ -1660,6 +1818,7 @@
   {
    "number": "042",
    "name": "Gothorita",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642154_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642154/pokemon-sv-white-flare-gothorita",
    "product_id": 642154,
@@ -1670,6 +1829,7 @@
   {
    "number": "042",
    "name": "Gothorita",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642154_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642154/pokemon-sv-white-flare-gothorita",
    "product_id": 642154,
@@ -1680,6 +1840,7 @@
   {
    "number": "042",
    "name": "Gothorita",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642154_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642397/pokemon-sv-white-flare-gothorita-poke-ball-pattern",
    "product_id": 642397,
@@ -1691,6 +1852,7 @@
   {
    "number": "042",
    "name": "Gothorita",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642154_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642325/pokemon-sv-white-flare-gothorita-master-ball-pattern",
    "product_id": 642325,
@@ -1702,6 +1864,7 @@
   {
    "number": "043",
    "name": "Gothitelle",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642155_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642155/pokemon-sv-white-flare-gothitelle",
    "product_id": 642155,
@@ -1712,6 +1875,7 @@
   {
    "number": "043",
    "name": "Gothitelle",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642155_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642155/pokemon-sv-white-flare-gothitelle",
    "product_id": 642155,
@@ -1722,6 +1886,7 @@
   {
    "number": "043",
    "name": "Gothitelle",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642155_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642398/pokemon-sv-white-flare-gothitelle-poke-ball-pattern",
    "product_id": 642398,
@@ -1733,6 +1898,7 @@
   {
    "number": "043",
    "name": "Gothitelle",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642155_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642326/pokemon-sv-white-flare-gothitelle-master-ball-pattern",
    "product_id": 642326,
@@ -1744,6 +1910,7 @@
   {
    "number": "044",
    "name": "Frillish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642156_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642156/pokemon-sv-white-flare-frillish",
    "product_id": 642156,
@@ -1754,6 +1921,7 @@
   {
    "number": "044",
    "name": "Frillish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642156_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642156/pokemon-sv-white-flare-frillish",
    "product_id": 642156,
@@ -1764,6 +1932,7 @@
   {
    "number": "044",
    "name": "Frillish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642156_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642399/pokemon-sv-white-flare-frillish-poke-ball-pattern",
    "product_id": 642399,
@@ -1775,6 +1944,7 @@
   {
    "number": "044",
    "name": "Frillish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642156_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642327/pokemon-sv-white-flare-frillish-master-ball-pattern",
    "product_id": 642327,
@@ -1786,6 +1956,7 @@
   {
    "number": "045",
    "name": "Jellicent ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642157_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642157/pokemon-sv-white-flare-jellicent-ex",
    "product_id": 642157,
@@ -1796,6 +1967,7 @@
   {
    "number": "046",
    "name": "Roggenrola",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642158_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642158/pokemon-sv-white-flare-roggenrola",
    "product_id": 642158,
@@ -1806,6 +1978,7 @@
   {
    "number": "046",
    "name": "Roggenrola",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642158_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642158/pokemon-sv-white-flare-roggenrola",
    "product_id": 642158,
@@ -1816,6 +1989,7 @@
   {
    "number": "046",
    "name": "Roggenrola",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642158_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642400/pokemon-sv-white-flare-roggenrola-poke-ball-pattern",
    "product_id": 642400,
@@ -1827,6 +2001,7 @@
   {
    "number": "046",
    "name": "Roggenrola",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642158_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642328/pokemon-sv-white-flare-roggenrola-master-ball-pattern",
    "product_id": 642328,
@@ -1838,6 +2013,7 @@
   {
    "number": "047",
    "name": "Boldore",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642159_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642159/pokemon-sv-white-flare-boldore",
    "product_id": 642159,
@@ -1848,6 +2024,7 @@
   {
    "number": "047",
    "name": "Boldore",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642159_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642159/pokemon-sv-white-flare-boldore",
    "product_id": 642159,
@@ -1858,6 +2035,7 @@
   {
    "number": "047",
    "name": "Boldore",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642159_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642401/pokemon-sv-white-flare-boldore-poke-ball-pattern",
    "product_id": 642401,
@@ -1869,6 +2047,7 @@
   {
    "number": "047",
    "name": "Boldore",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642159_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642329/pokemon-sv-white-flare-boldore-master-ball-pattern",
    "product_id": 642329,
@@ -1880,6 +2059,7 @@
   {
    "number": "048",
    "name": "Gigalith",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642160_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642160/pokemon-sv-white-flare-gigalith",
    "product_id": 642160,
@@ -1890,6 +2070,7 @@
   {
    "number": "048",
    "name": "Gigalith",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642160_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642160/pokemon-sv-white-flare-gigalith",
    "product_id": 642160,
@@ -1900,6 +2081,7 @@
   {
    "number": "048",
    "name": "Gigalith",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642160_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642402/pokemon-sv-white-flare-gigalith-poke-ball-pattern",
    "product_id": 642402,
@@ -1911,6 +2093,7 @@
   {
    "number": "048",
    "name": "Gigalith",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642160_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642330/pokemon-sv-white-flare-gigalith-master-ball-pattern",
    "product_id": 642330,
@@ -1922,6 +2105,7 @@
   {
    "number": "049",
    "name": "Sawk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642161_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642161/pokemon-sv-white-flare-sawk",
    "product_id": 642161,
@@ -1932,6 +2116,7 @@
   {
    "number": "049",
    "name": "Sawk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642161_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642161/pokemon-sv-white-flare-sawk",
    "product_id": 642161,
@@ -1942,6 +2127,7 @@
   {
    "number": "049",
    "name": "Sawk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642161_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642403/pokemon-sv-white-flare-sawk-poke-ball-pattern",
    "product_id": 642403,
@@ -1953,6 +2139,7 @@
   {
    "number": "049",
    "name": "Sawk",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642331_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642331/pokemon-sv-white-flare-sawk-master-ball-pattern",
    "product_id": 642331,
@@ -1964,6 +2151,7 @@
   {
    "number": "050",
    "name": "Archen",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642162_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642162/pokemon-sv-white-flare-archen",
    "product_id": 642162,
@@ -1974,6 +2162,7 @@
   {
    "number": "050",
    "name": "Archen",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642162_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642162/pokemon-sv-white-flare-archen",
    "product_id": 642162,
@@ -1984,6 +2173,7 @@
   {
    "number": "050",
    "name": "Archen",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642162_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642404/pokemon-sv-white-flare-archen-poke-ball-pattern",
    "product_id": 642404,
@@ -1995,6 +2185,7 @@
   {
    "number": "050",
    "name": "Archen",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642162_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642332/pokemon-sv-white-flare-archen-master-ball-pattern",
    "product_id": 642332,
@@ -2006,6 +2197,7 @@
   {
    "number": "051",
    "name": "Archeops",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642163_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642163/pokemon-sv-white-flare-archeops",
    "product_id": 642163,
@@ -2016,6 +2208,7 @@
   {
    "number": "051",
    "name": "Archeops",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642163_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642163/pokemon-sv-white-flare-archeops",
    "product_id": 642163,
@@ -2026,6 +2219,7 @@
   {
    "number": "051",
    "name": "Archeops",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642163_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642405/pokemon-sv-white-flare-archeops-poke-ball-pattern",
    "product_id": 642405,
@@ -2037,6 +2231,7 @@
   {
    "number": "051",
    "name": "Archeops",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642163_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642333/pokemon-sv-white-flare-archeops-master-ball-pattern",
    "product_id": 642333,
@@ -2048,6 +2243,7 @@
   {
    "number": "052",
    "name": "Mienfoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642164_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642164/pokemon-sv-white-flare-mienfoo",
    "product_id": 642164,
@@ -2058,6 +2254,7 @@
   {
    "number": "052",
    "name": "Mienfoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642164_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642164/pokemon-sv-white-flare-mienfoo",
    "product_id": 642164,
@@ -2068,6 +2265,7 @@
   {
    "number": "052",
    "name": "Mienfoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642164_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642406/pokemon-sv-white-flare-mienfoo-poke-ball-pattern",
    "product_id": 642406,
@@ -2079,6 +2277,7 @@
   {
    "number": "052",
    "name": "Mienfoo",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642164_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642334/pokemon-sv-white-flare-mienfoo-master-ball-pattern",
    "product_id": 642334,
@@ -2090,6 +2289,7 @@
   {
    "number": "053",
    "name": "Mienshao",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642165_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642165/pokemon-sv-white-flare-mienshao",
    "product_id": 642165,
@@ -2100,6 +2300,7 @@
   {
    "number": "053",
    "name": "Mienshao",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642165_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642165/pokemon-sv-white-flare-mienshao",
    "product_id": 642165,
@@ -2110,6 +2311,7 @@
   {
    "number": "053",
    "name": "Mienshao",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642165_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642407/pokemon-sv-white-flare-mienshao-poke-ball-pattern",
    "product_id": 642407,
@@ -2121,6 +2323,7 @@
   {
    "number": "053",
    "name": "Mienshao",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642165_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642335/pokemon-sv-white-flare-mienshao-master-ball-pattern",
    "product_id": 642335,
@@ -2132,6 +2335,7 @@
   {
    "number": "054",
    "name": "Terrakion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642166_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642166/pokemon-sv-white-flare-terrakion",
    "product_id": 642166,
@@ -2142,6 +2346,7 @@
   {
    "number": "054",
    "name": "Terrakion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642166_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642166/pokemon-sv-white-flare-terrakion",
    "product_id": 642166,
@@ -2152,6 +2357,7 @@
   {
    "number": "054",
    "name": "Terrakion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642408_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642408/pokemon-sv-white-flare-terrakion-poke-ball-pattern",
    "product_id": 642408,
@@ -2163,6 +2369,7 @@
   {
    "number": "054",
    "name": "Terrakion",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642166_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642336/pokemon-sv-white-flare-terrakion-master-ball-pattern",
    "product_id": 642336,
@@ -2174,6 +2381,7 @@
   {
    "number": "055",
    "name": "Purrloin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642167_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642167/pokemon-sv-white-flare-purrloin",
    "product_id": 642167,
@@ -2184,6 +2392,7 @@
   {
    "number": "055",
    "name": "Purrloin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642167_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642167/pokemon-sv-white-flare-purrloin",
    "product_id": 642167,
@@ -2194,6 +2403,7 @@
   {
    "number": "055",
    "name": "Purrloin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642167_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642409/pokemon-sv-white-flare-purrloin-poke-ball-pattern",
    "product_id": 642409,
@@ -2205,6 +2415,7 @@
   {
    "number": "055",
    "name": "Purrloin",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642167_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642337/pokemon-sv-white-flare-purrloin-master-ball-pattern",
    "product_id": 642337,
@@ -2216,6 +2427,7 @@
   {
    "number": "056",
    "name": "Liepard",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642168_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642168/pokemon-sv-white-flare-liepard",
    "product_id": 642168,
@@ -2226,6 +2438,7 @@
   {
    "number": "056",
    "name": "Liepard",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642168_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642168/pokemon-sv-white-flare-liepard",
    "product_id": 642168,
@@ -2236,6 +2449,7 @@
   {
    "number": "056",
    "name": "Liepard",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642168_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642410/pokemon-sv-white-flare-liepard-poke-ball-pattern",
    "product_id": 642410,
@@ -2247,6 +2461,7 @@
   {
    "number": "056",
    "name": "Liepard",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642168_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642338/pokemon-sv-white-flare-liepard-master-ball-pattern",
    "product_id": 642338,
@@ -2258,6 +2473,7 @@
   {
    "number": "057",
    "name": "Scraggy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642169_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642169/pokemon-sv-white-flare-scraggy",
    "product_id": 642169,
@@ -2268,6 +2484,7 @@
   {
    "number": "057",
    "name": "Scraggy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642169_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642169/pokemon-sv-white-flare-scraggy",
    "product_id": 642169,
@@ -2278,6 +2495,7 @@
   {
    "number": "057",
    "name": "Scraggy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642169_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642411/pokemon-sv-white-flare-scraggy-poke-ball-pattern",
    "product_id": 642411,
@@ -2289,6 +2507,7 @@
   {
    "number": "057",
    "name": "Scraggy",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642169_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642339/pokemon-sv-white-flare-scraggy-master-ball-pattern",
    "product_id": 642339,
@@ -2300,6 +2519,7 @@
   {
    "number": "058",
    "name": "Scrafty",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642170_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642170/pokemon-sv-white-flare-scrafty",
    "product_id": 642170,
@@ -2310,6 +2530,7 @@
   {
    "number": "058",
    "name": "Scrafty",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642170_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642170/pokemon-sv-white-flare-scrafty",
    "product_id": 642170,
@@ -2320,6 +2541,7 @@
   {
    "number": "058",
    "name": "Scrafty",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642170_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642412/pokemon-sv-white-flare-scrafty-poke-ball-pattern",
    "product_id": 642412,
@@ -2331,6 +2553,7 @@
   {
    "number": "058",
    "name": "Scrafty",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642170_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642340/pokemon-sv-white-flare-scrafty-master-ball-pattern",
    "product_id": 642340,
@@ -2342,6 +2565,7 @@
   {
    "number": "059",
    "name": "Trubbish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642171_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642171/pokemon-sv-white-flare-trubbish",
    "product_id": 642171,
@@ -2352,6 +2576,7 @@
   {
    "number": "059",
    "name": "Trubbish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642171_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642171/pokemon-sv-white-flare-trubbish",
    "product_id": 642171,
@@ -2362,6 +2587,7 @@
   {
    "number": "059",
    "name": "Trubbish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642171_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642413/pokemon-sv-white-flare-trubbish-poke-ball-pattern",
    "product_id": 642413,
@@ -2373,6 +2599,7 @@
   {
    "number": "059",
    "name": "Trubbish",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642171_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642341/pokemon-sv-white-flare-trubbish-master-ball-pattern",
    "product_id": 642341,
@@ -2384,6 +2611,7 @@
   {
    "number": "060",
    "name": "Garbodor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642172_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642172/pokemon-sv-white-flare-garbodor",
    "product_id": 642172,
@@ -2394,6 +2622,7 @@
   {
    "number": "060",
    "name": "Garbodor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642172_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642172/pokemon-sv-white-flare-garbodor",
    "product_id": 642172,
@@ -2404,6 +2633,7 @@
   {
    "number": "060",
    "name": "Garbodor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642172_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642414/pokemon-sv-white-flare-garbodor-poke-ball-pattern",
    "product_id": 642414,
@@ -2415,6 +2645,7 @@
   {
    "number": "060",
    "name": "Garbodor",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642172_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642342/pokemon-sv-white-flare-garbodor-master-ball-pattern",
    "product_id": 642342,
@@ -2426,6 +2657,7 @@
   {
    "number": "061",
    "name": "Zorua",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642173_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642173/pokemon-sv-white-flare-zorua",
    "product_id": 642173,
@@ -2436,6 +2668,7 @@
   {
    "number": "061",
    "name": "Zorua",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642173_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642173/pokemon-sv-white-flare-zorua",
    "product_id": 642173,
@@ -2446,6 +2679,7 @@
   {
    "number": "061",
    "name": "Zorua",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642173_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642415/pokemon-sv-white-flare-zorua-poke-ball-pattern",
    "product_id": 642415,
@@ -2457,6 +2691,7 @@
   {
    "number": "061",
    "name": "Zorua",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642173_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642343/pokemon-sv-white-flare-zorua-master-ball-pattern",
    "product_id": 642343,
@@ -2468,6 +2703,7 @@
   {
    "number": "062",
    "name": "Zoroark",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642174_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642174/pokemon-sv-white-flare-zoroark",
    "product_id": 642174,
@@ -2478,6 +2714,7 @@
   {
    "number": "062",
    "name": "Zoroark",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642174_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642174/pokemon-sv-white-flare-zoroark",
    "product_id": 642174,
@@ -2488,6 +2725,7 @@
   {
    "number": "062",
    "name": "Zoroark",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642174_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642416/pokemon-sv-white-flare-zoroark-poke-ball-pattern",
    "product_id": 642416,
@@ -2499,6 +2737,7 @@
   {
    "number": "062",
    "name": "Zoroark",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642174_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642344/pokemon-sv-white-flare-zoroark-master-ball-pattern",
    "product_id": 642344,
@@ -2510,6 +2749,7 @@
   {
    "number": "063",
    "name": "Vullaby",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642512_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642512/pokemon-sv-white-flare-vullaby",
    "product_id": 642512,
@@ -2520,6 +2760,7 @@
   {
    "number": "063",
    "name": "Vullaby",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642512_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642512/pokemon-sv-white-flare-vullaby",
    "product_id": 642512,
@@ -2530,6 +2771,7 @@
   {
    "number": "063",
    "name": "Vullaby",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642512_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642754/pokemon-sv-white-flare-vullaby-poke-ball-pattern",
    "product_id": 642754,
@@ -2541,6 +2783,7 @@
   {
    "number": "063",
    "name": "Vullaby",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642512_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642681/pokemon-sv-white-flare-vullaby-master-ball-pattern",
    "product_id": 642681,
@@ -2552,6 +2795,7 @@
   {
    "number": "064",
    "name": "Mandibuzz",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642513_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642513/pokemon-sv-white-flare-mandibuzz",
    "product_id": 642513,
@@ -2562,6 +2806,7 @@
   {
    "number": "064",
    "name": "Mandibuzz",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642513_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642513/pokemon-sv-white-flare-mandibuzz",
    "product_id": 642513,
@@ -2572,6 +2817,7 @@
   {
    "number": "064",
    "name": "Mandibuzz",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642513_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642755/pokemon-sv-white-flare-mandibuzz-poke-ball-pattern",
    "product_id": 642755,
@@ -2583,6 +2829,7 @@
   {
    "number": "064",
    "name": "Mandibuzz",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642513_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642682/pokemon-sv-white-flare-mandibuzz-master-ball-pattern",
    "product_id": 642682,
@@ -2594,6 +2841,7 @@
   {
    "number": "065",
    "name": "Deino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642175_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642175/pokemon-sv-white-flare-deino",
    "product_id": 642175,
@@ -2604,6 +2852,7 @@
   {
    "number": "065",
    "name": "Deino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642175_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642175/pokemon-sv-white-flare-deino",
    "product_id": 642175,
@@ -2614,6 +2863,7 @@
   {
    "number": "065",
    "name": "Deino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642175_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642417/pokemon-sv-white-flare-deino-poke-ball-pattern",
    "product_id": 642417,
@@ -2625,6 +2875,7 @@
   {
    "number": "065",
    "name": "Deino",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642175_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642345/pokemon-sv-white-flare-deino-master-ball-pattern",
    "product_id": 642345,
@@ -2636,6 +2887,7 @@
   {
    "number": "066",
    "name": "Zweilous",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642176_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642176/pokemon-sv-white-flare-zweilous",
    "product_id": 642176,
@@ -2646,6 +2898,7 @@
   {
    "number": "066",
    "name": "Zweilous",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642176_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642176/pokemon-sv-white-flare-zweilous",
    "product_id": 642176,
@@ -2656,6 +2909,7 @@
   {
    "number": "066",
    "name": "Zweilous",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642176_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642418/pokemon-sv-white-flare-zweilous-poke-ball-pattern",
    "product_id": 642418,
@@ -2667,6 +2921,7 @@
   {
    "number": "066",
    "name": "Zweilous",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642176_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642346/pokemon-sv-white-flare-zweilous-master-ball-pattern",
    "product_id": 642346,
@@ -2678,6 +2933,7 @@
   {
    "number": "067",
    "name": "Hydreigon ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642177_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642177/pokemon-sv-white-flare-hydreigon-ex",
    "product_id": 642177,
@@ -2688,6 +2944,7 @@
   {
    "number": "068",
    "name": "Ferroseed",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642178_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642178/pokemon-sv-white-flare-ferroseed",
    "product_id": 642178,
@@ -2698,6 +2955,7 @@
   {
    "number": "068",
    "name": "Ferroseed",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642178_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642178/pokemon-sv-white-flare-ferroseed",
    "product_id": 642178,
@@ -2708,6 +2966,7 @@
   {
    "number": "068",
    "name": "Ferroseed",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642178_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642419/pokemon-sv-white-flare-ferroseed-poke-ball-pattern",
    "product_id": 642419,
@@ -2719,6 +2978,7 @@
   {
    "number": "068",
    "name": "Ferroseed",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642178_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642347/pokemon-sv-white-flare-ferroseed-master-ball-pattern",
    "product_id": 642347,
@@ -2730,6 +2990,7 @@
   {
    "number": "069",
    "name": "Ferrothorn",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642179_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642179/pokemon-sv-white-flare-ferrothorn",
    "product_id": 642179,
@@ -2740,6 +3001,7 @@
   {
    "number": "069",
    "name": "Ferrothorn",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642179_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642179/pokemon-sv-white-flare-ferrothorn",
    "product_id": 642179,
@@ -2750,6 +3012,7 @@
   {
    "number": "069",
    "name": "Ferrothorn",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642179_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642420/pokemon-sv-white-flare-ferrothorn-poke-ball-pattern",
    "product_id": 642420,
@@ -2761,6 +3024,7 @@
   {
    "number": "069",
    "name": "Ferrothorn",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642179_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642348/pokemon-sv-white-flare-ferrothorn-master-ball-pattern",
    "product_id": 642348,
@@ -2772,6 +3036,7 @@
   {
    "number": "070",
    "name": "Durant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642183_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642183/pokemon-sv-white-flare-durant",
    "product_id": 642183,
@@ -2782,6 +3047,7 @@
   {
    "number": "070",
    "name": "Durant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642183_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642183/pokemon-sv-white-flare-durant",
    "product_id": 642183,
@@ -2792,6 +3058,7 @@
   {
    "number": "070",
    "name": "Durant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642183_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642424/pokemon-sv-white-flare-durant-poke-ball-pattern",
    "product_id": 642424,
@@ -2803,6 +3070,7 @@
   {
    "number": "070",
    "name": "Durant",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642183_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642352/pokemon-sv-white-flare-durant-master-ball-pattern",
    "product_id": 642352,
@@ -2814,6 +3082,7 @@
   {
    "number": "071",
    "name": "Druddigon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642184_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642184/pokemon-sv-white-flare-druddigon",
    "product_id": 642184,
@@ -2824,6 +3093,7 @@
   {
    "number": "071",
    "name": "Druddigon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642184_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642184/pokemon-sv-white-flare-druddigon",
    "product_id": 642184,
@@ -2834,6 +3104,7 @@
   {
    "number": "071",
    "name": "Druddigon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642184_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642425/pokemon-sv-white-flare-druddigon-poke-ball-pattern",
    "product_id": 642425,
@@ -2845,6 +3116,7 @@
   {
    "number": "071",
    "name": "Druddigon",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642184_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642353/pokemon-sv-white-flare-druddigon-master-ball-pattern",
    "product_id": 642353,
@@ -2856,6 +3128,7 @@
   {
    "number": "072",
    "name": "Patrat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642185_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642185/pokemon-sv-white-flare-patrat",
    "product_id": 642185,
@@ -2866,6 +3139,7 @@
   {
    "number": "072",
    "name": "Patrat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642185_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642185/pokemon-sv-white-flare-patrat",
    "product_id": 642185,
@@ -2876,6 +3150,7 @@
   {
    "number": "072",
    "name": "Patrat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642185_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642426/pokemon-sv-white-flare-patrat-poke-ball-pattern",
    "product_id": 642426,
@@ -2887,6 +3162,7 @@
   {
    "number": "072",
    "name": "Patrat",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642185_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642354/pokemon-sv-white-flare-patrat-master-ball-pattern",
    "product_id": 642354,
@@ -2898,6 +3174,7 @@
   {
    "number": "073",
    "name": "Watchog",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642186_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642186/pokemon-sv-white-flare-watchog",
    "product_id": 642186,
@@ -2908,6 +3185,7 @@
   {
    "number": "073",
    "name": "Watchog",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642186_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642186/pokemon-sv-white-flare-watchog",
    "product_id": 642186,
@@ -2918,6 +3196,7 @@
   {
    "number": "073",
    "name": "Watchog",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642186_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642427/pokemon-sv-white-flare-watchog-poke-ball-pattern",
    "product_id": 642427,
@@ -2929,6 +3208,7 @@
   {
    "number": "073",
    "name": "Watchog",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642186_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642355/pokemon-sv-white-flare-watchog-master-ball-pattern",
    "product_id": 642355,
@@ -2940,6 +3220,7 @@
   {
    "number": "074",
    "name": "Lillipup",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642187_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642187/pokemon-sv-white-flare-lillipup",
    "product_id": 642187,
@@ -2950,6 +3231,7 @@
   {
    "number": "074",
    "name": "Lillipup",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642187_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642187/pokemon-sv-white-flare-lillipup",
    "product_id": 642187,
@@ -2960,6 +3242,7 @@
   {
    "number": "074",
    "name": "Lillipup",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642187_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642428/pokemon-sv-white-flare-lillipup-poke-ball-pattern",
    "product_id": 642428,
@@ -2971,6 +3254,7 @@
   {
    "number": "074",
    "name": "Lillipup",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642187_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642356/pokemon-sv-white-flare-lillipup-master-ball-pattern",
    "product_id": 642356,
@@ -2982,6 +3266,7 @@
   {
    "number": "075",
    "name": "Herdier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642188_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642188/pokemon-sv-white-flare-herdier",
    "product_id": 642188,
@@ -2992,6 +3277,7 @@
   {
    "number": "075",
    "name": "Herdier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642188_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642188/pokemon-sv-white-flare-herdier",
    "product_id": 642188,
@@ -3002,6 +3288,7 @@
   {
    "number": "075",
    "name": "Herdier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642188_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642429/pokemon-sv-white-flare-herdier-poke-ball-pattern",
    "product_id": 642429,
@@ -3013,6 +3300,7 @@
   {
    "number": "075",
    "name": "Herdier",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642188_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642357/pokemon-sv-white-flare-herdier-master-ball-pattern",
    "product_id": 642357,
@@ -3024,6 +3312,7 @@
   {
    "number": "076",
    "name": "Stoutland",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642189_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642189/pokemon-sv-white-flare-stoutland",
    "product_id": 642189,
@@ -3034,6 +3323,7 @@
   {
    "number": "076",
    "name": "Stoutland",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642189_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642189/pokemon-sv-white-flare-stoutland",
    "product_id": 642189,
@@ -3044,6 +3334,7 @@
   {
    "number": "076",
    "name": "Stoutland",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642189_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642430/pokemon-sv-white-flare-stoutland-poke-ball-pattern",
    "product_id": 642430,
@@ -3055,6 +3346,7 @@
   {
    "number": "076",
    "name": "Stoutland",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642189_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642358/pokemon-sv-white-flare-stoutland-master-ball-pattern",
    "product_id": 642358,
@@ -3066,6 +3358,7 @@
   {
    "number": "077",
    "name": "Bouffalant ex",
+   "rarity": "Double Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642190_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642190/pokemon-sv-white-flare-bouffalant-ex",
    "product_id": 642190,
@@ -3076,6 +3369,7 @@
   {
    "number": "078",
    "name": "Tornadus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642193_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642193/pokemon-sv-white-flare-tornadus",
    "product_id": 642193,
@@ -3086,6 +3380,7 @@
   {
    "number": "078",
    "name": "Tornadus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642193_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642193/pokemon-sv-white-flare-tornadus",
    "product_id": 642193,
@@ -3096,6 +3391,7 @@
   {
    "number": "078",
    "name": "Tornadus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642193_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642433/pokemon-sv-white-flare-tornadus-poke-ball-pattern",
    "product_id": 642433,
@@ -3107,6 +3403,7 @@
   {
    "number": "078",
    "name": "Tornadus",
+   "rarity": "Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642361_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642361/pokemon-sv-white-flare-tornadus-master-ball-pattern",
    "product_id": 642361,
@@ -3118,6 +3415,7 @@
   {
    "number": "079",
    "name": "Antique Plume Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642196_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642196/pokemon-sv-white-flare-antique-plume-fossil",
    "product_id": 642196,
@@ -3128,6 +3426,7 @@
   {
    "number": "079",
    "name": "Antique Plume Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642196_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642196/pokemon-sv-white-flare-antique-plume-fossil",
    "product_id": 642196,
@@ -3138,6 +3437,7 @@
   {
    "number": "079",
    "name": "Antique Plume Fossil",
+   "rarity": "Common",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642196_400w.jpg",
    "url": "https://www.tcgplayer.com/product/645192/pokemon-sv-white-flare-antique-plume-fossil-poke-ball-pattern",
    "product_id": 645192,
@@ -3149,6 +3449,7 @@
   {
    "number": "080",
    "name": "Brave Bangle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642197_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642197/pokemon-sv-white-flare-brave-bangle",
    "product_id": 642197,
@@ -3159,6 +3460,7 @@
   {
    "number": "080",
    "name": "Brave Bangle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642197_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642197/pokemon-sv-white-flare-brave-bangle",
    "product_id": 642197,
@@ -3169,6 +3471,7 @@
   {
    "number": "080",
    "name": "Brave Bangle",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642197_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642434/pokemon-sv-white-flare-brave-bangle-poke-ball-pattern",
    "product_id": 642434,
@@ -3180,6 +3483,7 @@
   {
    "number": "081",
    "name": "Cheren",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642199_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642199/pokemon-sv-white-flare-cheren",
    "product_id": 642199,
@@ -3190,6 +3494,7 @@
   {
    "number": "081",
    "name": "Cheren",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642199_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642199/pokemon-sv-white-flare-cheren",
    "product_id": 642199,
@@ -3200,6 +3505,7 @@
   {
    "number": "081",
    "name": "Cheren",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642199_400w.jpg",
    "url": "https://www.tcgplayer.com/product/645196/pokemon-sv-white-flare-cheren-poke-ball-pattern",
    "product_id": 645196,
@@ -3211,6 +3517,7 @@
   {
    "number": "082",
    "name": "Energy Retrieval",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642194_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642194/pokemon-sv-white-flare-energy-retrieval",
    "product_id": 642194,
@@ -3221,6 +3528,7 @@
   {
    "number": "082",
    "name": "Energy Retrieval",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642194_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642194/pokemon-sv-white-flare-energy-retrieval",
    "product_id": 642194,
@@ -3231,6 +3539,7 @@
   {
    "number": "082",
    "name": "Energy Retrieval",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642194_400w.jpg",
    "url": "https://www.tcgplayer.com/product/644831/pokemon-sv-white-flare-energy-retrieval-poke-ball-pattern",
    "product_id": 644831,
@@ -3242,6 +3551,7 @@
   {
    "number": "083",
    "name": "Harlequin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642198_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642198/pokemon-sv-white-flare-harlequin",
    "product_id": 642198,
@@ -3252,6 +3562,7 @@
   {
    "number": "083",
    "name": "Harlequin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642198_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642198/pokemon-sv-white-flare-harlequin",
    "product_id": 642198,
@@ -3262,6 +3573,7 @@
   {
    "number": "083",
    "name": "Harlequin",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642198_400w.jpg",
    "url": "https://www.tcgplayer.com/product/645195/pokemon-sv-white-flare-harlequin-poke-ball-pattern",
    "product_id": 645195,
@@ -3273,6 +3585,7 @@
   {
    "number": "084",
    "name": "Hilda",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642200_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642200/pokemon-sv-white-flare-hilda",
    "product_id": 642200,
@@ -3283,6 +3596,7 @@
   {
    "number": "084",
    "name": "Hilda",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642200_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642200/pokemon-sv-white-flare-hilda",
    "product_id": 642200,
@@ -3293,6 +3607,7 @@
   {
    "number": "084",
    "name": "Hilda",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642200_400w.jpg",
    "url": "https://www.tcgplayer.com/product/645189/pokemon-sv-white-flare-hilda-poke-ball-pattern",
    "product_id": 645189,
@@ -3304,6 +3619,7 @@
   {
    "number": "085",
    "name": "Tool Scrapper",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642195_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642195/pokemon-sv-white-flare-tool-scrapper",
    "product_id": 642195,
@@ -3314,6 +3630,7 @@
   {
    "number": "085",
    "name": "Tool Scrapper",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642195_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642195/pokemon-sv-white-flare-tool-scrapper",
    "product_id": 642195,
@@ -3324,6 +3641,7 @@
   {
    "number": "085",
    "name": "Tool Scrapper",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642195_400w.jpg",
    "url": "https://www.tcgplayer.com/product/645190/pokemon-sv-white-flare-tool-scrapper-poke-ball-pattern",
    "product_id": 645190,
@@ -3335,6 +3653,7 @@
   {
    "number": "086",
    "name": "Ignition Energy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642201_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642201/pokemon-sv-white-flare-ignition-energy",
    "product_id": 642201,
@@ -3345,6 +3664,7 @@
   {
    "number": "086",
    "name": "Ignition Energy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642201_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642201/pokemon-sv-white-flare-ignition-energy",
    "product_id": 642201,
@@ -3355,6 +3675,7 @@
   {
    "number": "086",
    "name": "Ignition Energy",
+   "rarity": "Uncommon",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642201_400w.jpg",
    "url": "https://www.tcgplayer.com/product/644832/pokemon-sv-white-flare-ignition-energy-poke-ball-pattern",
    "product_id": 644832,
@@ -3366,6 +3687,7 @@
   {
    "number": "087",
    "name": "Sewaddle",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642202_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642202/pokemon-sv-white-flare-sewaddle-087-086",
    "product_id": 642202,
@@ -3376,6 +3698,7 @@
   {
    "number": "088",
    "name": "Swadloon",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642203_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642203/pokemon-sv-white-flare-swadloon-088-086",
    "product_id": 642203,
@@ -3386,6 +3709,7 @@
   {
    "number": "089",
    "name": "Leavanny",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642204_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642204/pokemon-sv-white-flare-leavanny-089-086",
    "product_id": 642204,
@@ -3396,6 +3720,7 @@
   {
    "number": "090",
    "name": "Cottonee",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642205_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642205/pokemon-sv-white-flare-cottonee-090-086",
    "product_id": 642205,
@@ -3406,6 +3731,7 @@
   {
    "number": "091",
    "name": "Deerling",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642206_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642206/pokemon-sv-white-flare-deerling-091-086",
    "product_id": 642206,
@@ -3416,6 +3742,7 @@
   {
    "number": "092",
    "name": "Sawsbuck",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642207_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642207/pokemon-sv-white-flare-sawsbuck-092-086",
    "product_id": 642207,
@@ -3426,6 +3753,7 @@
   {
    "number": "093",
    "name": "Shelmet",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642208_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642208/pokemon-sv-white-flare-shelmet-093-086",
    "product_id": 642208,
@@ -3436,6 +3764,7 @@
   {
    "number": "094",
    "name": "Accelgor",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642209_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642209/pokemon-sv-white-flare-accelgor-094-086",
    "product_id": 642209,
@@ -3446,6 +3775,7 @@
   {
    "number": "095",
    "name": "Virizion",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642210_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642210/pokemon-sv-white-flare-virizion-095-086",
    "product_id": 642210,
@@ -3456,6 +3786,7 @@
   {
    "number": "096",
    "name": "Tepig",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642211_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642211/pokemon-sv-white-flare-tepig-096-086",
    "product_id": 642211,
@@ -3466,6 +3797,7 @@
   {
    "number": "097",
    "name": "Pignite",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642212_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642212/pokemon-sv-white-flare-pignite-097-086",
    "product_id": 642212,
@@ -3476,6 +3808,7 @@
   {
    "number": "098",
    "name": "Emboar",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642213_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642213/pokemon-sv-white-flare-emboar-098-086",
    "product_id": 642213,
@@ -3486,6 +3819,7 @@
   {
    "number": "099",
    "name": "Pansear",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642214_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642214/pokemon-sv-white-flare-pansear-099-086",
    "product_id": 642214,
@@ -3496,6 +3830,7 @@
   {
    "number": "100",
    "name": "Simisear",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642215_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642215/pokemon-sv-white-flare-simisear-100-086",
    "product_id": 642215,
@@ -3506,6 +3841,7 @@
   {
    "number": "101",
    "name": "Litwick",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642549_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642549/pokemon-sv-white-flare-litwick-101-086",
    "product_id": 642549,
@@ -3516,6 +3852,7 @@
   {
    "number": "102",
    "name": "Lampent",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642550_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642550/pokemon-sv-white-flare-lampent-102-086",
    "product_id": 642550,
@@ -3526,6 +3863,7 @@
   {
    "number": "103",
    "name": "Chandelure",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642551_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642551/pokemon-sv-white-flare-chandelure-103-086",
    "product_id": 642551,
@@ -3536,6 +3874,7 @@
   {
    "number": "104",
    "name": "Heatmor",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642216_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642216/pokemon-sv-white-flare-heatmor-104-086",
    "product_id": 642216,
@@ -3546,6 +3885,7 @@
   {
    "number": "105",
    "name": "Oshawott",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642217_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642217/pokemon-sv-white-flare-oshawott-105-086",
    "product_id": 642217,
@@ -3556,6 +3896,7 @@
   {
    "number": "106",
    "name": "Dewott",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642218_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642218/pokemon-sv-white-flare-dewott-106-086",
    "product_id": 642218,
@@ -3566,6 +3907,7 @@
   {
    "number": "107",
    "name": "Samurott",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642219_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642219/pokemon-sv-white-flare-samurott-107-086",
    "product_id": 642219,
@@ -3576,6 +3918,7 @@
   {
    "number": "108",
    "name": "Basculin",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642220_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642220/pokemon-sv-white-flare-basculin-108-086",
    "product_id": 642220,
@@ -3586,6 +3929,7 @@
   {
    "number": "109",
    "name": "Ducklett",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642221_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642221/pokemon-sv-white-flare-ducklett-109-086",
    "product_id": 642221,
@@ -3596,6 +3940,7 @@
   {
    "number": "110",
    "name": "Swanna",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642222_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642222/pokemon-sv-white-flare-swanna-110-086",
    "product_id": 642222,
@@ -3606,6 +3951,7 @@
   {
    "number": "111",
    "name": "Vanillite",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642223_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642223/pokemon-sv-white-flare-vanillite-111-086",
    "product_id": 642223,
@@ -3616,6 +3962,7 @@
   {
    "number": "112",
    "name": "Vanillish",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642224_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642224/pokemon-sv-white-flare-vanillish-112-086",
    "product_id": 642224,
@@ -3626,6 +3973,7 @@
   {
    "number": "113",
    "name": "Vanilluxe",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642225_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642225/pokemon-sv-white-flare-vanilluxe-113-086",
    "product_id": 642225,
@@ -3636,6 +3984,7 @@
   {
    "number": "114",
    "name": "Blitzle",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642226_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642226/pokemon-sv-white-flare-blitzle-114-086",
    "product_id": 642226,
@@ -3646,6 +3995,7 @@
   {
    "number": "115",
    "name": "Zebstrika",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642227_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642227/pokemon-sv-white-flare-zebstrika-115-086",
    "product_id": 642227,
@@ -3656,6 +4006,7 @@
   {
    "number": "116",
    "name": "Joltik",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642228_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642228/pokemon-sv-white-flare-joltik-116-086",
    "product_id": 642228,
@@ -3666,6 +4017,7 @@
   {
    "number": "117",
    "name": "Galvantula",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642229_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642229/pokemon-sv-white-flare-galvantula-117-086",
    "product_id": 642229,
@@ -3676,6 +4028,7 @@
   {
    "number": "118",
    "name": "Stunfisk",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642230_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642230/pokemon-sv-white-flare-stunfisk-118-086",
    "product_id": 642230,
@@ -3686,6 +4039,7 @@
   {
    "number": "119",
    "name": "Woobat",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642231_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642231/pokemon-sv-white-flare-woobat-119-086",
    "product_id": 642231,
@@ -3696,6 +4050,7 @@
   {
    "number": "120",
    "name": "Swoobat",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642232_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642232/pokemon-sv-white-flare-swoobat-120-086",
    "product_id": 642232,
@@ -3706,6 +4061,7 @@
   {
    "number": "121",
    "name": "Sigilyph",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642233_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642233/pokemon-sv-white-flare-sigilyph-121-086",
    "product_id": 642233,
@@ -3716,6 +4072,7 @@
   {
    "number": "122",
    "name": "Yamask",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642234_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642234/pokemon-sv-white-flare-yamask-122-086",
    "product_id": 642234,
@@ -3726,6 +4083,7 @@
   {
    "number": "123",
    "name": "Cofagrigus",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642235_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642235/pokemon-sv-white-flare-cofagrigus-123-086",
    "product_id": 642235,
@@ -3736,6 +4094,7 @@
   {
    "number": "124",
    "name": "Gothita",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642236_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642236/pokemon-sv-white-flare-gothita-124-086",
    "product_id": 642236,
@@ -3746,6 +4105,7 @@
   {
    "number": "125",
    "name": "Gothorita",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642237_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642237/pokemon-sv-white-flare-gothorita-125-086",
    "product_id": 642237,
@@ -3756,6 +4116,7 @@
   {
    "number": "126",
    "name": "Frillish",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642239_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642239/pokemon-sv-white-flare-frillish-126-086",
    "product_id": 642239,
@@ -3766,6 +4127,7 @@
   {
    "number": "127",
    "name": "Roggenrola",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642240_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642240/pokemon-sv-white-flare-roggenrola-127-086",
    "product_id": 642240,
@@ -3776,6 +4138,7 @@
   {
    "number": "128",
    "name": "Boldore",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642241_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642241/pokemon-sv-white-flare-boldore-128-086",
    "product_id": 642241,
@@ -3786,6 +4149,7 @@
   {
    "number": "129",
    "name": "Gigalith",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642242_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642242/pokemon-sv-white-flare-gigalith-129-086",
    "product_id": 642242,
@@ -3796,6 +4160,7 @@
   {
    "number": "130",
    "name": "Sawk",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642243_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642243/pokemon-sv-white-flare-sawk-130-086",
    "product_id": 642243,
@@ -3806,6 +4171,7 @@
   {
    "number": "131",
    "name": "Archen",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642244_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642244/pokemon-sv-white-flare-archen-131-086",
    "product_id": 642244,
@@ -3816,6 +4182,7 @@
   {
    "number": "132",
    "name": "Archeops",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642245_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642245/pokemon-sv-white-flare-archeops-132-086",
    "product_id": 642245,
@@ -3826,6 +4193,7 @@
   {
    "number": "133",
    "name": "Mienfoo",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642246_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642246/pokemon-sv-white-flare-mienfoo-133-086",
    "product_id": 642246,
@@ -3836,6 +4204,7 @@
   {
    "number": "134",
    "name": "Mienshao",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642247_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642247/pokemon-sv-white-flare-mienshao-134-086",
    "product_id": 642247,
@@ -3846,6 +4215,7 @@
   {
    "number": "135",
    "name": "Terrakion",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642248_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642248/pokemon-sv-white-flare-terrakion-135-086",
    "product_id": 642248,
@@ -3856,6 +4226,7 @@
   {
    "number": "136",
    "name": "Purrloin",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642249_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642249/pokemon-sv-white-flare-purrloin-136-086",
    "product_id": 642249,
@@ -3866,6 +4237,7 @@
   {
    "number": "137",
    "name": "Liepard",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642250_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642250/pokemon-sv-white-flare-liepard-137-086",
    "product_id": 642250,
@@ -3876,6 +4248,7 @@
   {
    "number": "138",
    "name": "Scraggy",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642251_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642251/pokemon-sv-white-flare-scraggy-138-086",
    "product_id": 642251,
@@ -3886,6 +4259,7 @@
   {
    "number": "139",
    "name": "Scrafty",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642252_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642252/pokemon-sv-white-flare-scrafty-139-086",
    "product_id": 642252,
@@ -3896,6 +4270,7 @@
   {
    "number": "140",
    "name": "Trubbish",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642253_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642253/pokemon-sv-white-flare-trubbish-140-086",
    "product_id": 642253,
@@ -3906,6 +4281,7 @@
   {
    "number": "141",
    "name": "Garbodor",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642254_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642254/pokemon-sv-white-flare-garbodor-141-086",
    "product_id": 642254,
@@ -3916,6 +4292,7 @@
   {
    "number": "142",
    "name": "Zorua",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642255_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642255/pokemon-sv-white-flare-zorua-142-086",
    "product_id": 642255,
@@ -3926,6 +4303,7 @@
   {
    "number": "143",
    "name": "Zoroark",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642256_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642256/pokemon-sv-white-flare-zoroark-143-086",
    "product_id": 642256,
@@ -3936,6 +4314,7 @@
   {
    "number": "144",
    "name": "Vullaby",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642593_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642593/pokemon-sv-white-flare-vullaby-144-086",
    "product_id": 642593,
@@ -3946,6 +4325,7 @@
   {
    "number": "145",
    "name": "Mandibuzz",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642594_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642594/pokemon-sv-white-flare-mandibuzz-145-086",
    "product_id": 642594,
@@ -3956,6 +4336,7 @@
   {
    "number": "146",
    "name": "Deino",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642257_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642257/pokemon-sv-white-flare-deino-146-086",
    "product_id": 642257,
@@ -3966,6 +4347,7 @@
   {
    "number": "147",
    "name": "Zweilous",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642258_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642258/pokemon-sv-white-flare-zweilous-147-086",
    "product_id": 642258,
@@ -3976,6 +4358,7 @@
   {
    "number": "148",
    "name": "Ferroseed",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642259_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642259/pokemon-sv-white-flare-ferroseed-148-086",
    "product_id": 642259,
@@ -3986,6 +4369,7 @@
   {
    "number": "149",
    "name": "Ferrothorn",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642260_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642260/pokemon-sv-white-flare-ferrothorn-149-086",
    "product_id": 642260,
@@ -3996,6 +4380,7 @@
   {
    "number": "150",
    "name": "Durant",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642264_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642264/pokemon-sv-white-flare-durant-150-086",
    "product_id": 642264,
@@ -4006,6 +4391,7 @@
   {
    "number": "151",
    "name": "Druddigon",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642265_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642265/pokemon-sv-white-flare-druddigon-151-086",
    "product_id": 642265,
@@ -4016,6 +4402,7 @@
   {
    "number": "152",
    "name": "Patrat",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642266_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642266/pokemon-sv-white-flare-patrat-152-086",
    "product_id": 642266,
@@ -4026,6 +4413,7 @@
   {
    "number": "153",
    "name": "Watchog",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642267_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642267/pokemon-sv-white-flare-watchog-153-086",
    "product_id": 642267,
@@ -4036,6 +4424,7 @@
   {
    "number": "154",
    "name": "Lillipup",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642268_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642268/pokemon-sv-white-flare-lillipup-154-086",
    "product_id": 642268,
@@ -4046,6 +4435,7 @@
   {
    "number": "155",
    "name": "Herdier",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642269_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642269/pokemon-sv-white-flare-herdier-155-086",
    "product_id": 642269,
@@ -4056,6 +4446,7 @@
   {
    "number": "156",
    "name": "Stoutland",
+   "rarity": "Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642270_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642270/pokemon-sv-white-flare-stoutland-156-086",
    "product_id": 642270,
@@ -4066,6 +4457,7 @@
   {
    "number": "157",
    "name": "Whimsicott ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642274_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642274/pokemon-sv-white-flare-whimsicott-ex-157-086",
    "product_id": 642274,
@@ -4076,6 +4468,7 @@
   {
    "number": "158",
    "name": "Reshiram ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642275_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642275/pokemon-sv-white-flare-reshiram-ex-158-086",
    "product_id": 642275,
@@ -4086,6 +4479,7 @@
   {
    "number": "159",
    "name": "Keldeo ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642276_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642276/pokemon-sv-white-flare-keldeo-ex-159-086",
    "product_id": 642276,
@@ -4096,6 +4490,7 @@
   {
    "number": "160",
    "name": "Jellicent ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642277_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642277/pokemon-sv-white-flare-jellicent-ex-160-086",
    "product_id": 642277,
@@ -4106,6 +4501,7 @@
   {
    "number": "161",
    "name": "Hydreigon ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642278_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642278/pokemon-sv-white-flare-hydreigon-ex-161-086",
    "product_id": 642278,
@@ -4116,6 +4512,7 @@
   {
    "number": "162",
    "name": "Bouffalant ex",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642279_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642279/pokemon-sv-white-flare-bouffalant-ex-162-086",
    "product_id": 642279,
@@ -4126,6 +4523,7 @@
   {
    "number": "163",
    "name": "Harlequin",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642280_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642280/pokemon-sv-white-flare-harlequin-163-086",
    "product_id": 642280,
@@ -4136,6 +4534,7 @@
   {
    "number": "164",
    "name": "Hilda",
+   "rarity": "Ultra Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642281_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642281/pokemon-sv-white-flare-hilda-164-086",
    "product_id": 642281,
@@ -4146,6 +4545,7 @@
   {
    "number": "165",
    "name": "Whimsicott ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642282_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642282/pokemon-sv-white-flare-whimsicott-ex-165-086",
    "product_id": 642282,
@@ -4156,6 +4556,7 @@
   {
    "number": "166",
    "name": "Reshiram ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642283_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642283/pokemon-sv-white-flare-reshiram-ex-166-086",
    "product_id": 642283,
@@ -4166,6 +4567,7 @@
   {
    "number": "167",
    "name": "Keldeo ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642284_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642284/pokemon-sv-white-flare-keldeo-ex-167-086",
    "product_id": 642284,
@@ -4176,6 +4578,7 @@
   {
    "number": "168",
    "name": "Jellicent ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642285_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642285/pokemon-sv-white-flare-jellicent-ex-168-086",
    "product_id": 642285,
@@ -4186,6 +4589,7 @@
   {
    "number": "169",
    "name": "Hydreigon ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642286_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642286/pokemon-sv-white-flare-hydreigon-ex-169-086",
    "product_id": 642286,
@@ -4196,6 +4600,7 @@
   {
    "number": "170",
    "name": "Bouffalant ex",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642287_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642287/pokemon-sv-white-flare-bouffalant-ex-170-086",
    "product_id": 642287,
@@ -4206,6 +4611,7 @@
   {
    "number": "171",
    "name": "Hilda",
+   "rarity": "Special Illustration Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642288_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642288/pokemon-sv-white-flare-hilda-171-086",
    "product_id": 642288,
@@ -4216,6 +4622,7 @@
   {
    "number": "172",
    "name": "Victini",
+   "rarity": "Black White Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/644350_400w.jpg",
    "url": "https://www.tcgplayer.com/product/644350/pokemon-sv-white-flare-victini-172-086",
    "product_id": 644350,
@@ -4226,6 +4633,7 @@
   {
    "number": "173",
    "name": "Reshiram ex",
+   "rarity": "Black White Rare",
    "image": "https://tcgplayer-cdn.tcgplayer.com/product/642289_400w.jpg",
    "url": "https://www.tcgplayer.com/product/642289/pokemon-sv-white-flare-reshiram-ex-173-086",
    "product_id": 642289,
