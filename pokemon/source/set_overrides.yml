@@ -3,6 +3,8 @@
 #   tcgplayer: TCGplayer groupId  (see https://tcgcsv.com/tcgplayer/3/groups)
 #   tcgdex:    TCGdex set id      (see https://api.tcgdex.net/v2/en/sets)
 #   logo:      image URL          used instead of the TCGdex / pokemontcg.io logo
+#   cardtrader: expansion id      CardTrader expansion for master set prices / wishlists, when the
+#                                 automatic name match picks the wrong one or none
 #   order:     [printed numbers]  card order on the site and in placeholder PDFs, e.g. a
 #                                 Classic Collection booklet's; unlisted cards go last
 #   tcgplayer_extra: [groupIds]   subset groups to merge in; replaces the automatic
@@ -83,3 +85,6 @@
 "McDonald (McDonald's Collection, 2014)": { tcgplayer: 1692 }
 "McDonald (McDonald's Collection, 2012)": { tcgplayer: 1427 }
 "McDonald (McDonald's Collection, 2011)": { tcgplayer: 1401 }
+
+# CardTrader also has a Japanese "Pokémon GO Enhanced Expansion Pack"
+"Pokémon GO":                 { cardtrader: 3058 }

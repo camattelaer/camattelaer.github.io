@@ -3,154 +3,134 @@
 Source for the `/pokemon-tcg/` section of the site. This folder is excluded from
 the Jekyll build (`_config.yml`); only the generated files below are published.
 
-## Updating the catalogue
+There are two independent collections:
 
-1. Add cards. Either:
-   - **via `source/new_entries.xlsx`** (recommended for new cards): fill in
-     `number`, `variant`, `qty` for one set, close Excel, and merge it into the
-     catalogue with the set's official abbreviation (the code printed on the
-     card, e.g. ASC, TEF, PRE):
+| | public collection | private master sets |
+|---|---|---|
+| workbook | `source/pokemon_bulk_catalogue.xlsx` | `source/pokemon_mastersets.xlsx` |
+| holds | bulk cards: "I own X copies of card Y" | master sets (a set, a Pokémon or an illustrator), incl. valuable cards |
+| in git | yes (synced to every machine, shown on the site) | **no** (git-ignored, local only, not on the site) |
+| scripts | `build_catalogue.py`, `add_entries.py` | `masterset_setup.py`, `masterset_placeholders.py` (local only) |
 
-     ```sh
-     pokemon/.venv/bin/python pokemon/add_entries.py --set ASC
-     ```
+Both use the same complete card list per set (`build_catalogue.set_universe`).
+Cards only move from the public collection to a master set once: when that master
+set is set up. Master sets never share copies.
 
-     A card + variant already on the set's tab gets the new qty **added** to
-     it (`--replace` sets it instead); anything else is appended. A set
-     without a tab gets one, copied from "Template". The catalogue is backed
-     up to `pokemon/.cache/backups/` first, and `new_entries.xlsx` is emptied
-     afterwards so a rerun can't add the same cards twice (`--keep` leaves it).
-     `--dry-run` shows the changes without writing anything.
-   - **or directly in `source/pokemon_bulk_catalogue.xlsx`**. Every set has its
-     own sheet: the set name goes in cell B1 (dropdown), and from row 3 down
-     there are `number`, `variant`, `qty` columns, one row per card + variant.
-     For a new set, copy the "Template" sheet and rename the tab; the tab name
-     is only for navigation. Every sheet except "How to use" and "Lists" is read.
-2. Run the build script from the repo root:
+Commands below are for macOS; on Windows use `pokemon\.venv\Scripts\python.exe
+pokemon\<script>.py` (each script lists its exact commands at the top). Close the
+workbooks in Excel before running a script that changes them.
 
-   ```sh
-   python3 -m venv pokemon/.venv                          # first time only
-   pokemon/.venv/bin/pip install -r pokemon/requirements.txt  # first time only
-   pokemon/.venv/bin/python pokemon/build_catalogue.py
-   ```
+## Adding cards
 
-3. Read the report at the end. Any row listed there is **not** on the site
-   (unknown set, card number or variant). Fix the xlsx, or for a set that
-   can't be matched add an entry to `source/set_overrides.yml`, then rerun.
-4. Preview with `bundle exec jekyll serve` if you like, then commit the xlsx
-   together with the generated files:
-   - `_data/pokemon/sets.json` and `_data/pokemon/<slug>.json`
-   - `pokemon-tcg/<slug>.md` (one stub page per set)
-
-The script exits with status 1 when the report isn't empty, but it still
-writes everything it could match.
-
-## Placeholder cards for master set hunting
-
-`placeholders.py` makes a printable PDF with a card-sized placeholder for every
-card + variant you don't own yet in a set, 3 × 3 per page in set order, so a
-printed page matches one 9-pocket binder page:
+Fill in `source/new_entries.xlsx` (`number`, `variant`, `qty`, cards of one set),
+close Excel, then say where they go. **`--to` is required**:
 
 ```sh
-pokemon/.venv/bin/python pokemon/placeholders.py --set TEF
+pokemon/.venv/bin/python pokemon/add_entries.py --to public --set ASC          # bulk collection
+pokemon/.venv/bin/python pokemon/add_entries.py --to masterset:PBL             # a set master set
+pokemon/.venv/bin/python pokemon/add_entries.py --to masterset:Kingdra --set PAR   # Pokémon master set
 ```
 
-Each placeholder shows a faded greyscale picture of the card, its name, number
-and a coloured variant badge (the picture alone can't tell a normal from a
-reverse or Poké Ball print). It reads the generated `_data/pokemon/<slug>.json`,
-so run `build_catalogue.py` first. The PDF goes to `pokemon/placeholders/`
-(git-ignored); print it at 100% / actual size.
+Every row is checked against the destination's card list first; if any row
+doesn't match (unknown number, variant or card), all of them are listed and
+nothing is written. A card a master set already has is flagged as a duplicate.
+`--dry-run` shows the changes, `--replace` sets quantities instead of adding,
+`--keep` leaves `new_entries.xlsx` filled. Workbooks are backed up to
+`pokemon/.cache/backups/` before every save.
 
-The PDF ends with a landscape **checklist**: on the left every card numbered up
-to the set's official count (checkbox, number, name, variant), on the right the
-ones above it (checkbox, number, name, rarity such as IR / SIR / HR, market
-price, target price) with totals. When the lists are too long for one page they
-continue on the next.
+**Numbers**: the printed number (`25` or `025/217`); promos with their prefix
+(`MEP 084`); Classic Collection-style sets the full number where several cards
+share one (`106/105`). **Variants**: `normal`, `holo`, `reverse`, `1st-normal`,
+`1st-holo`, the ball / energy patterns, `cosmos` (Cosmos Holo), `altholo` (other
+holo patterns), `stamp`, `prerelease`, `staff`, `promo` (store / event promos).
+Deck-exclusive non-holos are `normal` (shown as "Normal (deck)").
 
-- **Market price** is Cardmarket's 7-day average sell price in EUR, taken
-  from Cardmarket's price guide as TCGdex publishes it per card (Cardmarket has
-  no open API). Reverse holos use Cardmarket's reverse-holo price. When a
-  card has no 7-day value, the 30-day average or the trend is used and marked
-  `*`. The page footer states the source and the date of the price data.
-- **Target price** defaults to 90% of the market price.
-- Prices are cached for 12 hours in `pokemon/.cache/cards/`.
-
-Options: `--variants reverse,pokeball` (only those variants), `--all` (every
-card, e.g. to set up a new binder), `--color`, `--no-images` (text only),
-`--paper letter`, `--out file.pdf`, `--price avg7|avg30|avg1|trend`,
-`--target-pct 85`, `--no-checklist`, `--refresh-prices`. `--set` takes the
-set's official abbreviation, its name or its slug. Card pictures are cached in
-`pokemon/.cache/images/`.
-
-## Pokémon master sets
-
-`source/pokemon_mastersets.xlsx` tracks master sets per Pokémon (one tab each,
-name in B1). It is **not** part of the website: nothing reads it except
-`masterset.py`. Both files are local only: they're git-ignored, so they're never
-committed (not to dev, not to main) and aren't backed up by git. Keep your own
-copy of them.
+## Updating the site
 
 ```sh
-pokemon/.venv/bin/python pokemon/masterset.py --pokemon Kingdra   # new Pokémon: creates its tab
-pokemon/.venv/bin/python pokemon/masterset.py                     # every tab
+python3 -m venv pokemon/.venv                              # first time only
+pokemon/.venv/bin/pip install -r pokemon/requirements.txt  # first time only
+pokemon/.venv/bin/python pokemon/build_catalogue.py
 ```
 
-The script fills each tab with every English card + variant of that Pokémon;
-you only fill in `qty` (blank = missing, `skip` = not hunting that variant).
-Reruns add newly released cards and keep your quantities; rows you add yourself
-(without a key) are kept too. The workbook is backed up to
-`pokemon/.cache/backups/` before every save. Close it in Excel first.
+Read the report at the end: rows listed there are **not** on the site. Fix the
+xlsx, or for a set that can't be matched add an entry to
+`source/set_overrides.yml`, then rerun. Commit the xlsx with the generated
+`_data/pokemon/*.json` and `pokemon-tcg/<slug>.md`.
 
-- **Variants** come from TCGplayer (via TCGCSV): one row per product + print
-  (1st Edition / Unlimited, normal / holo / reverse), including stamped
-  promos, staff and prerelease versions, deck exclusives and World Championship
-  deck cards. Jumbo cards, code cards and anything labelled error / misprint
-  are left out, as is TCG Pocket. Matching on whole words keeps e.g. Mewtwo
-  out of a Mew master set.
-- **Set, release date and rarity** come from TCGdex.
-- It writes `pokemon/placeholders/<pokemon>-masterset.pdf`: placeholders for
-  the missing cards (without prices, since those change), then a landscape
-  price list of the whole master set in two columns (owned cards ticked) with totals for the set, owned and missing cards.
-- **Prices**: Cardmarket's 7-day average (EUR) via TCGdex where Cardmarket's
-  price guide maps onto the variant. Where it can't (1st Edition vs Unlimited,
-  normal vs holo of one card, stamped and other special prints), or where
-  TCGdex has linked the wrong Cardmarket product (one product on two cards,
-  swapped normal / reverse prices, more than 10× off), TCGplayer's market
-  price for the exact variant is converted at the ECB rate
-  ([frankfurter.dev](https://frankfurter.dev)), marked † / ‡. The footer
-  explains it. Same `--price`, `--target-pct`, `--refresh-prices`, `--color`,
-  `--no-images`, `--paper` options as `placeholders.py`; `--no-pdf` only
-  updates the workbook.
+## Master sets (private)
+
+```sh
+pokemon/.venv/bin/python pokemon/masterset_setup.py --set "Pitch Black"     # or --set PBL
+pokemon/.venv/bin/python pokemon/masterset_setup.py --pokemon Kingdra
+pokemon/.venv/bin/python pokemon/masterset_setup.py --illustrator "Yuka Mori"
+```
+
+`masterset_setup.py` creates a tab listing every card + variant with qty 0. If
+the public collection has some of those cards, it asks whether to move 1 copy of
+each into the master set (public qty − 1, master set qty 1, logged on the
+"Transfers" sheet; `--transfer yes|no` answers up front). A master set that
+already has a tab is left alone.
+
+```sh
+pokemon/.venv/bin/python pokemon/masterset_placeholders.py --masterset PBL
+```
+
+`masterset_placeholders.py` refreshes a master set. `add_entries.py --to masterset:<name>` and
+`masterset_setup.py` run it automatically; run it by hand after editing quantities yourself.
+
+- It writes `pokemon/placeholders/<name>-missing.pdf`: a card-sized placeholder for every
+  missing card (3 × 3 per page, the master set's order; print at 100%), and as last page the
+  **fair page**: series number, name, rarity, print, the lowest Near Mint English price,
+  the average of the 5 lowest and a target of 90% of that average. `*` = no Near Mint copy
+  (the condition is named at the bottom), `NA` = no English copy listed, `(n)` = average of
+  only n copies.
+- It replaces the master set's private **CardTrader wishlist** ("PBL - Pitch Black",
+  "Kingdra", "Yuka Mori") with the missing cards, English and Near Mint minimum. The API has
+  no update, so the old wishlist is deleted and created again. Prints CardTrader doesn't have
+  (deck prints, Cosmos Holos, some stamps) are listed in the receipt.
+- Two wishlists per master set:
+  - "PBL - Pitch Black": every card CardTrader can place exactly, ready to add to the cart.
+    Lines are English + Near Mint, except cards that share their name with another card of
+    the same set (Gladion's Final Battle 077 / 108 / 118, Mega Darkrai ex 120): they go on by
+    set code + number, which CardTrader's API only accepts without language or condition
+    (the receipt lists them), so choose English Near Mint when buying;
+  - "PBL - Pitch Black (verify version)": stamped / Staff / deck / Cosmos prints, English +
+    Near Mint. CardTrader's API can't choose their version, so pick it once in the dropdown
+    on CardTrader; this list is only recreated when its own cards change, so your choices stay.
+  Which cards are exact is checked with a temporary trial wishlist on every update.
+- Cards are found on CardTrader by TCGplayer id in their own expansion, then in an index of
+  every CardTrader Pokémon card (deck exclusives, Cosmos Holos and stamps live in separate
+  expansions there; built once a month, a few minutes), then for special prints without a
+  TCGplayer id by name + number + version keyword (a match on just "stamp" is flagged).
+
+**Prices** (`masterset_cardtrader.py`): CardTrader marketplace listings for the exact card
+(matched on its TCGplayer id) and print (reverse / 1st Edition flags), English copies from
+sellers shipping via CardTrader Zero (any country), graded / signed / altered copies left out. CardTrader has no 30-day average,
+so the average of the 5 cheapest Near Mint copies is used. The token goes in the
+git-ignored `source/api_keys.yml` (`cardtrader_token`). Each set is matched to a CardTrader
+expansion by name (the one sharing the most cards when several fit); pin it with
+`cardtrader: <expansion id>` in `source/set_overrides.yml` if needed. Card lists are cached
+30 days, listings 12 hours.
 
 ## How it works
 
-- **Card lists** come from [TCGCSV](https://tcgcsv.com) (a TCGplayer mirror).
-  Plain cards get their normal / holo / reverse variants from the price
-  subtypes; Poké Ball, Master Ball, Energy Symbol, etc. patterns are separate
-  products named e.g. `Oddish (Poke Ball Pattern)`. Trainer Gallery, Galarian
-  Gallery, Shiny Vault and Radiant Collection groups are merged into their
-  main set automatically, as are the set's deck-exclusive prints (TCGplayer's
-  "Deck Exclusives" group, e.g. a non-holo of a holo rare from a pre-built
-  deck): enter those as `normal`; the site labels them "Normal (deck)".
-- **Set logos, release dates and series** come from [TCGdex](https://tcgdex.dev).
-  TCGdex has no logo for some sets (e.g. Temporal Forces), or one that doesn't
-  load (Scarlet & Violet); those fall back to
-  [pokemontcg.io](https://pokemontcg.io) by set name, or to a `logo:` URL in
-  `source/set_overrides.yml`. Sets with neither show the set name as text.
-- **Set matching**: xlsx set names are TCGdex names. TCGplayer group names
-  have prefixes (`SV: Prismatic Evolutions`), so the script strips those,
-  then fuzzy-matches; it prints every non-exact match so you can check it.
-  `source/set_overrides.yml` pins a set to a TCGplayer `groupId` and/or
-  TCGdex id when that fails.
-- **Cache**: API responses are stored in `pokemon/.cache/` (git-ignored), so
-  reruns are fast and offline. Use `--refresh` to refetch everything, e.g.
-  after TCGplayer adds cards to a new set. Set lists are refetched
-  automatically when a set isn't found in the cached copy.
-- **Classic Collection-style sets**, whose cards carry their original number
-  and set total (Mew VMAX 114/264, Zacian V 138/202), are detected
-  automatically and matched on the full printed number. `114` is enough when
-  only one card has that number; where several do (106/105, 106/106,
-  106/160) type the full number. `placeholders.py` prints a single checklist
-  for them and finds their TCGdex prices by name.
-- Deleting a set's sheet (or emptying it) removes its page and data file on
-  the next run.
+- **Card lists** come from [TCGCSV](https://tcgcsv.com) (a TCGplayer mirror):
+  the set's own group (variants from the price subtypes, ball / energy pattern
+  products), its subsets (Trainer Gallery, Galarian Gallery, Shiny Vault,
+  Radiant Collection), deck exclusives, Cosmos Holos and stamps from the Blister
+  Exclusives / Miscellaneous groups (matched on number + printed total + name),
+  and the set's promos (prefix `MEP 084`: promos stamped with the set's name mark
+  a number range in a promo group; staff and prerelease versions in it belong to
+  the set too).
+- **Set logos, release dates and series** come from [TCGdex](https://tcgdex.dev),
+  with [pokemontcg.io](https://pokemontcg.io) or a `logo:` override as fallback.
+- **Set matching**: xlsx set names are TCGdex names; TCGplayer group names are
+  fuzzy-matched and every non-exact match is printed. `source/set_overrides.yml`
+  pins a set to a TCGplayer `groupId`, a TCGdex id, a `logo`, or a card `order`.
+- **Classic Collection-style sets** (cards with their original number, e.g. Mew
+  VMAX 114/264) are detected and matched on the full printed number.
+- **Cache**: API responses live in `pokemon/.cache/` (git-ignored). Use
+  `--refresh` on `build_catalogue.py` to refetch everything.
+- Deleting a set's sheet in the public workbook removes its page and data file
+  on the next build.
