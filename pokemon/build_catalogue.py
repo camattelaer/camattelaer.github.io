@@ -54,6 +54,7 @@ NON_COLLECTION_SHEETS = {"How to use", "Lists"}
 CACHE_DIR = ROOT / "pokemon" / ".cache"
 DATA_DIR = ROOT / "_data" / "pokemon"
 PAGES_DIR = ROOT / "pokemon-tcg"
+VERBOSE = True  # progress lines like "checking N image(s)"; master set scripts turn them off
 
 TCGCSV = "https://tcgcsv.com/tcgplayer/3"
 TCGDEX = "https://api.tcgdex.net/v2/en"
@@ -64,6 +65,8 @@ VARIANTS = {
     "normal": "Normal",
     "holo": "Holo",
     "reverse": "Reverse",
+    "1st-normal": "1st Edition",        # vintage sets: 1st Edition vs Unlimited (= normal / holo)
+    "1st-holo": "1st Edition Holo",
     "pokeball": "Poké Ball",
     "masterball": "Master Ball",
     "friendball": "Friend Ball",
@@ -72,13 +75,29 @@ VARIANTS = {
     "duskball": "Dusk Ball",
     "energysymbol": "Energy Symbol",
     "rocket": "Team Rocket",
+    # special prints outside the booster set (TCGplayer's exclusives / promo groups)
+    "cosmos": "Cosmos Holo",
+    "altholo": "Alternate Holo",
+    "stamp": "Stamped",
+    "prerelease": "Prerelease",
+    "staff": "Staff",
+    "promo": "Promo",
 }
+
+# Groups holding a set's special prints under the set's own numbers (031/162, ...)
+EXCLUSIVE_GROUPS = ("blister exclusives", "miscellaneous cards and products")
 
 # TCGplayer price subTypeName of the plain product -> variant
 SUBTYPES = {
     "Normal": "normal",
     "Holofoil": "holo",
     "Reverse Holofoil": "reverse",
+    "Unlimited": "normal",
+    "Unlimited Normal": "normal",
+    "Unlimited Holofoil": "holo",
+    "1st Edition": "1st-normal",
+    "1st Edition Normal": "1st-normal",
+    "1st Edition Holofoil": "1st-holo",
 }
 
 # Bracketed label in a TCGplayer product name -> patterned-reverse variant
@@ -133,7 +152,7 @@ def slugify(text):
 
 def number_key(raw):
     """Canonical number for matching: '025/217' -> '25', 'TG05/TG30' -> 'TG5'."""
-    raw = str(raw).strip().split("/")[0].strip().upper()
+    raw = str(raw).strip().split("/")[0].strip().upper().replace(" ", "")  # 'MEP 084' -> 'MEP084'
     if raw.endswith(".0") and raw[:-2].isdigit():  # xlsx numeric cells
         raw = raw[:-2]
     m = re.fullmatch(r"([A-Z-]*)0*(\d+)([A-Z]*)", raw)
@@ -375,6 +394,106 @@ def match_by_name(cards, tcgdex_cards):
     return result
 
 
+def special_kind(labels):
+    """Variant of a special print from its TCGplayer labels: staff, prerelease, cosmos,
+    altholo (Mirage / Line / Sparkle Holo, ...), stamp, else promo (store and event promos:
+    GameStop, Pokemon Center, Holiday Calendar, ...)."""
+    text = " ".join(labels).lower()
+    if "staff" in text:
+        return "staff"
+    if "prerelease" in text:
+        return "prerelease"
+    if "cosmos" in text or "cosmo holo" in text:
+        return "cosmos"
+    if "holo" in text:
+        return "altholo"
+    if "stamp" in text:
+        return "stamp"
+    return "promo"
+
+
+def special_prints(set_name, official, cards, groups, refresh):
+    """A set's prints outside its own TCGplayer group, keyed (key, variant):
+    - Blister Exclusives / Miscellaneous: Cosmos Holos and stamps that carry the set's own
+      number (020/084), matched on printed total + number + name
+    - promo groups: promos stamped with the set's name ('Pitch Black Stamped') mark a number
+      range in that group (MEP 082-085); everything in it belongs to the set (staff versions,
+      the prerelease promo in between), plus a prerelease just outside it of a card in the set.
+      Promos keep their own number with the group's prefix ('MEP 084')."""
+    found, notes = {}, []
+    names = {fold(c["name"]) for c in cards.values()}
+    by_number = {(c["key"], fold(c["name"])) for c in cards.values()}
+
+    def entry(prod, number, key, variant, label):
+        return {
+            "number": number, "key": key,
+            "name": clean_card_name(re.sub(r"\s*\[[^\]]*\]", "", prod["name"])),  # drop '[Staff]'
+            "rarity": next((f["value"] for f in prod.get("extendedData", []) if f["name"] == "Rarity"), None),
+            "image": (prod.get("imageUrl") or "").replace("_200w.", "_400w.") if prod.get("imageCount") else None,
+            "url": prod.get("url"), "product_id": prod["productId"], "variant": variant, "special": label,
+        }
+
+    def add(card):
+        """Same card, same kind sold under several labels (GameStop / EB Games / European
+        promo): one print, with all labels."""
+        k = (card["key"], card["variant"])
+        if k in found:
+            if card["special"] not in found[k]["special"].split(" / "):
+                found[k]["special"] += " / " + card["special"]
+        else:
+            found[k] = card
+
+    def labels_of(prod):
+        """'Bastiodon - 085 (Pitch Black Stamped) [Staff]' -> ['Pitch Black Stamped', 'Staff']"""
+        pairs = re.findall(r"\(([^)]*)\)|\[([^\]]*)\]", prod["name"])
+        return [(round_ or square).strip() for round_, square in pairs if (round_ or square).strip()]
+
+    for group in groups:
+        gname = fold(group["name"])
+        promo = "promo" in gname
+        if not promo and gname not in EXCLUSIVE_GROUPS:
+            continue
+        try:
+            products = get_json(f"{TCGCSV}/{group['groupId']}/products", f"tcgcsv_{group['groupId']}_products",
+                                refresh)["results"]
+        except requests.RequestException:
+            continue
+        if not promo:
+            for prod in products:
+                raw = product_number(prod) or ""
+                total = raw.split("/")[1].strip() if "/" in raw else ""
+                if not (total.isdigit() and int(total) == official
+                        and (number_key(raw), fold(clean_card_name(prod["name"]))) in by_number):
+                    continue
+                labels = labels_of(prod)
+                kind = special_kind(labels)
+                add(entry(prod, raw.split("/")[0].strip(), number_key(raw), kind,
+                          ", ".join(labels) or group["name"]))
+            continue
+
+        stamped = [prod for prod in products if fold(set_name) in fold(" ".join(labels_of(prod)))]
+        numbers = [int(number_key(product_number(p) or "x")) for p in stamped
+                   if number_key(product_number(p) or "x").isdigit()]
+        if not numbers:
+            continue
+        low, high = min(numbers), max(numbers)
+        prefix = (group.get("abbreviation") or "PROMO").upper()
+        for prod in products:
+            raw = product_number(prod) or ""
+            n = number_key(raw)
+            if not n.isdigit():
+                continue
+            labels = labels_of(prod)
+            near_prerelease = (low - 2 <= int(n) <= high + 2 and "prerelease" in " ".join(labels).lower()
+                               and fold(clean_card_name(prod["name"])) in names)
+            if not (low <= int(n) <= high or near_prerelease):
+                continue
+            kind = special_kind(labels) if labels else "holo"
+            key = f"{prefix}{n}"
+            add(entry(prod, f"{prefix} {raw.strip()}", key, kind, ", ".join(labels) or group["name"]))
+    return found, notes
+
+
 def check_images(urls, refresh):
     """url -> whether the CDN serves it. Cached in pokemon/.cache/image_status.json."""
     path = CACHE_DIR / "image_status.json"
@@ -390,7 +509,8 @@ def check_images(urls, refresh):
 
     todo = [u for u in urls if u not in status]
     if todo:
-        print(f"  checking {len(todo)} image(s)...")
+        if VERBOSE:
+            print(f"  checking {len(todo)} image(s)...")
         with ThreadPoolExecutor(max_workers=16) as pool:
             for url, ok in pool.map(probe, todo):
                 if ok is not None:
@@ -534,18 +654,162 @@ def remove_stale(slugs):
             print(f"  removed stale data {path.relative_to(ROOT)}")
 
 
+class Universe:
+    """Everything a script needs to know about one set's complete card list."""
+    def __init__(self, set_name, tset, detail, group, release_date, series, reprint, cards, ov):
+        self.set_name, self.tset, self.detail, self.group = set_name, tset, detail, group
+        self.release_date, self.series, self.reprint, self.cards, self.ov = release_date, series, reprint, cards, ov
+
+
+def set_universe(set_name, cats, overrides, deck_group, refresh, lists=None, log=print):
+    """The complete card list of a set: booster cards with their variants, subsets, deck
+    exclusives and special prints (stamps, promos, ...), keyed (card key, variant).
+    Returns (Universe, None) or (None, problem). Used for the public site and master sets
+    alike, so both always list the same cards."""
+    ov = overrides.get(set_name) or {}
+    tset, how = cats.match_tcgdex(set_name, ov.get("tcgdex"))
+    if not tset and cats.reload_once():
+        tset, how = cats.match_tcgdex(set_name, ov.get("tcgdex"))
+    detail = cats.tcgdex_detail(tset["id"]) if tset else {}
+    if tset and how != "exact":
+        log(f"  TCGdex: {how} match -> {tset['name']} ({tset['id']})")
+
+    fallback = (lists or {}).get(set_name, {})
+    release_date = detail.get("releaseDate") or fallback.get("release_date")
+    series = (detail.get("serie") or {}).get("name") or fallback.get("series") or "Other"
+
+    group, how = cats.match_group(set_name, release_date, ov.get("tcgplayer"))
+    if not group and cats.reload_once():
+        group, how = cats.match_group(set_name, release_date, ov.get("tcgplayer"))
+    if not group:
+        return None, (f"{set_name}: no TCGplayer group found; "
+                      f"add a 'tcgplayer: <groupId>' entry to {OVERRIDES.relative_to(ROOT)}")
+    if how != "exact":
+        log(f"  TCGplayer: {how} match -> {group['name']} ({group['groupId']})")
+
+    extra = cats.subset_groups(group, ov.get("tcgplayer_extra"))
+    for g in extra:
+        log(f"  TCGplayer: + subset {g['name']} ({g['groupId']})")
+    official = (detail.get("cardCount") or {}).get("official")
+    cards, unrecognised, reprint = build_card_list(
+        [group["groupId"]] + [g["groupId"] for g in extra], refresh, deck_group, official)
+    for label, n in sorted(unrecognised.items()):
+        log(f"  note: skipped {n} product(s) labelled '({label})' (duplicate of a plain card number)")
+    decks = sum(1 for c in cards.values() if c.get("deck"))
+    if decks:
+        log(f"  + {decks} deck-exclusive print(s)")
+    if reprint:
+        log("  cards carry their original numbers (e.g. 114/264): matched on the full number")
+    else:
+        specials, notes = special_prints(set_name, official, cards, cats.groups, refresh)
+        for k, c in specials.items():
+            cards.setdefault(k, c)
+        if specials:
+            ok = check_images({c["image"] for c in specials.values() if c["image"]}, refresh)
+            for c in specials.values():
+                if c["image"] and not ok[c["image"]]:
+                    c["image"] = None
+            # e.g. staff promos often have no picture: borrow the same card's other print
+            pictures = {}
+            for c in cards.values():
+                if c.get("image"):
+                    pictures.setdefault(c["key"], c["image"])
+            for c in specials.values():
+                if not c["image"] and c["key"] in pictures:
+                    c["image"], c["image_borrowed"] = pictures[c["key"]], True
+            kinds = defaultdict(int)
+            for _, kind in specials:
+                kinds[VARIANTS[kind]] += 1
+            log(f"  + special prints: {', '.join(f'{n} {k}' for k, n in sorted(kinds.items()))}")
+        for note in notes:
+            log(f"  note: skipped {note}")
+    return Universe(set_name, tset, detail, group, release_date, series, reprint, cards, ov), None
+
+
+def resolve_entries(universe, entries, where_of=None):
+    """Spreadsheet rows -> card keys. entries: {(full_key(number), variant): qty}.
+    '25' and '025/217' both mean card 25 in a normal set; in a reprint-numbered set '114'
+    works when only one card is numbered 114. Returns ({(key, variant): qty}, problems,
+    {(key, variant): [row locations]}). where_of(key, variant) names the rows for messages."""
+    where_of = where_of or (lambda key, variant: "")
+    cards, set_name = universe.cards, universe.set_name
+    numbers = {k for k, _ in cards}
+    resolved, where, problems = defaultdict(int), defaultdict(list), []
+    for (key, variant), qty in entries.items():
+        loc = where_of(key, variant)
+        prefix = f"{loc}: " if loc else ""
+        bare = key.split("/")[0]
+        if key in numbers:
+            matches = [key]
+        elif bare in numbers:
+            matches = [bare]
+        else:
+            matches = sorted({k for k in numbers if k.split("/")[0] == bare}, key=number_sort)
+        if len(matches) != 1:
+            if matches:
+                problems.append(f"{prefix}{set_name} #{key}: several cards have this number "
+                                f"({', '.join(matches)}); type the full printed number")
+            else:
+                problems.append(f"{prefix}{set_name} #{key} ({variant}): card number not found in this set")
+            continue
+        if (matches[0], variant) not in cards:
+            have = sorted({v for k, v in cards if k == matches[0]}, key=list(VARIANTS).index)
+            problems.append(f"{prefix}{set_name} #{key}: no '{variant}' variant (known: {', '.join(have)})")
+            continue
+        resolved[(matches[0], variant)] += qty
+        if loc:
+            where[(matches[0], variant)].append(loc)
+    return dict(resolved), problems, where
+
+
+def ordered_cards(universe, log=print):
+    """The universe's cards as a sorted list (copies), with variant labels; keeps 'key'."""
+    order = list(VARIANTS)
+    card_list = sorted((dict(c) for c in universe.cards.values()),
+                       key=lambda c: (number_sort(c["key"]), order.index(c["variant"])))
+    if universe.reprint:  # list them in TCGdex's set order (001, 002, ...) rather than by original number
+        by_name = match_by_name(card_list, universe.detail.get("cards", []))
+        for c in card_list:
+            if (c["number"], c["name"]) in by_name:
+                c["tcgdex_local"] = by_name[(c["number"], c["name"])]["localId"]
+        missing = sorted({c["name"] for c in card_list if "tcgdex_local" not in c})
+        if missing:
+            log(f"  note: not on TCGdex, listed last: {', '.join(missing)}")
+        card_list.sort(key=lambda c: ("tcgdex_local" not in c, number_sort(number_key(c.get("tcgdex_local", "0"))),
+                                      number_sort(c["key"]), order.index(c["variant"])))
+    if universe.ov.get("order"):  # explicit order (e.g. the ETB booklet's), by printed number; unlisted last
+        keys = {c["key"] for c in card_list}
+
+        def to_key(n):  # like the xlsx: '114' is enough when only one card has that number
+            k = key_of_number(n, universe.reprint)
+            same = [x for x in keys if x.split("/")[0] == k.split("/")[0]]
+            return k if k in keys or len(same) != 1 else same[0]
+        wanted = [to_key(n) for n in universe.ov["order"]]
+        unknown = [n for n, k in zip(universe.ov["order"], wanted) if k not in keys]
+        if unknown:
+            log(f"  note: 'order' in {OVERRIDES.name} lists numbers not in this set: {', '.join(map(str, unknown))}")
+        position = {k: i for i, k in reversed(list(enumerate(wanted)))}
+        card_list.sort(key=lambda c: position.get(c["key"], len(position)))  # stable: keeps variant order
+    for c in card_list:
+        c["variant_label"] = VARIANTS[c["variant"]] + (" (deck)" if c.get("deck") else "")
+        if c.get("special") and fold(c["special"]) != fold(VARIANTS[c["variant"]]):
+            c["variant_label"] += f" ({c['special']})"  # e.g. "Stamped (Pitch Black Stamped)"
+    return card_list
+
+
+def deck_group_id(cats):
+    return next((g["groupId"] for g in cats.groups if fold(g["name"]) == "deck exclusives"), None)
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("--refresh", action="store_true", help="ignore the API cache and refetch everything")
     args = parser.parse_args()
 
     owned, rows_of, lists, report = read_catalogue()
-
-    def rows(*key):
-        return ", ".join(rows_of[key])
     overrides = read_overrides()
     cats = Catalogues(args.refresh)
-    deck_group = next((g["groupId"] for g in cats.groups if fold(g["name"]) == "deck exclusives"), None)
+    deck_group = deck_group_id(cats)
 
     by_set = defaultdict(dict)
     for (set_name, key, variant), qty in owned.items():
@@ -555,100 +819,21 @@ def main():
     summaries = []
     for set_name in sorted(by_set):
         print(f"• {set_name}")
-        ov = overrides.get(set_name) or {}
-
-        tset, how = cats.match_tcgdex(set_name, ov.get("tcgdex"))
-        if not tset and cats.reload_once():
-            tset, how = cats.match_tcgdex(set_name, ov.get("tcgdex"))
-        detail = cats.tcgdex_detail(tset["id"]) if tset else {}
-        if tset and how != "exact":
-            print(f"  TCGdex: {how} match -> {tset['name']} ({tset['id']})")
-
-        fallback = lists.get(set_name, {})
-        release_date = detail.get("releaseDate") or fallback.get("release_date")
-        series = (detail.get("serie") or {}).get("name") or fallback.get("series") or "Other"
-
-        group, how = cats.match_group(set_name, release_date, ov.get("tcgplayer"))
-        if not group and cats.reload_once():
-            group, how = cats.match_group(set_name, release_date, ov.get("tcgplayer"))
-        if not group:
-            n = sum(by_set[set_name].values())
-            report.append(f"{set_name}: no TCGplayer group found ({n} cards skipped); "
-                          f"add a 'tcgplayer: <groupId>' entry to {OVERRIDES.relative_to(ROOT)}")
+        universe, problem = set_universe(set_name, cats, overrides, deck_group, args.refresh, lists)
+        if not universe:
+            report.append(f"{problem} ({sum(by_set[set_name].values())} cards skipped)")
             continue
-        if how != "exact":
-            print(f"  TCGplayer: {how} match -> {group['name']} ({group['groupId']})")
+        resolved, problems, _ = resolve_entries(
+            universe, by_set[set_name], lambda key, variant: ", ".join(rows_of[(set_name, key, variant)]))
+        report += [f"{line}; skipped" for line in problems]
 
-        extra = cats.subset_groups(group, ov.get("tcgplayer_extra"))
-        for g in extra:
-            print(f"  TCGplayer: + subset {g['name']} ({g['groupId']})")
-        cards, unrecognised, reprint = build_card_list(
-            [group["groupId"]] + [g["groupId"] for g in extra], args.refresh,
-            deck_group, (detail.get("cardCount") or {}).get("official"))
-        for label, n in sorted(unrecognised.items()):
-            print(f"  note: skipped {n} product(s) labelled '({label})' (duplicate of a plain card number)")
-        decks = sum(1 for c in cards.values() if c.get("deck"))
-        if decks:
-            print(f"  + {decks} deck-exclusive print(s)")
-        if reprint:
-            print("  cards carry their original numbers (e.g. 114/264): matched on the full number")
-
-        # xlsx numbers -> card keys: '25' and '025/217' both mean card 25 in a normal set;
-        # in a reprint-numbered set '114' works when only one card is numbered 114.
-        numbers = {k for k, _ in cards}
-        resolved, where = defaultdict(int), defaultdict(list)
-        for (key, variant), qty in by_set[set_name].items():
-            bare = key.split("/")[0]
-            matches = [key] if key in numbers else [bare] if bare in numbers else                 sorted({k for k in numbers if k.split("/")[0] == bare}, key=number_sort)
-            if len(matches) != 1:
-                if matches:
-                    report.append(f"{rows(set_name, key, variant)}: {set_name} #{key}: several cards have this "
-                                  f"number ({', '.join(matches)}); type the full printed number; qty {qty} skipped")
-                else:
-                    report.append(f"{rows(set_name, key, variant)}: {set_name} #{key} ({variant}): card number not "
-                                  f"found in '{group['name']}'; qty {qty} skipped")
-                continue
-            resolved[(matches[0], variant)] += qty
-            where[(matches[0], variant)] += rows_of[(set_name, key, variant)]
-
-        for (key, variant), qty in sorted(resolved.items(), key=lambda kv: number_sort(kv[0][0])):
-            if (key, variant) in cards:
-                cards[(key, variant)]["qty"] = qty
-            else:
-                have = sorted({v for k, v in cards if k == key}, key=list(VARIANTS).index)
-                report.append(f"{', '.join(where[(key, variant)])}: {set_name} #{key}: no '{variant}' variant on "
-                              f"TCGplayer (known: {', '.join(have)}); qty {qty} skipped")
-
-        order = list(VARIANTS)
-        card_list = sorted(cards.values(), key=lambda c: (number_sort(c["key"]), order.index(c["variant"])))
-        if reprint:  # list them in TCGdex's set order (001, 002, ...) rather than by original number
-            by_name = match_by_name(card_list, detail.get("cards", []))
-            for c in card_list:
-                if (c["number"], c["name"]) in by_name:
-                    c["tcgdex_local"] = by_name[(c["number"], c["name"])]["localId"]
-            missing = sorted({c["name"] for c in card_list if "tcgdex_local" not in c})
-            if missing:
-                print(f"  note: not on TCGdex, listed last: {', '.join(missing)}")
-            card_list.sort(key=lambda c: ("tcgdex_local" not in c, number_sort(number_key(c.get("tcgdex_local", "0"))),
-                                          number_sort(c["key"]), order.index(c["variant"])))
-        if ov.get("order"):  # explicit order (e.g. the ETB booklet's), by printed number; unlisted cards last
-            keys = {c["key"] for c in card_list}
-
-            def to_key(n):  # like the xlsx: '114' is enough when only one card has that number
-                k = key_of_number(n, reprint)
-                same = [x for x in keys if x.split("/")[0] == k.split("/")[0]]
-                return k if k in keys or len(same) != 1 else same[0]
-            wanted = [to_key(n) for n in ov["order"]]
-            unknown = [n for n, k in zip(ov["order"], wanted) if k not in keys]
-            if unknown:
-                print(f"  note: 'order' in {OVERRIDES.name} lists numbers not in this set: {', '.join(map(str, unknown))}")
-            position = {k: i for i, k in reversed(list(enumerate(wanted)))}
-            card_list.sort(key=lambda c: position.get(c["key"], len(position)))  # stable: keeps variant order
+        card_list = ordered_cards(universe)
         for c in card_list:
-            c["qty"] = c.get("qty", 0)
-            c["variant_label"] = VARIANTS[c["variant"]] + (" (deck)" if c.get("deck") else "")
+            c["qty"] = resolved.get((c["key"], c["variant"]), 0)
             del c["key"]
 
+        ov, detail, tset, group = universe.ov, universe.detail, universe.tset, universe.group
+        release_date, reprint = universe.release_date, universe.reprint
         slug = slugify(set_name)
         # first logo that loads: override, TCGdex, pokemontcg.io (TCGdex lacks some, and some of its URLs 404)
         logo = None
@@ -669,7 +854,7 @@ def main():
         summary = {
             "slug": slug,
             "name": set_name,
-            "series": series,
+            "series": universe.series,
             "release_date": release_date,
             "logo": logo,
             "tcgdex_id": tset["id"] if tset else None,

@@ -7,5 +7,7 @@ __pycache__/
 # Personal, local only (never committed, so never on dev or main):
 # printable placeholder PDFs and the per-Pokémon master sets
 pokemon/placeholders/
-pokemon/masterset.py
+pokemon/masterset*.py
 pokemon/source/pokemon_mastersets.xlsx
+pokemon/source/api_keys.yml
+pokemon/COMMANDS.txt

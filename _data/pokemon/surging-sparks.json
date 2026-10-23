@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 23651,
  "tcgplayer_group_name": "SV08: Surging Sparks",
  "owned_count": 95,
- "total_count": 420,
+ "total_count": 432,
  "owned_qty": 95,
  "reprint_numbers": false,
  "cards": [
@@ -20,8 +20,8 @@
    "url": "https://www.tcgplayer.com/product/589939/pokemon-sv08-surging-sparks-exeggcute-001-191",
    "product_id": 589939,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "001",
@@ -31,8 +31,8 @@
    "url": "https://www.tcgplayer.com/product/589939/pokemon-sv08-surging-sparks-exeggcute-001-191",
    "product_id": 589939,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "002",
@@ -42,8 +42,8 @@
    "url": "https://www.tcgplayer.com/product/589940/pokemon-sv08-surging-sparks-exeggcute-002-191",
    "product_id": 589940,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "002",
@@ -53,8 +53,8 @@
    "url": "https://www.tcgplayer.com/product/589940/pokemon-sv08-surging-sparks-exeggcute-002-191",
    "product_id": 589940,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "003",
@@ -64,8 +64,8 @@
    "url": "https://www.tcgplayer.com/product/589942/pokemon-sv08-surging-sparks-exeggutor",
    "product_id": 589942,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "003",
@@ -75,8 +75,8 @@
    "url": "https://www.tcgplayer.com/product/589942/pokemon-sv08-surging-sparks-exeggutor",
    "product_id": 589942,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "004",
@@ -86,8 +86,8 @@
    "url": "https://www.tcgplayer.com/product/589928/pokemon-sv08-surging-sparks-durant-ex-004-191",
    "product_id": 589928,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "005",
@@ -97,8 +97,8 @@
    "url": "https://www.tcgplayer.com/product/590039/pokemon-sv08-surging-sparks-scatterbug",
    "product_id": 590039,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "005",
@@ -108,8 +108,8 @@
    "url": "https://www.tcgplayer.com/product/590039/pokemon-sv08-surging-sparks-scatterbug",
    "product_id": 590039,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "006",
@@ -119,8 +119,8 @@
    "url": "https://www.tcgplayer.com/product/590061/pokemon-sv08-surging-sparks-spewpa",
    "product_id": 590061,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "006",
@@ -130,8 +130,8 @@
    "url": "https://www.tcgplayer.com/product/590061/pokemon-sv08-surging-sparks-spewpa",
    "product_id": 590061,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "007",
@@ -141,8 +141,8 @@
    "url": "https://www.tcgplayer.com/product/590089/pokemon-sv08-surging-sparks-vivillon-007-191",
    "product_id": 590089,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "007",
@@ -152,8 +152,8 @@
    "url": "https://www.tcgplayer.com/product/590089/pokemon-sv08-surging-sparks-vivillon-007-191",
    "product_id": 590089,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "008",
@@ -163,8 +163,8 @@
    "url": "https://www.tcgplayer.com/product/590009/pokemon-sv08-surging-sparks-morelull",
    "product_id": 590009,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "008",
@@ -174,8 +174,8 @@
    "url": "https://www.tcgplayer.com/product/590009/pokemon-sv08-surging-sparks-morelull",
    "product_id": 590009,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "009",
@@ -185,8 +185,8 @@
    "url": "https://www.tcgplayer.com/product/590045/pokemon-sv08-surging-sparks-shiinotic-009-191",
    "product_id": 590045,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "009",
@@ -196,8 +196,8 @@
    "url": "https://www.tcgplayer.com/product/590045/pokemon-sv08-surging-sparks-shiinotic-009-191",
    "product_id": 590045,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "010",
@@ -207,8 +207,8 @@
    "url": "https://www.tcgplayer.com/product/589917/pokemon-sv08-surging-sparks-dhelmise",
    "product_id": 589917,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "010",
@@ -218,8 +218,8 @@
    "url": "https://www.tcgplayer.com/product/589917/pokemon-sv08-surging-sparks-dhelmise",
    "product_id": 589917,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "011",
@@ -229,8 +229,8 @@
    "url": "https://www.tcgplayer.com/product/590099/pokemon-sv08-surging-sparks-zarude",
    "product_id": 590099,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "011",
@@ -240,8 +240,8 @@
    "url": "https://www.tcgplayer.com/product/590099/pokemon-sv08-surging-sparks-zarude",
    "product_id": 590099,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "012",
@@ -251,8 +251,8 @@
    "url": "https://www.tcgplayer.com/product/589886/pokemon-sv08-surging-sparks-capsakid",
    "product_id": 589886,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "012",
@@ -262,8 +262,8 @@
    "url": "https://www.tcgplayer.com/product/589886/pokemon-sv08-surging-sparks-capsakid",
    "product_id": 589886,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "013",
@@ -273,8 +273,8 @@
    "url": "https://www.tcgplayer.com/product/590035/pokemon-sv08-surging-sparks-rellor",
    "product_id": 590035,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "013",
@@ -284,8 +284,8 @@
    "url": "https://www.tcgplayer.com/product/590035/pokemon-sv08-surging-sparks-rellor",
    "product_id": 590035,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "014",
@@ -296,8 +296,8 @@
    "product_id": 594469,
    "variant": "normal",
    "deck": true,
-   "qty": 1,
-   "variant_label": "Normal (deck)"
+   "variant_label": "Normal (deck)",
+   "qty": 1
   },
   {
    "number": "014",
@@ -308,8 +308,8 @@
    "product_id": 590033,
    "variant": "holo",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/594469_400w.jpg",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "014",
@@ -320,8 +320,21 @@
    "product_id": 590033,
    "variant": "reverse",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/594469_400w.jpg",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "014",
+   "name": "Rabsca",
+   "rarity": "Promo",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/590033_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/636307/pokemon-miscellaneous-cards-and-products-rabsca-014-191-cosmos-holo",
+   "product_id": 636307,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "image_borrowed": true,
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "015",
@@ -331,8 +344,8 @@
    "url": "https://www.tcgplayer.com/product/590095/pokemon-sv08-surging-sparks-wo-chien",
    "product_id": 590095,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "015",
@@ -342,8 +355,8 @@
    "url": "https://www.tcgplayer.com/product/590095/pokemon-sv08-surging-sparks-wo-chien",
    "product_id": 590095,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "016",
@@ -353,8 +366,8 @@
    "url": "https://www.tcgplayer.com/product/590092/pokemon-sv08-surging-sparks-vulpix",
    "product_id": 590092,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "016",
@@ -364,8 +377,8 @@
    "url": "https://www.tcgplayer.com/product/590092/pokemon-sv08-surging-sparks-vulpix",
    "product_id": 590092,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "017",
@@ -375,8 +388,8 @@
    "url": "https://www.tcgplayer.com/product/590010/pokemon-sv08-surging-sparks-ninetales",
    "product_id": 590010,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "017",
@@ -386,8 +399,8 @@
    "url": "https://www.tcgplayer.com/product/590010/pokemon-sv08-surging-sparks-ninetales",
    "product_id": 590010,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "018",
@@ -397,8 +410,8 @@
    "url": "https://www.tcgplayer.com/product/590014/pokemon-sv08-surging-sparks-paldean-tauros-018-191",
    "product_id": 590014,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "018",
@@ -408,8 +421,8 @@
    "url": "https://www.tcgplayer.com/product/590014/pokemon-sv08-surging-sparks-paldean-tauros-018-191",
    "product_id": 590014,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "019",
@@ -419,8 +432,8 @@
    "url": "https://www.tcgplayer.com/product/589964/pokemon-sv08-surging-sparks-ho-oh",
    "product_id": 589964,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "019",
@@ -430,8 +443,8 @@
    "url": "https://www.tcgplayer.com/product/589964/pokemon-sv08-surging-sparks-ho-oh",
    "product_id": 589964,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "020",
@@ -441,8 +454,8 @@
    "url": "https://www.tcgplayer.com/product/589887/pokemon-sv08-surging-sparks-castform-sunny-form-020-191",
    "product_id": 589887,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "020",
@@ -452,8 +465,8 @@
    "url": "https://www.tcgplayer.com/product/589887/pokemon-sv08-surging-sparks-castform-sunny-form-020-191",
    "product_id": 589887,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "021",
@@ -463,8 +476,8 @@
    "url": "https://www.tcgplayer.com/product/590087/pokemon-sv08-surging-sparks-victini",
    "product_id": 590087,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "021",
@@ -474,8 +487,8 @@
    "url": "https://www.tcgplayer.com/product/590087/pokemon-sv08-surging-sparks-victini",
    "product_id": 590087,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "022",
@@ -485,8 +498,8 @@
    "url": "https://www.tcgplayer.com/product/590020/pokemon-sv08-surging-sparks-pansear",
    "product_id": 590020,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "022",
@@ -496,8 +509,8 @@
    "url": "https://www.tcgplayer.com/product/590020/pokemon-sv08-surging-sparks-pansear",
    "product_id": 590020,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "023",
@@ -507,8 +520,8 @@
    "url": "https://www.tcgplayer.com/product/590049/pokemon-sv08-surging-sparks-simisear",
    "product_id": 590049,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "023",
@@ -518,8 +531,8 @@
    "url": "https://www.tcgplayer.com/product/590049/pokemon-sv08-surging-sparks-simisear",
    "product_id": 590049,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "024",
@@ -529,8 +542,8 @@
    "url": "https://www.tcgplayer.com/product/589981/pokemon-sv08-surging-sparks-larvesta-024-191",
    "product_id": 589981,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "024",
@@ -540,8 +553,8 @@
    "url": "https://www.tcgplayer.com/product/589981/pokemon-sv08-surging-sparks-larvesta-024-191",
    "product_id": 589981,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "025",
@@ -551,8 +564,8 @@
    "url": "https://www.tcgplayer.com/product/590091/pokemon-sv08-surging-sparks-volcarona",
    "product_id": 590091,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "025",
@@ -562,8 +575,8 @@
    "url": "https://www.tcgplayer.com/product/590091/pokemon-sv08-surging-sparks-volcarona",
    "product_id": 590091,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "026",
@@ -573,8 +586,8 @@
    "url": "https://www.tcgplayer.com/product/590012/pokemon-sv08-surging-sparks-oricorio-026-191",
    "product_id": 590012,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "026",
@@ -584,8 +597,8 @@
    "url": "https://www.tcgplayer.com/product/590012/pokemon-sv08-surging-sparks-oricorio-026-191",
    "product_id": 590012,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "027",
@@ -595,8 +608,8 @@
    "url": "https://www.tcgplayer.com/product/590050/pokemon-sv08-surging-sparks-sizzlipede",
    "product_id": 590050,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "027",
@@ -606,8 +619,8 @@
    "url": "https://www.tcgplayer.com/product/590050/pokemon-sv08-surging-sparks-sizzlipede",
    "product_id": 590050,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "028",
@@ -617,8 +630,8 @@
    "url": "https://www.tcgplayer.com/product/589889/pokemon-sv08-surging-sparks-centiskorch",
    "product_id": 589889,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "028",
@@ -628,8 +641,8 @@
    "url": "https://www.tcgplayer.com/product/589889/pokemon-sv08-surging-sparks-centiskorch",
    "product_id": 589889,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "029",
@@ -639,8 +652,8 @@
    "url": "https://www.tcgplayer.com/product/589952/pokemon-sv08-surging-sparks-fuecoco",
    "product_id": 589952,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "029",
@@ -650,8 +663,20 @@
    "url": "https://www.tcgplayer.com/product/589952/pokemon-sv08-surging-sparks-fuecoco",
    "product_id": 589952,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "029",
+   "name": "Fuecoco",
+   "rarity": "Common",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/602873_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/602873/pokemon-miscellaneous-cards-and-products-fuecoco-029-191",
+   "product_id": 602873,
+   "variant": "promo",
+   "special": "Miscellaneous Cards & Products",
+   "variant_label": "Promo (Miscellaneous Cards & Products)",
+   "qty": 0
   },
   {
    "number": "030",
@@ -661,8 +686,8 @@
    "url": "https://www.tcgplayer.com/product/589908/pokemon-sv08-surging-sparks-crocalor",
    "product_id": 589908,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "030",
@@ -672,8 +697,8 @@
    "url": "https://www.tcgplayer.com/product/589908/pokemon-sv08-surging-sparks-crocalor",
    "product_id": 589908,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "031",
@@ -683,8 +708,8 @@
    "url": "https://www.tcgplayer.com/product/590053/pokemon-sv08-surging-sparks-skeledirge",
    "product_id": 590053,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "031",
@@ -694,8 +719,21 @@
    "url": "https://www.tcgplayer.com/product/590053/pokemon-sv08-surging-sparks-skeledirge",
    "product_id": 590053,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "031",
+   "name": "Skeledirge",
+   "rarity": "Promo",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/590053_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/636305/pokemon-miscellaneous-cards-and-products-skeledirge-031-191-cosmos-holo",
+   "product_id": 636305,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "image_borrowed": true,
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "032",
@@ -705,8 +743,8 @@
    "url": "https://www.tcgplayer.com/product/589896/pokemon-sv08-surging-sparks-charcadet-032-191",
    "product_id": 589896,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "032",
@@ -716,8 +754,8 @@
    "url": "https://www.tcgplayer.com/product/589896/pokemon-sv08-surging-sparks-charcadet-032-191",
    "product_id": 589896,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "033",
@@ -727,8 +765,8 @@
    "url": "https://www.tcgplayer.com/product/589897/pokemon-sv08-surging-sparks-charcadet-033-191",
    "product_id": 589897,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "033",
@@ -738,8 +776,8 @@
    "url": "https://www.tcgplayer.com/product/589897/pokemon-sv08-surging-sparks-charcadet-033-191",
    "product_id": 589897,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "034",
@@ -749,8 +787,8 @@
    "url": "https://www.tcgplayer.com/product/589870/pokemon-sv08-surging-sparks-armarouge",
    "product_id": 589870,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "034",
@@ -760,8 +798,8 @@
    "url": "https://www.tcgplayer.com/product/589870/pokemon-sv08-surging-sparks-armarouge",
    "product_id": 589870,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "035",
@@ -771,8 +809,8 @@
    "url": "https://www.tcgplayer.com/product/589890/pokemon-sv08-surging-sparks-ceruledge-035-191",
    "product_id": 589890,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "035",
@@ -782,8 +820,8 @@
    "url": "https://www.tcgplayer.com/product/589890/pokemon-sv08-surging-sparks-ceruledge-035-191",
    "product_id": 589890,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "036",
@@ -793,8 +831,8 @@
    "url": "https://www.tcgplayer.com/product/589892/pokemon-sv08-surging-sparks-ceruledge-ex",
    "product_id": 589892,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "037",
@@ -804,8 +842,8 @@
    "url": "https://www.tcgplayer.com/product/590040/pokemon-sv08-surging-sparks-scovillain-ex-037-191",
    "product_id": 590040,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "038",
@@ -816,8 +854,8 @@
    "product_id": 594470,
    "variant": "normal",
    "deck": true,
-   "qty": 0,
-   "variant_label": "Normal (deck)"
+   "variant_label": "Normal (deck)",
+   "qty": 0
   },
   {
    "number": "038",
@@ -828,8 +866,8 @@
    "product_id": 589958,
    "variant": "holo",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/594470_400w.jpg",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "038",
@@ -840,8 +878,8 @@
    "product_id": 589958,
    "variant": "reverse",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/594470_400w.jpg",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "039",
@@ -851,8 +889,8 @@
    "url": "https://www.tcgplayer.com/product/590015/pokemon-sv08-surging-sparks-paldean-tauros-039-191",
    "product_id": 590015,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "039",
@@ -862,8 +900,8 @@
    "url": "https://www.tcgplayer.com/product/590015/pokemon-sv08-surging-sparks-paldean-tauros-039-191",
    "product_id": 590015,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "040",
@@ -873,8 +911,8 @@
    "url": "https://www.tcgplayer.com/product/589996/pokemon-sv08-surging-sparks-mantine",
    "product_id": 589996,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "040",
@@ -884,8 +922,8 @@
    "url": "https://www.tcgplayer.com/product/589996/pokemon-sv08-surging-sparks-mantine",
    "product_id": 589996,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "041",
@@ -895,8 +933,8 @@
    "url": "https://www.tcgplayer.com/product/589943/pokemon-sv08-surging-sparks-feebas-041-191",
    "product_id": 589943,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "041",
@@ -906,8 +944,8 @@
    "url": "https://www.tcgplayer.com/product/589943/pokemon-sv08-surging-sparks-feebas-041-191",
    "product_id": 589943,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "042",
@@ -917,8 +955,8 @@
    "url": "https://www.tcgplayer.com/product/590004/pokemon-sv08-surging-sparks-milotic-ex-042-191",
    "product_id": 590004,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "043",
@@ -928,8 +966,8 @@
    "url": "https://www.tcgplayer.com/product/590062/pokemon-sv08-surging-sparks-spheal-043-191",
    "product_id": 590062,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "043",
@@ -939,8 +977,8 @@
    "url": "https://www.tcgplayer.com/product/590062/pokemon-sv08-surging-sparks-spheal-043-191",
    "product_id": 590062,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "044",
@@ -950,8 +988,8 @@
    "url": "https://www.tcgplayer.com/product/590043/pokemon-sv08-surging-sparks-sealeo",
    "product_id": 590043,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "044",
@@ -961,8 +999,8 @@
    "url": "https://www.tcgplayer.com/product/590043/pokemon-sv08-surging-sparks-sealeo",
    "product_id": 590043,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "045",
@@ -972,8 +1010,8 @@
    "url": "https://www.tcgplayer.com/product/590093/pokemon-sv08-surging-sparks-walrein",
    "product_id": 590093,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "045",
@@ -983,8 +1021,8 @@
    "url": "https://www.tcgplayer.com/product/590093/pokemon-sv08-surging-sparks-walrein",
    "product_id": 590093,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "046",
@@ -994,8 +1032,8 @@
    "url": "https://www.tcgplayer.com/product/590044/pokemon-sv08-surging-sparks-shellos",
    "product_id": 590044,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "046",
@@ -1005,8 +1043,8 @@
    "url": "https://www.tcgplayer.com/product/590044/pokemon-sv08-surging-sparks-shellos",
    "product_id": 590044,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "047",
@@ -1016,8 +1054,8 @@
    "url": "https://www.tcgplayer.com/product/589909/pokemon-sv08-surging-sparks-cryogonal",
    "product_id": 589909,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "047",
@@ -1027,8 +1065,20 @@
    "url": "https://www.tcgplayer.com/product/589909/pokemon-sv08-surging-sparks-cryogonal",
    "product_id": 589909,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "047",
+   "name": "Cryogonal",
+   "rarity": "Common",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/650959_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/650959/pokemon-miscellaneous-cards-and-products-cryogonal-holiday-calendar",
+   "product_id": 650959,
+   "variant": "promo",
+   "special": "Holiday Calendar",
+   "variant_label": "Promo (Holiday Calendar)",
+   "qty": 0
   },
   {
    "number": "048",
@@ -1038,8 +1088,21 @@
    "url": "https://www.tcgplayer.com/product/589874/pokemon-sv08-surging-sparks-black-kyurem-ex-048-191",
    "product_id": 589874,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
+  },
+  {
+   "number": "048",
+   "name": "Black Kyurem ex",
+   "rarity": "Double Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/589874_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/664141/pokemon-miscellaneous-cards-and-products-black-kyurem-ex-surging-sparks-stamped",
+   "product_id": 664141,
+   "variant": "stamp",
+   "special": "Surging Sparks Stamped",
+   "image_borrowed": true,
+   "variant_label": "Stamped (Surging Sparks Stamped)",
+   "qty": 0
   },
   {
    "number": "049",
@@ -1049,8 +1112,8 @@
    "url": "https://www.tcgplayer.com/product/589883/pokemon-sv08-surging-sparks-bruxish-049-191",
    "product_id": 589883,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "049",
@@ -1060,8 +1123,8 @@
    "url": "https://www.tcgplayer.com/product/589883/pokemon-sv08-surging-sparks-bruxish-049-191",
    "product_id": 589883,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "050",
@@ -1071,8 +1134,8 @@
    "url": "https://www.tcgplayer.com/product/590031/pokemon-sv08-surging-sparks-quaxly",
    "product_id": 590031,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "050",
@@ -1082,8 +1145,20 @@
    "url": "https://www.tcgplayer.com/product/590031/pokemon-sv08-surging-sparks-quaxly",
    "product_id": 590031,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "050",
+   "name": "Quaxly",
+   "rarity": "Common",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/602876_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/602876/pokemon-miscellaneous-cards-and-products-quaxly-050-191",
+   "product_id": 602876,
+   "variant": "promo",
+   "special": "Miscellaneous Cards & Products",
+   "variant_label": "Promo (Miscellaneous Cards & Products)",
+   "qty": 0
   },
   {
    "number": "051",
@@ -1093,8 +1168,8 @@
    "url": "https://www.tcgplayer.com/product/590032/pokemon-sv08-surging-sparks-quaxwell",
    "product_id": 590032,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "051",
@@ -1104,8 +1179,8 @@
    "url": "https://www.tcgplayer.com/product/590032/pokemon-sv08-surging-sparks-quaxwell",
    "product_id": 590032,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "052",
@@ -1115,8 +1190,8 @@
    "url": "https://www.tcgplayer.com/product/590030/pokemon-sv08-surging-sparks-quaquaval",
    "product_id": 590030,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "052",
@@ -1126,8 +1201,8 @@
    "url": "https://www.tcgplayer.com/product/590030/pokemon-sv08-surging-sparks-quaquaval",
    "product_id": 590030,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "053",
@@ -1137,8 +1212,8 @@
    "url": "https://www.tcgplayer.com/product/589895/pokemon-sv08-surging-sparks-cetoddle",
    "product_id": 589895,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "053",
@@ -1148,8 +1223,8 @@
    "url": "https://www.tcgplayer.com/product/589895/pokemon-sv08-surging-sparks-cetoddle",
    "product_id": 589895,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "054",
@@ -1159,8 +1234,8 @@
    "url": "https://www.tcgplayer.com/product/589893/pokemon-sv08-surging-sparks-cetitan-054-191",
    "product_id": 589893,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "054",
@@ -1170,8 +1245,8 @@
    "url": "https://www.tcgplayer.com/product/589893/pokemon-sv08-surging-sparks-cetitan-054-191",
    "product_id": 589893,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "055",
@@ -1181,8 +1256,8 @@
    "url": "https://www.tcgplayer.com/product/589969/pokemon-sv08-surging-sparks-iron-bundle",
    "product_id": 589969,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "055",
@@ -1192,8 +1267,8 @@
    "url": "https://www.tcgplayer.com/product/589969/pokemon-sv08-surging-sparks-iron-bundle",
    "product_id": 589969,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "056",
@@ -1203,8 +1278,8 @@
    "url": "https://www.tcgplayer.com/product/589898/pokemon-sv08-surging-sparks-chien-pao",
    "product_id": 589898,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "056",
@@ -1214,8 +1289,8 @@
    "url": "https://www.tcgplayer.com/product/589898/pokemon-sv08-surging-sparks-chien-pao",
    "product_id": 589898,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "057",
@@ -1225,8 +1300,8 @@
    "url": "https://www.tcgplayer.com/product/590025/pokemon-sv08-surging-sparks-pikachu-ex-057-191",
    "product_id": 590025,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "058",
@@ -1236,8 +1311,8 @@
    "url": "https://www.tcgplayer.com/product/589992/pokemon-sv08-surging-sparks-magnemite",
    "product_id": 589992,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "058",
@@ -1247,8 +1322,8 @@
    "url": "https://www.tcgplayer.com/product/589992/pokemon-sv08-surging-sparks-magnemite",
    "product_id": 589992,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "059",
@@ -1258,8 +1333,8 @@
    "url": "https://www.tcgplayer.com/product/589993/pokemon-sv08-surging-sparks-magneton",
    "product_id": 589993,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "059",
@@ -1269,8 +1344,8 @@
    "url": "https://www.tcgplayer.com/product/589993/pokemon-sv08-surging-sparks-magneton",
    "product_id": 589993,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "060",
@@ -1280,8 +1355,8 @@
    "url": "https://www.tcgplayer.com/product/589994/pokemon-sv08-surging-sparks-magnezone",
    "product_id": 589994,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "060",
@@ -1291,8 +1366,8 @@
    "url": "https://www.tcgplayer.com/product/589994/pokemon-sv08-surging-sparks-magnezone",
    "product_id": 589994,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "061",
@@ -1302,8 +1377,8 @@
    "url": "https://www.tcgplayer.com/product/590036/pokemon-sv08-surging-sparks-rotom",
    "product_id": 590036,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "061",
@@ -1313,8 +1388,8 @@
    "url": "https://www.tcgplayer.com/product/590036/pokemon-sv08-surging-sparks-rotom",
    "product_id": 590036,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "062",
@@ -1324,8 +1399,8 @@
    "url": "https://www.tcgplayer.com/product/589876/pokemon-sv08-surging-sparks-blitzle",
    "product_id": 589876,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "062",
@@ -1335,8 +1410,8 @@
    "url": "https://www.tcgplayer.com/product/589876/pokemon-sv08-surging-sparks-blitzle",
    "product_id": 589876,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "063",
@@ -1346,8 +1421,8 @@
    "url": "https://www.tcgplayer.com/product/590100/pokemon-sv08-surging-sparks-zebstrika",
    "product_id": 590100,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "063",
@@ -1357,8 +1432,8 @@
    "url": "https://www.tcgplayer.com/product/590100/pokemon-sv08-surging-sparks-zebstrika",
    "product_id": 590100,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "064",
@@ -1368,8 +1443,8 @@
    "url": "https://www.tcgplayer.com/product/590064/pokemon-sv08-surging-sparks-stunfisk-064-191",
    "product_id": 590064,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "064",
@@ -1379,8 +1454,8 @@
    "url": "https://www.tcgplayer.com/product/590064/pokemon-sv08-surging-sparks-stunfisk-064-191",
    "product_id": 590064,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "065",
@@ -1391,8 +1466,8 @@
    "product_id": 594471,
    "variant": "normal",
    "deck": true,
-   "qty": 0,
-   "variant_label": "Normal (deck)"
+   "variant_label": "Normal (deck)",
+   "qty": 0
   },
   {
    "number": "065",
@@ -1403,8 +1478,8 @@
    "product_id": 590071,
    "variant": "holo",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/594471_400w.jpg",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "065",
@@ -1415,8 +1490,8 @@
    "product_id": 590071,
    "variant": "reverse",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/594471_400w.jpg",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "066",
@@ -1426,8 +1501,8 @@
    "url": "https://www.tcgplayer.com/product/590094/pokemon-sv08-surging-sparks-wattrel",
    "product_id": 590094,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "066",
@@ -1437,8 +1512,8 @@
    "url": "https://www.tcgplayer.com/product/590094/pokemon-sv08-surging-sparks-wattrel",
    "product_id": 590094,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "067",
@@ -1448,8 +1523,8 @@
    "url": "https://www.tcgplayer.com/product/589976/pokemon-sv08-surging-sparks-kilowattrel",
    "product_id": 589976,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "067",
@@ -1459,8 +1534,8 @@
    "url": "https://www.tcgplayer.com/product/589976/pokemon-sv08-surging-sparks-kilowattrel",
    "product_id": 589976,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "068",
@@ -1470,8 +1545,8 @@
    "url": "https://www.tcgplayer.com/product/589977/pokemon-sv08-surging-sparks-kilowattrel-ex",
    "product_id": 589977,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "069",
@@ -1481,8 +1556,8 @@
    "url": "https://www.tcgplayer.com/product/590008/pokemon-sv08-surging-sparks-miraidon",
    "product_id": 590008,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "069",
@@ -1492,8 +1567,8 @@
    "url": "https://www.tcgplayer.com/product/590008/pokemon-sv08-surging-sparks-miraidon",
    "product_id": 590008,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "070",
@@ -1503,8 +1578,8 @@
    "url": "https://www.tcgplayer.com/product/590079/pokemon-sv08-surging-sparks-togepi",
    "product_id": 590079,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "070",
@@ -1514,8 +1589,8 @@
    "url": "https://www.tcgplayer.com/product/590079/pokemon-sv08-surging-sparks-togepi",
    "product_id": 590079,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "071",
@@ -1525,8 +1600,8 @@
    "url": "https://www.tcgplayer.com/product/590080/pokemon-sv08-surging-sparks-togetic",
    "product_id": 590080,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "071",
@@ -1536,8 +1611,8 @@
    "url": "https://www.tcgplayer.com/product/590080/pokemon-sv08-surging-sparks-togetic",
    "product_id": 590080,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "072",
@@ -1547,8 +1622,8 @@
    "url": "https://www.tcgplayer.com/product/590078/pokemon-sv08-surging-sparks-togekiss",
    "product_id": 590078,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "072",
@@ -1558,8 +1633,21 @@
    "url": "https://www.tcgplayer.com/product/590078/pokemon-sv08-surging-sparks-togekiss",
    "product_id": 590078,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "072",
+   "name": "Togekiss",
+   "rarity": "Promo",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/590078_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/636306/pokemon-miscellaneous-cards-and-products-togekiss-072-191-cosmos-holo",
+   "product_id": 636306,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "image_borrowed": true,
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "073",
@@ -1569,8 +1657,8 @@
    "url": "https://www.tcgplayer.com/product/589997/pokemon-sv08-surging-sparks-marill",
    "product_id": 589997,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "073",
@@ -1580,8 +1668,8 @@
    "url": "https://www.tcgplayer.com/product/589997/pokemon-sv08-surging-sparks-marill",
    "product_id": 589997,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "074",
@@ -1591,8 +1679,8 @@
    "url": "https://www.tcgplayer.com/product/589872/pokemon-sv08-surging-sparks-azumarill",
    "product_id": 589872,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "074",
@@ -1602,8 +1690,8 @@
    "url": "https://www.tcgplayer.com/product/589872/pokemon-sv08-surging-sparks-azumarill",
    "product_id": 589872,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "075",
@@ -1613,8 +1701,8 @@
    "url": "https://www.tcgplayer.com/product/590059/pokemon-sv08-surging-sparks-smoochum",
    "product_id": 590059,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "075",
@@ -1624,8 +1712,8 @@
    "url": "https://www.tcgplayer.com/product/590059/pokemon-sv08-surging-sparks-smoochum",
    "product_id": 590059,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "076",
@@ -1635,8 +1723,20 @@
    "url": "https://www.tcgplayer.com/product/589983/pokemon-sv08-surging-sparks-latias-ex-076-191",
    "product_id": 589983,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
+  },
+  {
+   "number": "076",
+   "name": "Latias ex",
+   "rarity": "Double Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/663020_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/663020/pokemon-miscellaneous-cards-and-products-latias-ex-surging-sparks",
+   "product_id": 663020,
+   "variant": "promo",
+   "special": "Surging Sparks",
+   "variant_label": "Promo (Surging Sparks)",
+   "qty": 0
   },
   {
    "number": "077",
@@ -1646,8 +1746,8 @@
    "url": "https://www.tcgplayer.com/product/589986/pokemon-sv08-surging-sparks-latios-077-191",
    "product_id": 589986,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "077",
@@ -1657,8 +1757,8 @@
    "url": "https://www.tcgplayer.com/product/589986/pokemon-sv08-surging-sparks-latios-077-191",
    "product_id": 589986,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "078",
@@ -1668,8 +1768,8 @@
    "url": "https://www.tcgplayer.com/product/590084/pokemon-sv08-surging-sparks-uxie",
    "product_id": 590084,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "078",
@@ -1679,8 +1779,8 @@
    "url": "https://www.tcgplayer.com/product/590084/pokemon-sv08-surging-sparks-uxie",
    "product_id": 590084,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "079",
@@ -1690,8 +1790,8 @@
    "url": "https://www.tcgplayer.com/product/590002/pokemon-sv08-surging-sparks-mesprit-079-191",
    "product_id": 590002,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "079",
@@ -1701,8 +1801,8 @@
    "url": "https://www.tcgplayer.com/product/590002/pokemon-sv08-surging-sparks-mesprit-079-191",
    "product_id": 590002,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "080",
@@ -1712,8 +1812,8 @@
    "url": "https://www.tcgplayer.com/product/589871/pokemon-sv08-surging-sparks-azelf",
    "product_id": 589871,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "080",
@@ -1723,8 +1823,8 @@
    "url": "https://www.tcgplayer.com/product/589871/pokemon-sv08-surging-sparks-azelf",
    "product_id": 589871,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "081",
@@ -1734,8 +1834,8 @@
    "url": "https://www.tcgplayer.com/product/590048/pokemon-sv08-surging-sparks-sigilyph",
    "product_id": 590048,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "081",
@@ -1745,8 +1845,8 @@
    "url": "https://www.tcgplayer.com/product/590048/pokemon-sv08-surging-sparks-sigilyph",
    "product_id": 590048,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "082",
@@ -1756,8 +1856,8 @@
    "url": "https://www.tcgplayer.com/product/590097/pokemon-sv08-surging-sparks-yamask",
    "product_id": 590097,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "082",
@@ -1767,8 +1867,8 @@
    "url": "https://www.tcgplayer.com/product/590097/pokemon-sv08-surging-sparks-yamask",
    "product_id": 590097,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "083",
@@ -1778,8 +1878,8 @@
    "url": "https://www.tcgplayer.com/product/589905/pokemon-sv08-surging-sparks-cofagrigus",
    "product_id": 589905,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "083",
@@ -1789,8 +1889,8 @@
    "url": "https://www.tcgplayer.com/product/589905/pokemon-sv08-surging-sparks-cofagrigus",
    "product_id": 589905,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "084",
@@ -1800,8 +1900,8 @@
    "url": "https://www.tcgplayer.com/product/589936/pokemon-sv08-surging-sparks-espurr",
    "product_id": 589936,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "084",
@@ -1811,8 +1911,8 @@
    "url": "https://www.tcgplayer.com/product/589936/pokemon-sv08-surging-sparks-espurr",
    "product_id": 589936,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "085",
@@ -1822,8 +1922,8 @@
    "url": "https://www.tcgplayer.com/product/590001/pokemon-sv08-surging-sparks-meowstic",
    "product_id": 590001,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "085",
@@ -1833,8 +1933,8 @@
    "url": "https://www.tcgplayer.com/product/590001/pokemon-sv08-surging-sparks-meowstic",
    "product_id": 590001,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "086",
@@ -1844,8 +1944,8 @@
    "url": "https://www.tcgplayer.com/product/590069/pokemon-sv08-surging-sparks-sylveon-ex",
    "product_id": 590069,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "087",
@@ -1855,8 +1955,8 @@
    "url": "https://www.tcgplayer.com/product/589914/pokemon-sv08-surging-sparks-dedenne",
    "product_id": 589914,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "087",
@@ -1866,8 +1966,8 @@
    "url": "https://www.tcgplayer.com/product/589914/pokemon-sv08-surging-sparks-dedenne",
    "product_id": 589914,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "088",
@@ -1877,8 +1977,8 @@
    "url": "https://www.tcgplayer.com/product/590096/pokemon-sv08-surging-sparks-xerneas",
    "product_id": 590096,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "088",
@@ -1888,8 +1988,8 @@
    "url": "https://www.tcgplayer.com/product/590096/pokemon-sv08-surging-sparks-xerneas",
    "product_id": 590096,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "089",
@@ -1899,8 +1999,8 @@
    "url": "https://www.tcgplayer.com/product/590013/pokemon-sv08-surging-sparks-oricorio-089-191",
    "product_id": 590013,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "089",
@@ -1910,8 +2010,8 @@
    "url": "https://www.tcgplayer.com/product/590013/pokemon-sv08-surging-sparks-oricorio-089-191",
    "product_id": 590013,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "090",
@@ -1921,8 +2021,8 @@
    "url": "https://www.tcgplayer.com/product/590038/pokemon-sv08-surging-sparks-sandygast",
    "product_id": 590038,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "090",
@@ -1932,8 +2032,8 @@
    "url": "https://www.tcgplayer.com/product/590038/pokemon-sv08-surging-sparks-sandygast",
    "product_id": 590038,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "091",
@@ -1943,8 +2043,8 @@
    "url": "https://www.tcgplayer.com/product/590018/pokemon-sv08-surging-sparks-palossand-ex-091-191",
    "product_id": 590018,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "092",
@@ -1954,8 +2054,8 @@
    "url": "https://www.tcgplayer.com/product/590072/pokemon-sv08-surging-sparks-tapu-lele",
    "product_id": 590072,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "092",
@@ -1965,8 +2065,8 @@
    "url": "https://www.tcgplayer.com/product/590072/pokemon-sv08-surging-sparks-tapu-lele",
    "product_id": 590072,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "093",
@@ -1976,8 +2076,8 @@
    "url": "https://www.tcgplayer.com/product/589968/pokemon-sv08-surging-sparks-indeedee",
    "product_id": 589968,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "093",
@@ -1987,8 +2087,8 @@
    "url": "https://www.tcgplayer.com/product/589968/pokemon-sv08-surging-sparks-indeedee",
    "product_id": 589968,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "094",
@@ -1998,8 +2098,8 @@
    "url": "https://www.tcgplayer.com/product/589948/pokemon-sv08-surging-sparks-flittle",
    "product_id": 589948,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "094",
@@ -2009,8 +2109,8 @@
    "url": "https://www.tcgplayer.com/product/589948/pokemon-sv08-surging-sparks-flittle",
    "product_id": 589948,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "095",
@@ -2020,8 +2120,8 @@
    "url": "https://www.tcgplayer.com/product/589935/pokemon-sv08-surging-sparks-espathra",
    "product_id": 589935,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "095",
@@ -2031,8 +2131,8 @@
    "url": "https://www.tcgplayer.com/product/589935/pokemon-sv08-surging-sparks-espathra",
    "product_id": 589935,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "096",
@@ -2042,8 +2142,8 @@
    "url": "https://www.tcgplayer.com/product/589949/pokemon-sv08-surging-sparks-flutter-mane",
    "product_id": 589949,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "096",
@@ -2053,8 +2153,8 @@
    "url": "https://www.tcgplayer.com/product/589949/pokemon-sv08-surging-sparks-flutter-mane",
    "product_id": 589949,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "097",
@@ -2064,8 +2164,8 @@
    "url": "https://www.tcgplayer.com/product/589955/pokemon-sv08-surging-sparks-gimmighoul",
    "product_id": 589955,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "097",
@@ -2075,8 +2175,8 @@
    "url": "https://www.tcgplayer.com/product/589955/pokemon-sv08-surging-sparks-gimmighoul",
    "product_id": 589955,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "098",
@@ -2086,8 +2186,8 @@
    "url": "https://www.tcgplayer.com/product/589995/pokemon-sv08-surging-sparks-mankey",
    "product_id": 589995,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "098",
@@ -2097,8 +2197,8 @@
    "url": "https://www.tcgplayer.com/product/589995/pokemon-sv08-surging-sparks-mankey",
    "product_id": 589995,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "099",
@@ -2108,8 +2208,8 @@
    "url": "https://www.tcgplayer.com/product/590029/pokemon-sv08-surging-sparks-primeape",
    "product_id": 590029,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "099",
@@ -2119,8 +2219,8 @@
    "url": "https://www.tcgplayer.com/product/590029/pokemon-sv08-surging-sparks-primeape",
    "product_id": 590029,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "100",
@@ -2130,8 +2230,8 @@
    "url": "https://www.tcgplayer.com/product/589863/pokemon-sv08-surging-sparks-annihilape",
    "product_id": 589863,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "100",
@@ -2141,8 +2241,8 @@
    "url": "https://www.tcgplayer.com/product/589863/pokemon-sv08-surging-sparks-annihilape",
    "product_id": 589863,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "101",
@@ -2152,8 +2252,8 @@
    "url": "https://www.tcgplayer.com/product/590016/pokemon-sv08-surging-sparks-paldean-tauros-101-191",
    "product_id": 590016,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "101",
@@ -2163,8 +2263,8 @@
    "url": "https://www.tcgplayer.com/product/590016/pokemon-sv08-surging-sparks-paldean-tauros-101-191",
    "product_id": 590016,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "102",
@@ -2174,8 +2274,8 @@
    "url": "https://www.tcgplayer.com/product/590023/pokemon-sv08-surging-sparks-phanpy-102-191",
    "product_id": 590023,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "102",
@@ -2185,8 +2285,8 @@
    "url": "https://www.tcgplayer.com/product/590023/pokemon-sv08-surging-sparks-phanpy-102-191",
    "product_id": 590023,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "103",
@@ -2196,8 +2296,8 @@
    "url": "https://www.tcgplayer.com/product/589919/pokemon-sv08-surging-sparks-donphan",
    "product_id": 589919,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "103",
@@ -2207,8 +2307,8 @@
    "url": "https://www.tcgplayer.com/product/589919/pokemon-sv08-surging-sparks-donphan",
    "product_id": 589919,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "104",
@@ -2218,8 +2318,8 @@
    "url": "https://www.tcgplayer.com/product/590081/pokemon-sv08-surging-sparks-trapinch",
    "product_id": 590081,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "104",
@@ -2229,8 +2329,8 @@
    "url": "https://www.tcgplayer.com/product/590081/pokemon-sv08-surging-sparks-trapinch",
    "product_id": 590081,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "105",
@@ -2240,8 +2340,8 @@
    "url": "https://www.tcgplayer.com/product/590085/pokemon-sv08-surging-sparks-vibrava-105-191",
    "product_id": 590085,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "105",
@@ -2251,8 +2351,8 @@
    "url": "https://www.tcgplayer.com/product/590085/pokemon-sv08-surging-sparks-vibrava-105-191",
    "product_id": 590085,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "106",
@@ -2262,8 +2362,8 @@
    "url": "https://www.tcgplayer.com/product/589950/pokemon-sv08-surging-sparks-flygon-ex-106-191",
    "product_id": 589950,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "107",
@@ -2273,8 +2373,8 @@
    "url": "https://www.tcgplayer.com/product/589953/pokemon-sv08-surging-sparks-gastrodon",
    "product_id": 589953,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "107",
@@ -2284,8 +2384,21 @@
    "url": "https://www.tcgplayer.com/product/589953/pokemon-sv08-surging-sparks-gastrodon",
    "product_id": 589953,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "107",
+   "name": "Gastrodon",
+   "rarity": "Promo",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/589953_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/636308/pokemon-miscellaneous-cards-and-products-gastrodon-107-191-cosmos-holo",
+   "product_id": 636308,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "image_borrowed": true,
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "108",
@@ -2295,8 +2408,8 @@
    "url": "https://www.tcgplayer.com/product/589926/pokemon-sv08-surging-sparks-drilbur",
    "product_id": 589926,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "108",
@@ -2306,8 +2419,8 @@
    "url": "https://www.tcgplayer.com/product/589926/pokemon-sv08-surging-sparks-drilbur",
    "product_id": 589926,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "109",
@@ -2317,8 +2430,8 @@
    "url": "https://www.tcgplayer.com/product/589938/pokemon-sv08-surging-sparks-excadrill",
    "product_id": 589938,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "109",
@@ -2328,8 +2441,8 @@
    "url": "https://www.tcgplayer.com/product/589938/pokemon-sv08-surging-sparks-excadrill",
    "product_id": 589938,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "110",
@@ -2339,8 +2452,8 @@
    "url": "https://www.tcgplayer.com/product/589980/pokemon-sv08-surging-sparks-landorus",
    "product_id": 589980,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "110",
@@ -2350,8 +2463,8 @@
    "url": "https://www.tcgplayer.com/product/589980/pokemon-sv08-surging-sparks-landorus",
    "product_id": 589980,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "111",
@@ -2361,8 +2474,8 @@
    "url": "https://www.tcgplayer.com/product/590022/pokemon-sv08-surging-sparks-passimian",
    "product_id": 590022,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "111",
@@ -2372,8 +2485,8 @@
    "url": "https://www.tcgplayer.com/product/590022/pokemon-sv08-surging-sparks-passimian",
    "product_id": 590022,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "112",
@@ -2383,8 +2496,8 @@
    "url": "https://www.tcgplayer.com/product/589903/pokemon-sv08-surging-sparks-clobbopus-112-191",
    "product_id": 589903,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "112",
@@ -2394,8 +2507,8 @@
    "url": "https://www.tcgplayer.com/product/589903/pokemon-sv08-surging-sparks-clobbopus-112-191",
    "product_id": 589903,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "113",
@@ -2405,8 +2518,8 @@
    "url": "https://www.tcgplayer.com/product/589960/pokemon-sv08-surging-sparks-grapploct",
    "product_id": 589960,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "113",
@@ -2416,8 +2529,8 @@
    "url": "https://www.tcgplayer.com/product/589960/pokemon-sv08-surging-sparks-grapploct",
    "product_id": 589960,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "114",
@@ -2427,8 +2540,8 @@
    "url": "https://www.tcgplayer.com/product/589956/pokemon-sv08-surging-sparks-glimmet",
    "product_id": 589956,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "114",
@@ -2438,8 +2551,8 @@
    "url": "https://www.tcgplayer.com/product/589956/pokemon-sv08-surging-sparks-glimmet",
    "product_id": 589956,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "115",
@@ -2449,8 +2562,8 @@
    "url": "https://www.tcgplayer.com/product/589957/pokemon-sv08-surging-sparks-glimmora",
    "product_id": 589957,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "115",
@@ -2460,8 +2573,8 @@
    "url": "https://www.tcgplayer.com/product/589957/pokemon-sv08-surging-sparks-glimmora",
    "product_id": 589957,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "116",
@@ -2471,8 +2584,8 @@
    "url": "https://www.tcgplayer.com/product/589979/pokemon-sv08-surging-sparks-koraidon",
    "product_id": 589979,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "116",
@@ -2482,8 +2595,8 @@
    "url": "https://www.tcgplayer.com/product/589979/pokemon-sv08-surging-sparks-koraidon",
    "product_id": 589979,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "117",
@@ -2493,8 +2606,8 @@
    "url": "https://www.tcgplayer.com/product/589916/pokemon-sv08-surging-sparks-deino",
    "product_id": 589916,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "117",
@@ -2504,8 +2617,8 @@
    "url": "https://www.tcgplayer.com/product/589916/pokemon-sv08-surging-sparks-deino",
    "product_id": 589916,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "118",
@@ -2515,8 +2628,8 @@
    "url": "https://www.tcgplayer.com/product/590101/pokemon-sv08-surging-sparks-zweilous",
    "product_id": 590101,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "118",
@@ -2526,8 +2639,8 @@
    "url": "https://www.tcgplayer.com/product/590101/pokemon-sv08-surging-sparks-zweilous",
    "product_id": 590101,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "119",
@@ -2537,8 +2650,8 @@
    "url": "https://www.tcgplayer.com/product/589965/pokemon-sv08-surging-sparks-hydreigon-ex-119-191",
    "product_id": 589965,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "120",
@@ -2548,8 +2661,8 @@
    "url": "https://www.tcgplayer.com/product/590047/pokemon-sv08-surging-sparks-shroodle",
    "product_id": 590047,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "120",
@@ -2559,8 +2672,8 @@
    "url": "https://www.tcgplayer.com/product/590047/pokemon-sv08-surging-sparks-shroodle",
    "product_id": 590047,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "121",
@@ -2570,8 +2683,8 @@
    "url": "https://www.tcgplayer.com/product/589959/pokemon-sv08-surging-sparks-grafaiai",
    "product_id": 589959,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "121",
@@ -2581,8 +2694,8 @@
    "url": "https://www.tcgplayer.com/product/589959/pokemon-sv08-surging-sparks-grafaiai",
    "product_id": 589959,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "122",
@@ -2592,8 +2705,8 @@
    "url": "https://www.tcgplayer.com/product/589855/pokemon-sv08-surging-sparks-alolan-diglett",
    "product_id": 589855,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "122",
@@ -2603,8 +2716,8 @@
    "url": "https://www.tcgplayer.com/product/589855/pokemon-sv08-surging-sparks-alolan-diglett",
    "product_id": 589855,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "123",
@@ -2614,8 +2727,8 @@
    "url": "https://www.tcgplayer.com/product/589856/pokemon-sv08-surging-sparks-alolan-dugtrio-123-191",
    "product_id": 589856,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "123",
@@ -2625,8 +2738,8 @@
    "url": "https://www.tcgplayer.com/product/589856/pokemon-sv08-surging-sparks-alolan-dugtrio-123-191",
    "product_id": 589856,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "124",
@@ -2636,8 +2749,8 @@
    "url": "https://www.tcgplayer.com/product/590051/pokemon-sv08-surging-sparks-skarmory-124-191",
    "product_id": 590051,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "124",
@@ -2647,8 +2760,8 @@
    "url": "https://www.tcgplayer.com/product/590051/pokemon-sv08-surging-sparks-skarmory-124-191",
    "product_id": 590051,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "125",
@@ -2658,8 +2771,8 @@
    "url": "https://www.tcgplayer.com/product/590034/pokemon-sv08-surging-sparks-registeel",
    "product_id": 590034,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "125",
@@ -2669,8 +2782,8 @@
    "url": "https://www.tcgplayer.com/product/590034/pokemon-sv08-surging-sparks-registeel",
    "product_id": 590034,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "126",
@@ -2680,8 +2793,8 @@
    "url": "https://www.tcgplayer.com/product/589882/pokemon-sv08-surging-sparks-bronzor",
    "product_id": 589882,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "126",
@@ -2691,8 +2804,8 @@
    "url": "https://www.tcgplayer.com/product/589882/pokemon-sv08-surging-sparks-bronzor",
    "product_id": 589882,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "127",
@@ -2702,8 +2815,8 @@
    "url": "https://www.tcgplayer.com/product/589881/pokemon-sv08-surging-sparks-bronzong",
    "product_id": 589881,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "127",
@@ -2713,8 +2826,8 @@
    "url": "https://www.tcgplayer.com/product/589881/pokemon-sv08-surging-sparks-bronzong",
    "product_id": 589881,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "128",
@@ -2724,8 +2837,8 @@
    "url": "https://www.tcgplayer.com/product/589978/pokemon-sv08-surging-sparks-klefki",
    "product_id": 589978,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "128",
@@ -2735,8 +2848,8 @@
    "url": "https://www.tcgplayer.com/product/589978/pokemon-sv08-surging-sparks-klefki",
    "product_id": 589978,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "129",
@@ -2746,8 +2859,8 @@
    "url": "https://www.tcgplayer.com/product/589927/pokemon-sv08-surging-sparks-duraludon",
    "product_id": 589927,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "129",
@@ -2757,8 +2870,20 @@
    "url": "https://www.tcgplayer.com/product/589927/pokemon-sv08-surging-sparks-duraludon",
    "product_id": 589927,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "129",
+   "name": "Duraludon",
+   "rarity": "Common",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/663168_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/663168/pokemon-miscellaneous-cards-and-products-duraludon-surging-sparks",
+   "product_id": 663168,
+   "variant": "promo",
+   "special": "Surging Sparks",
+   "variant_label": "Promo (Surging Sparks)",
+   "qty": 0
   },
   {
    "number": "130",
@@ -2768,8 +2893,21 @@
    "url": "https://www.tcgplayer.com/product/589867/pokemon-sv08-surging-sparks-archaludon-ex-130-191",
    "product_id": 589867,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
+  },
+  {
+   "number": "130",
+   "name": "Archaludon ex",
+   "rarity": "Double Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/589867_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/664147/pokemon-miscellaneous-cards-and-products-archaludon-ex-surging-sparks-stamped",
+   "product_id": 664147,
+   "variant": "stamp",
+   "special": "Surging Sparks Stamped",
+   "image_borrowed": true,
+   "variant_label": "Stamped (Surging Sparks Stamped)",
+   "qty": 0
   },
   {
    "number": "131",
@@ -2779,8 +2917,8 @@
    "url": "https://www.tcgplayer.com/product/589954/pokemon-sv08-surging-sparks-gholdengo",
    "product_id": 589954,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "131",
@@ -2790,8 +2928,8 @@
    "url": "https://www.tcgplayer.com/product/589954/pokemon-sv08-surging-sparks-gholdengo",
    "product_id": 589954,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "132",
@@ -2801,8 +2939,8 @@
    "url": "https://www.tcgplayer.com/product/589970/pokemon-sv08-surging-sparks-iron-crown",
    "product_id": 589970,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "132",
@@ -2812,8 +2950,8 @@
    "url": "https://www.tcgplayer.com/product/589970/pokemon-sv08-surging-sparks-iron-crown",
    "product_id": 589970,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "133",
@@ -2823,8 +2961,8 @@
    "url": "https://www.tcgplayer.com/product/589858/pokemon-sv08-surging-sparks-alolan-exeggutor-ex-133-191",
    "product_id": 589858,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "134",
@@ -2834,8 +2972,8 @@
    "url": "https://www.tcgplayer.com/product/589861/pokemon-sv08-surging-sparks-altaria",
    "product_id": 589861,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "134",
@@ -2845,8 +2983,8 @@
    "url": "https://www.tcgplayer.com/product/589861/pokemon-sv08-surging-sparks-altaria",
    "product_id": 589861,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "135",
@@ -2856,8 +2994,8 @@
    "url": "https://www.tcgplayer.com/product/589918/pokemon-sv08-surging-sparks-dialga",
    "product_id": 589918,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "135",
@@ -2867,8 +3005,8 @@
    "url": "https://www.tcgplayer.com/product/589918/pokemon-sv08-surging-sparks-dialga",
    "product_id": 589918,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "136",
@@ -2878,8 +3016,8 @@
    "url": "https://www.tcgplayer.com/product/590017/pokemon-sv08-surging-sparks-palkia",
    "product_id": 590017,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "136",
@@ -2889,8 +3027,8 @@
    "url": "https://www.tcgplayer.com/product/590017/pokemon-sv08-surging-sparks-palkia",
    "product_id": 590017,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "137",
@@ -2900,8 +3038,8 @@
    "url": "https://www.tcgplayer.com/product/590082/pokemon-sv08-surging-sparks-turtonator",
    "product_id": 590082,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "137",
@@ -2911,8 +3049,8 @@
    "url": "https://www.tcgplayer.com/product/590082/pokemon-sv08-surging-sparks-turtonator",
    "product_id": 590082,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "138",
@@ -2922,8 +3060,8 @@
    "url": "https://www.tcgplayer.com/product/589866/pokemon-sv08-surging-sparks-applin",
    "product_id": 589866,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "138",
@@ -2933,8 +3071,8 @@
    "url": "https://www.tcgplayer.com/product/589866/pokemon-sv08-surging-sparks-applin",
    "product_id": 589866,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "139",
@@ -2944,8 +3082,8 @@
    "url": "https://www.tcgplayer.com/product/589946/pokemon-sv08-surging-sparks-flapple-139-191",
    "product_id": 589946,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "139",
@@ -2955,8 +3093,8 @@
    "url": "https://www.tcgplayer.com/product/589946/pokemon-sv08-surging-sparks-flapple-139-191",
    "product_id": 589946,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "140",
@@ -2966,8 +3104,8 @@
    "url": "https://www.tcgplayer.com/product/589864/pokemon-sv08-surging-sparks-appletun-140-191",
    "product_id": 589864,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "140",
@@ -2977,8 +3115,8 @@
    "url": "https://www.tcgplayer.com/product/589864/pokemon-sv08-surging-sparks-appletun-140-191",
    "product_id": 589864,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "141",
@@ -2988,8 +3126,8 @@
    "url": "https://www.tcgplayer.com/product/589937/pokemon-sv08-surging-sparks-eternatus",
    "product_id": 589937,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "141",
@@ -2999,8 +3137,8 @@
    "url": "https://www.tcgplayer.com/product/589937/pokemon-sv08-surging-sparks-eternatus",
    "product_id": 589937,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "142",
@@ -3010,8 +3148,8 @@
    "url": "https://www.tcgplayer.com/product/590073/pokemon-sv08-surging-sparks-tatsugiri-ex-142-191",
    "product_id": 590073,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "143",
@@ -3021,8 +3159,8 @@
    "url": "https://www.tcgplayer.com/product/589932/pokemon-sv08-surging-sparks-eevee",
    "product_id": 589932,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "143",
@@ -3032,8 +3170,8 @@
    "url": "https://www.tcgplayer.com/product/589932/pokemon-sv08-surging-sparks-eevee",
    "product_id": 589932,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "144",
@@ -3043,8 +3181,8 @@
    "url": "https://www.tcgplayer.com/product/590060/pokemon-sv08-surging-sparks-snorlax",
    "product_id": 590060,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "144",
@@ -3054,8 +3192,8 @@
    "url": "https://www.tcgplayer.com/product/590060/pokemon-sv08-surging-sparks-snorlax",
    "product_id": 590060,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "145",
@@ -3065,8 +3203,8 @@
    "url": "https://www.tcgplayer.com/product/590056/pokemon-sv08-surging-sparks-slakoth-145-191",
    "product_id": 590056,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "145",
@@ -3076,8 +3214,8 @@
    "url": "https://www.tcgplayer.com/product/590056/pokemon-sv08-surging-sparks-slakoth-145-191",
    "product_id": 590056,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "146",
@@ -3087,8 +3225,8 @@
    "url": "https://www.tcgplayer.com/product/590088/pokemon-sv08-surging-sparks-vigoroth",
    "product_id": 590088,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "146",
@@ -3098,8 +3236,8 @@
    "url": "https://www.tcgplayer.com/product/590088/pokemon-sv08-surging-sparks-vigoroth",
    "product_id": 590088,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "147",
@@ -3109,8 +3247,8 @@
    "url": "https://www.tcgplayer.com/product/590054/pokemon-sv08-surging-sparks-slaking-ex-147-191",
    "product_id": 590054,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "148",
@@ -3120,8 +3258,8 @@
    "url": "https://www.tcgplayer.com/product/590068/pokemon-sv08-surging-sparks-swablu",
    "product_id": 590068,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "148",
@@ -3131,8 +3269,8 @@
    "url": "https://www.tcgplayer.com/product/590068/pokemon-sv08-surging-sparks-swablu",
    "product_id": 590068,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "149",
@@ -3142,8 +3280,8 @@
    "url": "https://www.tcgplayer.com/product/590098/pokemon-sv08-surging-sparks-zangoose",
    "product_id": 590098,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "149",
@@ -3153,8 +3291,8 @@
    "url": "https://www.tcgplayer.com/product/590098/pokemon-sv08-surging-sparks-zangoose",
    "product_id": 590098,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "150",
@@ -3164,8 +3302,8 @@
    "url": "https://www.tcgplayer.com/product/589974/pokemon-sv08-surging-sparks-kecleon-150-191",
    "product_id": 589974,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "150",
@@ -3175,8 +3313,8 @@
    "url": "https://www.tcgplayer.com/product/589974/pokemon-sv08-surging-sparks-kecleon-150-191",
    "product_id": 589974,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "151",
@@ -3186,8 +3324,8 @@
    "url": "https://www.tcgplayer.com/product/589877/pokemon-sv08-surging-sparks-bouffalant",
    "product_id": 589877,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "151",
@@ -3197,8 +3335,8 @@
    "url": "https://www.tcgplayer.com/product/589877/pokemon-sv08-surging-sparks-bouffalant",
    "product_id": 589877,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "152",
@@ -3208,8 +3346,8 @@
    "url": "https://www.tcgplayer.com/product/590037/pokemon-sv08-surging-sparks-rufflet",
    "product_id": 590037,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "152",
@@ -3219,8 +3357,8 @@
    "url": "https://www.tcgplayer.com/product/590037/pokemon-sv08-surging-sparks-rufflet",
    "product_id": 590037,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "153",
@@ -3230,8 +3368,8 @@
    "url": "https://www.tcgplayer.com/product/589878/pokemon-sv08-surging-sparks-braviary-153-191",
    "product_id": 589878,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "153",
@@ -3241,8 +3379,8 @@
    "url": "https://www.tcgplayer.com/product/589878/pokemon-sv08-surging-sparks-braviary-153-191",
    "product_id": 589878,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "154",
@@ -3252,8 +3390,8 @@
    "url": "https://www.tcgplayer.com/product/589963/pokemon-sv08-surging-sparks-helioptile",
    "product_id": 589963,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "154",
@@ -3263,8 +3401,8 @@
    "url": "https://www.tcgplayer.com/product/589963/pokemon-sv08-surging-sparks-helioptile",
    "product_id": 589963,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "155",
@@ -3274,8 +3412,8 @@
    "url": "https://www.tcgplayer.com/product/589962/pokemon-sv08-surging-sparks-heliolisk",
    "product_id": 589962,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "155",
@@ -3285,8 +3423,8 @@
    "url": "https://www.tcgplayer.com/product/589962/pokemon-sv08-surging-sparks-heliolisk",
    "product_id": 589962,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "156",
@@ -3296,8 +3434,8 @@
    "url": "https://www.tcgplayer.com/product/590011/pokemon-sv08-surging-sparks-oranguru",
    "product_id": 590011,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "156",
@@ -3307,8 +3445,8 @@
    "url": "https://www.tcgplayer.com/product/590011/pokemon-sv08-surging-sparks-oranguru",
    "product_id": 590011,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "157",
@@ -3318,8 +3456,8 @@
    "url": "https://www.tcgplayer.com/product/590070/pokemon-sv08-surging-sparks-tandemaus",
    "product_id": 590070,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "157",
@@ -3329,8 +3467,8 @@
    "url": "https://www.tcgplayer.com/product/590070/pokemon-sv08-surging-sparks-tandemaus",
    "product_id": 590070,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "158",
@@ -3340,8 +3478,8 @@
    "url": "https://www.tcgplayer.com/product/589998/pokemon-sv08-surging-sparks-maushold",
    "product_id": 589998,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "158",
@@ -3351,8 +3489,8 @@
    "url": "https://www.tcgplayer.com/product/589998/pokemon-sv08-surging-sparks-maushold",
    "product_id": 589998,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "159",
@@ -3362,8 +3500,8 @@
    "url": "https://www.tcgplayer.com/product/589910/pokemon-sv08-surging-sparks-cyclizar-ex-159-191",
    "product_id": 589910,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "160",
@@ -3373,8 +3511,8 @@
    "url": "https://www.tcgplayer.com/product/589945/pokemon-sv08-surging-sparks-flamigo-ex",
    "product_id": 589945,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "161",
@@ -3384,8 +3522,8 @@
    "url": "https://www.tcgplayer.com/product/590077/pokemon-sv08-surging-sparks-terapagos",
    "product_id": 590077,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "161",
@@ -3395,8 +3533,20 @@
    "url": "https://www.tcgplayer.com/product/590077/pokemon-sv08-surging-sparks-terapagos",
    "product_id": 590077,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "161",
+   "name": "Terapagos",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/602872_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/602872/pokemon-miscellaneous-cards-and-products-terapagos-161-191",
+   "product_id": 602872,
+   "variant": "promo",
+   "special": "Miscellaneous Cards & Products",
+   "variant_label": "Promo (Miscellaneous Cards & Products)",
+   "qty": 0
   },
   {
    "number": "162",
@@ -3406,8 +3556,8 @@
    "url": "https://www.tcgplayer.com/product/589862/pokemon-sv08-surging-sparks-amulet-of-hope",
    "product_id": 589862,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "163",
@@ -3417,8 +3567,8 @@
    "url": "https://www.tcgplayer.com/product/589873/pokemon-sv08-surging-sparks-babiri-berry",
    "product_id": 589873,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "163",
@@ -3428,8 +3578,8 @@
    "url": "https://www.tcgplayer.com/product/589873/pokemon-sv08-surging-sparks-babiri-berry",
    "product_id": 589873,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "164",
@@ -3439,8 +3589,8 @@
    "url": "https://www.tcgplayer.com/product/589880/pokemon-sv08-surging-sparks-brilliant-blender",
    "product_id": 589880,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "165",
@@ -3450,8 +3600,8 @@
    "url": "https://www.tcgplayer.com/product/589885/pokemon-sv08-surging-sparks-call-bell",
    "product_id": 589885,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "165",
@@ -3461,8 +3611,8 @@
    "url": "https://www.tcgplayer.com/product/589885/pokemon-sv08-surging-sparks-call-bell",
    "product_id": 589885,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "166",
@@ -3472,8 +3622,8 @@
    "url": "https://www.tcgplayer.com/product/589899/pokemon-sv08-surging-sparks-chill-teaser-toy",
    "product_id": 589899,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "166",
@@ -3483,8 +3633,8 @@
    "url": "https://www.tcgplayer.com/product/589899/pokemon-sv08-surging-sparks-chill-teaser-toy",
    "product_id": 589899,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "167",
@@ -3494,8 +3644,8 @@
    "url": "https://www.tcgplayer.com/product/589900/pokemon-sv08-surging-sparks-clemonts-quick-wit-167-191",
    "product_id": 589900,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "167",
@@ -3505,8 +3655,8 @@
    "url": "https://www.tcgplayer.com/product/589900/pokemon-sv08-surging-sparks-clemonts-quick-wit-167-191",
    "product_id": 589900,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "168",
@@ -3516,8 +3666,8 @@
    "url": "https://www.tcgplayer.com/product/589906/pokemon-sv08-surging-sparks-colbur-berry",
    "product_id": 589906,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "168",
@@ -3527,8 +3677,8 @@
    "url": "https://www.tcgplayer.com/product/589906/pokemon-sv08-surging-sparks-colbur-berry",
    "product_id": 589906,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "169",
@@ -3538,8 +3688,8 @@
    "url": "https://www.tcgplayer.com/product/589907/pokemon-sv08-surging-sparks-counter-gain",
    "product_id": 589907,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "169",
@@ -3549,8 +3699,8 @@
    "url": "https://www.tcgplayer.com/product/589907/pokemon-sv08-surging-sparks-counter-gain",
    "product_id": 589907,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "170",
@@ -3560,8 +3710,8 @@
    "url": "https://www.tcgplayer.com/product/589912/pokemon-sv08-surging-sparks-cyrano-170-191",
    "product_id": 589912,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "170",
@@ -3571,8 +3721,8 @@
    "url": "https://www.tcgplayer.com/product/589912/pokemon-sv08-surging-sparks-cyrano-170-191",
    "product_id": 589912,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "171",
@@ -3582,8 +3732,8 @@
    "url": "https://www.tcgplayer.com/product/589915/pokemon-sv08-surging-sparks-deduction-kit",
    "product_id": 589915,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "171",
@@ -3593,8 +3743,8 @@
    "url": "https://www.tcgplayer.com/product/589915/pokemon-sv08-surging-sparks-deduction-kit",
    "product_id": 589915,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "172",
@@ -3604,8 +3754,8 @@
    "url": "https://www.tcgplayer.com/product/589920/pokemon-sv08-surging-sparks-dragon-elixir",
    "product_id": 589920,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "172",
@@ -3615,8 +3765,8 @@
    "url": "https://www.tcgplayer.com/product/589920/pokemon-sv08-surging-sparks-dragon-elixir",
    "product_id": 589920,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "173",
@@ -3626,8 +3776,8 @@
    "url": "https://www.tcgplayer.com/product/589921/pokemon-sv08-surging-sparks-drasna-173-191",
    "product_id": 589921,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "173",
@@ -3637,8 +3787,8 @@
    "url": "https://www.tcgplayer.com/product/589921/pokemon-sv08-surging-sparks-drasna-173-191",
    "product_id": 589921,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "174",
@@ -3648,8 +3798,8 @@
    "url": "https://www.tcgplayer.com/product/589923/pokemon-sv08-surging-sparks-drayton-174-191",
    "product_id": 589923,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "174",
@@ -3659,8 +3809,8 @@
    "url": "https://www.tcgplayer.com/product/589923/pokemon-sv08-surging-sparks-drayton-174-191",
    "product_id": 589923,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "175",
@@ -3670,8 +3820,8 @@
    "url": "https://www.tcgplayer.com/product/589931/pokemon-sv08-surging-sparks-dusk-ball",
    "product_id": 589931,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "175",
@@ -3681,8 +3831,8 @@
    "url": "https://www.tcgplayer.com/product/589931/pokemon-sv08-surging-sparks-dusk-ball",
    "product_id": 589931,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "176",
@@ -3692,8 +3842,8 @@
    "url": "https://www.tcgplayer.com/product/589933/pokemon-sv08-surging-sparks-energy-search-pro",
    "product_id": 589933,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "177",
@@ -3703,8 +3853,8 @@
    "url": "https://www.tcgplayer.com/product/589961/pokemon-sv08-surging-sparks-gravity-mountain",
    "product_id": 589961,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "177",
@@ -3714,8 +3864,8 @@
    "url": "https://www.tcgplayer.com/product/589961/pokemon-sv08-surging-sparks-gravity-mountain",
    "product_id": 589961,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "178",
@@ -3725,8 +3875,8 @@
    "url": "https://www.tcgplayer.com/product/589971/pokemon-sv08-surging-sparks-jasmines-gaze-178-191",
    "product_id": 589971,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "178",
@@ -3736,8 +3886,8 @@
    "url": "https://www.tcgplayer.com/product/589971/pokemon-sv08-surging-sparks-jasmines-gaze-178-191",
    "product_id": 589971,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "179",
@@ -3747,8 +3897,8 @@
    "url": "https://www.tcgplayer.com/product/589988/pokemon-sv08-surging-sparks-lisias-appeal-179-191",
    "product_id": 589988,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "179",
@@ -3758,8 +3908,8 @@
    "url": "https://www.tcgplayer.com/product/589988/pokemon-sv08-surging-sparks-lisias-appeal-179-191",
    "product_id": 589988,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "180",
@@ -3769,8 +3919,8 @@
    "url": "https://www.tcgplayer.com/product/589991/pokemon-sv08-surging-sparks-lively-stadium",
    "product_id": 589991,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "180",
@@ -3780,8 +3930,8 @@
    "url": "https://www.tcgplayer.com/product/589991/pokemon-sv08-surging-sparks-lively-stadium",
    "product_id": 589991,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "181",
@@ -3791,8 +3941,8 @@
    "url": "https://www.tcgplayer.com/product/589999/pokemon-sv08-surging-sparks-meddling-memo",
    "product_id": 589999,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "181",
@@ -3802,8 +3952,8 @@
    "url": "https://www.tcgplayer.com/product/589999/pokemon-sv08-surging-sparks-meddling-memo",
    "product_id": 589999,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "182",
@@ -3813,8 +3963,8 @@
    "url": "https://www.tcgplayer.com/product/590000/pokemon-sv08-surging-sparks-megaton-blower",
    "product_id": 590000,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "183",
@@ -3824,8 +3974,8 @@
    "url": "https://www.tcgplayer.com/product/590007/pokemon-sv08-surging-sparks-miracle-headset",
    "product_id": 590007,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "184",
@@ -3835,8 +3985,8 @@
    "url": "https://www.tcgplayer.com/product/590021/pokemon-sv08-surging-sparks-passho-berry",
    "product_id": 590021,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "184",
@@ -3846,8 +3996,8 @@
    "url": "https://www.tcgplayer.com/product/590021/pokemon-sv08-surging-sparks-passho-berry",
    "product_id": 590021,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "185",
@@ -3857,8 +4007,8 @@
    "url": "https://www.tcgplayer.com/product/590028/pokemon-sv08-surging-sparks-precious-trolley",
    "product_id": 590028,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "186",
@@ -3868,8 +4018,8 @@
    "url": "https://www.tcgplayer.com/product/590042/pokemon-sv08-surging-sparks-scramble-switch",
    "product_id": 590042,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "187",
@@ -3879,8 +4029,8 @@
    "url": "https://www.tcgplayer.com/product/590066/pokemon-sv08-surging-sparks-surfer-187-191",
    "product_id": 590066,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "187",
@@ -3890,8 +4040,8 @@
    "url": "https://www.tcgplayer.com/product/590066/pokemon-sv08-surging-sparks-surfer-187-191",
    "product_id": 590066,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "188",
@@ -3901,8 +4051,8 @@
    "url": "https://www.tcgplayer.com/product/590075/pokemon-sv08-surging-sparks-technical-machine-fluorite",
    "product_id": 590075,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "188",
@@ -3912,8 +4062,8 @@
    "url": "https://www.tcgplayer.com/product/590075/pokemon-sv08-surging-sparks-technical-machine-fluorite",
    "product_id": 590075,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "189",
@@ -3923,8 +4073,8 @@
    "url": "https://www.tcgplayer.com/product/590076/pokemon-sv08-surging-sparks-tera-orb",
    "product_id": 590076,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "189",
@@ -3934,8 +4084,8 @@
    "url": "https://www.tcgplayer.com/product/590076/pokemon-sv08-surging-sparks-tera-orb",
    "product_id": 590076,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "190",
@@ -3945,8 +4095,8 @@
    "url": "https://www.tcgplayer.com/product/590083/pokemon-sv08-surging-sparks-tyme",
    "product_id": 590083,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "190",
@@ -3956,8 +4106,8 @@
    "url": "https://www.tcgplayer.com/product/590083/pokemon-sv08-surging-sparks-tyme",
    "product_id": 590083,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "191",
@@ -3967,8 +4117,8 @@
    "url": "https://www.tcgplayer.com/product/589934/pokemon-sv08-surging-sparks-enriching-energy",
    "product_id": 589934,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "192",
@@ -3978,8 +4128,8 @@
    "url": "https://www.tcgplayer.com/product/589941/pokemon-sv08-surging-sparks-exeggcute-192-191",
    "product_id": 589941,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "193",
@@ -3989,8 +4139,8 @@
    "url": "https://www.tcgplayer.com/product/590090/pokemon-sv08-surging-sparks-vivillon-193-191",
    "product_id": 590090,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "194",
@@ -4000,8 +4150,8 @@
    "url": "https://www.tcgplayer.com/product/590046/pokemon-sv08-surging-sparks-shiinotic-194-191",
    "product_id": 590046,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "195",
@@ -4011,8 +4161,8 @@
    "url": "https://www.tcgplayer.com/product/589888/pokemon-sv08-surging-sparks-castform-sunny-form-195-191",
    "product_id": 589888,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "196",
@@ -4022,8 +4172,8 @@
    "url": "https://www.tcgplayer.com/product/589982/pokemon-sv08-surging-sparks-larvesta-196-191",
    "product_id": 589982,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "197",
@@ -4033,8 +4183,8 @@
    "url": "https://www.tcgplayer.com/product/589891/pokemon-sv08-surging-sparks-ceruledge-197-191",
    "product_id": 589891,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "198",
@@ -4044,8 +4194,8 @@
    "url": "https://www.tcgplayer.com/product/589944/pokemon-sv08-surging-sparks-feebas-198-191",
    "product_id": 589944,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "199",
@@ -4055,8 +4205,8 @@
    "url": "https://www.tcgplayer.com/product/590063/pokemon-sv08-surging-sparks-spheal-199-191",
    "product_id": 590063,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "200",
@@ -4066,8 +4216,8 @@
    "url": "https://www.tcgplayer.com/product/589884/pokemon-sv08-surging-sparks-bruxish-200-191",
    "product_id": 589884,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "201",
@@ -4077,8 +4227,8 @@
    "url": "https://www.tcgplayer.com/product/589894/pokemon-sv08-surging-sparks-cetitan-201-191",
    "product_id": 589894,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "202",
@@ -4088,8 +4238,8 @@
    "url": "https://www.tcgplayer.com/product/590065/pokemon-sv08-surging-sparks-stunfisk-202-191",
    "product_id": 590065,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "203",
@@ -4099,8 +4249,8 @@
    "url": "https://www.tcgplayer.com/product/589987/pokemon-sv08-surging-sparks-latios-203-191",
    "product_id": 589987,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "204",
@@ -4110,8 +4260,8 @@
    "url": "https://www.tcgplayer.com/product/590003/pokemon-sv08-surging-sparks-mesprit-204-191",
    "product_id": 590003,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "205",
@@ -4121,8 +4271,8 @@
    "url": "https://www.tcgplayer.com/product/590024/pokemon-sv08-surging-sparks-phanpy-205-191",
    "product_id": 590024,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "206",
@@ -4132,8 +4282,8 @@
    "url": "https://www.tcgplayer.com/product/590086/pokemon-sv08-surging-sparks-vibrava-206-191",
    "product_id": 590086,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "207",
@@ -4143,8 +4293,8 @@
    "url": "https://www.tcgplayer.com/product/589904/pokemon-sv08-surging-sparks-clobbopus-207-191",
    "product_id": 589904,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "208",
@@ -4154,8 +4304,8 @@
    "url": "https://www.tcgplayer.com/product/589857/pokemon-sv08-surging-sparks-alolan-dugtrio-208-191",
    "product_id": 589857,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "209",
@@ -4165,8 +4315,8 @@
    "url": "https://www.tcgplayer.com/product/590052/pokemon-sv08-surging-sparks-skarmory-209-191",
    "product_id": 590052,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "210",
@@ -4176,8 +4326,8 @@
    "url": "https://www.tcgplayer.com/product/589947/pokemon-sv08-surging-sparks-flapple-210-191",
    "product_id": 589947,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "211",
@@ -4187,8 +4337,8 @@
    "url": "https://www.tcgplayer.com/product/589865/pokemon-sv08-surging-sparks-appletun-211-191",
    "product_id": 589865,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "212",
@@ -4198,8 +4348,8 @@
    "url": "https://www.tcgplayer.com/product/590057/pokemon-sv08-surging-sparks-slakoth-212-191",
    "product_id": 590057,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "213",
@@ -4209,8 +4359,8 @@
    "url": "https://www.tcgplayer.com/product/589975/pokemon-sv08-surging-sparks-kecleon-213-191",
    "product_id": 589975,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "214",
@@ -4220,8 +4370,8 @@
    "url": "https://www.tcgplayer.com/product/589879/pokemon-sv08-surging-sparks-braviary-214-191",
    "product_id": 589879,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "215",
@@ -4231,8 +4381,8 @@
    "url": "https://www.tcgplayer.com/product/589929/pokemon-sv08-surging-sparks-durant-ex-215-191",
    "product_id": 589929,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "216",
@@ -4242,8 +4392,8 @@
    "url": "https://www.tcgplayer.com/product/590041/pokemon-sv08-surging-sparks-scovillain-ex-216-191",
    "product_id": 590041,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "217",
@@ -4253,8 +4403,8 @@
    "url": "https://www.tcgplayer.com/product/590005/pokemon-sv08-surging-sparks-milotic-ex-217-191",
    "product_id": 590005,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "218",
@@ -4264,8 +4414,8 @@
    "url": "https://www.tcgplayer.com/product/589875/pokemon-sv08-surging-sparks-black-kyurem-ex-218-191",
    "product_id": 589875,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "219",
@@ -4275,8 +4425,8 @@
    "url": "https://www.tcgplayer.com/product/590026/pokemon-sv08-surging-sparks-pikachu-ex-219-191",
    "product_id": 590026,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "220",
@@ -4286,8 +4436,8 @@
    "url": "https://www.tcgplayer.com/product/589984/pokemon-sv08-surging-sparks-latias-ex-220-191",
    "product_id": 589984,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "221",
@@ -4297,8 +4447,8 @@
    "url": "https://www.tcgplayer.com/product/590019/pokemon-sv08-surging-sparks-palossand-ex-221-191",
    "product_id": 590019,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "222",
@@ -4308,8 +4458,8 @@
    "url": "https://www.tcgplayer.com/product/589951/pokemon-sv08-surging-sparks-flygon-ex-222-191",
    "product_id": 589951,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "223",
@@ -4319,8 +4469,8 @@
    "url": "https://www.tcgplayer.com/product/589966/pokemon-sv08-surging-sparks-hydreigon-ex-223-191",
    "product_id": 589966,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "224",
@@ -4330,8 +4480,8 @@
    "url": "https://www.tcgplayer.com/product/589868/pokemon-sv08-surging-sparks-archaludon-ex-224-191",
    "product_id": 589868,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "225",
@@ -4341,8 +4491,8 @@
    "url": "https://www.tcgplayer.com/product/589859/pokemon-sv08-surging-sparks-alolan-exeggutor-ex-225-191",
    "product_id": 589859,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "226",
@@ -4352,8 +4502,8 @@
    "url": "https://www.tcgplayer.com/product/590074/pokemon-sv08-surging-sparks-tatsugiri-ex-226-191",
    "product_id": 590074,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "227",
@@ -4363,8 +4513,8 @@
    "url": "https://www.tcgplayer.com/product/590055/pokemon-sv08-surging-sparks-slaking-ex-227-191",
    "product_id": 590055,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "228",
@@ -4374,8 +4524,8 @@
    "url": "https://www.tcgplayer.com/product/589911/pokemon-sv08-surging-sparks-cyclizar-ex-228-191",
    "product_id": 589911,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "229",
@@ -4385,8 +4535,8 @@
    "url": "https://www.tcgplayer.com/product/589901/pokemon-sv08-surging-sparks-clemonts-quick-wit-229-191",
    "product_id": 589901,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "230",
@@ -4396,8 +4546,8 @@
    "url": "https://www.tcgplayer.com/product/589913/pokemon-sv08-surging-sparks-cyrano-230-191",
    "product_id": 589913,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "231",
@@ -4407,8 +4557,8 @@
    "url": "https://www.tcgplayer.com/product/589922/pokemon-sv08-surging-sparks-drasna-231-191",
    "product_id": 589922,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "232",
@@ -4418,8 +4568,8 @@
    "url": "https://www.tcgplayer.com/product/589924/pokemon-sv08-surging-sparks-drayton-232-191",
    "product_id": 589924,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "233",
@@ -4429,8 +4579,8 @@
    "url": "https://www.tcgplayer.com/product/589972/pokemon-sv08-surging-sparks-jasmines-gaze-233-191",
    "product_id": 589972,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "234",
@@ -4440,8 +4590,8 @@
    "url": "https://www.tcgplayer.com/product/589989/pokemon-sv08-surging-sparks-lisias-appeal-234-191",
    "product_id": 589989,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "235",
@@ -4451,8 +4601,8 @@
    "url": "https://www.tcgplayer.com/product/590067/pokemon-sv08-surging-sparks-surfer-235-191",
    "product_id": 590067,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "236",
@@ -4462,8 +4612,8 @@
    "url": "https://www.tcgplayer.com/product/589930/pokemon-sv08-surging-sparks-durant-ex-236-191",
    "product_id": 589930,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "237",
@@ -4473,8 +4623,8 @@
    "url": "https://www.tcgplayer.com/product/590006/pokemon-sv08-surging-sparks-milotic-ex-237-191",
    "product_id": 590006,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "238",
@@ -4484,8 +4634,8 @@
    "url": "https://www.tcgplayer.com/product/590027/pokemon-sv08-surging-sparks-pikachu-ex-238-191",
    "product_id": 590027,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "239",
@@ -4495,8 +4645,8 @@
    "url": "https://www.tcgplayer.com/product/589985/pokemon-sv08-surging-sparks-latias-ex-239-191",
    "product_id": 589985,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "240",
@@ -4506,8 +4656,8 @@
    "url": "https://www.tcgplayer.com/product/589967/pokemon-sv08-surging-sparks-hydreigon-ex-240-191",
    "product_id": 589967,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "241",
@@ -4517,8 +4667,8 @@
    "url": "https://www.tcgplayer.com/product/589869/pokemon-sv08-surging-sparks-archaludon-ex-241-191",
    "product_id": 589869,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "242",
@@ -4528,8 +4678,8 @@
    "url": "https://www.tcgplayer.com/product/589860/pokemon-sv08-surging-sparks-alolan-exeggutor-ex-242-191",
    "product_id": 589860,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "243",
@@ -4539,8 +4689,8 @@
    "url": "https://www.tcgplayer.com/product/589902/pokemon-sv08-surging-sparks-clemonts-quick-wit-243-191",
    "product_id": 589902,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "244",
@@ -4550,8 +4700,8 @@
    "url": "https://www.tcgplayer.com/product/589925/pokemon-sv08-surging-sparks-drayton-244-191",
    "product_id": 589925,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "245",
@@ -4561,8 +4711,8 @@
    "url": "https://www.tcgplayer.com/product/589973/pokemon-sv08-surging-sparks-jasmines-gaze-245-191",
    "product_id": 589973,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "246",
@@ -4572,8 +4722,8 @@
    "url": "https://www.tcgplayer.com/product/589990/pokemon-sv08-surging-sparks-lisias-appeal-246-191",
    "product_id": 589990,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "247",
@@ -4583,8 +4733,8 @@
    "url": "https://www.tcgplayer.com/product/593169/pokemon-sv08-surging-sparks-pikachu-ex-247-191",
    "product_id": 593169,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "248",
@@ -4594,8 +4744,8 @@
    "url": "https://www.tcgplayer.com/product/593855/pokemon-sv08-surging-sparks-alolan-exeggutor-ex-248-191",
    "product_id": 593855,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "249",
@@ -4605,8 +4755,8 @@
    "url": "https://www.tcgplayer.com/product/593856/pokemon-sv08-surging-sparks-counter-gain-249-191",
    "product_id": 593856,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "250",
@@ -4616,8 +4766,8 @@
    "url": "https://www.tcgplayer.com/product/593857/pokemon-sv08-surging-sparks-gravity-mountain-250-191",
    "product_id": 593857,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "251",
@@ -4627,8 +4777,8 @@
    "url": "https://www.tcgplayer.com/product/593859/pokemon-sv08-surging-sparks-night-stretcher-251-191",
    "product_id": 593859,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "252",
@@ -4638,8 +4788,8 @@
    "url": "https://www.tcgplayer.com/product/593861/pokemon-sv08-surging-sparks-jet-energy",
    "product_id": 593861,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   }
  ]
 }

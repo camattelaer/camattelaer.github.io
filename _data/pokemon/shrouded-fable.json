@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 23529,
  "tcgplayer_group_name": "SV: Shrouded Fable",
  "owned_count": 51,
- "total_count": 154,
+ "total_count": 158,
  "owned_qty": 51,
  "reprint_numbers": false,
  "cards": [
@@ -20,8 +20,8 @@
    "url": "https://www.tcgplayer.com/product/560311/pokemon-sv-shrouded-fable-joltik",
    "product_id": 560311,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "001",
@@ -31,8 +31,8 @@
    "url": "https://www.tcgplayer.com/product/560311/pokemon-sv-shrouded-fable-joltik",
    "product_id": 560311,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "002",
@@ -42,8 +42,8 @@
    "url": "https://www.tcgplayer.com/product/560312/pokemon-sv-shrouded-fable-galvantula",
    "product_id": 560312,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "002",
@@ -53,8 +53,8 @@
    "url": "https://www.tcgplayer.com/product/560312/pokemon-sv-shrouded-fable-galvantula",
    "product_id": 560312,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "003",
@@ -64,8 +64,8 @@
    "url": "https://www.tcgplayer.com/product/560313/pokemon-sv-shrouded-fable-rowlet",
    "product_id": 560313,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "003",
@@ -75,8 +75,8 @@
    "url": "https://www.tcgplayer.com/product/560313/pokemon-sv-shrouded-fable-rowlet",
    "product_id": 560313,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "004",
@@ -86,8 +86,8 @@
    "url": "https://www.tcgplayer.com/product/560314/pokemon-sv-shrouded-fable-dartrix",
    "product_id": 560314,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "004",
@@ -97,8 +97,8 @@
    "url": "https://www.tcgplayer.com/product/560314/pokemon-sv-shrouded-fable-dartrix",
    "product_id": 560314,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "005",
@@ -108,8 +108,8 @@
    "url": "https://www.tcgplayer.com/product/560315/pokemon-sv-shrouded-fable-decidueye",
    "product_id": 560315,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "005",
@@ -119,8 +119,8 @@
    "url": "https://www.tcgplayer.com/product/560315/pokemon-sv-shrouded-fable-decidueye",
    "product_id": 560315,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "006",
@@ -130,8 +130,8 @@
    "url": "https://www.tcgplayer.com/product/560316/pokemon-sv-shrouded-fable-tapu-bulu-006-064",
    "product_id": 560316,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "006",
@@ -141,8 +141,8 @@
    "url": "https://www.tcgplayer.com/product/560316/pokemon-sv-shrouded-fable-tapu-bulu-006-064",
    "product_id": 560316,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "007",
@@ -152,8 +152,8 @@
    "url": "https://www.tcgplayer.com/product/560317/pokemon-sv-shrouded-fable-houndour",
    "product_id": 560317,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "007",
@@ -163,8 +163,8 @@
    "url": "https://www.tcgplayer.com/product/560317/pokemon-sv-shrouded-fable-houndour",
    "product_id": 560317,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "008",
@@ -174,8 +174,8 @@
    "url": "https://www.tcgplayer.com/product/560318/pokemon-sv-shrouded-fable-houndoom-008-064",
    "product_id": 560318,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "008",
@@ -185,8 +185,8 @@
    "url": "https://www.tcgplayer.com/product/560318/pokemon-sv-shrouded-fable-houndoom-008-064",
    "product_id": 560318,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "009",
@@ -196,8 +196,8 @@
    "url": "https://www.tcgplayer.com/product/560319/pokemon-sv-shrouded-fable-iron-moth",
    "product_id": 560319,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "009",
@@ -207,8 +207,8 @@
    "url": "https://www.tcgplayer.com/product/560319/pokemon-sv-shrouded-fable-iron-moth",
    "product_id": 560319,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "010",
@@ -218,8 +218,8 @@
    "url": "https://www.tcgplayer.com/product/560320/pokemon-sv-shrouded-fable-horsea-010-064",
    "product_id": 560320,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "010",
@@ -229,8 +229,20 @@
    "url": "https://www.tcgplayer.com/product/560320/pokemon-sv-shrouded-fable-horsea-010-064",
    "product_id": 560320,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "010",
+   "name": "Horsea",
+   "rarity": "Promo",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/562172_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/562172/pokemon-miscellaneous-cards-and-products-horsea-010-064-cosmos-holo",
+   "product_id": 562172,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "011",
@@ -240,8 +252,8 @@
    "url": "https://www.tcgplayer.com/product/560321/pokemon-sv-shrouded-fable-seadra",
    "product_id": 560321,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "011",
@@ -251,8 +263,20 @@
    "url": "https://www.tcgplayer.com/product/560321/pokemon-sv-shrouded-fable-seadra",
    "product_id": 560321,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "011",
+   "name": "Seadra",
+   "rarity": "Promo",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/562164_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/562164/pokemon-miscellaneous-cards-and-products-seadra-011-064-cosmos-holo",
+   "product_id": 562164,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "012",
@@ -262,8 +286,20 @@
    "url": "https://www.tcgplayer.com/product/560322/pokemon-sv-shrouded-fable-kingdra-ex-012-064",
    "product_id": 560322,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
+  },
+  {
+   "number": "012",
+   "name": "Kingdra ex",
+   "rarity": "Double Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/664058_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/664058/pokemon-miscellaneous-cards-and-products-kingdra-ex-shrouded-fable-stamped",
+   "product_id": 664058,
+   "variant": "stamp",
+   "special": "Shrouded Fable Stamped",
+   "variant_label": "Stamped (Shrouded Fable Stamped)",
+   "qty": 0
   },
   {
    "number": "013",
@@ -273,8 +309,8 @@
    "url": "https://www.tcgplayer.com/product/560323/pokemon-sv-shrouded-fable-sneasel",
    "product_id": 560323,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "013",
@@ -284,8 +320,8 @@
    "url": "https://www.tcgplayer.com/product/560323/pokemon-sv-shrouded-fable-sneasel",
    "product_id": 560323,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "014",
@@ -295,8 +331,8 @@
    "url": "https://www.tcgplayer.com/product/560324/pokemon-sv-shrouded-fable-weavile",
    "product_id": 560324,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "014",
@@ -306,8 +342,8 @@
    "url": "https://www.tcgplayer.com/product/560324/pokemon-sv-shrouded-fable-weavile",
    "product_id": 560324,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "015",
@@ -317,8 +353,8 @@
    "url": "https://www.tcgplayer.com/product/560325/pokemon-sv-shrouded-fable-revavroom-ex-015-064",
    "product_id": 560325,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "016",
@@ -328,8 +364,8 @@
    "url": "https://www.tcgplayer.com/product/560326/pokemon-sv-shrouded-fable-drowzee",
    "product_id": 560326,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "016",
@@ -339,8 +375,8 @@
    "url": "https://www.tcgplayer.com/product/560326/pokemon-sv-shrouded-fable-drowzee",
    "product_id": 560326,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "017",
@@ -350,8 +386,8 @@
    "url": "https://www.tcgplayer.com/product/560327/pokemon-sv-shrouded-fable-hypno",
    "product_id": 560327,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "017",
@@ -361,8 +397,8 @@
    "url": "https://www.tcgplayer.com/product/560327/pokemon-sv-shrouded-fable-hypno",
    "product_id": 560327,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "018",
@@ -372,8 +408,8 @@
    "url": "https://www.tcgplayer.com/product/560328/pokemon-sv-shrouded-fable-duskull-018-064",
    "product_id": 560328,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "018",
@@ -383,8 +419,8 @@
    "url": "https://www.tcgplayer.com/product/560328/pokemon-sv-shrouded-fable-duskull-018-064",
    "product_id": 560328,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "019",
@@ -394,8 +430,8 @@
    "url": "https://www.tcgplayer.com/product/560329/pokemon-sv-shrouded-fable-dusclops-019-064",
    "product_id": 560329,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "019",
@@ -405,8 +441,8 @@
    "url": "https://www.tcgplayer.com/product/560329/pokemon-sv-shrouded-fable-dusclops-019-064",
    "product_id": 560329,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "020",
@@ -416,8 +452,8 @@
    "url": "https://www.tcgplayer.com/product/560330/pokemon-sv-shrouded-fable-dusknoir-020-064",
    "product_id": 560330,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "020",
@@ -427,8 +463,8 @@
    "url": "https://www.tcgplayer.com/product/560330/pokemon-sv-shrouded-fable-dusknoir-020-064",
    "product_id": 560330,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "021",
@@ -438,8 +474,8 @@
    "url": "https://www.tcgplayer.com/product/560331/pokemon-sv-shrouded-fable-cresselia-021-064",
    "product_id": 560331,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "021",
@@ -449,8 +485,8 @@
    "url": "https://www.tcgplayer.com/product/560331/pokemon-sv-shrouded-fable-cresselia-021-064",
    "product_id": 560331,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "022",
@@ -460,8 +496,8 @@
    "url": "https://www.tcgplayer.com/product/560332/pokemon-sv-shrouded-fable-sylveon",
    "product_id": 560332,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "022",
@@ -471,8 +507,8 @@
    "url": "https://www.tcgplayer.com/product/560332/pokemon-sv-shrouded-fable-sylveon",
    "product_id": 560332,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "023",
@@ -482,8 +518,8 @@
    "url": "https://www.tcgplayer.com/product/560333/pokemon-sv-shrouded-fable-croagunk",
    "product_id": 560333,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "023",
@@ -493,8 +529,8 @@
    "url": "https://www.tcgplayer.com/product/560333/pokemon-sv-shrouded-fable-croagunk",
    "product_id": 560333,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "024",
@@ -504,8 +540,8 @@
    "url": "https://www.tcgplayer.com/product/560334/pokemon-sv-shrouded-fable-toxicroak",
    "product_id": 560334,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "024",
@@ -515,8 +551,8 @@
    "url": "https://www.tcgplayer.com/product/560334/pokemon-sv-shrouded-fable-toxicroak",
    "product_id": 560334,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "025",
@@ -526,8 +562,8 @@
    "url": "https://www.tcgplayer.com/product/560335/pokemon-sv-shrouded-fable-bloodmoon-ursaluna",
    "product_id": 560335,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "025",
@@ -537,8 +573,8 @@
    "url": "https://www.tcgplayer.com/product/560335/pokemon-sv-shrouded-fable-bloodmoon-ursaluna",
    "product_id": 560335,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "026",
@@ -548,8 +584,8 @@
    "url": "https://www.tcgplayer.com/product/560336/pokemon-sv-shrouded-fable-slither-wing",
    "product_id": 560336,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "026",
@@ -559,8 +595,8 @@
    "url": "https://www.tcgplayer.com/product/560336/pokemon-sv-shrouded-fable-slither-wing",
    "product_id": 560336,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "027",
@@ -570,8 +606,8 @@
    "url": "https://www.tcgplayer.com/product/560337/pokemon-sv-shrouded-fable-zubat",
    "product_id": 560337,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "027",
@@ -581,8 +617,8 @@
    "url": "https://www.tcgplayer.com/product/560337/pokemon-sv-shrouded-fable-zubat",
    "product_id": 560337,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "028",
@@ -592,8 +628,8 @@
    "url": "https://www.tcgplayer.com/product/560338/pokemon-sv-shrouded-fable-golbat",
    "product_id": 560338,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "028",
@@ -603,8 +639,8 @@
    "url": "https://www.tcgplayer.com/product/560338/pokemon-sv-shrouded-fable-golbat",
    "product_id": 560338,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "029",
@@ -614,8 +650,8 @@
    "url": "https://www.tcgplayer.com/product/560339/pokemon-sv-shrouded-fable-crobat",
    "product_id": 560339,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "029",
@@ -625,8 +661,8 @@
    "url": "https://www.tcgplayer.com/product/560339/pokemon-sv-shrouded-fable-crobat",
    "product_id": 560339,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "030",
@@ -636,8 +672,8 @@
    "url": "https://www.tcgplayer.com/product/560340/pokemon-sv-shrouded-fable-absol",
    "product_id": 560340,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "030",
@@ -647,8 +683,8 @@
    "url": "https://www.tcgplayer.com/product/560340/pokemon-sv-shrouded-fable-absol",
    "product_id": 560340,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "031",
@@ -658,8 +694,8 @@
    "url": "https://www.tcgplayer.com/product/560341/pokemon-sv-shrouded-fable-zorua-031-064",
    "product_id": 560341,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "031",
@@ -669,8 +705,8 @@
    "url": "https://www.tcgplayer.com/product/560341/pokemon-sv-shrouded-fable-zorua-031-064",
    "product_id": 560341,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "032",
@@ -680,8 +716,8 @@
    "url": "https://www.tcgplayer.com/product/560342/pokemon-sv-shrouded-fable-zoroark",
    "product_id": 560342,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "032",
@@ -691,8 +727,8 @@
    "url": "https://www.tcgplayer.com/product/560342/pokemon-sv-shrouded-fable-zoroark",
    "product_id": 560342,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "033",
@@ -702,8 +738,8 @@
    "url": "https://www.tcgplayer.com/product/560343/pokemon-sv-shrouded-fable-inkay",
    "product_id": 560343,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "033",
@@ -713,8 +749,8 @@
    "url": "https://www.tcgplayer.com/product/560343/pokemon-sv-shrouded-fable-inkay",
    "product_id": 560343,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "034",
@@ -724,8 +760,8 @@
    "url": "https://www.tcgplayer.com/product/560344/pokemon-sv-shrouded-fable-malamar",
    "product_id": 560344,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "034",
@@ -735,8 +771,8 @@
    "url": "https://www.tcgplayer.com/product/560344/pokemon-sv-shrouded-fable-malamar",
    "product_id": 560344,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "035",
@@ -746,8 +782,8 @@
    "url": "https://www.tcgplayer.com/product/560345/pokemon-sv-shrouded-fable-yveltal",
    "product_id": 560345,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "035",
@@ -757,8 +793,8 @@
    "url": "https://www.tcgplayer.com/product/560345/pokemon-sv-shrouded-fable-yveltal",
    "product_id": 560345,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "036",
@@ -768,8 +804,8 @@
    "url": "https://www.tcgplayer.com/product/560346/pokemon-sv-shrouded-fable-okidogi-ex-036-064",
    "product_id": 560346,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "037",
@@ -779,8 +815,8 @@
    "url": "https://www.tcgplayer.com/product/560347/pokemon-sv-shrouded-fable-munkidori-ex-037-064",
    "product_id": 560347,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "038",
@@ -790,8 +826,8 @@
    "url": "https://www.tcgplayer.com/product/560348/pokemon-sv-shrouded-fable-fezandipiti-ex-038-064",
    "product_id": 560348,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "039",
@@ -801,8 +837,8 @@
    "url": "https://www.tcgplayer.com/product/560349/pokemon-sv-shrouded-fable-pecharunt-ex-039-064",
    "product_id": 560349,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "040",
@@ -812,8 +848,8 @@
    "url": "https://www.tcgplayer.com/product/560350/pokemon-sv-shrouded-fable-genesect",
    "product_id": 560350,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "040",
@@ -823,8 +859,8 @@
    "url": "https://www.tcgplayer.com/product/560350/pokemon-sv-shrouded-fable-genesect",
    "product_id": 560350,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "041",
@@ -834,8 +870,8 @@
    "url": "https://www.tcgplayer.com/product/560351/pokemon-sv-shrouded-fable-cufant-041-064",
    "product_id": 560351,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "041",
@@ -845,8 +881,8 @@
    "url": "https://www.tcgplayer.com/product/560351/pokemon-sv-shrouded-fable-cufant-041-064",
    "product_id": 560351,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "042",
@@ -856,8 +892,8 @@
    "url": "https://www.tcgplayer.com/product/560352/pokemon-sv-shrouded-fable-copperajah",
    "product_id": 560352,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "042",
@@ -867,8 +903,8 @@
    "url": "https://www.tcgplayer.com/product/560352/pokemon-sv-shrouded-fable-copperajah",
    "product_id": 560352,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "043",
@@ -878,8 +914,8 @@
    "url": "https://www.tcgplayer.com/product/560353/pokemon-sv-shrouded-fable-varoom",
    "product_id": 560353,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "043",
@@ -889,8 +925,8 @@
    "url": "https://www.tcgplayer.com/product/560353/pokemon-sv-shrouded-fable-varoom",
    "product_id": 560353,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "044",
@@ -900,8 +936,8 @@
    "url": "https://www.tcgplayer.com/product/560354/pokemon-sv-shrouded-fable-axew",
    "product_id": 560354,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "044",
@@ -911,8 +947,8 @@
    "url": "https://www.tcgplayer.com/product/560354/pokemon-sv-shrouded-fable-axew",
    "product_id": 560354,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "045",
@@ -922,8 +958,8 @@
    "url": "https://www.tcgplayer.com/product/560355/pokemon-sv-shrouded-fable-fraxure-045-064",
    "product_id": 560355,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "045",
@@ -933,8 +969,8 @@
    "url": "https://www.tcgplayer.com/product/560355/pokemon-sv-shrouded-fable-fraxure-045-064",
    "product_id": 560355,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "046",
@@ -944,8 +980,8 @@
    "url": "https://www.tcgplayer.com/product/560356/pokemon-sv-shrouded-fable-haxorus",
    "product_id": 560356,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "046",
@@ -955,8 +991,8 @@
    "url": "https://www.tcgplayer.com/product/560356/pokemon-sv-shrouded-fable-haxorus",
    "product_id": 560356,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "047",
@@ -966,8 +1002,8 @@
    "url": "https://www.tcgplayer.com/product/560358/pokemon-sv-shrouded-fable-kyurem",
    "product_id": 560358,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "047",
@@ -977,8 +1013,8 @@
    "url": "https://www.tcgplayer.com/product/560358/pokemon-sv-shrouded-fable-kyurem",
    "product_id": 560358,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "048",
@@ -988,8 +1024,8 @@
    "url": "https://www.tcgplayer.com/product/560359/pokemon-sv-shrouded-fable-meowth",
    "product_id": 560359,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "048",
@@ -999,8 +1035,8 @@
    "url": "https://www.tcgplayer.com/product/560359/pokemon-sv-shrouded-fable-meowth",
    "product_id": 560359,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "049",
@@ -1010,8 +1046,8 @@
    "url": "https://www.tcgplayer.com/product/560360/pokemon-sv-shrouded-fable-persian-049-064",
    "product_id": 560360,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "049",
@@ -1021,8 +1057,8 @@
    "url": "https://www.tcgplayer.com/product/560360/pokemon-sv-shrouded-fable-persian-049-064",
    "product_id": 560360,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "050",
@@ -1032,8 +1068,8 @@
    "url": "https://www.tcgplayer.com/product/560361/pokemon-sv-shrouded-fable-eevee",
    "product_id": 560361,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "050",
@@ -1043,8 +1079,8 @@
    "url": "https://www.tcgplayer.com/product/560361/pokemon-sv-shrouded-fable-eevee",
    "product_id": 560361,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "051",
@@ -1054,8 +1090,8 @@
    "url": "https://www.tcgplayer.com/product/560362/pokemon-sv-shrouded-fable-furfrou",
    "product_id": 560362,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "051",
@@ -1065,8 +1101,8 @@
    "url": "https://www.tcgplayer.com/product/560362/pokemon-sv-shrouded-fable-furfrou",
    "product_id": 560362,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "052",
@@ -1076,8 +1112,8 @@
    "url": "https://www.tcgplayer.com/product/560363/pokemon-sv-shrouded-fable-stufful",
    "product_id": 560363,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "052",
@@ -1087,8 +1123,8 @@
    "url": "https://www.tcgplayer.com/product/560363/pokemon-sv-shrouded-fable-stufful",
    "product_id": 560363,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "053",
@@ -1098,8 +1134,8 @@
    "url": "https://www.tcgplayer.com/product/560364/pokemon-sv-shrouded-fable-bewear-053-064",
    "product_id": 560364,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "053",
@@ -1109,8 +1145,8 @@
    "url": "https://www.tcgplayer.com/product/560364/pokemon-sv-shrouded-fable-bewear-053-064",
    "product_id": 560364,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "054",
@@ -1120,8 +1156,8 @@
    "url": "https://www.tcgplayer.com/product/560365/pokemon-sv-shrouded-fable-academy-at-night",
    "product_id": 560365,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "054",
@@ -1131,8 +1167,8 @@
    "url": "https://www.tcgplayer.com/product/560365/pokemon-sv-shrouded-fable-academy-at-night",
    "product_id": 560365,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "055",
@@ -1142,8 +1178,8 @@
    "url": "https://www.tcgplayer.com/product/560366/pokemon-sv-shrouded-fable-binding-mochi",
    "product_id": 560366,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "055",
@@ -1153,8 +1189,8 @@
    "url": "https://www.tcgplayer.com/product/560366/pokemon-sv-shrouded-fable-binding-mochi",
    "product_id": 560366,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "056",
@@ -1164,8 +1200,8 @@
    "url": "https://www.tcgplayer.com/product/560367/pokemon-sv-shrouded-fable-cassiopeia-056-064",
    "product_id": 560367,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "056",
@@ -1175,8 +1211,8 @@
    "url": "https://www.tcgplayer.com/product/560367/pokemon-sv-shrouded-fable-cassiopeia-056-064",
    "product_id": 560367,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "057",
@@ -1186,8 +1222,8 @@
    "url": "https://www.tcgplayer.com/product/560368/pokemon-sv-shrouded-fable-colresss-tenacity-057-064",
    "product_id": 560368,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "057",
@@ -1197,8 +1233,20 @@
    "url": "https://www.tcgplayer.com/product/560368/pokemon-sv-shrouded-fable-colresss-tenacity-057-064",
    "product_id": 560368,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "057",
+   "name": "Colress's Tenacity",
+   "rarity": "Uncommon",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/688892_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/688892/pokemon-miscellaneous-cards-and-products-colresss-tenacity-gym-stamp-asia-exclusive",
+   "product_id": 688892,
+   "variant": "stamp",
+   "special": "Gym Stamp Asia Exclusive",
+   "variant_label": "Stamped (Gym Stamp Asia Exclusive)",
+   "qty": 0
   },
   {
    "number": "058",
@@ -1208,8 +1256,8 @@
    "url": "https://www.tcgplayer.com/product/560369/pokemon-sv-shrouded-fable-dangerous-laser",
    "product_id": 560369,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "059",
@@ -1219,8 +1267,8 @@
    "url": "https://www.tcgplayer.com/product/560370/pokemon-sv-shrouded-fable-janines-secret-art-059-064",
    "product_id": 560370,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "059",
@@ -1230,8 +1278,8 @@
    "url": "https://www.tcgplayer.com/product/560370/pokemon-sv-shrouded-fable-janines-secret-art-059-064",
    "product_id": 560370,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "060",
@@ -1241,8 +1289,8 @@
    "url": "https://www.tcgplayer.com/product/560371/pokemon-sv-shrouded-fable-neutralization-zone",
    "product_id": 560371,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "061",
@@ -1252,8 +1300,8 @@
    "url": "https://www.tcgplayer.com/product/560372/pokemon-sv-shrouded-fable-night-stretcher",
    "product_id": 560372,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "061",
@@ -1263,8 +1311,8 @@
    "url": "https://www.tcgplayer.com/product/560372/pokemon-sv-shrouded-fable-night-stretcher",
    "product_id": 560372,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "062",
@@ -1274,8 +1322,8 @@
    "url": "https://www.tcgplayer.com/product/560373/pokemon-sv-shrouded-fable-poke-vital-a",
    "product_id": 560373,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "063",
@@ -1285,8 +1333,8 @@
    "url": "https://www.tcgplayer.com/product/560374/pokemon-sv-shrouded-fable-powerglass-063-064",
    "product_id": 560374,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "063",
@@ -1296,8 +1344,8 @@
    "url": "https://www.tcgplayer.com/product/560374/pokemon-sv-shrouded-fable-powerglass-063-064",
    "product_id": 560374,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "064",
@@ -1307,8 +1355,8 @@
    "url": "https://www.tcgplayer.com/product/560375/pokemon-sv-shrouded-fable-xerosics-machinations-064-064",
    "product_id": 560375,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "064",
@@ -1318,8 +1366,8 @@
    "url": "https://www.tcgplayer.com/product/560375/pokemon-sv-shrouded-fable-xerosics-machinations-064-064",
    "product_id": 560375,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "065",
@@ -1329,8 +1377,8 @@
    "url": "https://www.tcgplayer.com/product/560376/pokemon-sv-shrouded-fable-tapu-bulu-065-064",
    "product_id": 560376,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "066",
@@ -1340,8 +1388,8 @@
    "url": "https://www.tcgplayer.com/product/560377/pokemon-sv-shrouded-fable-houndoom-066-064",
    "product_id": 560377,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "067",
@@ -1351,8 +1399,8 @@
    "url": "https://www.tcgplayer.com/product/560378/pokemon-sv-shrouded-fable-horsea-067-064",
    "product_id": 560378,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "068",
@@ -1362,8 +1410,8 @@
    "url": "https://www.tcgplayer.com/product/560379/pokemon-sv-shrouded-fable-duskull-068-064",
    "product_id": 560379,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "069",
@@ -1373,8 +1421,8 @@
    "url": "https://www.tcgplayer.com/product/560380/pokemon-sv-shrouded-fable-dusclops-069-064",
    "product_id": 560380,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "070",
@@ -1384,8 +1432,8 @@
    "url": "https://www.tcgplayer.com/product/560381/pokemon-sv-shrouded-fable-dusknoir-070-064",
    "product_id": 560381,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "071",
@@ -1395,8 +1443,8 @@
    "url": "https://www.tcgplayer.com/product/560382/pokemon-sv-shrouded-fable-cresselia-071-064",
    "product_id": 560382,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "072",
@@ -1406,8 +1454,8 @@
    "url": "https://www.tcgplayer.com/product/560383/pokemon-sv-shrouded-fable-munkidori",
    "product_id": 560383,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "073",
@@ -1417,8 +1465,8 @@
    "url": "https://www.tcgplayer.com/product/560384/pokemon-sv-shrouded-fable-fezandipiti",
    "product_id": 560384,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "074",
@@ -1428,8 +1476,8 @@
    "url": "https://www.tcgplayer.com/product/560385/pokemon-sv-shrouded-fable-okidogi",
    "product_id": 560385,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "075",
@@ -1439,8 +1487,8 @@
    "url": "https://www.tcgplayer.com/product/560386/pokemon-sv-shrouded-fable-zorua-075-064",
    "product_id": 560386,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "076",
@@ -1450,8 +1498,8 @@
    "url": "https://www.tcgplayer.com/product/560387/pokemon-sv-shrouded-fable-cufant-076-064",
    "product_id": 560387,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "077",
@@ -1461,8 +1509,8 @@
    "url": "https://www.tcgplayer.com/product/560388/pokemon-sv-shrouded-fable-fraxure-077-064",
    "product_id": 560388,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "078",
@@ -1472,8 +1520,8 @@
    "url": "https://www.tcgplayer.com/product/560389/pokemon-sv-shrouded-fable-persian-078-064",
    "product_id": 560389,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "079",
@@ -1483,8 +1531,8 @@
    "url": "https://www.tcgplayer.com/product/560390/pokemon-sv-shrouded-fable-bewear-079-064",
    "product_id": 560390,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "080",
@@ -1494,8 +1542,8 @@
    "url": "https://www.tcgplayer.com/product/560391/pokemon-sv-shrouded-fable-kingdra-ex-080-064",
    "product_id": 560391,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "081",
@@ -1505,8 +1553,8 @@
    "url": "https://www.tcgplayer.com/product/560392/pokemon-sv-shrouded-fable-revavroom-ex-081-064",
    "product_id": 560392,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "082",
@@ -1516,8 +1564,8 @@
    "url": "https://www.tcgplayer.com/product/560393/pokemon-sv-shrouded-fable-okidogi-ex-082-064",
    "product_id": 560393,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "083",
@@ -1527,8 +1575,8 @@
    "url": "https://www.tcgplayer.com/product/560394/pokemon-sv-shrouded-fable-munkidori-ex-083-064",
    "product_id": 560394,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "084",
@@ -1538,8 +1586,8 @@
    "url": "https://www.tcgplayer.com/product/560395/pokemon-sv-shrouded-fable-fezandipiti-ex-084-064",
    "product_id": 560395,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "085",
@@ -1549,8 +1597,8 @@
    "url": "https://www.tcgplayer.com/product/560396/pokemon-sv-shrouded-fable-pecharunt-ex-085-064",
    "product_id": 560396,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "086",
@@ -1560,8 +1608,8 @@
    "url": "https://www.tcgplayer.com/product/560397/pokemon-sv-shrouded-fable-cassiopeia-086-064",
    "product_id": 560397,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "087",
@@ -1571,8 +1619,8 @@
    "url": "https://www.tcgplayer.com/product/560398/pokemon-sv-shrouded-fable-colresss-tenacity-087-064",
    "product_id": 560398,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "088",
@@ -1582,8 +1630,8 @@
    "url": "https://www.tcgplayer.com/product/560399/pokemon-sv-shrouded-fable-janines-secret-art-088-064",
    "product_id": 560399,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "089",
@@ -1593,8 +1641,8 @@
    "url": "https://www.tcgplayer.com/product/560400/pokemon-sv-shrouded-fable-xerosics-machinations-089-064",
    "product_id": 560400,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "090",
@@ -1604,8 +1652,8 @@
    "url": "https://www.tcgplayer.com/product/560401/pokemon-sv-shrouded-fable-okidogi-ex-090-064",
    "product_id": 560401,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "091",
@@ -1615,8 +1663,8 @@
    "url": "https://www.tcgplayer.com/product/560402/pokemon-sv-shrouded-fable-munkidori-ex-091-064",
    "product_id": 560402,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "092",
@@ -1626,8 +1674,8 @@
    "url": "https://www.tcgplayer.com/product/560403/pokemon-sv-shrouded-fable-fezandipiti-ex-092-064",
    "product_id": 560403,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "093",
@@ -1637,8 +1685,8 @@
    "url": "https://www.tcgplayer.com/product/560404/pokemon-sv-shrouded-fable-pecharunt-ex-093-064",
    "product_id": 560404,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "094",
@@ -1648,8 +1696,8 @@
    "url": "https://www.tcgplayer.com/product/560405/pokemon-sv-shrouded-fable-cassiopeia-094-064",
    "product_id": 560405,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "095",
@@ -1659,8 +1707,8 @@
    "url": "https://www.tcgplayer.com/product/560406/pokemon-sv-shrouded-fable-pecharunt-ex-095-064",
    "product_id": 560406,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "096",
@@ -1670,8 +1718,8 @@
    "url": "https://www.tcgplayer.com/product/560407/pokemon-sv-shrouded-fable-earthen-vessel",
    "product_id": 560407,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "097",
@@ -1681,8 +1729,8 @@
    "url": "https://www.tcgplayer.com/product/560408/pokemon-sv-shrouded-fable-powerglass-097-064",
    "product_id": 560408,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "098",
@@ -1692,8 +1740,8 @@
    "url": "https://www.tcgplayer.com/product/560409/pokemon-sv-shrouded-fable-basic-darkness-energy",
    "product_id": 560409,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "099",
@@ -1703,8 +1751,8 @@
    "url": "https://www.tcgplayer.com/product/560410/pokemon-sv-shrouded-fable-basic-metal-energy",
    "product_id": 560410,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   }
  ]
 }

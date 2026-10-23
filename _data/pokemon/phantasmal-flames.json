@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 24448,
  "tcgplayer_group_name": "ME02: Phantasmal Flames",
  "owned_count": 73,
- "total_count": 218,
+ "total_count": 229,
  "owned_qty": 101,
  "reprint_numbers": false,
  "cards": [
@@ -20,8 +20,8 @@
    "url": "https://www.tcgplayer.com/product/662205/pokemon-me02-phantasmal-flames-oddish",
    "product_id": 662205,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "001",
@@ -31,8 +31,20 @@
    "url": "https://www.tcgplayer.com/product/662205/pokemon-me02-phantasmal-flames-oddish",
    "product_id": 662205,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "001",
+   "name": "Oddish",
+   "rarity": "Common",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/684041_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/684041/pokemon-miscellaneous-cards-and-products-oddish-cosmos-holo",
+   "product_id": 684041,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "002",
@@ -42,8 +54,8 @@
    "url": "https://www.tcgplayer.com/product/662164/pokemon-me02-phantasmal-flames-gloom",
    "product_id": 662164,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "002",
@@ -53,8 +65,20 @@
    "url": "https://www.tcgplayer.com/product/662164/pokemon-me02-phantasmal-flames-gloom",
    "product_id": 662164,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "002",
+   "name": "Gloom",
+   "rarity": "Common",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/684042_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/684042/pokemon-miscellaneous-cards-and-products-gloom-cosmos-holo",
+   "product_id": 684042,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "003",
@@ -64,8 +88,8 @@
    "url": "https://www.tcgplayer.com/product/662238/pokemon-me02-phantasmal-flames-vileplume",
    "product_id": 662238,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "003",
@@ -75,8 +99,20 @@
    "url": "https://www.tcgplayer.com/product/662238/pokemon-me02-phantasmal-flames-vileplume",
    "product_id": 662238,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "003",
+   "name": "Vileplume",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/684043_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/684043/pokemon-miscellaneous-cards-and-products-vileplume-cosmos-holo",
+   "product_id": 684043,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "004",
@@ -86,8 +122,8 @@
    "url": "https://www.tcgplayer.com/product/662186/pokemon-me02-phantasmal-flames-mega-heracross-ex-004-094",
    "product_id": 662186,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "005",
@@ -97,8 +133,8 @@
    "url": "https://www.tcgplayer.com/product/662178/pokemon-me02-phantasmal-flames-lotad",
    "product_id": 662178,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "005",
@@ -108,8 +144,8 @@
    "url": "https://www.tcgplayer.com/product/662178/pokemon-me02-phantasmal-flames-lotad",
    "product_id": 662178,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "006",
@@ -119,8 +155,8 @@
    "url": "https://www.tcgplayer.com/product/662177/pokemon-me02-phantasmal-flames-lombre",
    "product_id": 662177,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "006",
@@ -130,8 +166,8 @@
    "url": "https://www.tcgplayer.com/product/662177/pokemon-me02-phantasmal-flames-lombre",
    "product_id": 662177,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "007",
@@ -141,8 +177,8 @@
    "url": "https://www.tcgplayer.com/product/662179/pokemon-me02-phantasmal-flames-ludicolo-007-094",
    "product_id": 662179,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "007",
@@ -152,8 +188,8 @@
    "url": "https://www.tcgplayer.com/product/662179/pokemon-me02-phantasmal-flames-ludicolo-007-094",
    "product_id": 662179,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "008",
@@ -163,8 +199,8 @@
    "url": "https://www.tcgplayer.com/product/662161/pokemon-me02-phantasmal-flames-genesect",
    "product_id": 662161,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "008",
@@ -174,8 +210,20 @@
    "url": "https://www.tcgplayer.com/product/662161/pokemon-me02-phantasmal-flames-genesect",
    "product_id": 662161,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "008",
+   "name": "Genesect",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/664012_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/664012/pokemon-miscellaneous-cards-and-products-genesect-cosmos-holo-best-buy-exclusive",
+   "product_id": 664012,
+   "variant": "cosmos",
+   "special": "Cosmos Holo, Best Buy Exclusive",
+   "variant_label": "Cosmos Holo (Cosmos Holo, Best Buy Exclusive)",
+   "qty": 0
   },
   {
    "number": "009",
@@ -185,8 +233,8 @@
    "url": "https://www.tcgplayer.com/product/662203/pokemon-me02-phantasmal-flames-nymble-009-094",
    "product_id": 662203,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "009",
@@ -196,8 +244,8 @@
    "url": "https://www.tcgplayer.com/product/662203/pokemon-me02-phantasmal-flames-nymble-009-094",
    "product_id": 662203,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "010",
@@ -207,8 +255,8 @@
    "url": "https://www.tcgplayer.com/product/662176/pokemon-me02-phantasmal-flames-lokix",
    "product_id": 662176,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "010",
@@ -218,8 +266,8 @@
    "url": "https://www.tcgplayer.com/product/662176/pokemon-me02-phantasmal-flames-lokix",
    "product_id": 662176,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "011",
@@ -229,8 +277,8 @@
    "url": "https://www.tcgplayer.com/product/662143/pokemon-me02-phantasmal-flames-charmander",
    "product_id": 662143,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "011",
@@ -240,8 +288,8 @@
    "url": "https://www.tcgplayer.com/product/662143/pokemon-me02-phantasmal-flames-charmander",
    "product_id": 662143,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "012",
@@ -251,8 +299,8 @@
    "url": "https://www.tcgplayer.com/product/662144/pokemon-me02-phantasmal-flames-charmeleon",
    "product_id": 662144,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "012",
@@ -262,8 +310,8 @@
    "url": "https://www.tcgplayer.com/product/662144/pokemon-me02-phantasmal-flames-charmeleon",
    "product_id": 662144,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "013",
@@ -273,8 +321,8 @@
    "url": "https://www.tcgplayer.com/product/662182/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-013-094",
    "product_id": 662182,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "014",
@@ -285,8 +333,8 @@
    "product_id": 664004,
    "variant": "normal",
    "deck": true,
-   "qty": 0,
-   "variant_label": "Normal (deck)"
+   "variant_label": "Normal (deck)",
+   "qty": 0
   },
   {
    "number": "014",
@@ -297,8 +345,8 @@
    "product_id": 662201,
    "variant": "holo",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/664004_400w.jpg",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "014",
@@ -309,8 +357,8 @@
    "product_id": 662201,
    "variant": "reverse",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/664004_400w.jpg",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "015",
@@ -320,8 +368,8 @@
    "url": "https://www.tcgplayer.com/product/662147/pokemon-me02-phantasmal-flames-darumaka",
    "product_id": 662147,
    "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 3
   },
   {
    "number": "015",
@@ -331,8 +379,8 @@
    "url": "https://www.tcgplayer.com/product/662147/pokemon-me02-phantasmal-flames-darumaka",
    "product_id": 662147,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "016",
@@ -342,8 +390,8 @@
    "url": "https://www.tcgplayer.com/product/662146/pokemon-me02-phantasmal-flames-darmanitan",
    "product_id": 662146,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "016",
@@ -353,8 +401,8 @@
    "url": "https://www.tcgplayer.com/product/662146/pokemon-me02-phantasmal-flames-darmanitan",
    "product_id": 662146,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "017",
@@ -364,8 +412,8 @@
    "url": "https://www.tcgplayer.com/product/662219/pokemon-me02-phantasmal-flames-reshiram",
    "product_id": 662219,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "017",
@@ -375,8 +423,32 @@
    "url": "https://www.tcgplayer.com/product/662219/pokemon-me02-phantasmal-flames-reshiram",
    "product_id": 662219,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "017",
+   "name": "Reshiram",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/696441_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/696441/pokemon-blister-exclusives-reshiram-017-094-cosmos-holo",
+   "product_id": 696441,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
+  },
+  {
+   "number": "017",
+   "name": "Reshiram",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/664098_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/664098/pokemon-miscellaneous-cards-and-products-reshiram-phantasmal-flames-stamped",
+   "product_id": 664098,
+   "variant": "stamp",
+   "special": "Phantasmal Flames Stamped",
+   "variant_label": "Stamped (Phantasmal Flames Stamped)",
+   "qty": 0
   },
   {
    "number": "018",
@@ -386,8 +458,8 @@
    "url": "https://www.tcgplayer.com/product/662206/pokemon-me02-phantasmal-flames-oricorio-ex-018-094",
    "product_id": 662206,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "019",
@@ -397,8 +469,8 @@
    "url": "https://www.tcgplayer.com/product/662142/pokemon-me02-phantasmal-flames-charcadet",
    "product_id": 662142,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "019",
@@ -408,8 +480,8 @@
    "url": "https://www.tcgplayer.com/product/662142/pokemon-me02-phantasmal-flames-charcadet",
    "product_id": 662142,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "020",
@@ -419,8 +491,8 @@
    "url": "https://www.tcgplayer.com/product/662141/pokemon-me02-phantasmal-flames-ceruledge",
    "product_id": 662141,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "020",
@@ -430,8 +502,8 @@
    "url": "https://www.tcgplayer.com/product/662141/pokemon-me02-phantasmal-flames-ceruledge",
    "product_id": 662141,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "021",
@@ -441,8 +513,8 @@
    "url": "https://www.tcgplayer.com/product/662226/pokemon-me02-phantasmal-flames-seel",
    "product_id": 662226,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "021",
@@ -452,8 +524,8 @@
    "url": "https://www.tcgplayer.com/product/662226/pokemon-me02-phantasmal-flames-seel",
    "product_id": 662226,
    "variant": "reverse",
-   "qty": 1,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 1
   },
   {
    "number": "022",
@@ -463,8 +535,8 @@
    "url": "https://www.tcgplayer.com/product/662151/pokemon-me02-phantasmal-flames-dewgong-022-094",
    "product_id": 662151,
    "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 3
   },
   {
    "number": "022",
@@ -474,8 +546,8 @@
    "url": "https://www.tcgplayer.com/product/662151/pokemon-me02-phantasmal-flames-dewgong-022-094",
    "product_id": 662151,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "023",
@@ -485,8 +557,8 @@
    "url": "https://www.tcgplayer.com/product/662230/pokemon-me02-phantasmal-flames-swinub",
    "product_id": 662230,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "023",
@@ -496,8 +568,8 @@
    "url": "https://www.tcgplayer.com/product/662230/pokemon-me02-phantasmal-flames-swinub",
    "product_id": 662230,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "024",
@@ -507,8 +579,8 @@
    "url": "https://www.tcgplayer.com/product/662213/pokemon-me02-phantasmal-flames-piloswine",
    "product_id": 662213,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "024",
@@ -518,8 +590,8 @@
    "url": "https://www.tcgplayer.com/product/662213/pokemon-me02-phantasmal-flames-piloswine",
    "product_id": 662213,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "025",
@@ -529,8 +601,8 @@
    "url": "https://www.tcgplayer.com/product/662181/pokemon-me02-phantasmal-flames-mamoswine",
    "product_id": 662181,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "025",
@@ -540,8 +612,8 @@
    "url": "https://www.tcgplayer.com/product/662181/pokemon-me02-phantasmal-flames-mamoswine",
    "product_id": 662181,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "026",
@@ -551,8 +623,8 @@
    "url": "https://www.tcgplayer.com/product/662229/pokemon-me02-phantasmal-flames-suicune",
    "product_id": 662229,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "026",
@@ -562,8 +634,32 @@
    "url": "https://www.tcgplayer.com/product/662229/pokemon-me02-phantasmal-flames-suicune",
    "product_id": 662229,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "026",
+   "name": "Suicune",
+   "rarity": "Promo",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/666533_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/666533/pokemon-miscellaneous-cards-and-products-suicune-cosmos-holo-gamestop-exclusive",
+   "product_id": 666533,
+   "variant": "cosmos",
+   "special": "Cosmos Holo, Gamestop Exclusive / Cosmos Holo",
+   "variant_label": "Cosmos Holo (Cosmos Holo, Gamestop Exclusive / Cosmos Holo)",
+   "qty": 0
+  },
+  {
+   "number": "026",
+   "name": "Suicune",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/671234_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/671234/pokemon-miscellaneous-cards-and-products-suicune-eb-games-exclusive",
+   "product_id": 671234,
+   "variant": "promo",
+   "special": "EB Games Exclusive",
+   "variant_label": "Promo (EB Games Exclusive)",
+   "qty": 0
   },
   {
    "number": "027",
@@ -573,8 +669,8 @@
    "url": "https://www.tcgplayer.com/product/662214/pokemon-me02-phantasmal-flames-piplup-027-094",
    "product_id": 662214,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "027",
@@ -584,8 +680,8 @@
    "url": "https://www.tcgplayer.com/product/662214/pokemon-me02-phantasmal-flames-piplup-027-094",
    "product_id": 662214,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "028",
@@ -595,8 +691,8 @@
    "url": "https://www.tcgplayer.com/product/662216/pokemon-me02-phantasmal-flames-prinplup",
    "product_id": 662216,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "028",
@@ -606,8 +702,8 @@
    "url": "https://www.tcgplayer.com/product/662216/pokemon-me02-phantasmal-flames-prinplup",
    "product_id": 662216,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "029",
@@ -617,8 +713,8 @@
    "url": "https://www.tcgplayer.com/product/662220/pokemon-me02-phantasmal-flames-rotom-ex-029-094",
    "product_id": 662220,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "030",
@@ -628,8 +724,8 @@
    "url": "https://www.tcgplayer.com/product/662242/pokemon-me02-phantasmal-flames-yamper-030-094",
    "product_id": 662242,
    "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 3
   },
   {
    "number": "030",
@@ -639,8 +735,8 @@
    "url": "https://www.tcgplayer.com/product/662242/pokemon-me02-phantasmal-flames-yamper-030-094",
    "product_id": 662242,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "031",
@@ -650,8 +746,8 @@
    "url": "https://www.tcgplayer.com/product/662134/pokemon-me02-phantasmal-flames-boltund",
    "product_id": 662134,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "031",
@@ -661,8 +757,8 @@
    "url": "https://www.tcgplayer.com/product/662134/pokemon-me02-phantasmal-flames-boltund",
    "product_id": 662134,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "032",
@@ -672,8 +768,8 @@
    "url": "https://www.tcgplayer.com/product/662210/pokemon-me02-phantasmal-flames-pawmi",
    "product_id": 662210,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "032",
@@ -683,8 +779,8 @@
    "url": "https://www.tcgplayer.com/product/662210/pokemon-me02-phantasmal-flames-pawmi",
    "product_id": 662210,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "033",
@@ -694,8 +790,8 @@
    "url": "https://www.tcgplayer.com/product/662211/pokemon-me02-phantasmal-flames-pawmo",
    "product_id": 662211,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "033",
@@ -705,8 +801,8 @@
    "url": "https://www.tcgplayer.com/product/662211/pokemon-me02-phantasmal-flames-pawmo",
    "product_id": 662211,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "034",
@@ -716,8 +812,8 @@
    "url": "https://www.tcgplayer.com/product/662212/pokemon-me02-phantasmal-flames-pawmot",
    "product_id": 662212,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "034",
@@ -727,8 +823,20 @@
    "url": "https://www.tcgplayer.com/product/662212/pokemon-me02-phantasmal-flames-pawmot",
    "product_id": 662212,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "034",
+   "name": "Pawmot",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/696233_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/696233/pokemon-blister-exclusives-pawmot-034-094-cosmos-holo",
+   "product_id": 696233,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "035",
@@ -738,8 +846,8 @@
    "url": "https://www.tcgplayer.com/product/662198/pokemon-me02-phantasmal-flames-misdreavus",
    "product_id": 662198,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "035",
@@ -749,8 +857,8 @@
    "url": "https://www.tcgplayer.com/product/662198/pokemon-me02-phantasmal-flames-misdreavus",
    "product_id": 662198,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "036",
@@ -760,8 +868,8 @@
    "url": "https://www.tcgplayer.com/product/662199/pokemon-me02-phantasmal-flames-mismagius-ex-036-094",
    "product_id": 662199,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "037",
@@ -771,8 +879,8 @@
    "url": "https://www.tcgplayer.com/product/662228/pokemon-me02-phantasmal-flames-snubbull",
    "product_id": 662228,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "037",
@@ -782,8 +890,8 @@
    "url": "https://www.tcgplayer.com/product/662228/pokemon-me02-phantasmal-flames-snubbull",
    "product_id": 662228,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "038",
@@ -793,8 +901,8 @@
    "url": "https://www.tcgplayer.com/product/662165/pokemon-me02-phantasmal-flames-granbull",
    "product_id": 662165,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "038",
@@ -804,8 +912,8 @@
    "url": "https://www.tcgplayer.com/product/662165/pokemon-me02-phantasmal-flames-granbull",
    "product_id": 662165,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "039",
@@ -815,8 +923,8 @@
    "url": "https://www.tcgplayer.com/product/662145/pokemon-me02-phantasmal-flames-cresselia",
    "product_id": 662145,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "039",
@@ -826,8 +934,8 @@
    "url": "https://www.tcgplayer.com/product/662145/pokemon-me02-phantasmal-flames-cresselia",
    "product_id": 662145,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "040",
@@ -837,8 +945,8 @@
    "url": "https://www.tcgplayer.com/product/662194/pokemon-me02-phantasmal-flames-meloetta",
    "product_id": 662194,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "040",
@@ -848,8 +956,8 @@
    "url": "https://www.tcgplayer.com/product/662194/pokemon-me02-phantasmal-flames-meloetta",
    "product_id": 662194,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "041",
@@ -859,8 +967,8 @@
    "url": "https://www.tcgplayer.com/product/660379/pokemon-me02-phantasmal-flames-mega-diancie-ex",
    "product_id": 660379,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "042",
@@ -870,8 +978,8 @@
    "url": "https://www.tcgplayer.com/product/662197/pokemon-me02-phantasmal-flames-mimikyu",
    "product_id": 662197,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "042",
@@ -881,8 +989,8 @@
    "url": "https://www.tcgplayer.com/product/662197/pokemon-me02-phantasmal-flames-mimikyu",
    "product_id": 662197,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "043",
@@ -892,8 +1000,8 @@
    "url": "https://www.tcgplayer.com/product/662196/pokemon-me02-phantasmal-flames-milcery",
    "product_id": 662196,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "043",
@@ -903,8 +1011,8 @@
    "url": "https://www.tcgplayer.com/product/662196/pokemon-me02-phantasmal-flames-milcery",
    "product_id": 662196,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "044",
@@ -914,8 +1022,8 @@
    "url": "https://www.tcgplayer.com/product/660384/pokemon-me02-phantasmal-flames-alcremie",
    "product_id": 660384,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "044",
@@ -925,8 +1033,8 @@
    "url": "https://www.tcgplayer.com/product/660384/pokemon-me02-phantasmal-flames-alcremie",
    "product_id": 660384,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "045",
@@ -938,8 +1046,8 @@
    "variant": "normal",
    "deck": true,
    "image_borrowed": true,
-   "qty": 0,
-   "variant_label": "Normal (deck)"
+   "variant_label": "Normal (deck)",
+   "qty": 0
   },
   {
    "number": "045",
@@ -949,8 +1057,8 @@
    "url": "https://www.tcgplayer.com/product/662244/pokemon-me02-phantasmal-flames-zacian-045-094",
    "product_id": 662244,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "045",
@@ -960,8 +1068,20 @@
    "url": "https://www.tcgplayer.com/product/662244/pokemon-me02-phantasmal-flames-zacian-045-094",
    "product_id": 662244,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "045",
+   "name": "Zacian",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/696145_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/696145/pokemon-blister-exclusives-zacian-045-094-cosmos-holo",
+   "product_id": 696145,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "046",
@@ -971,8 +1091,8 @@
    "url": "https://www.tcgplayer.com/product/662136/pokemon-me02-phantasmal-flames-bramblin",
    "product_id": 662136,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "046",
@@ -982,8 +1102,8 @@
    "url": "https://www.tcgplayer.com/product/662136/pokemon-me02-phantasmal-flames-bramblin",
    "product_id": 662136,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "047",
@@ -993,8 +1113,8 @@
    "url": "https://www.tcgplayer.com/product/662135/pokemon-me02-phantasmal-flames-brambleghast",
    "product_id": 662135,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "047",
@@ -1004,8 +1124,8 @@
    "url": "https://www.tcgplayer.com/product/662135/pokemon-me02-phantasmal-flames-brambleghast",
    "product_id": 662135,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "048",
@@ -1015,8 +1135,8 @@
    "url": "https://www.tcgplayer.com/product/662208/pokemon-me02-phantasmal-flames-paldean-tauros",
    "product_id": 662208,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "048",
@@ -1026,8 +1146,8 @@
    "url": "https://www.tcgplayer.com/product/662208/pokemon-me02-phantasmal-flames-paldean-tauros",
    "product_id": 662208,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "049",
@@ -1037,8 +1157,8 @@
    "url": "https://www.tcgplayer.com/product/662162/pokemon-me02-phantasmal-flames-gligar",
    "product_id": 662162,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "049",
@@ -1048,8 +1168,8 @@
    "url": "https://www.tcgplayer.com/product/662162/pokemon-me02-phantasmal-flames-gligar",
    "product_id": 662162,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "050",
@@ -1059,8 +1179,8 @@
    "url": "https://www.tcgplayer.com/product/662163/pokemon-me02-phantasmal-flames-gliscor",
    "product_id": 662163,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "050",
@@ -1070,8 +1190,8 @@
    "url": "https://www.tcgplayer.com/product/662163/pokemon-me02-phantasmal-flames-gliscor",
    "product_id": 662163,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "051",
@@ -1081,8 +1201,8 @@
    "url": "https://www.tcgplayer.com/product/662236/pokemon-me02-phantasmal-flames-trapinch",
    "product_id": 662236,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "051",
@@ -1092,8 +1212,8 @@
    "url": "https://www.tcgplayer.com/product/662236/pokemon-me02-phantasmal-flames-trapinch",
    "product_id": 662236,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "052",
@@ -1103,8 +1223,8 @@
    "url": "https://www.tcgplayer.com/product/662237/pokemon-me02-phantasmal-flames-vibrava",
    "product_id": 662237,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "052",
@@ -1114,8 +1234,8 @@
    "url": "https://www.tcgplayer.com/product/662237/pokemon-me02-phantasmal-flames-vibrava",
    "product_id": 662237,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "053",
@@ -1127,8 +1247,8 @@
    "variant": "normal",
    "deck": true,
    "image_borrowed": true,
-   "qty": 0,
-   "variant_label": "Normal (deck)"
+   "variant_label": "Normal (deck)",
+   "qty": 0
   },
   {
    "number": "053",
@@ -1138,8 +1258,8 @@
    "url": "https://www.tcgplayer.com/product/662159/pokemon-me02-phantasmal-flames-flygon-053-094",
    "product_id": 662159,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "053",
@@ -1149,8 +1269,20 @@
    "url": "https://www.tcgplayer.com/product/662159/pokemon-me02-phantasmal-flames-flygon-053-094",
    "product_id": 662159,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "053",
+   "name": "Flygon",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/696232_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/696232/pokemon-blister-exclusives-flygon-053-094-cosmos-holo",
+   "product_id": 696232,
+   "variant": "cosmos",
+   "special": "Cosmos Holo",
+   "variant_label": "Cosmos Holo",
+   "qty": 0
   },
   {
    "number": "054",
@@ -1160,8 +1292,8 @@
    "url": "https://www.tcgplayer.com/product/660495/pokemon-me02-phantasmal-flames-gastly",
    "product_id": 660495,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "054",
@@ -1171,8 +1303,8 @@
    "url": "https://www.tcgplayer.com/product/660495/pokemon-me02-phantasmal-flames-gastly",
    "product_id": 660495,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "055",
@@ -1182,8 +1314,8 @@
    "url": "https://www.tcgplayer.com/product/660408/pokemon-me02-phantasmal-flames-haunter-055-094",
    "product_id": 660408,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "055",
@@ -1193,8 +1325,8 @@
    "url": "https://www.tcgplayer.com/product/660408/pokemon-me02-phantasmal-flames-haunter-055-094",
    "product_id": 660408,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "056",
@@ -1204,8 +1336,8 @@
    "url": "https://www.tcgplayer.com/product/660380/pokemon-me02-phantasmal-flames-mega-gengar-ex",
    "product_id": 660380,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "057",
@@ -1215,8 +1347,8 @@
    "url": "https://www.tcgplayer.com/product/662202/pokemon-me02-phantasmal-flames-murkrow",
    "product_id": 662202,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "057",
@@ -1226,8 +1358,8 @@
    "url": "https://www.tcgplayer.com/product/662202/pokemon-me02-phantasmal-flames-murkrow",
    "product_id": 662202,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "058",
@@ -1237,8 +1369,8 @@
    "url": "https://www.tcgplayer.com/product/662169/pokemon-me02-phantasmal-flames-honchkrow",
    "product_id": 662169,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "058",
@@ -1248,8 +1380,8 @@
    "url": "https://www.tcgplayer.com/product/662169/pokemon-me02-phantasmal-flames-honchkrow",
    "product_id": 662169,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "059",
@@ -1259,8 +1391,8 @@
    "url": "https://www.tcgplayer.com/product/660412/pokemon-me02-phantasmal-flames-sableye",
    "product_id": 660412,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "059",
@@ -1270,8 +1402,8 @@
    "url": "https://www.tcgplayer.com/product/660412/pokemon-me02-phantasmal-flames-sableye",
    "product_id": 660412,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "060",
@@ -1281,8 +1413,8 @@
    "url": "https://www.tcgplayer.com/product/662140/pokemon-me02-phantasmal-flames-carvanha",
    "product_id": 662140,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "060",
@@ -1292,8 +1424,8 @@
    "url": "https://www.tcgplayer.com/product/662140/pokemon-me02-phantasmal-flames-carvanha",
    "product_id": 662140,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "061",
@@ -1303,8 +1435,8 @@
    "url": "https://www.tcgplayer.com/product/662191/pokemon-me02-phantasmal-flames-mega-sharpedo-ex-061-094",
    "product_id": 662191,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "062",
@@ -1314,8 +1446,8 @@
    "url": "https://www.tcgplayer.com/product/660413/pokemon-me02-phantasmal-flames-seviper",
    "product_id": 660413,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "062",
@@ -1325,8 +1457,8 @@
    "url": "https://www.tcgplayer.com/product/660413/pokemon-me02-phantasmal-flames-seviper",
    "product_id": 660413,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "063",
@@ -1336,8 +1468,8 @@
    "url": "https://www.tcgplayer.com/product/662125/pokemon-me02-phantasmal-flames-absol",
    "product_id": 662125,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "063",
@@ -1347,8 +1479,8 @@
    "url": "https://www.tcgplayer.com/product/662125/pokemon-me02-phantasmal-flames-absol",
    "product_id": 662125,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "064",
@@ -1358,8 +1490,8 @@
    "url": "https://www.tcgplayer.com/product/662225/pokemon-me02-phantasmal-flames-sandile",
    "product_id": 662225,
    "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 3
   },
   {
    "number": "064",
@@ -1369,8 +1501,8 @@
    "url": "https://www.tcgplayer.com/product/662225/pokemon-me02-phantasmal-flames-sandile",
    "product_id": 662225,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "065",
@@ -1380,8 +1512,8 @@
    "url": "https://www.tcgplayer.com/product/662173/pokemon-me02-phantasmal-flames-krokorok",
    "product_id": 662173,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "065",
@@ -1391,8 +1523,8 @@
    "url": "https://www.tcgplayer.com/product/662173/pokemon-me02-phantasmal-flames-krokorok",
    "product_id": 662173,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "066",
@@ -1402,8 +1534,8 @@
    "url": "https://www.tcgplayer.com/product/662174/pokemon-me02-phantasmal-flames-krookodile",
    "product_id": 662174,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "066",
@@ -1413,8 +1545,8 @@
    "url": "https://www.tcgplayer.com/product/662174/pokemon-me02-phantasmal-flames-krookodile",
    "product_id": 662174,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "067",
@@ -1424,8 +1556,8 @@
    "url": "https://www.tcgplayer.com/product/660411/pokemon-me02-phantasmal-flames-toxel",
    "product_id": 660411,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "067",
@@ -1435,8 +1567,8 @@
    "url": "https://www.tcgplayer.com/product/660411/pokemon-me02-phantasmal-flames-toxel",
    "product_id": 660411,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "068",
@@ -1447,8 +1579,8 @@
    "product_id": 663937,
    "variant": "normal",
    "deck": true,
-   "qty": 0,
-   "variant_label": "Normal (deck)"
+   "variant_label": "Normal (deck)",
+   "qty": 0
   },
   {
    "number": "068",
@@ -1459,8 +1591,8 @@
    "product_id": 660409,
    "variant": "holo",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/663937_400w.jpg",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "068",
@@ -1471,8 +1603,8 @@
    "product_id": 660409,
    "variant": "reverse",
    "image_fallback": "https://tcgplayer-cdn.tcgplayer.com/product/663937_400w.jpg",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "069",
@@ -1482,8 +1614,8 @@
    "url": "https://www.tcgplayer.com/product/660406/pokemon-me02-phantasmal-flames-eternatus",
    "product_id": 660406,
    "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 3
   },
   {
    "number": "069",
@@ -1493,8 +1625,8 @@
    "url": "https://www.tcgplayer.com/product/660406/pokemon-me02-phantasmal-flames-eternatus",
    "product_id": 660406,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "070",
@@ -1504,8 +1636,8 @@
    "url": "https://www.tcgplayer.com/product/662155/pokemon-me02-phantasmal-flames-empoleon-ex-070-094",
    "product_id": 662155,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "071",
@@ -1515,8 +1647,8 @@
    "url": "https://www.tcgplayer.com/product/662138/pokemon-me02-phantasmal-flames-bronzor",
    "product_id": 662138,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "071",
@@ -1526,8 +1658,8 @@
    "url": "https://www.tcgplayer.com/product/662138/pokemon-me02-phantasmal-flames-bronzor",
    "product_id": 662138,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "072",
@@ -1537,8 +1669,8 @@
    "url": "https://www.tcgplayer.com/product/662137/pokemon-me02-phantasmal-flames-bronzong",
    "product_id": 662137,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "072",
@@ -1548,8 +1680,8 @@
    "url": "https://www.tcgplayer.com/product/662137/pokemon-me02-phantasmal-flames-bronzong",
    "product_id": 662137,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "073",
@@ -1559,8 +1691,8 @@
    "url": "https://www.tcgplayer.com/product/662232/pokemon-me02-phantasmal-flames-togedemaru-073-094",
    "product_id": 662232,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "073",
@@ -1570,8 +1702,8 @@
    "url": "https://www.tcgplayer.com/product/662232/pokemon-me02-phantasmal-flames-togedemaru-073-094",
    "product_id": 662232,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "074",
@@ -1581,8 +1713,8 @@
    "url": "https://www.tcgplayer.com/product/662154/pokemon-me02-phantasmal-flames-duraludon",
    "product_id": 662154,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "074",
@@ -1592,8 +1724,8 @@
    "url": "https://www.tcgplayer.com/product/662154/pokemon-me02-phantasmal-flames-duraludon",
    "product_id": 662154,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "075",
@@ -1603,8 +1735,8 @@
    "url": "https://www.tcgplayer.com/product/662129/pokemon-me02-phantasmal-flames-archaludon",
    "product_id": 662129,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "075",
@@ -1614,8 +1746,8 @@
    "url": "https://www.tcgplayer.com/product/662129/pokemon-me02-phantasmal-flames-archaludon",
    "product_id": 662129,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "076",
@@ -1625,8 +1757,8 @@
    "url": "https://www.tcgplayer.com/product/662171/pokemon-me02-phantasmal-flames-jigglypuff",
    "product_id": 662171,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "076",
@@ -1636,8 +1768,8 @@
    "url": "https://www.tcgplayer.com/product/662171/pokemon-me02-phantasmal-flames-jigglypuff",
    "product_id": 662171,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "077",
@@ -1647,8 +1779,8 @@
    "url": "https://www.tcgplayer.com/product/662239/pokemon-me02-phantasmal-flames-wigglytuff-077-094",
    "product_id": 662239,
    "variant": "normal",
-   "qty": 2,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 2
   },
   {
    "number": "077",
@@ -1658,8 +1790,8 @@
    "url": "https://www.tcgplayer.com/product/662239/pokemon-me02-phantasmal-flames-wigglytuff-077-094",
    "product_id": 662239,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "078",
@@ -1669,8 +1801,8 @@
    "url": "https://www.tcgplayer.com/product/662126/pokemon-me02-phantasmal-flames-aipom",
    "product_id": 662126,
    "variant": "normal",
-   "qty": 3,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 3
   },
   {
    "number": "078",
@@ -1680,8 +1812,8 @@
    "url": "https://www.tcgplayer.com/product/662126/pokemon-me02-phantasmal-flames-aipom",
    "product_id": 662126,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "079",
@@ -1691,8 +1823,8 @@
    "url": "https://www.tcgplayer.com/product/662127/pokemon-me02-phantasmal-flames-ambipom-079-094",
    "product_id": 662127,
    "variant": "holo",
-   "qty": 1,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 1
   },
   {
    "number": "079",
@@ -1702,8 +1834,8 @@
    "url": "https://www.tcgplayer.com/product/662127/pokemon-me02-phantasmal-flames-ambipom-079-094",
    "product_id": 662127,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "080",
@@ -1713,8 +1845,8 @@
    "url": "https://www.tcgplayer.com/product/662227/pokemon-me02-phantasmal-flames-smeargle",
    "product_id": 662227,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "080",
@@ -1724,8 +1856,8 @@
    "url": "https://www.tcgplayer.com/product/662227/pokemon-me02-phantasmal-flames-smeargle",
    "product_id": 662227,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "081",
@@ -1735,8 +1867,8 @@
    "url": "https://www.tcgplayer.com/product/662246/pokemon-me02-phantasmal-flames-zigzagoon",
    "product_id": 662246,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "081",
@@ -1746,8 +1878,8 @@
    "url": "https://www.tcgplayer.com/product/662246/pokemon-me02-phantasmal-flames-zigzagoon",
    "product_id": 662246,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "082",
@@ -1757,8 +1889,8 @@
    "url": "https://www.tcgplayer.com/product/662175/pokemon-me02-phantasmal-flames-linoone",
    "product_id": 662175,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "082",
@@ -1768,8 +1900,8 @@
    "url": "https://www.tcgplayer.com/product/662175/pokemon-me02-phantasmal-flames-linoone",
    "product_id": 662175,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "083",
@@ -1779,8 +1911,8 @@
    "url": "https://www.tcgplayer.com/product/662139/pokemon-me02-phantasmal-flames-buneary",
    "product_id": 662139,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "083",
@@ -1790,8 +1922,8 @@
    "url": "https://www.tcgplayer.com/product/662139/pokemon-me02-phantasmal-flames-buneary",
    "product_id": 662139,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "084",
@@ -1801,8 +1933,8 @@
    "url": "https://www.tcgplayer.com/product/662188/pokemon-me02-phantasmal-flames-mega-lopunny-ex-084-094",
    "product_id": 662188,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "085",
@@ -1812,8 +1944,8 @@
    "url": "https://www.tcgplayer.com/product/662130/pokemon-me02-phantasmal-flames-battle-cage-085-094",
    "product_id": 662130,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "085",
@@ -1823,8 +1955,8 @@
    "url": "https://www.tcgplayer.com/product/662130/pokemon-me02-phantasmal-flames-battle-cage-085-094",
    "product_id": 662130,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "086",
@@ -1834,8 +1966,8 @@
    "url": "https://www.tcgplayer.com/product/662132/pokemon-me02-phantasmal-flames-blowtorch-086-094",
    "product_id": 662132,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "086",
@@ -1845,8 +1977,8 @@
    "url": "https://www.tcgplayer.com/product/662132/pokemon-me02-phantasmal-flames-blowtorch-086-094",
    "product_id": 662132,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "087",
@@ -1856,8 +1988,8 @@
    "url": "https://www.tcgplayer.com/product/660414/pokemon-me02-phantasmal-flames-dawn",
    "product_id": 660414,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "087",
@@ -1867,8 +1999,8 @@
    "url": "https://www.tcgplayer.com/product/660414/pokemon-me02-phantasmal-flames-dawn",
    "product_id": 660414,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "088",
@@ -1878,8 +2010,8 @@
    "url": "https://www.tcgplayer.com/product/662153/pokemon-me02-phantasmal-flames-dizzying-valley",
    "product_id": 662153,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "088",
@@ -1889,8 +2021,8 @@
    "url": "https://www.tcgplayer.com/product/662153/pokemon-me02-phantasmal-flames-dizzying-valley",
    "product_id": 662153,
    "variant": "reverse",
-   "qty": 1,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 1
   },
   {
    "number": "089",
@@ -1900,8 +2032,8 @@
    "url": "https://www.tcgplayer.com/product/662157/pokemon-me02-phantasmal-flames-firebreather-089-094",
    "product_id": 662157,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "089",
@@ -1911,8 +2043,8 @@
    "url": "https://www.tcgplayer.com/product/662157/pokemon-me02-phantasmal-flames-firebreather-089-094",
    "product_id": 662157,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "090",
@@ -1922,8 +2054,8 @@
    "url": "https://www.tcgplayer.com/product/660418/pokemon-me02-phantasmal-flames-grimsleys-move",
    "product_id": 660418,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "090",
@@ -1933,8 +2065,8 @@
    "url": "https://www.tcgplayer.com/product/660418/pokemon-me02-phantasmal-flames-grimsleys-move",
    "product_id": 660418,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "091",
@@ -1944,8 +2076,8 @@
    "url": "https://www.tcgplayer.com/product/662172/pokemon-me02-phantasmal-flames-jumbo-ice-cream",
    "product_id": 662172,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "091",
@@ -1955,8 +2087,8 @@
    "url": "https://www.tcgplayer.com/product/662172/pokemon-me02-phantasmal-flames-jumbo-ice-cream",
    "product_id": 662172,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "092",
@@ -1966,8 +2098,8 @@
    "url": "https://www.tcgplayer.com/product/660419/pokemon-me02-phantasmal-flames-punk-helmet",
    "product_id": 660419,
    "variant": "normal",
-   "qty": 1,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 1
   },
   {
    "number": "092",
@@ -1977,8 +2109,8 @@
    "url": "https://www.tcgplayer.com/product/660419/pokemon-me02-phantasmal-flames-punk-helmet",
    "product_id": 660419,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "093",
@@ -1988,8 +2120,8 @@
    "url": "https://www.tcgplayer.com/product/662223/pokemon-me02-phantasmal-flames-sacred-charm-093-094",
    "product_id": 662223,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "093",
@@ -1999,8 +2131,8 @@
    "url": "https://www.tcgplayer.com/product/662223/pokemon-me02-phantasmal-flames-sacred-charm-093-094",
    "product_id": 662223,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "094",
@@ -2010,8 +2142,8 @@
    "url": "https://www.tcgplayer.com/product/662241/pokemon-me02-phantasmal-flames-wondrous-patch",
    "product_id": 662241,
    "variant": "normal",
-   "qty": 0,
-   "variant_label": "Normal"
+   "variant_label": "Normal",
+   "qty": 0
   },
   {
    "number": "094",
@@ -2021,8 +2153,8 @@
    "url": "https://www.tcgplayer.com/product/662241/pokemon-me02-phantasmal-flames-wondrous-patch",
    "product_id": 662241,
    "variant": "reverse",
-   "qty": 0,
-   "variant_label": "Reverse"
+   "variant_label": "Reverse",
+   "qty": 0
   },
   {
    "number": "095",
@@ -2032,8 +2164,8 @@
    "url": "https://www.tcgplayer.com/product/662180/pokemon-me02-phantasmal-flames-ludicolo-095-094",
    "product_id": 662180,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "096",
@@ -2043,8 +2175,8 @@
    "url": "https://www.tcgplayer.com/product/662204/pokemon-me02-phantasmal-flames-nymble-096-094",
    "product_id": 662204,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "097",
@@ -2054,8 +2186,8 @@
    "url": "https://www.tcgplayer.com/product/662152/pokemon-me02-phantasmal-flames-dewgong-097-094",
    "product_id": 662152,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "098",
@@ -2065,8 +2197,8 @@
    "url": "https://www.tcgplayer.com/product/662215/pokemon-me02-phantasmal-flames-piplup-098-094",
    "product_id": 662215,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "099",
@@ -2076,8 +2208,8 @@
    "url": "https://www.tcgplayer.com/product/662243/pokemon-me02-phantasmal-flames-yamper-099-094",
    "product_id": 662243,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "100",
@@ -2087,8 +2219,8 @@
    "url": "https://www.tcgplayer.com/product/662245/pokemon-me02-phantasmal-flames-zacian-100-094",
    "product_id": 662245,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "101",
@@ -2098,8 +2230,8 @@
    "url": "https://www.tcgplayer.com/product/662160/pokemon-me02-phantasmal-flames-flygon-101-094",
    "product_id": 662160,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "102",
@@ -2109,8 +2241,8 @@
    "url": "https://www.tcgplayer.com/product/662209/pokemon-me02-phantasmal-flames-paldean-wooper",
    "product_id": 662209,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "103",
@@ -2120,8 +2252,8 @@
    "url": "https://www.tcgplayer.com/product/662235/pokemon-me02-phantasmal-flames-toxtricity-103-094",
    "product_id": 662235,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "104",
@@ -2131,8 +2263,8 @@
    "url": "https://www.tcgplayer.com/product/662233/pokemon-me02-phantasmal-flames-togedemaru-104-094",
    "product_id": 662233,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "105",
@@ -2142,8 +2274,8 @@
    "url": "https://www.tcgplayer.com/product/662240/pokemon-me02-phantasmal-flames-wigglytuff-105-094",
    "product_id": 662240,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "106",
@@ -2153,8 +2285,8 @@
    "url": "https://www.tcgplayer.com/product/662195/pokemon-me02-phantasmal-flames-meowth",
    "product_id": 662195,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "107",
@@ -2164,8 +2296,8 @@
    "url": "https://www.tcgplayer.com/product/662128/pokemon-me02-phantasmal-flames-ambipom-107-094",
    "product_id": 662128,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "108",
@@ -2175,8 +2307,8 @@
    "url": "https://www.tcgplayer.com/product/662187/pokemon-me02-phantasmal-flames-mega-heracross-ex-108-094",
    "product_id": 662187,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "109",
@@ -2186,8 +2318,8 @@
    "url": "https://www.tcgplayer.com/product/662183/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094",
    "product_id": 662183,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "110",
@@ -2197,8 +2329,8 @@
    "url": "https://www.tcgplayer.com/product/662207/pokemon-me02-phantasmal-flames-oricorio-ex-110-094",
    "product_id": 662207,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "111",
@@ -2208,8 +2340,8 @@
    "url": "https://www.tcgplayer.com/product/662221/pokemon-me02-phantasmal-flames-rotom-ex-111-094",
    "product_id": 662221,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "112",
@@ -2219,8 +2351,8 @@
    "url": "https://www.tcgplayer.com/product/662200/pokemon-me02-phantasmal-flames-mismagius-ex-112-094",
    "product_id": 662200,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "113",
@@ -2230,8 +2362,8 @@
    "url": "https://www.tcgplayer.com/product/662192/pokemon-me02-phantasmal-flames-mega-sharpedo-ex-113-094",
    "product_id": 662192,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "114",
@@ -2241,8 +2373,8 @@
    "url": "https://www.tcgplayer.com/product/662156/pokemon-me02-phantasmal-flames-empoleon-ex-114-094",
    "product_id": 662156,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "115",
@@ -2252,8 +2384,8 @@
    "url": "https://www.tcgplayer.com/product/662189/pokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094",
    "product_id": 662189,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "116",
@@ -2263,8 +2395,8 @@
    "url": "https://www.tcgplayer.com/product/662131/pokemon-me02-phantasmal-flames-battle-cage-116-094",
    "product_id": 662131,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "117",
@@ -2274,8 +2406,8 @@
    "url": "https://www.tcgplayer.com/product/662133/pokemon-me02-phantasmal-flames-blowtorch-117-094",
    "product_id": 662133,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "118",
@@ -2285,8 +2417,8 @@
    "url": "https://www.tcgplayer.com/product/662149/pokemon-me02-phantasmal-flames-dawn-118-094",
    "product_id": 662149,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "119",
@@ -2296,8 +2428,8 @@
    "url": "https://www.tcgplayer.com/product/662158/pokemon-me02-phantasmal-flames-firebreather-119-094",
    "product_id": 662158,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "120",
@@ -2307,8 +2439,8 @@
    "url": "https://www.tcgplayer.com/product/662167/pokemon-me02-phantasmal-flames-grimsleys-move-120-094",
    "product_id": 662167,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "121",
@@ -2318,8 +2450,8 @@
    "url": "https://www.tcgplayer.com/product/662218/pokemon-me02-phantasmal-flames-punk-helmet-121-094",
    "product_id": 662218,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "122",
@@ -2329,8 +2461,8 @@
    "url": "https://www.tcgplayer.com/product/662224/pokemon-me02-phantasmal-flames-sacred-charm-122-094",
    "product_id": 662224,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "123",
@@ -2340,8 +2472,8 @@
    "url": "https://www.tcgplayer.com/product/662231/pokemon-me02-phantasmal-flames-switch",
    "product_id": 662231,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "124",
@@ -2351,8 +2483,8 @@
    "url": "https://www.tcgplayer.com/product/662170/pokemon-me02-phantasmal-flames-ignition-energy",
    "product_id": 662170,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "125",
@@ -2362,8 +2494,8 @@
    "url": "https://www.tcgplayer.com/product/662184/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094",
    "product_id": 662184,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "126",
@@ -2373,8 +2505,8 @@
    "url": "https://www.tcgplayer.com/product/662222/pokemon-me02-phantasmal-flames-rotom-ex-126-094",
    "product_id": 662222,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "127",
@@ -2384,8 +2516,8 @@
    "url": "https://www.tcgplayer.com/product/662193/pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094",
    "product_id": 662193,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "128",
@@ -2395,8 +2527,8 @@
    "url": "https://www.tcgplayer.com/product/662190/pokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094",
    "product_id": 662190,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "129",
@@ -2406,8 +2538,8 @@
    "url": "https://www.tcgplayer.com/product/662150/pokemon-me02-phantasmal-flames-dawn-129-094",
    "product_id": 662150,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   },
   {
    "number": "130",
@@ -2417,8 +2549,8 @@
    "url": "https://www.tcgplayer.com/product/662185/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094",
    "product_id": 662185,
    "variant": "holo",
-   "qty": 0,
-   "variant_label": "Holo"
+   "variant_label": "Holo",
+   "qty": 0
   }
  ]
 }

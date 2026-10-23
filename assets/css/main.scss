@@ -400,9 +400,23 @@ a.pkmn-set:hover {
 .pkmn-badge--holo,
 .pkmn-badge--reverse,
 .pkmn-badge--energysymbol,
-.pkmn-badge--rocket {
+.pkmn-badge--rocket,
+.pkmn-badge--cosmos,
+.pkmn-badge--altholo,
+.pkmn-badge--stamp,
+.pkmn-badge--prerelease,
+.pkmn-badge--staff,
+.pkmn-badge--promo {
   &::before { display: none; }
 }
+
+/* special prints outside the booster set */
+.pkmn-badge--cosmos       { color: #1b1440; background: linear-gradient(135deg, #c9d6ff, #e2c4ff 50%, #b8f0ff); }
+.pkmn-badge--altholo      { color: #222; background: linear-gradient(135deg, #e8f7d0, #c6e3f5); }
+.pkmn-badge--stamp        { background: #2f6f73; }
+.pkmn-badge--prerelease   { background: #8a5a12; }
+.pkmn-badge--staff        { background: #222; color: #f5c518; }
+.pkmn-badge--promo        { background: #3a4a8c; }
 
 .pkmn-badge--holo         { color: #3d2f00; background: linear-gradient(135deg, #f7e27c, #d4a72c); }
 .pkmn-badge--reverse      { color: #222; background: linear-gradient(135deg, #f4f4f4, #b9c2cc 50%, #eef1f4); }

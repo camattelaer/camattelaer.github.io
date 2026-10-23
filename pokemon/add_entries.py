@@ -2,29 +2,41 @@
 # Run from the repo root (the folder containing pokemon/); close the xlsx files in Excel first.
 #
 # Windows (PowerShell / VS Code terminal):
-#   pokemon\.venv\Scripts\python.exe pokemon\add_entries.py --set ASC --dry-run
-#   pokemon\.venv\Scripts\python.exe pokemon\add_entries.py --set ASC
+#   pokemon\.venv\Scripts\python.exe pokemon\add_entries.py --to public --set ASC --dry-run
+#   pokemon\.venv\Scripts\python.exe pokemon\add_entries.py --to public --set ASC
 #   pokemon\.venv\Scripts\python.exe pokemon\build_catalogue.py      # then rebuild the site data
+#   pokemon\.venv\Scripts\python.exe pokemon\add_entries.py --to masterset:PBL
+#   pokemon\.venv\Scripts\python.exe pokemon\add_entries.py --to masterset:Kingdra --set "Paradox Rift"
 # macOS:
-#   pokemon/.venv/bin/python pokemon/add_entries.py --set ASC
+#   pokemon/.venv/bin/python pokemon/add_entries.py --to public --set ASC
 #   pokemon/.venv/bin/python pokemon/build_catalogue.py
 #
 # Replace ASC with the set's abbreviation (TEF, PRE, ...). First time on a machine:
 # see the venv setup at the top of build_catalogue.py.
-"""Merge pokemon/source/new_entries.xlsx into one set's tab of the bulk catalogue.
+"""Add the cards in pokemon/source/new_entries.xlsx to the public collection or a master set.
 
-Each row of new_entries.xlsx (number, variant, qty) is looked up on the tab of
-the set given with --set (its official abbreviation, e.g. ASC or TEF):
+--to is required and has no default:
+  --to public               the public bulk catalogue (pokemon_bulk_catalogue.xlsx), on the
+                            tab of the set given with --set (abbreviation, e.g. ASC, or name)
+  --to masterset:<name>     a master set in the private pokemon_mastersets.xlsx (local only),
+                            e.g. masterset:PBL or "masterset:Pitch Black"; Pokémon / illustrator
+                            master sets (masterset:Kingdra) also need --set for the cards' set
 
-  - same number + variant already on the tab -> its qty is increased by the new qty
-                                                (--replace: set to the new qty)
-  - not there yet                            -> appended as a new row
+Every row (number, variant, qty) is first checked against the destination's card list
+(the set's complete list, or the master set's rows). If any row doesn't match, all of them
+are listed and nothing is written. Then:
 
-A set without a tab yet gets one, copied from the Template tab. The catalogue is
-backed up to pokemon/.cache/backups/ first, and new_entries.xlsx is emptied
-afterwards so the same cards can't be added twice (--keep leaves it as is).
+  - same number + variant already there -> its qty is increased by the new qty
+                                            (--replace: set to the new qty); a master set
+                                            card you already had is flagged as a duplicate
+  - public, not on the tab yet          -> appended as a new row
 
-Usage:  python pokemon/add_entries.py --set ASC [--replace] [--keep] [--dry-run]
+A set without a public tab gets one, copied from the Template tab. The workbook is backed up
+to pokemon/.cache/backups/ first, and new_entries.xlsx is emptied afterwards so the same
+cards can't be added twice (--keep leaves it as is).
+
+Usage:  python pokemon/add_entries.py --to (public | masterset:<name>) [--set ABBR]
+                                      [--replace] [--keep] [--dry-run]
 """
 
 import argparse
@@ -166,7 +178,7 @@ def read_new_entries(shared=None):
         entries[key] = (number, variant, qty)
 
     if problems:
-        fail(f"{NEW_ENTRIES.name} has problems, nothing was changed:\n  " + "\n  ".join(problems))
+        soft_exit(f"{NEW_ENTRIES.name} has {len(problems)} problem(s); nothing was written:\n  " + "\n  ".join(problems))
     return entries, rows
 
 
@@ -303,35 +315,56 @@ def clear_entries(rows):
     wb.save(NEW_ENTRIES)
 
 
-def main():
-    parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    parser.add_argument("--set", required=True, metavar="ABBR",
-                        help="official set abbreviation, e.g. ASC or TEF (a full set name also works)")
-    parser.add_argument("--replace", action="store_true",
-                        help="set the qty of existing rows to the new qty instead of adding to it")
-    parser.add_argument("--keep", action="store_true", help="don't empty new_entries.xlsx afterwards")
-    parser.add_argument("--dry-run", action="store_true", help="show what would change, write nothing")
-    args = parser.parse_args()
+def soft_exit(message):
+    """Stop without changing anything (exit status 0: nothing went wrong, there's just nothing to do)."""
+    print(message)
+    sys.exit(0)
 
-    if not NEW_ENTRIES.exists():
-        create_new_entries_file()
-        print(f"Created {rel(NEW_ENTRIES)}; fill in number / variant / qty and run again.")
-        return
-    ensure_closed(bc.XLSX, NEW_ENTRIES)
 
+def validation_entries():
+    """new_entries.xlsx rows keyed for validation: {(full_key(number), variant): qty}, keeping
+    printed totals ('106/105') so reprint-numbered sets can be told apart."""
+    entries, _ = read_new_entries(shared=set())
+    return {(bc.full_key(number), variant): qty for number, variant, qty in entries.values()}
+
+
+def check_entries(universe, entries, allowed=None, where=""):
+    """Problems with entries against a set's complete card list and, for a master set, the
+    (key, variant) pairs it lists (allowed). Returns (resolved, problems)."""
+    resolved, problems, _ = bc.resolve_entries(universe, entries)
+    if allowed is not None:
+        for key, variant in resolved:
+            if (key, variant) not in allowed:
+                problems.append(f"{universe.set_name} #{key} ({variant}): not part of {where}")
+    return resolved, problems
+
+
+def report_problems(problems, destination):
+    soft_exit(f"{NEW_ENTRIES.name} has {len(problems)} entr{'y that doesn' if len(problems) == 1 else 'ies that don'}'t "
+              f"match {destination}; nothing was written:\n  " + "\n  ".join(problems))
+
+
+def add_to_public(args, catalogue_args):
+    if not args.set:
+        soft_exit("--to public needs --set (the set's abbreviation or name, e.g. --set TEF); nothing was written.")
     entries, rows = read_new_entries()
-    if not entries:
-        print(f"{NEW_ENTRIES.name} is empty; nothing to add.")
-        return
-
     wb = openpyxl.load_workbook(bc.XLSX)
     title, set_name = find_set(wb, args.set, SetLookup())
+
+    universe, problem = bc.set_universe(set_name, *catalogue_args, log=lambda *a: None)
+    if not universe:
+        soft_exit(f"{problem}; nothing was written.")
+    _, problems = check_entries(universe, validation_entries())
+    if problems:
+        report_problems(problems, f"the card list of {set_name}")
+
     if title is None:
         ws = create_tab(wb, set_name)
         print(f"{set_name}: no tab yet, created '{ws.title}' from the Template tab")
     else:
         ws = wb[title]
-    print(f"{set_name} (tab '{ws.title}'), {len(entries)} entr{'y' if len(entries) == 1 else 'ies'}:")
+    print(f"Public collection, {set_name} (tab '{ws.title}'), "
+          f"{len(entries)} entr{'y' if len(entries) == 1 else 'ies'}:")
     shared = shared_numbers(set_name)
     if shared is not None:  # keep '106/105' whole: several cards are numbered 106
         entries, rows = read_new_entries(shared)
@@ -339,20 +372,134 @@ def main():
               f"e.g. 106/105)")
     for line in merge(ws, entries, args.replace, shared):
         print(line)
+    return wb, bc.XLSX, rows
+
+
+def add_to_masterset(args, name):
+    try:
+        import masterset_lib as ml
+    except ImportError:
+        soft_exit("The master set scripts aren't on this machine (they're local only); nothing was written.")
+    ensure_closed(ml.XLSX)
+    if not ml.XLSX.exists():
+        soft_exit(f"{rel(ml.XLSX)} doesn't exist yet; start a master set with masterset_setup.py first.")
+    ctx = ml.Context(quiet=True)
+    wb = ml.open_workbook()
+    tab, ws, legacy = ml.find_tab(wb, name)
+    if not tab:  # maybe a set abbreviation (PBL) of a set master set
+        for set_name in ctx.set_names(name):
+            tab, ws, legacy = ml.find_tab(wb, set_name)
+            if tab:
+                break
+    if not tab:
+        known = ", ".join(sorted(ml.masterset_tabs(wb))) or "none"
+        soft_exit(f"No master set '{name}' in {rel(ml.XLSX)} (master sets: {known}); nothing was written.")
+    if legacy:
+        soft_exit(f"Master set '{tab}' still has the old layout; it has to be converted first. Nothing was written.")
+
+    rows = ml.read_rows(ws)
+    sets_in_tab = list(dict.fromkeys(r["set"] for r in rows))
+    if ml.tab_kind(ws) == "set" and not args.set:
+        set_name = sets_in_tab[0] if sets_in_tab else tab
+    else:
+        if not args.set:
+            example = sets_in_tab[0] if sets_in_tab else "Pitch Black"
+            soft_exit(f"Master set '{tab}' spans {len(sets_in_tab)} sets: say which one the cards are from with "
+                      f"--set (e.g. --set \"{example}\"); nothing was written.")
+        candidates = [s for s in ctx.set_names(args.set) if s in sets_in_tab]
+        if len(candidates) != 1:
+            soft_exit(f"Set '{args.set}' isn't part of master set '{tab}' (its sets: {', '.join(sets_in_tab)}); "
+                      f"nothing was written.")
+        set_name = candidates[0]
+
+    universe = ctx.universe(set_name)
+    if not universe:
+        soft_exit(f"No card list for {set_name}; nothing was written.")
+    by_card = {}  # (key, variant) -> master set row
+    for r in rows:
+        if r["set"] == set_name:
+            resolved, _, _ = bc.resolve_entries(universe, {(bc.full_key(r["number"]), r["variant"]): 1})
+            for k in resolved:
+                by_card[k] = r
+    resolved, problems = check_entries(universe, validation_entries(), set(by_card), f"master set '{tab}'")
+    if problems:
+        report_problems(problems, f"master set '{tab}' ({set_name})")
+
+    _, entry_rows = read_new_entries(shared=set())
+    print(f"Master set '{tab}', {set_name}, {len(resolved)} entr{'y' if len(resolved) == 1 else 'ies'}:")
+    for (key, variant), qty in sorted(resolved.items(), key=lambda kv: bc.number_sort(kv[0][0])):
+        r = by_card[(key, variant)]
+        cell = ws.cell(r["row"], ml.HEADERS.index("qty") + 1)
+        old = r["qty"]
+        new = qty if args.replace else old + qty
+        cell.value = new
+        note = f"   <- already had {old}: this is a duplicate" if old and not args.replace else ""
+        print(f"  row {r['row']:>4}: #{r['number']} {r['name']} ({variant})  qty {old} -> {new}{note}")
+    args.masterset_tab = tab  # refreshed (PDF + CardTrader wishlist) after saving
+    return wb, ml.XLSX, entry_rows
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
+    parser.add_argument("--to", metavar="DESTINATION",
+                        help="where the cards go: 'public' (bulk collection) or 'masterset:<name>' "
+                             "(e.g. masterset:PBL, \"masterset:Pitch Black\", masterset:Kingdra); required")
+    parser.add_argument("--set", metavar="ABBR",
+                        help="official set abbreviation, e.g. ASC or TEF (a full set name also works); "
+                             "required for --to public and for Pokémon / illustrator master sets")
+    parser.add_argument("--replace", action="store_true",
+                        help="set the qty of existing rows to the new qty instead of adding to it")
+    parser.add_argument("--keep", action="store_true", help="don't empty new_entries.xlsx afterwards")
+    parser.add_argument("--dry-run", action="store_true", help="show what would change, write nothing")
+    args = parser.parse_args()
+
+    if not args.to:
+        soft_exit("A destination is required: --to public, or --to masterset:<name> (e.g. masterset:PBL). "
+                  "Nothing was written.")
+    destination = args.to.strip()
+    if destination.lower() != "public" and not destination.lower().startswith("masterset:"):
+        soft_exit(f"Unknown destination '{destination}': use --to public or --to masterset:<name>. "
+                  "Nothing was written.")
+
+    if not NEW_ENTRIES.exists():
+        create_new_entries_file()
+        print(f"Created {rel(NEW_ENTRIES)}; fill in number / variant / qty and run again.")
+        return
+    ensure_closed(bc.XLSX, NEW_ENTRIES)
+    entries, _ = read_new_entries()
+    if not entries:
+        print(f"{NEW_ENTRIES.name} is empty; nothing to add.")
+        return
+
+    if destination.lower() == "public":
+        cats = bc.Catalogues(False)
+        wb, path, rows = add_to_public(args, (cats, bc.read_overrides(), bc.deck_group_id(cats), False))
+    else:
+        name = destination.split(":", 1)[1].strip()
+        if not name:
+            soft_exit("Name the master set: --to masterset:<name>. Nothing was written.")
+        wb, path, rows = add_to_masterset(args, name)
 
     if args.dry_run:
         print("\nDry run: nothing was written.")
         return
 
     BACKUP_DIR.mkdir(parents=True, exist_ok=True)
-    backup = BACKUP_DIR / f"{bc.XLSX.stem}-{datetime.now():%Y%m%d-%H%M%S}.xlsx"
-    shutil.copy2(bc.XLSX, backup)
-    wb.save(bc.XLSX)
-    print(f"\nSaved {bc.XLSX.name} (previous version: {rel(backup)})")
+    backup = BACKUP_DIR / f"{path.stem}-{datetime.now():%Y%m%d-%H%M%S}.xlsx"
+    shutil.copy2(path, backup)
+    wb.save(path)
+    print(f"\nSaved {path.name} (previous version: {rel(backup)})")
     if not args.keep:
         clear_entries(rows)
         print(f"Emptied {NEW_ENTRIES.name}.")
-    print("Next: pokemon/.venv/bin/python pokemon/build_catalogue.py")
+    if path == bc.XLSX:
+        print("Next: pokemon/.venv/bin/python pokemon/build_catalogue.py")
+    else:  # a master set changed: new PDF + fair page, CardTrader wishlist replaced
+        import masterset_placeholders
+        print()
+        print(f"Refreshing master set '{args.masterset_tab}'...")
+        for line in masterset_placeholders.refresh(args.masterset_tab):
+            print(line)
 
 
 if __name__ == "__main__":
