@@ -53,6 +53,12 @@ pokemon/.venv/bin/pip install -r pokemon/requirements.txt  # first time only
 pokemon/.venv/bin/python pokemon/build_catalogue.py
 ```
 
+The site shows only each set's **base set**: numbers 1 up to the set's official card
+count, with their reverse / deck / stamped prints. Secret rares, subsets (TG, GG, ...)
+and promos are never written to `_data/`, even when the xlsx has them (the build says
+how many owned cards it left out). Sets numbered as the original prints (Classic
+Collection) are shown whole.
+
 Read the report at the end: rows listed there are **not** on the site. Fix the
 xlsx, or for a set that can't be matched add an entry to
 `source/set_overrides.yml`, then rerun. Commit the xlsx with the generated
@@ -63,14 +69,26 @@ xlsx, or for a set that can't be matched add an entry to
 ```sh
 pokemon/.venv/bin/python pokemon/masterset_setup.py --set "Pitch Black"     # or --set PBL
 pokemon/.venv/bin/python pokemon/masterset_setup.py --pokemon Kingdra
-pokemon/.venv/bin/python pokemon/masterset_setup.py --illustrator "Yuka Mori"
+pokemon/.venv/bin/python pokemon/masterset_setup.py --illustrator "Yuka Morii"
 ```
 
-`masterset_setup.py` creates a tab listing every card + variant with qty 0. If
-the public collection has some of those cards, it asks whether to move 1 copy of
+For a master set that isn't in the workbook yet, `masterset_setup.py` downloads
+[PokéCottage](https://pokecottage.com/pokemon-master-set-guides)'s checklist for it
+and creates a tab with every English card + version on it, qty 0: promos sold with
+the set (blisters, ETB), stamps, deck and staff prints, jumbos, ... Each row is a card
+of the public set lists where possible (matched on TCGplayer product id, else set +
+number + version), else the TCGplayer product (its id in the `tcgplayer` column), else
+text only as PokéCottage writes it. Cards our lists have but PokéCottage doesn't are
+listed, not added. Illustrators (no PokéCottage checklist) use the public set lists.
+If the public collection has some of the cards, it asks whether to move 1 copy of
 each into the master set (public qty − 1, master set qty 1, logged on the
-"Transfers" sheet; `--transfer yes|no` answers up front). A master set that
-already has a tab is left alone.
+"Transfers" sheet; `--transfer yes|no` answers up front).
+
+For a master set that is already in the workbook it changes no cards: it only
+refreshes the PDF, fair page and CardTrader wishlists (as below). Every column is
+filled in by setup; only qty is ever edited. Record cards you got with
+`add_entries.py --to masterset:<name>`, or for rows from outside the set lists
+(blister / ETB promos, jumbos, ...) by setting qty in the workbook.
 
 ```sh
 pokemon/.venv/bin/python pokemon/masterset_placeholders.py --masterset PBL
@@ -81,12 +99,14 @@ pokemon/.venv/bin/python pokemon/masterset_placeholders.py --masterset PBL
 
 - It writes `pokemon/placeholders/<name>-missing.pdf`: a card-sized placeholder for every
   missing card (3 × 3 per page, the master set's order; print at 100%), and as last page the
-  **fair page**: series number, name, rarity, print, the lowest Near Mint English price,
-  the average of the 5 lowest and a target of 90% of that average. `*` = no Near Mint copy
-  (the condition is named at the bottom), `NA` = no English copy listed, `(n)` = average of
-  only n copies.
+  **fair page(s)**: binder page and page index (the card's pocket in a 4 × 4 binder, 16
+  per page side, in the master set's order with owned cards in their pockets), series
+  number, name, rarity, print, condition, the lowest English price, the average of the 5
+  lowest and a target of 90% of that average. Cond. is NM where a Near Mint copy is listed,
+  else the best condition on offer (SP / MP / PL / PO), `NA` = no English copy listed,
+  `(n)` = average of only n copies.
 - It replaces the master set's private **CardTrader wishlist** ("PBL - Pitch Black",
-  "Kingdra", "Yuka Mori") with the missing cards, English and Near Mint minimum. The API has
+  "Kingdra", "Yuka Morii") with the missing cards, English and Near Mint minimum. The API has
   no update, so the old wishlist is deleted and created again. Prints CardTrader doesn't have
   (deck prints, Cosmos Holos, some stamps) are listed in the receipt.
 - Two wishlists per master set:
@@ -106,7 +126,8 @@ pokemon/.venv/bin/python pokemon/masterset_placeholders.py --masterset PBL
 
 **Prices** (`masterset_cardtrader.py`): CardTrader marketplace listings for the exact card
 (matched on its TCGplayer id) and print (reverse / 1st Edition flags), English copies from
-sellers shipping via CardTrader Zero (any country), graded / signed / altered copies left out. CardTrader has no 30-day average,
+sellers shipping via CardTrader Zero (any country), graded / signed / altered copies left out, and so are copies above 10× the median of the 5
+cheapest ('not for sale' prices like €9,141.63). CardTrader has no 30-day average,
 so the average of the 5 cheapest Near Mint copies is used. The token goes in the
 git-ignored `source/api_keys.yml` (`cardtrader_token`). Each set is matched to a CardTrader
 expansion by name (the one sharing the most cards when several fit); pin it with

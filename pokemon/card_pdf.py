@@ -1,8 +1,7 @@
 """Drawing helpers for printable card PDFs: card-sized placeholders, card pictures,
 tables with checkboxes, rarity abbreviations.
 
-A library only (no command of its own): used by masterset_placeholders.py and
-masterset_shopping.py. Placeholder lists always come from a master set in the private
+A library only (no command of its own): used by masterset_placeholders.py. Placeholder lists always come from a master set in the private
 pokemon_mastersets.xlsx, never from the public bulk catalogue (a list built from bulk
 doesn't know which cards are in a binder).
 """
@@ -10,23 +9,17 @@ doesn't know which cards are in a binder).
 
 import hashlib
 import io
-import json
 import sys
-import time
-from concurrent.futures import ThreadPoolExecutor
 
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import build_catalogue as bc  # noqa: E402  (also silences openpyxl/urllib3 warnings)
 
-import requests  # noqa: E402
 from PIL import Image, ImageOps  # noqa: E402
-from reportlab.lib.pagesizes import landscape  # noqa: E402
 from reportlab.lib.units import mm  # noqa: E402
 from reportlab.lib.utils import ImageReader  # noqa: E402
 from reportlab.pdfbase.pdfmetrics import stringWidth  # noqa: E402
-from reportlab.pdfgen import canvas  # noqa: E402
 
 OUT_DIR = bc.ROOT / "pokemon" / "placeholders"
 IMAGE_CACHE = bc.CACHE_DIR / "images"
@@ -45,16 +38,6 @@ VARIANT_COLOURS = {                # badge colour per variant; others use the de
 }
 DEFAULT_BADGE = (0.15, 0.55, 0.40)
 
-# Prices: Cardmarket's price guide (EUR) as published per card by TCGdex
-CARD_CACHE = bc.CACHE_DIR / "cards"
-CARD_MAX_AGE = 12 * 3600  # seconds before a card's price is refetched
-PRICE_BASES = {
-    "avg7": "7-day average sell price",
-    "avg30": "30-day average sell price",
-    "avg1": "1-day average sell price",
-    "trend": "price trend",
-}
-PRICE_FALLBACKS = ("avg7", "avg30", "trend", "avg")  # tried after the chosen basis
 RARITY_ABBR = {
     "common": "C",
     "uncommon": "U",
@@ -85,19 +68,10 @@ RARITY_COLOURS = {  # badge colour per rarity (abbreviation) above the set limit
 }
 
 
-def fail(message):
-    print(f"error: {message}", file=sys.stderr)
-    sys.exit(1)
-
-
 def above_limit(card, limit):
     """Numbered above the set's official count (secret rares), or not a plain number.
     Without a known limit every card counts as above it."""
     return not (limit and card["number"].isdigit() and int(card["number"]) <= limit)
-
-
-# ---------------------------------------------------------------- finding the set
-
 
 
 # ---------------------------------------------------------------- images
@@ -200,70 +174,7 @@ def card_badge(card, detail, limit):
     return label, RARITY_COLOURS.get(rarity_abbr(rarity), DEFAULT_BADGE)
 
 
-def write_pdf(path, cards, set_info, paper, pictures, badges, checklist=None):
-    """checklist: None, or a function(canvas) drawing the landscape checklist page(s)."""
-    page_w, page_h = paper
-    margin_x = (page_w - COLS * CARD_W) / 2
-    margin_y = (page_h - ROWS * CARD_H) / 2
-    c = canvas.Canvas(str(path), pagesize=paper)
-    c.setTitle(f"{set_info['name']} placeholders")
-    per_page = COLS * ROWS
-    for i, card in enumerate(cards):
-        slot = i % per_page
-        if i and not slot:
-            c.showPage()
-        col, row = slot % COLS, slot // COLS
-        draw_placeholder(c, margin_x + col * CARD_W, page_h - margin_y - (row + 1) * CARD_H,
-                         card, set_info, pictures[i], badges[i])
-    if checklist:
-        c.showPage()
-        c.setPageSize(landscape(paper))
-        checklist(c)
-    c.save()
-
-
-# ---------------------------------------------------------------- prices + rarity
-
-def tcgdex_card(card_id, refresh):
-    """TCGdex card (rarity + Cardmarket pricing), cached for CARD_MAX_AGE.
-    A stale copy is used when TCGdex can't be reached."""
-    path = CARD_CACHE / f"{card_id}.json"
-    fresh = path.exists() and time.time() - path.stat().st_mtime < CARD_MAX_AGE
-    if fresh and not refresh:
-        return json.loads(path.read_text(encoding="utf_8"))
-    try:
-        resp = bc.session.get(f"{bc.TCGDEX}/cards/{card_id}", timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
-    except (requests.RequestException, ValueError):
-        return json.loads(path.read_text(encoding="utf_8")) if path.exists() else None
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data), encoding="utf_8")
-    return data
-
-
-def card_details(cards, set_detail, refresh):
-    """[TCGdex card or None] for each card, matched on card number; cards of a set numbered
-    as the original prints carry their TCGdex number (tcgdex_local) from build_catalogue."""
-    ids = {bc.number_key(c["localId"]): c["id"] for c in set_detail.get("cards", [])}
-    card_ids = [ids.get(bc.number_key(c.get("tcgdex_local") or c["number"])) for c in cards]
-    wanted = {i for i in card_ids if i}
-    with ThreadPoolExecutor(max_workers=8) as pool:
-        found = dict(zip(wanted, pool.map(lambda i: tcgdex_card(i, refresh), wanted)))
-    return [found.get(i) for i in card_ids]
-
-
-def market_price(detail, variant, basis):
-    """(price in EUR, field used, cardmarket 'updated' timestamp) or (None, None, None).
-    Reverse holos use Cardmarket's separate reverse-holo ('-holo') prices."""
-    cm = ((detail or {}).get("pricing") or {}).get("cardmarket") or {}
-    suffix = "-holo" if variant == "reverse" else ""
-    for field in (basis,) + tuple(f for f in PRICE_FALLBACKS if f != basis):
-        value = cm.get(field + suffix)
-        if value:
-            return float(value), field, cm.get("updated")
-    return None, None, None
-
+# ---------------------------------------------------------------- rarity
 
 def card_rarity(card, detail):
     """TCGdex's rarity, else TCGplayer's (stored by build_catalogue). TCGdex sends the
@@ -279,10 +190,6 @@ def rarity_abbr(rarity):
         return "?"
     key = bc.fold(rarity)
     return RARITY_ABBR.get(key) or "".join(word[0].upper() for word in key.split())
-
-
-def euro(value):
-    return f"€{value:,.2f}" if value is not None else "–"
 
 
 # ---------------------------------------------------------------- checklist page

@@ -11,3 +11,6 @@ pokemon/masterset*.py
 pokemon/source/pokemon_mastersets.xlsx
 pokemon/source/api_keys.yml
 pokemon/COMMANDS.txt
+
+# PokéCottage checklists (downloaded into pokemon/.cache/pokecottage/ by masterset_setup.py)
+pokemon/PokeCottage-*

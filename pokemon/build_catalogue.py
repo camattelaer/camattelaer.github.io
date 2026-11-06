@@ -19,7 +19,9 @@ every set in it from TCGCSV (TCGplayer mirror) and set metadata from TCGdex,
 and writes:
 
   _data/pokemon/sets.json      one summary entry per owned set
-  _data/pokemon/<slug>.json    every card + variant of that set, with qty
+  _data/pokemon/<slug>.json    every card + variant of the base set (numbers 1 up to the
+                               set's official count), with qty: secret rares, subsets
+                               (TG, GG, ...) and promos are never published
   pokemon-tcg/<slug>.md        stub page per set (GitHub Pages can't generate
                                pages from data)
 
@@ -534,11 +536,15 @@ def build_card_list(group_ids, refresh, deck_group_id=None, official=None):
     # pattern reverses, and other labels. Labels like "(Full Art)" or "(Secret)" in
     # older sets are separate cards with their own number; labels on a number that
     # already has a plain product ("(Prerelease)", stamps, ...) are skipped.
-    plain, patterned, labelled = [], [], []
+    # "[Staff]" products (Kingdra - XY39 (Prerelease) [Staff]) are their own print.
+    plain, patterned, labelled, staff = [], [], [], []
     for prod in products:
         raw_number = product_number(prod)
         if not raw_number:
             continue  # sealed product
+        if re.search(r"\[staff\]", prod["name"], re.I):
+            staff.append((prod, raw_number))
+            continue
         labels = [l.strip() for l in re.findall(r"\(([^)]*)\)", prod["name"])]
         variant = next((v for label in labels for rx, v in PATTERNS if rx.match(label)), None)
         entry = (prod, raw_number, labels)
@@ -584,6 +590,11 @@ def build_card_list(group_ids, refresh, deck_group_id=None, official=None):
             cards.setdefault((key_of(raw_number), variant), card(prod, raw_number, variant))
     for prod, raw_number, _, variant in patterned:
         cards.setdefault((key_of(raw_number), variant), card(prod, raw_number, variant))
+    for prod, raw_number in staff:
+        labels = [(r or s).strip() for r, s in re.findall(r"\(([^)]*)\)|\[([^\]]*)\]", prod["name"])]
+        cards.setdefault((key_of(raw_number), "staff"), dict(
+            card(prod, raw_number, "staff"), name=clean_card_name(re.sub(r"\s*\[[^\]]*\]", "", prod["name"])),
+            special=", ".join(labels)))
 
     # Deck-exclusive prints (e.g. a non-holo of a holo rare from a pre-built deck) live in
     # TCGplayer's "Deck Exclusives" group; they belong to this set when the printed total
@@ -797,6 +808,16 @@ def ordered_cards(universe, log=print):
     return card_list
 
 
+def in_base_set(card, universe):
+    """True for a card of the set's base list: a plain number from 1 up to the official count
+    (deck, stamped, ... prints of those numbers included). Sets numbered as the original prints
+    (Classic Collection) are base sets as a whole."""
+    if universe.reprint:
+        return True
+    official = (universe.detail.get("cardCount") or {}).get("official")
+    return bool(official) and card["key"].isdigit() and 1 <= int(card["key"]) <= official
+
+
 def deck_group_id(cats):
     return next((g["groupId"] for g in cats.groups if fold(g["name"]) == "deck exclusives"), None)
 
@@ -827,7 +848,15 @@ def main():
             universe, by_set[set_name], lambda key, variant: ", ".join(rows_of[(set_name, key, variant)]))
         report += [f"{line}; skipped" for line in problems]
 
-        card_list = ordered_cards(universe)
+        card_list = [c for c in ordered_cards(universe) if in_base_set(c, universe)]
+        hidden = sum(1 for (key, variant), qty in resolved.items()
+                     if qty > 0 and not in_base_set({"key": key}, universe))
+        if hidden:
+            print(f"  not published: {hidden} owned card(s) beyond the base set (secret rares, promos, ...)")
+        if not universe.reprint and not (universe.detail.get("cardCount") or {}).get("official"):
+            report.append(f"{set_name}: TCGdex has no official card count, so the base set is unknown; "
+                          f"set not published")
+            continue
         for c in card_list:
             c["qty"] = resolved.get((c["key"], c["variant"]), 0)
             del c["key"]
