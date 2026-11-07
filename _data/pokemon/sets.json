@@ -140,6 +140,20 @@
   "reprint_numbers": false
  },
  {
+  "slug": "prismatic-evolutions",
+  "name": "Prismatic Evolutions",
+  "series": "Scarlet & Violet",
+  "release_date": "2025-01-17",
+  "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png",
+  "tcgdex_id": "sv08.5",
+  "tcgplayer_group_id": 23821,
+  "tcgplayer_group_name": "SV: Prismatic Evolutions",
+  "owned_count": 143,
+  "total_count": 422,
+  "owned_qty": 298,
+  "reprint_numbers": false
+ },
+ {
   "slug": "surging-sparks",
   "name": "Surging Sparks",
   "series": "Scarlet & Violet",
