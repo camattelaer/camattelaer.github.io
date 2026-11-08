@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 24688,
  "tcgplayer_group_name": "ME05: Pitch Black",
  "owned_count": 108,
- "total_count": 168,
+ "total_count": 169,
  "owned_qty": 197,
  "reprint_numbers": false,
  "cards": [
@@ -1275,6 +1275,19 @@
    "product_id": 704815,
    "variant": "reverse",
    "variant_label": "Reverse",
+   "qty": 0
+  },
+  {
+   "number": "059",
+   "name": "Chi-Yu",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/704816_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/729903/pokemon-deck-exclusives-chi-yu-059-084-30th-celebration-reverse-holo",
+   "product_id": 729903,
+   "variant": "normal",
+   "deck": true,
+   "image_borrowed": true,
+   "variant_label": "Normal (deck)",
    "qty": 0
   },
   {

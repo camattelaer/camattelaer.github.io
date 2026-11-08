@@ -23,7 +23,7 @@
   "tcgplayer_group_id": 24722,
   "tcgplayer_group_name": "ME: 30th Celebration",
   "owned_count": 113,
-  "total_count": 130,
+  "total_count": 137,
   "owned_qty": 113,
   "reprint_numbers": false
  },
@@ -37,7 +37,7 @@
   "tcgplayer_group_id": 24688,
   "tcgplayer_group_name": "ME05: Pitch Black",
   "owned_count": 108,
-  "total_count": 168,
+  "total_count": 169,
   "owned_qty": 197,
   "reprint_numbers": false
  },
@@ -107,7 +107,7 @@
   "tcgplayer_group_id": 24380,
   "tcgplayer_group_name": "ME01: Mega Evolution",
   "owned_count": 104,
-  "total_count": 273,
+  "total_count": 274,
   "owned_qty": 122,
   "reprint_numbers": false
  },
@@ -137,6 +137,20 @@
   "owned_count": 71,
   "total_count": 322,
   "owned_qty": 71,
+  "reprint_numbers": false
+ },
+ {
+  "slug": "journey-together",
+  "name": "Journey Together",
+  "series": "Scarlet & Violet",
+  "release_date": "2025-03-28",
+  "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.png",
+  "tcgdex_id": "sv09",
+  "tcgplayer_group_id": 24073,
+  "tcgplayer_group_name": "SV09: Journey Together",
+  "owned_count": 207,
+  "total_count": 321,
+  "owned_qty": 410,
   "reprint_numbers": false
  },
  {

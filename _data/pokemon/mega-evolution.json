@@ -8,7 +8,7 @@
  "tcgplayer_group_id": 24380,
  "tcgplayer_group_name": "ME01: Mega Evolution",
  "owned_count": 104,
- "total_count": 273,
+ "total_count": 274,
  "owned_qty": 122,
  "reprint_numbers": false,
  "cards": [
@@ -2048,6 +2048,19 @@
    "variant": "promo",
    "special": "Pokeween 2025",
    "variant_label": "Promo (Pokeween 2025)",
+   "qty": 0
+  },
+  {
+   "number": "088",
+   "name": "Yveltal",
+   "rarity": "Rare",
+   "image": "https://tcgplayer-cdn.tcgplayer.com/product/654427_400w.jpg",
+   "url": "https://www.tcgplayer.com/product/729909/pokemon-deck-exclusives-yveltal-088-132-30th-celebration-reverse-holo",
+   "product_id": 729909,
+   "variant": "normal",
+   "deck": true,
+   "image_borrowed": true,
+   "variant_label": "Normal (deck)",
    "qty": 0
   },
   {
